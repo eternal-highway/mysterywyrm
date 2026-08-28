@@ -118,8 +118,8 @@ def write_reading_order(recs, thumbs, path):
                 L.append(f"![{r['title']}]({t})" if t else f"<{u}>")
             if r["image_urls"]:
                 L.append("")
-            if r["text"]:
-                L += [r["text"], ""]
+            for para in r.get("paragraphs") or ([r["text"]] if r["text"] else []):
+                L += [para, ""]
         L += ["---", ""]
 
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)

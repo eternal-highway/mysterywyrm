@@ -36,11 +36,27 @@ def get_all(path, per_page=100):
     return out
 
 
+BLOCK_END = re.compile(
+    r"</(?:p|div|h[1-6]|li|blockquote|figcaption|tr)>|<br\s*/?>", re.I)
+
+
 def strip_html(fragment):
     """Rendered HTML -> plain text, dropping scripts and collapsing whitespace."""
     s = re.sub(r"<script.*?</script>", "", fragment, flags=re.S)
     s = re.sub(r"<[^>]+>", " ", s)
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
+
+
+def paragraphs_of(fragment):
+    """Rendered HTML -> list of paragraphs, keeping the block structure.
+
+    The site's prose carries meaning in its line and stanza breaks (facing
+    translations, verse, riddles), so the flat `text` field is not enough to
+    reassemble the work readably.
+    """
+    s = re.sub(r"<script.*?</script>", "", fragment, flags=re.S)
+    parts = [strip_html(chunk) for chunk in BLOCK_END.split(s)]
+    return [p for p in parts if p]
 
 
 def main():
@@ -65,7 +81,9 @@ def main():
             "categories": [cats[i] for i in p.get("categories", []) if i in cats],
             "tags": [tags[i] for i in p.get("tags", []) if i in tags],
             "words": len(strip_html(body).split()),
+            "paragraphs": paragraphs_of(body),
             "images": len(re.findall(r"<img", body)),
+            "image_urls": sorted(set(re.findall(r'<img[^>]+src="([^"]+)"', body))),
             "links": re.findall(r'href="(https?://[^"]+)"', body),
             "text": strip_html(body),
         })
