@@ -26,6 +26,26 @@ It is not. All 29 stanzas are present, each with its `Rune Casting:` and
 `Translating:` companion (29/29 in every series), and the final post is
 titled **"The Middle."** The site ends because it arrived at its center.
 
+## The author states the plan up front
+
+This is not only an inference from the data. The earliest post,
+"Alphybettyformed Verbage" (2020-05-26, two years before the run began),
+describes the whole design:
+
+> Take the letters, cut them apart from each other, carve them into bits of
+> wood if that helps you, and line them up in a row. Now fold your line in
+> half so number 1 is next to 29, 2 next to 28, etc. Make the pairs and read
+> them together. They match each other. They sing duets about light,
+> renewal, a song of home and exile. A song of the water cycle. […] until
+> you get to the clue, the key to the secret, number 15 in the middle —
+> Helix, standing alone all twisted, singing we should twine this poem
+> aound itself and look at it again.
+
+Every chapter title in the finished work is named in that paragraph or
+follows from it — "Light", "The Water Cycle", "You Have Nothing Else",
+"Everything is Temporary", "Twist". The derived structure below and the
+stated plan agree exactly.
+
 ## The chiastic architecture
 
 Chapters (WordPress categories) each cover **two** stanzas — one counting
@@ -67,6 +87,22 @@ chapter template carries two of each per-rune element, so the single-rune
 center needs only 10; and the first two chapters run long (23, 19) because
 they absorb the framing pieces that set the method up.
 
+## And restates it at the close
+
+The last post, "The Middle" (2023-03-20), names the method again and warns
+the reader that the blog's own presentation misleads:
+
+> If you have just found this Alphabet Book, this is not the beginning, this
+> is the middle. […] There's an arrangement to it, a fluidity of motion,
+> meaning hidden in structure. A beginning, an ending, a thematic pairing of
+> first and last, then of their adjacent runes and so on until you run out
+> and come to an end, which is to say the middle: the mother of all endings
+> and beginnings.
+
+A WordPress archive lists newest first, so a visitor lands on "The Middle"
+and reads backwards out of the center. That is the reason for
+`book/reading-order.md`: the work reassembled in the sequence it was built.
+
 ## The 17-post chapter template
 
 Each full chapter runs a fixed sequence over ~17 weekdays:
@@ -84,6 +120,32 @@ Each full chapter runs a fixed sequence over ~17 weekdays:
 Order within a chapter is consistent: glyphs and castings open, translations
 and stanzas close. Every one of the 262 posts carries at least one image;
 the work is visual as much as textual.
+
+The regularity is exact. Counting posts by role (`tools/structure.py` prints
+this table) every full chapter carries **two** castings, **two**
+translations and **two** stanzas, and exactly **one** X≠Y≠Z:
+
+| Chapter | glyph | casting | transl | stanza | how-to | alphabet | X≠Y≠Z | other | total |
+|---|---|---|---|---|---|---|---|---|---|
+| Everything is Temporary | 3 | 2 | 2 | 2 | 3 | 3 | 2 | 6 | 23 |
+| Moody Joy | 2 | 2 | 2 | 2 | 3 | 2 | 1 | 5 | 19 |
+| They'll Cut You | 2 | 2 | 2 | 2 | 3 | 2 | 1 | 3 | 17 |
+| Axis Mundi | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 5 | 17 |
+| By Land and By Sea | 2 | 2 | 2 | 2 | 3 | 2 | 1 | 3 | 17 |
+| Light | 2 | 2 | 2 | 2 | 3 | 2 | 1 | 3 | 17 |
+| You Have Nothing Else | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 4 | 17 |
+| Prosperity | 2 | 2 | 2 | 2 | 2 | 3 | 1 | 3 | 17 |
+| The Water Cycle | 2 | 2 | 2 | 2 | 2 | 3 | 1 | 3 | 17 |
+| Fate | 3 | 2 | 2 | 2 | 2 | 2 | 1 | 3 | 17 |
+| War and Peace | 2 | 2 | 2 | 2 | 3 | 2 | 1 | 3 | 17 |
+| The Future | 2 | 2 | 2 | 2 | 2 | 3 | 1 | 3 | 17 |
+| Trust | 3 | 2 | 2 | 2 | 2 | 2 | 1 | 3 | 17 |
+| Sitting to Battle | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 4 | 17 |
+| **Twist** | **1** | **1** | **1** | **1** | **1** | 0 | 0 | 5 | **10** |
+
+*Twist* is the template halved, exactly as a one-rune chapter should be —
+independent confirmation that the center is structural rather than a place
+the project happened to stop.
 
 ## Cadence
 
@@ -111,6 +173,11 @@ Five posts sit outside the chapter scheme, in the `Hwat` category:
 ## Data
 
 - `data/corpus.json` — all 262 posts, normalized: slug, title, date,
-  chapter, tags, plain text, word/image counts, outbound links.
+  chapter, tags, plain text, word/image counts, image and outbound links.
 - `tools/harvest.py` — rebuilds the dataset from the site's WordPress REST API.
-- `tools/structure.py` — re-derives and checks every claim above.
+- `tools/structure.py` — re-derives and checks every claim above; it exits
+  non-zero if the pairing or the series completeness ever stops holding.
+- `book/reading-order.md` — the work reassembled in the sequence described here.
+- `book/poem-order.md` — the same material cut the other way, stanzas 1–29.
+- `research/archive.md` — the preservation copy and what it does not contain.
+- `research/bibliography.md` — the project's 375 sources.

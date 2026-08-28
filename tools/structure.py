@@ -7,7 +7,12 @@ pairing n + (30-n) holds, and whether the per-rune series are complete.
 
 Usage:  python3 tools/structure.py
 """
-import collections, datetime, json, re, sys
+import collections, datetime, json, os, re, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from book import role_of  # noqa: E402  (shared post-role classifier)
+
+ROLES = ["glyph", "casting", "translating", "stanza", "howto", "isfor", "xyz", "other"]
 
 STANZAS = 29
 PAIR_SUM = STANZAS + 1  # 30: stanza n is chaptered with stanza 30-n
@@ -79,6 +84,14 @@ def main():
                   f"stanza {n} ({gloss})   << unpaired center >>")
 
     print("\nchiastic pairing holds:", ok)
+
+    print("\nchapter composition by post role:")
+    header = f"  {'chapter':26}" + "".join(f"{r[:6]:>8}" for r in ROLES) + "   tot"
+    print(header)
+    for chap, posts in chaps.items():
+        c = collections.Counter(role_of(p["title"]) for p in posts)
+        print(f"  {chap:26}" + "".join(f"{c.get(r, 0):>8}" for r in ROLES)
+              + f"{len(posts):>6}")
 
     days = sorted({r["date"] for r in recs if r["date"] >= "2022-03-25"})
     wd = collections.Counter(

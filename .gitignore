@@ -1,0 +1,9 @@
+# Full-resolution image archive (~742 MB) - materialize with:
+#   python3 tools/archive.py --variant full --images-dir archive/full \
+#           --skip-pages --manifest data/media-full.json
+# Verified against data/media.json checksums; see research/archive.md.
+archive/full/
+data/media-full.json
+
+__pycache__/
+*.pyc
