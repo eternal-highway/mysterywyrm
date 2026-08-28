@@ -168,7 +168,10 @@ Five posts sit outside the chapter scheme, in the `Hwat` category:
 - **Bibliography** — ~346 MLA entries with 45 outbound links, mostly JSTOR,
   plus Bosworth-Toller and the Dictionary of Old English Plant Names.
   The scholarly apparatus for the whole project.
-- **Turn** — a 22-word hinge posted mid-run (2022-09-19).
+- **Turn** — a 22-word hinge posted mid-run (2022-09-19), quoting Dante at
+  the foot of the hill. It is the pivot of the filename cipher: the point
+  where the image numbering stops counting down and starts counting up.
+  See [`cipher.md`](cipher.md).
 
 ## Data
 

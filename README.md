@@ -31,11 +31,30 @@ so neither setting is simply the later one. The assembled facing text is
 [`book/rune-poem.md`](book/rune-poem.md); the collation is
 [`research/edition.md`](research/edition.md).
 
+## The message in the filenames
+
+Every image uploaded for the run is named `N-C-slug.ext` — a position from 1
+to 261, then a single character. Sorted by position, the 479 filenames spell
+one sentence:
+
+> **LISTEN! COME TO THE MIRROR. SEE? YOU ARE SLIPPING AWAY. MOMENTARY.
+> WRITTEN IN LIGHT. YOU HAVE CHOSEN THE EARTH AS YOUR CONSORT AND ONLY IN
+> THE MEMORIES OF OTHERS WILL YOU PERSIST. WE ARE EACH OTHER'S ONLY
+> IMMORTALITY ON EARTH, OTHERWISE EVERYTHING IS TEMPORARY.**
+
+The numbering is laid down chiastically, like the chapters, but running the
+other way: posts 1–130 carry the even positions counting *down* from 260,
+and posts 131–261 carry the odd positions counting *up* from 1. The message
+is written from the outside in and read from the inside out. The pivot is
+post 131, titled "Turn". The last post, "The Middle", carries the full stop.
+See [`research/cipher.md`](research/cipher.md).
+
 ## Contents
 
 | Path | What it is |
 |---|---|
 | `research/structure.md` | The architecture: chiastic pairing, chapter template, cadence |
+| `research/cipher.md` | The sentence hidden across the image filenames, and its index |
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
 | `research/bibliography.md` | The 375-entry bibliography, summarized |
@@ -50,7 +69,7 @@ so neither setting is simply the later one. The assembled facing text is
 
 ## Tools
 
-All six use only the Python standard library and are safe to re-run
+All seven use only the Python standard library and are safe to re-run
 (downloads resume, nothing is re-fetched needlessly).
 
 ```sh
@@ -60,6 +79,7 @@ python3 tools/archive.py        # refresh archive/thumbs, archive/pages, data/me
 python3 tools/bibliography.py   # reparse the bibliography
 python3 tools/book.py           # regenerate book/ from the corpus
 python3 tools/edition.py        # collate the poem's two witnesses; write book/rune-poem.md
+python3 tools/cipher.py         # recover the filename message; non-zero exit on mismatch
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.
