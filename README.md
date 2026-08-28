@@ -49,12 +49,21 @@ is written from the outside in and read from the inside out. The pivot is
 post 131, titled "Turn". The last post, "The Middle", carries the full stop.
 See [`research/cipher.md`](research/cipher.md).
 
+That is not the only cipher. Seventeen posts tagged `Rune Code` carry no
+text at all, only photographs of a notebook: **branch runes**, a stem with
+twigs counting the ætt on one side and the position within it on the other,
+drawn over and over in different costumes — arrows, a tree, wrapped gifts,
+faces, leaves laid on a table. The key is written on the facing page of one
+of them. The plates have not been read yet; see
+[`research/rune-code.md`](research/rune-code.md).
+
 ## Contents
 
 | Path | What it is |
 |---|---|
 | `research/structure.md` | The architecture: chiastic pairing, chapter template, cadence |
 | `research/cipher.md` | The sentence hidden across the image filenames, and its index |
+| `research/rune-code.md` | The branch-rune plates: the system, the key, and what is still unread |
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
 | `research/bibliography.md` | The 375-entry bibliography, summarized |

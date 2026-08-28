@@ -19,6 +19,8 @@ Usage:
   python3 tools/archive.py                      # thumbs + pages + manifest
   python3 tools/archive.py --variant full --images-dir archive/full
   python3 tools/archive.py --verify --variant full --images-dir archive/full
+  python3 tools/archive.py --tag "Rune Code" --variant full \
+          --images-dir archive/code --manifest data/media-code.json --skip-pages
 """
 import argparse, concurrent.futures as cf, hashlib, json, os, sys, time
 import urllib.parse, urllib.request
@@ -176,12 +178,21 @@ def main():
     ap.add_argument("--manifest", default="data/media.json")
     ap.add_argument("--skip-pages", action="store_true")
     ap.add_argument("--verify", action="store_true")
+    ap.add_argument("--tag", action="append", default=[], metavar="TAG",
+                    help="restrict to posts carrying this tag (repeatable); "
+                         "useful for pulling one series at full resolution")
     args = ap.parse_args()
 
     if args.verify:
         return verify(args.manifest, args.images_dir)
 
     corpus = json.load(open(args.corpus))
+    if args.tag:
+        want = set(args.tag)
+        corpus = [r for r in corpus if want & set(r["tags"])]
+        if not corpus:
+            print(f"no posts tagged {', '.join(sorted(want))}", file=sys.stderr)
+            return 1
     index = {} if args.variant == "full" else media_index()
     print(f"archiving {args.variant} images for {len(corpus)} posts", file=sys.stderr)
     imgs, img_fail = archive_images(corpus, args.images_dir, args.variant, index)
