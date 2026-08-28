@@ -136,7 +136,7 @@ Mercy and sustenance. You have nothing else.
 
 ᚹ
 
-ne bruceþ ðe can ƿ eana lyt
+ne bruceþ ðe can ƿeana lyt
 
 sares and sorge and him sylfa hæfþ
 
@@ -354,7 +354,7 @@ ofer wæg gewat wæn æfter ran.
 
 First he was among the East Danes
 
-Seen and spoken of, u ntil hereafter he and his bounty eastward
+Seen and spoken of, until hereafter he and his bounty eastward
 
 Departed over the waves, his wagon ran after;
 
@@ -370,9 +370,9 @@ brucan on bolde bleadum oftast ᛬᛫
 
 It is beloved to everybody
 
-If we assemble there o n what is just and what is proper
+If we assemble there on what is just and what is proper
 
-Enjoying often i nspiration in the house.
+Enjoying often inspiration in the house.
 
 ᛞ
 
@@ -382,11 +382,11 @@ mære metodes leoht. myrgþ and to hiht
 
 eadgum and earmum. eallum brice ᛬᛫
 
-It is the envoy of God, d ear to the people
+It is the envoy of God, dear to the people
 
-The light of fate’s fame, m irth and hope
+The light of fate’s fame, mirth and hope
 
-Enjoyed by all, t he fortunate and the wretched.
+Enjoyed by all, the fortunate and the wretched.
 
 ᚪ
 
@@ -402,7 +402,7 @@ It is on earth for the children of elders
 
 Fodder of the flesh. It ferries frequently
 
-Over the gannets bath. T he violent sea finds
+Over the gannets bath. The violent sea finds
 
 Whether the noble oak holds true.
 
@@ -414,9 +414,9 @@ stiþ on staþule . stede rihte hylt.
 
 ðeah him feohtan on firas monige ᛬᛫
 
-It is very tall, d ear to the elders
+It is very tall, dear to the elders
 
-Firm in its foundations s teadily, rightly, it holds
+Firm in its foundations steadily, rightly, it holds
 
 Though many people fight it
 
@@ -430,9 +430,9 @@ fæstlic on færelde. fyrdgeatewa sum ᛬᛫
 
 It is for the prince and the noble
 
-Whose joy and mark of distinction i s to look good on a horse
+Whose joy and mark of distinction is to look good on a horse
 
-Fixedly on the expedition, s ome trappings of war
+Fixedly on the expedition, some trappings of war
 
 ᛡ
 
@@ -442,11 +442,11 @@ fodres on foldan. hafaþ fægerne eard.
 
 wætre beworpen. ðær he wynnum leofaþ ᛬᛫
 
-It is a river fish, t hough it always enjoys
+It is a river fish, though it always enjoys
 
 Foraging on land. It has a beautiful dwelling place
 
-Thrown into water, t here it joyfully lives
+Thrown into water, there it joyfully lives
 
 ᛠ
 
@@ -468,7 +468,7 @@ Begins to grow cold.
 
 The pallid one chooses the earth as its consort
 
-Fruits fall, p leasures depart, c ovenants are betrayed.
+Fruits fall, pleasures depart, covenants are betrayed.
 
 ### Vern Tonkin
 
@@ -492,237 +492,237 @@ The majority of Old English poetry is so beautiful, the tone is serious, elegiac
 ![Bibliography](archive/thumbs/2022_03_256-O-Joris-Hoefnagel-Guide-for-Constructing-the-Letter-O-british-museum-letters-for-titles-vern-tonkin-212x300.jpg)
 ![Bibliography](archive/thumbs/2022_03_bibliography-lettersfortitles-vern-tonkin-300x196.jpg)
 
-Alexander, Michael. Beowulf . Penguin Books, 1995. Penguin Classics .
+Alexander, Michael. Beowulf. Penguin Books, 1995. Penguin Classics.
 
-Anderson, Earl R. “The Seasons of the Year in Old English.” Anglo-Saxon England , vol. 26, 1997, pp. 231-63, JSTOR, http://www.jstor.org/stable/44510523 .
+Anderson, Earl R. “The Seasons of the Year in Old English.” Anglo-Saxon England, vol. 26, 1997, pp. 231-63, JSTOR, http://www.jstor.org/stable/44510523.
 
-Baum, Paull F. Anglo-Saxon Riddles of the Exeter Book . Duke University Press, 1963.
+Baum, Paull F. Anglo-Saxon Riddles of the Exeter Book. Duke University Press, 1963.
 
-Bierbaumer, Peter; Sauer, Hans; Klug, Helmut W.; Krischke Ulrike. Dictionary of Old English Plant Names . 2007-2009, http://oldenglish-plantnames.org .
+Bierbaumer, Peter; Sauer, Hans; Klug, Helmut W.; Krischke Ulrike. Dictionary of Old English Plant Names. 2007-2009, http://oldenglish-plantnames.org.
 
-Bischoff, Bernhard. Latin Palaeography: Antiquity and the Middle Ages . Cambridge University Press, 1990.
+Bischoff, Bernhard. Latin Palaeography: Antiquity and the Middle Ages. Cambridge University Press, 1990.
 
-Boethius. The Consolation of Philosophy . Bobbs-Merrill, 1962. vol. 86.
+Boethius. The Consolation of Philosophy. Bobbs-Merrill, 1962. vol. 86.
 
-—. The Old English Boethius : With Verse Prologues and Epilogues Associated with King Alfred . Harvard University Press, 2012. vol. 19.
+—. The Old English Boethius : With Verse Prologues and Epilogues Associated with King Alfred. Harvard University Press, 2012. vol. 19.
 
-Borges, Jorge Luis. “The Kenning.” The New Yorker , January 26, 1976, pp. 35-36.
+Borges, Jorge Luis. “The Kenning.” The New Yorker, January 26, 1976, pp. 35-36.
 
-Bosworth, Joseph. “An Anglo Saxon Dictionary Online.” edited by Thomas Northcote Toller et al., Faculty of Arts, Charles University, 2014. https://bosworthtoller.com .
+Bosworth, Joseph. “An Anglo Saxon Dictionary Online.” edited by Thomas Northcote Toller et al., Faculty of Arts, Charles University, 2014. https://bosworthtoller.com.
 
-Brady, Caroline. “The Old English Nominal Compounds in -Rád.” PMLA , vol. 67, no. 4, 1952, pp. 538-71, JSTOR, https://www.jstor.org/stable/459826 .
+Brady, Caroline. “The Old English Nominal Compounds in -Rád.” PMLA, vol. 67, no. 4, 1952, pp. 538-71, JSTOR, https://www.jstor.org/stable/459826.
 
-Bright, James Wilson et al. Bright’s Old English Grammar & Reader . 3d ed., Holt, 1971.
+Bright, James Wilson et al. Bright’s Old English Grammar & Reader. 3d ed., Holt, 1971.
 
-British Museum. and C. E. Wright. Bald’s Leechbook (British Museum Royal Manuscript 12d. xvii). Johns Hopkins Press, 1955. Early English Manuscripts in Facsimile , vol. 5.
+British Museum. and C. E. Wright. Bald’s Leechbook (British Museum Royal Manuscript 12d. xvii). Johns Hopkins Press, 1955. Early English Manuscripts in Facsimile, vol. 5.
 
-Bud, Robert and Deborah Jean Warner. Instruments of Science : An Historical Encyclopedia. Science Museum, London, and National Museum of American History, Smithsonian Institution, in association with Garland Pub., 1998. Garland Encyclopedias in the History of Science , vol. 2.
+Bud, Robert and Deborah Jean Warner. Instruments of Science : An Historical Encyclopedia. Science Museum, London, and National Museum of American History, Smithsonian Institution, in association with Garland Pub., 1998. Garland Encyclopedias in the History of Science, vol. 2.
 
-Caedmon et al. The Junius Manuscript . Columbia University Press, 1931. The Anglo-Saxon Poetic Records, a Collective Edition , vol. I.
+Caedmon et al. The Junius Manuscript. Columbia University Press, 1931. The Anglo-Saxon Poetic Records, a Collective Edition, vol. I.
 
-Campbell, James et al. The Anglo-Saxons . Penguin Books, 1991.
+Campbell, James et al. The Anglo-Saxons. Penguin Books, 1991.
 
-Campbell, Joseph. Occidental Mythology . Penguin Books, 1976. The Masks of God , vol. 3.
+Campbell, Joseph. Occidental Mythology. Penguin Books, 1976. The Masks of God, vol. 3.
 
 Campbell, Joseph and Bill D. Moyers. “Joseph Campbell and the Power of Myth with Bill Moyers. Program 4, Sacrifice and Bliss.” Alvin H Perlmutter, Apostrophe S, Public Affairs Television, 1988.
 
-Carroll, Benjamin H. “Metrical Resolution in Old English.” The Journal of English and Germanic Philology , vol. 92, no. 2, 1993, pp. 167-78, JSTOR, http://www.jstor.org/stable/27710805 .
+Carroll, Benjamin H. “Metrical Resolution in Old English.” The Journal of English and Germanic Philology, vol. 92, no. 2, 1993, pp. 167-78, JSTOR, http://www.jstor.org/stable/27710805.
 
 Cockayne, Thomas Oswald et al. Leechdoms, Wortcunning, and Starcrast of Early England. Longman, Green, Longman, Roberts, and Green, 1864.
 
 The Compact Edition of the Oxford English Dictionary: Complete Text Reproduced Micrographically. Clarendon Press, 1971.
 
-Cross, James E. and Thomas D. Hill. The Prose Solomon and Saturn and Adrian and Ritheus . University of Toronto Press, 1982. Mcmaster Old English Studies and Texts , vol. 1.
+Cross, James E. and Thomas D. Hill. The Prose Solomon and Saturn and Adrian and Ritheus. University of Toronto Press, 1982. Mcmaster Old English Studies and Texts, vol. 1.
 
-Davidson, Hilda Roderick Ellis. Myths and Symbols in Pagan Europe : Early Scandinavian and Celtic Religions . Syracuse University Press, 1988.
+Davidson, Hilda Roderick Ellis. Myths and Symbols in Pagan Europe : Early Scandinavian and Celtic Religions. Syracuse University Press, 1988.
 
-Dickins, Bruce. Runic and Heroic Poems of the Old Teutonic Peoples . The University Press, 1915.
+Dickins, Bruce. Runic and Heroic Poems of the Old Teutonic Peoples. The University Press, 1915.
 
-Dobbie, Elliott Van Kirk. The Anglo-Saxon Minor Poems . Columbia University Press, 1942. The Anglo-Saxon Poetic Records, a Collective Edition, vol VI .
+Dobbie, Elliott Van Kirk. The Anglo-Saxon Minor Poems. Columbia University Press, 1942. The Anglo-Saxon Poetic Records, a Collective Edition, vol VI.
 
-—. Beowulf, and Judith. Columbia University Press, 1953. The Anglo-Saxon Poetic Records, a Collective Edition, vol. IV .
+—. Beowulf, and Judith. Columbia University Press, 1953. The Anglo-Saxon Poetic Records, a Collective Edition, vol. IV.
 
-Donaldson, E. Talbot and Joseph F. Tuso. Beowulf : The Donaldson Translation, Backgrounds and Sources, Criticism . 1st ed., Norton, 1975. A Norton Critical Edition .
+Donaldson, E. Talbot and Joseph F. Tuso. Beowulf : The Donaldson Translation, Backgrounds and Sources, Criticism. 1st ed., Norton, 1975. A Norton Critical Edition.
 
-Drogin, Marc. Medieval Calligraphy: Its History and Technique . Dover Publications, 1989.
+Drogin, Marc. Medieval Calligraphy: Its History and Technique. Dover Publications, 1989.
 
-Duncan, Edwin. “Weak Stress and Poetic Constraints in Old English Verse.” The Journal of English and Germanic Philolog y , vol. 92, no. 4, 1993, pp. 495-508, JSTOR, http://www.jstor.org/stable/27710897 .
+Duncan, Edwin. “Weak Stress and Poetic Constraints in Old English Verse.” The Journal of English and Germanic Philology, vol. 92, no. 4, 1993, pp. 495-508, JSTOR, http://www.jstor.org/stable/27710897.
 
-Eiríksdóttir, Sigrún Á. “‘La Alucinación Del Lector’ Jorge Luis Borges and the Legacy of Snorri Sturluson.” Ibero-amerikanisches Archiv , vol. 12, no. 3, 1986, pp. 247-60, JSTOR, http://www.jstor.org/stable/43392459 .
+Eiríksdóttir, Sigrún Á. “‘La Alucinación Del Lector’ Jorge Luis Borges and the Legacy of Snorri Sturluson.” Ibero-amerikanisches Archiv, vol. 12, no. 3, 1986, pp. 247-60, JSTOR, http://www.jstor.org/stable/43392459.
 
-—. “‘El Verso Incorruptible’ Jorge Luis Borges and the Poetic Art of the Icelandic Skalds.” Variaciones Borges , no. 2, 1996, pp. 37-53, JSTOR, http://www.jstor.org/stable/24879449 .
+—. “‘El Verso Incorruptible’ Jorge Luis Borges and the Poetic Art of the Icelandic Skalds.” Variaciones Borges, no. 2, 1996, pp. 37-53, JSTOR, http://www.jstor.org/stable/24879449.
 
-Eley, Rachel. “Alice’s Adventures in Carroll’s Own Square Alphabet.” February 7, 2012 www.lewiscarroll.org. The Lewis Carroll Society of North America . Accessed May 6, 2021.
+Eley, Rachel. “Alice’s Adventures in Carroll’s Own Square Alphabet.” February 7, 2012 www.lewiscarroll.org. The Lewis Carroll Society of North America. Accessed May 6, 2021.
 
-Elliott, Ralph Warren Victor. “Runes, Yews, and Magic.” Speculum , vol. 32, no. 2, 1957, pp. 250-61, JSTOR https://www.jstor.org/stable/2849116 .
+Elliott, Ralph Warren Victor. “Runes, Yews, and Magic.” Speculum, vol. 32, no. 2, 1957, pp. 250-61, JSTOR https://www.jstor.org/stable/2849116.
 
-—. Runes : An Introduction . 2nd ed., Manchester University Press; St. Martin’s Press, 1989.
+—. Runes : An Introduction. 2nd ed., Manchester University Press; St. Martin’s Press, 1989.
 
-Eson, Lawrence. “Odin and Merlin: Threefold Death and the World Tree.” Western Folklore , vol. 69, no. 1, 2010, pp. 85-107, JSTOR, http://www.jstor.org/stable/25735286 .
+Eson, Lawrence. “Odin and Merlin: Threefold Death and the World Tree.” Western Folklore, vol. 69, no. 1, 2010, pp. 85-107, JSTOR, http://www.jstor.org/stable/25735286.
 
-Evans, David A. H. and Anthony Faulkes. Hávamál . Viking Society for Northern Research, University College London, 2017. Text Series – Viking Society for Northern Research, vol 2.
+Evans, David A. H. and Anthony Faulkes. Hávamál. Viking Society for Northern Research, University College London, 2017. Text Series – Viking Society for Northern Research, vol 2.
 
 Fabricius, Johannes. Alchemy : The Medieval Alchemists and Their Royal Art. Rosenkilde and Bagger, 1976.
 
-Faulkes, Anthony. Edda : Prologue and Gylfaginning . Clarendon Press; Oxford University Press , 1982.
+Faulkes, Anthony. Edda : Prologue and Gylfaginning. Clarendon Press; Oxford University Press, 1982.
 
-Fleming, Robin. Britain after Rome : The Fall and Rise , 400-1070. Allen Lane, 2010. Penguin History of Britain , vol. 2.
+Fleming, Robin. Britain after Rome : The Fall and Rise, 400-1070. Allen Lane, 2010. Penguin History of Britain, vol. 2.
 
-Gardner, Martin. Codes, Ciphers, and Secret Writing . Dover, 1984.
+Gardner, Martin. Codes, Ciphers, and Secret Writing. Dover, 1984.
 
-Griffiths, Bill et al. The Rune Poem . Tern Press, 1989.
+Griffiths, Bill et al. The Rune Poem. Tern Press, 1989.
 
-Grimm, Jacob and James Steven Stallybrass. Teutonic Mythology . 4th ed., G. Bell and sons, 1882.
+Grimm, Jacob and James Steven Stallybrass. Teutonic Mythology. 4th ed., G. Bell and sons, 1882.
 
-Hall, J. R. Clark et al. A Concise Anglo-Saxon Dictionary . 4th ed., University Press, 1960.
+Hall, J. R. Clark et al. A Concise Anglo-Saxon Dictionary. 4th ed., University Press, 1960.
 
-Halsall, Maureen. The Old English Rune Poem : A Critical Edition . University of Toronto Press, 1981. Mcmaster Old English Studies and Texts , vol. 2.
+Halsall, Maureen. The Old English Rune Poem : A Critical Edition. University of Toronto Press, 1981. Mcmaster Old English Studies and Texts, vol. 2.
 
-—. “Runes and the Mortal Condition in Old English Poetry.” The Journal of English and Germanic Philology , vol. 88, no. 4, 1989, pp. 477-86, JSTOR, http://www.jstor.org/stable/27710232 .
+—. “Runes and the Mortal Condition in Old English Poetry.” The Journal of English and Germanic Philology, vol. 88, no. 4, 1989, pp. 477-86, JSTOR, http://www.jstor.org/stable/27710232.
 
-Hamer, R. F. S. A Choice of Anglo-Saxon Verse . Revised and expanded edition. ed., Faber & Faber, 2015.
+Hamer, R. F. S. A Choice of Anglo-Saxon Verse. Revised and expanded edition. ed., Faber & Faber, 2015.
 
 Heber, Sean. COW. Programming for Bovines, The Esoteric Programming Languages Ring, 2013.
 
-Hendrix, Lee et al. An Abecedarium : Illuminated Alphabets from the Court of the Emperor Rudolf II . J. Paul Getty Museum, 1997.
+Hendrix, Lee et al. An Abecedarium : Illuminated Alphabets from the Court of the Emperor Rudolf II. J. Paul Getty Museum, 1997.
 
-Hieatt, Constance B. “Alliterative Patterns in the Hypermetric Lines of Old English Verse.” Modern Philology , vol. 71, no. 3, 1974, pp. 237-42, JSTOR, http://www.jstor.org/stable/436520 .
+Hieatt, Constance B. “Alliterative Patterns in the Hypermetric Lines of Old English Verse.” Modern Philology, vol. 71, no. 3, 1974, pp. 237-42, JSTOR, http://www.jstor.org/stable/436520.
 
-Huang, Alfred. The Complete I Ching : The Definitive Translation . 10th anniversary ed., Inner Traditions, 2010.
+Huang, Alfred. The Complete I Ching : The Definitive Translation. 10th anniversary ed., Inner Traditions, 2010.
 
-Hutcheson, B. R. “The Realizations of Tertiary Stress in Old English Poetry.” Studies in Philology , vol. 91, no. 1, 1994, pp. 13-34, JSTOR, http://www.jstor.org/stable/4174473 .
+Hutcheson, B. R. “The Realizations of Tertiary Stress in Old English Poetry.” Studies in Philology, vol. 91, no. 1, 1994, pp. 13-34, JSTOR, http://www.jstor.org/stable/4174473.
 
-Jones, Frederick G. “The Hypermetric Lines of the “Rune Poem”.” Neuphilologische Mitteilungen , vol. 74, no. 2, 1973, pp. 224-31, JSTOR, http://www.jstor.org/stable/43342818 .
+Jones, Frederick G. “The Hypermetric Lines of the “Rune Poem”.” Neuphilologische Mitteilungen, vol. 74, no. 2, 1973, pp. 224-31, JSTOR, http://www.jstor.org/stable/43342818.
 
-Junius, Manfred M. The Practical Handbook of Plant Alchemy : An Herbalists’s Guide to Preparing Medicinal Essences, Tinctures, and Elixirs . Healing Arts Press, 1993.
+Junius, Manfred M. The Practical Handbook of Plant Alchemy : An Herbalists’s Guide to Preparing Medicinal Essences, Tinctures, and Elixirs. Healing Arts Press, 1993.
 
 Kemble, John M. The Anglo-Saxon Poem of Beowulf : The Travellers Song and the Battle of Finnes-Burh; Ed. Together with a Glossary of the More Difficult Words and a Historical Preface. W. Pickering, 1833.
 
-—. Anglo-Saxon Runes . Andrew Pub. Co., 1976.
+—. Anglo-Saxon Runes. Andrew Pub. Co., 1976.
 
-—. Codex Diplomaticus Aevi Saxonici, vol iii . Cambridge University Press, 2011.
+—. Codex Diplomaticus Aevi Saxonici, vol iii. Cambridge University Press, 2011.
 
-Kemp, John; D’Olier, Brian. “Early Navigation in the North Sea — the Use of Lead and Line and Other Navigation Methods.” The Journal of Navigation , vol. 69, 2016, pp. 673-97.
+Kemp, John; D’Olier, Brian. “Early Navigation in the North Sea — the Use of Lead and Line and Other Navigation Methods.” The Journal of Navigation, vol. 69, 2016, pp. 673-97.
 
-Keynes, Simon. “The Reconstruction of a Burnt Cottonian Manuscript: The Case of Cotton Ms. Otho A. I.” The British Library Journal , vol. 22, no. 2, 1996, pp. 113-60, JSTOR, http://www.jstor.org/stable/42554427 .
+Keynes, Simon. “The Reconstruction of a Burnt Cottonian Manuscript: The Case of Cotton Ms. Otho A. I.” The British Library Journal, vol. 22, no. 2, 1996, pp. 113-60, JSTOR, http://www.jstor.org/stable/42554427.
 
-Klaeber, Frederick. Beowulf and the Fight at Finnsburg . 3d ed., Heath, 1950.
+Klaeber, Frederick. Beowulf and the Fight at Finnsburg. 3d ed., Heath, 1950.
 
-Klossowski de Rola, Stanislas. Alchemy : The Secret Art . Thames and Hudson, 1985.
+Klossowski de Rola, Stanislas. Alchemy : The Secret Art. Thames and Hudson, 1985.
 
-Krapp, George Philip. The Vercelli Book . Columbia University Press, 1932. The Anglo-Saxon Poetic Records, a Collective Edition , vol. II.
+Krapp, George Philip. The Vercelli Book. Columbia University Press, 1932. The Anglo-Saxon Poetic Records, a Collective Edition, vol. II.
 
-Krapp, George Philip and Elliott Van Kirk Dobbie. The Anglo-Saxon Poetic Records, a Collective Edition . Columbia University Press, 1931.
+Krapp, George Philip and Elliott Van Kirk Dobbie. The Anglo-Saxon Poetic Records, a Collective Edition. Columbia University Press, 1931.
 
-Krapp, George Philip and Arthur Garfield Kennedy. An Anglo-Saxon Reader . H. Holt, 1929.
+Krapp, George Philip and Arthur Garfield Kennedy. An Anglo-Saxon Reader. H. Holt, 1929.
 
-Lavender, Philip. “The ‘Snorra Edda’ of Jorge Luis Borges.” Variaciones Borges , no. 37, 2014, pp. 1-18, JSTOR, http://www.jstor.org/stable/24882824 .
+Lavender, Philip. “The ‘Snorra Edda’ of Jorge Luis Borges.” Variaciones Borges, no. 37, 2014, pp. 1-18, JSTOR, http://www.jstor.org/stable/24882824.
 
-Linden, Stanton J. The Alchemy Reader : From Hermes Trismegistus to Isaac Newton . Cambridge University Press, 2003.
+Linden, Stanton J. The Alchemy Reader : From Hermes Trismegistus to Isaac Newton. Cambridge University Press, 2003.
 
 Marsden, Richard, ed. The Cambridge Old English Reader. Cambridge University Press, 2004.
 
-McManus, Damian. A Guide to Ogam . An Sagart, 1991. Maynooth Monographs , vol. 4.
+McManus, Damian. A Guide to Ogam. An Sagart, 1991. Maynooth Monographs, vol. 4.
 
-—. “Irish Letter-Names and Their Kennings.” Ériu , vol. 39, 1988, pp. 127–68.
+—. “Irish Letter-Names and Their Kennings.” Ériu, vol. 39, 1988, pp. 127–68.
 
-—. The Ogam Stones at University College Cork . Cork University Press, 2004. University Heritage Series .
+—. The Ogam Stones at University College Cork. Cork University Press, 2004. University Heritage Series.
 
-Nicholson, Peter. “The Old English Rune for S.” The Journal of English and Germanic Philology , vol. 81, no. 3, 1982, pp. 313-19, JSTOR, http://www.jstor.org/stable/27709022 .
+Nicholson, Peter. “The Old English Rune for S.” The Journal of English and Germanic Philology, vol. 81, no. 3, 1982, pp. 313-19, JSTOR, http://www.jstor.org/stable/27709022.
 
 Northrup, Cynthia Clark. Encyclopedia of World Trade: From Ancient Times to the Present. Sharpe Reference, 2005.
 
-Ong, Walter J. and John Hartley. Orality and Literacy: The Technologizing of the Word . 30th anniversary ed., Routledge, 2012.
+Ong, Walter J. and John Hartley. Orality and Literacy: The Technologizing of the Word. 30th anniversary ed., Routledge, 2012.
 
-Oosthuizen, Susan. The Emergence of the English . ARC Humanities Press, 2019. Past Imperfect .
+Oosthuizen, Susan. The Emergence of the English. ARC Humanities Press, 2019. Past Imperfect.
 
-Orchard, Andy. The Old English and Anglo-Latin Riddle Tradition . Harvard University Press, 2021. Dumbarton Oaks Medieval Library , vol. 69.
+Orchard, Andy. The Old English and Anglo-Latin Riddle Tradition. Harvard University Press, 2021. Dumbarton Oaks Medieval Library, vol. 69.
 
-Orwell, George. Inside the Whale and Other Essays . Penguin 1967.
+Orwell, George. Inside the Whale and Other Essays. Penguin 1967.
 
-Osborn, Marijane. “Old English Ing and His ‘Wain'”. Neuphilologische Mitteilungen , vol. 81, no. 4, 1980, pp. 388-89, JSTOR, http://www.jstor.org/stable/43343356 .
+Osborn, Marijane. “Old English Ing and His ‘Wain'”. Neuphilologische Mitteilungen, vol. 81, no. 4, 1980, pp. 388-89, JSTOR, http://www.jstor.org/stable/43343356.
 
-—. “ Hleotan and the Purpose of the Old English Rune Poem .” Folklore , vol. 92:ii, 1981, pp. 168-73.
+—. “Hleotan and the Purpose of the Old English Rune Poem.” Folklore, vol. 92:ii, 1981, pp. 168-73.
 
-Osborn, Marijane and Stella Longland. “A Celtic Intruder in the Old English ‘Rune Poem'”. Neuphilologische Mitteilungen , vol. 81, no. 4, 1980, pp. 385-87, JSTOR, http://www.jstor.org/stable/43343355 .
+Osborn, Marijane and Stella Longland. “A Celtic Intruder in the Old English ‘Rune Poem'”. Neuphilologische Mitteilungen, vol. 81, no. 4, 1980, pp. 385-87, JSTOR, http://www.jstor.org/stable/43343355.
 
-Page, R. I. “The Old English Rune “Eoh, Íh, ‘Yew-Tree'”. Medium Ævum , vol. 37, no. 2, 1968, pp. 125-36. JSTOR, https://www.jstor.org/stable/43627424 .
+Page, R. I. “The Old English Rune “Eoh, Íh, ‘Yew-Tree'”. Medium Ævum, vol. 37, no. 2, 1968, pp. 125-36. JSTOR, https://www.jstor.org/stable/43627424.
 
-—. Runes . University of California Press; British Museum, 1987. Reading the Past .
+—. Runes. University of California Press; British Museum, 1987. Reading the Past.
 
-—. An Introduction to English Runes . 2nd ed., Boydell Press, 1999.
+—. An Introduction to English Runes. 2nd ed., Boydell Press, 1999.
 
-Page, R. I. and David N. Parsons. Runes and Runic Inscriptions: Collected Essays on Anglo-Saxon and Viking Runes . Boydell Press, 1995.
+Page, R. I. and David N. Parsons. Runes and Runic Inscriptions: Collected Essays on Anglo-Saxon and Viking Runes. Boydell Press, 1995.
 
-Porter, John. Anglo-Saxon Riddles . Anglo-Saxon Books, 1995.
+Porter, John. Anglo-Saxon Riddles. Anglo-Saxon Books, 1995.
 
-Rebsamen, Frederick R. Beowulf : A Verse Translation . 1st ed., Icon Editions, 1991.
+Rebsamen, Frederick R. Beowulf : A Verse Translation. 1st ed., Icon Editions, 1991.
 
-Redbond, Wm, J. “Notes on the Word ‘Eolhx'”. The Modern Language Review , vol. 31, no. 1, 1936, pp. 55-57, JSTOR, https://www.jstor.org/stable/3715191 .
+Redbond, Wm, J. “Notes on the Word ‘Eolhx'”. The Modern Language Review, vol. 31, no. 1, 1936, pp. 55-57, JSTOR, https://www.jstor.org/stable/3715191.
 
-Riedinger, Anita R. “‘Home’ in Old English Poetry.” Neuphilologische Mitteilungen , vol. 96, no. 1, 1995, pp. 51-59, JSTOR, http://www.jstor.org/stable/43346054 .
+Riedinger, Anita R. “‘Home’ in Old English Poetry.” Neuphilologische Mitteilungen, vol. 96, no. 1, 1995, pp. 51-59, JSTOR, http://www.jstor.org/stable/43346054.
 
-Ropars, Guy et al. “A Depolarizer as a Possible Precise Sunstone for Viking Navigation by Polarized Skylight.” Proceedings: Mathematical, Physical and Engineering Sciences , vol. 468, no. 2139, 2012, pp. 671-84, JSTOR, http://www.jstor.org/stable/41345933 .
+Ropars, Guy et al. “A Depolarizer as a Possible Precise Sunstone for Viking Navigation by Polarized Skylight.” Proceedings: Mathematical, Physical and Engineering Sciences, vol. 468, no. 2139, 2012, pp. 671-84, JSTOR, http://www.jstor.org/stable/41345933.
 
-Rorres, Chris. “The Cattle Problem.” https://www.math.nyu.edu/~crorres/Archimedes/Cattle/Statement.html . Accessed January 5, 2021.
+Rorres, Chris. “The Cattle Problem.” https://www.math.nyu.edu/~crorres/Archimedes/Cattle/Statement.html. Accessed January 5, 2021.
 
-Ross, Margaret Clunies. “The Anglo-Saxon and Norse ‘Rune Poems’: A Comparative Study.” Anglo-Saxon England , vol. 19, 1990, pp. 23-39, JSTOR, http://www.jstor.org/stable/44509950 .
+Ross, Margaret Clunies. “The Anglo-Saxon and Norse ‘Rune Poems’: A Comparative Study.” Anglo-Saxon England, vol. 19, 1990, pp. 23-39, JSTOR, http://www.jstor.org/stable/44509950.
 
-Savage, Anne and Christopher Pick. The Anglo-Saxon Chronicles . Phoebe Phillips, 1982.
+Savage, Anne and Christopher Pick. The Anglo-Saxon Chronicles. Phoebe Phillips, 1982.
 
-Shippey, T. A. Poems of Wisdom and Learning in Old English . D. S. Brewer; Rowman and Littlefield , 1976 .
+Shippey, T. A. Poems of Wisdom and Learning in Old English. D. S. Brewer; Rowman and Littlefield, 1976.
 
-Singh, Simon. The Code Book : The Evolution of Secrecy from Mary, Queen of Scots, to Quantum Cryptograph y . Doubleday, 1999.
+Singh, Simon. The Code Book : The Evolution of Secrecy from Mary, Queen of Scots, to Quantum Cryptography. Doubleday, 1999.
 
-The Silver Penny: for the Amusement and Instruction of Good Children . J. Kindrew Colliergate, York. 1820.
+The Silver Penny: for the Amusement and Instruction of Good Children. J. Kindrew Colliergate, York. 1820.
 
-Snorri, Sturluson and Anthony Faulkes. Edda . Dent, 1987.
+Snorri, Sturluson and Anthony Faulkes. Edda. Dent, 1987.
 
-Sorrell, Paul. “Oaks, Ships, Riddles and the Old English ‘Rune Poem'”. Anglo-Saxon England , vol. 19, 1990, pp. 103-16, JSTOR, http://www.jstor.org/stable/44509954 .
+Sorrell, Paul. “Oaks, Ships, Riddles and the Old English ‘Rune Poem'”. Anglo-Saxon England, vol. 19, 1990, pp. 103-16, JSTOR, http://www.jstor.org/stable/44509954.
 
-Sweet, Henry and C. T. Onions. An Anglo-Saxon Reader in Prose and Verse, with Grammar, Metre, Notes and Glossary . 9th ed., The Clarendon press, 1943.
+Sweet, Henry and C. T. Onions. An Anglo-Saxon Reader in Prose and Verse, with Grammar, Metre, Notes and Glossary. 9th ed., The Clarendon press, 1943.
 
-Tacitus, Cornelius. The Agricola and the Germania . Penguin, 1971.
+Tacitus, Cornelius. The Agricola and the Germania. Penguin, 1971.
 
-Taylor, Paul Beekman. “Charms of ‘Wynn’ and Fetters of ‘Wyrd’ in ‘the Wanderer’.” Neuphilologische Mitteilungen , vol. 73, no. 1/3, 1972, pp. 448-55, JSTOR, http://www.jstor.org/stable/43345375 .
+Taylor, Paul Beekman. “Charms of ‘Wynn’ and Fetters of ‘Wyrd’ in ‘the Wanderer’.” Neuphilologische Mitteilungen, vol. 73, no. 1/3, 1972, pp. 448-55, JSTOR, http://www.jstor.org/stable/43345375.
 
-Thorpe, Benjamin and Society of Antiquaries of London. Codex Exoniensis: A Collection of Anglo-Saxon Poetry from a Manuscript in the Library of the Dean and Chapter of Exeter: With an English Translation, Notes, and Indexes . Bell & Howell Co., 1967.
+Thorpe, Benjamin and Society of Antiquaries of London. Codex Exoniensis: A Collection of Anglo-Saxon Poetry from a Manuscript in the Library of the Dean and Chapter of Exeter: With an English Translation, Notes, and Indexes. Bell & Howell Co., 1967.
 
-Thorpe, Jocelyn Field et al. Dictionary of Applied Chemistry . 4th ed., Longmans, 1937.
+Thorpe, Jocelyn Field et al. Dictionary of Applied Chemistry. 4th ed., Longmans, 1937.
 
 Thurneysen, Rudolf, Daniel Anthony Binchy and Osborn Joseph Bergin eds. A Grammar of Old Irish. Dublin Institute for Advanced Studies, 1946.
 
-Tolkien, Christopher. The Saga of King Heidrek the Wise . Nelson, 1960. Icelandic Texts.
+Tolkien, Christopher. The Saga of King Heidrek the Wise. Nelson, 1960. Icelandic Texts.
 
-Tullet, Hervé. The Game of Light . Phaidon Press Limited, 2011.
+Tullet, Hervé. The Game of Light. Phaidon Press Limited, 2011.
 
-—. The Game of Shadows . Phaidon Press, 2013.
+—. The Game of Shadows. Phaidon Press, 2013.
 
-Tymms, W. R. and M. Digby Wyatt. The Art of Illuminating as Practised in Europe from the Earliest Times Illustrated by Borders, Initial Letters, and Alphabets . Studio Editions, 1987.
+Tymms, W. R. and M. Digby Wyatt. The Art of Illuminating as Practised in Europe from the Earliest Times Illustrated by Borders, Initial Letters, and Alphabets. Studio Editions, 1987.
 
-Ullman, B. L. and T. Julian Brown. Ancient Writing and Its Influence . University of Toronto Press in association with the Medieval Academy of America, 1980. Medieval Academy Reprints for Teaching , vol. 10.
+Ullman, B. L. and T. Julian Brown. Ancient Writing and Its Influence. University of Toronto Press in association with the Medieval Academy of America, 1980. Medieval Academy Reprints for Teaching, vol. 10.
 
-Utz, Richard J. Medievalism : A Manifesto. ARC Humanities Press, 2017. Past Imperfect .
+Utz, Richard J. Medievalism : A Manifesto. ARC Humanities Press, 2017. Past Imperfect.
 
-Vennemann gen. Nierfeld, Theo. “The Source of the Ing Rune and of the Futhark.” Germania Semitica , edited by Patrizia Noel Aziz Hanna, 1 ed., De Gruyter, 2012, pp. 635-46. JSTOR, http://www.jstor.org/stable/j.ctvbkk16h.34 .
+Vennemann gen. Nierfeld, Theo. “The Source of the Ing Rune and of the Futhark.” Germania Semitica, edited by Patrizia Noel Aziz Hanna, 1 ed., De Gruyter, 2012, pp. 635-46. JSTOR, http://www.jstor.org/stable/j.ctvbkk16h.34.
 
-Von See, Klaus. “Snorri Sturluson and the Creation of a Norse Cultural Ideology.” Saga-Book , vol. 25, 1998, pp. 367-93, JSTOR, https://www.jstor.org/stable/48613195 .
+Von See, Klaus. “Snorri Sturluson and the Creation of a Norse Cultural Ideology.” Saga-Book, vol. 25, 1998, pp. 367-93, JSTOR, https://www.jstor.org/stable/48613195.
 
-Webster, Leslie. The Franks Casket . British Museum, 2012. British Museum Objects in Focus.
+Webster, Leslie. The Franks Casket. British Museum, 2012. British Museum Objects in Focus.
 
 Webster, Leslie and Michelle Brown. The Transformation of the Roman World Ad 400-900. University of California Press, 1997.
 
-Wells, Benjamin W. “The Sounds O and U in English.” Transactions of the American Philological Association (1869-1896) , vol. 17, 1886, pp. 47-77, JSTOR, https://www.jstor.org/stable/2935744 .
+Wells, Benjamin W. “The Sounds O and U in English.” Transactions of the American Philological Association (1869-1896), vol. 17, 1886, pp. 47-77, JSTOR, https://www.jstor.org/stable/2935744.
 
-Wentersdorf, Karl P. “The Old English ‘Rhyming Poem’: A Ruler’s Lament.” Studies in Philology , vol. 82, no. 3, 1985, pp. 265-94, JSTOR, http://www.jstor.org/stable/4174209 .
+Wentersdorf, Karl P. “The Old English ‘Rhyming Poem’: A Ruler’s Lament.” Studies in Philology, vol. 82, no. 3, 1985, pp. 265-94, JSTOR, http://www.jstor.org/stable/4174209.
 
-Wilbur, Terence H. ‘The Word “Rune’.” Scandinavian Studies , vol. 29, no. 1, 1957, pp. 12-18, JSTOR, http://www.jstor.org/stable/40916112 .
+Wilbur, Terence H. ‘The Word “Rune’.” Scandinavian Studies, vol. 29, no. 1, 1957, pp. 12-18, JSTOR, http://www.jstor.org/stable/40916112.
 
 Wilhelm, Richard et al. The I Ching: Or, Book of Changes. 3d ed., Princeton University Press, 1967.
 
 Wright, Thomas and Richard Paul Wülker. Anglo-Saxon and Old English Vocabularies. (3., unveränderte Aufl. ed., Wissenschaftliche Buchgesellschaft, 1968.
 
-Wulfstan et al. A Wulfstan Manuscript Containing Institutes, Laws and Homilies. British Museum Cotton Nero A.I. Rosenkilde and Bagger, 1971. Early English Manuscripts in Facsimile , vol. 17
+Wulfstan et al. A Wulfstan Manuscript Containing Institutes, Laws and Homilies. British Museum Cotton Nero A.I. Rosenkilde and Bagger, 1971. Early English Manuscripts in Facsimile, vol. 17
 
 Image Sources
 
@@ -730,11 +730,11 @@ Image Sources
 
 Aberdeen Bestiary. MS 24, fol. 69r. Aberdeen University Library, Aberdeen Scotland. c.1200.
 
-Alchemical Rolls (The Ripley Scrolls) . Add MS 5025, fol. 3dr. British Library.
+Alchemical Rolls (The Ripley Scrolls). Add MS 5025, fol. 3dr. British Library.
 
 Alebrand de Florence. Maistre Aldebrandins de Sciane : Li livres qui doit iestre apielés la flours et la rose de toute medicine de fisique. Bibliothèque de l’Arsenal MS 2510, 133 S.A.F., fol. 6v. Bibliothèque nationale de France.
 
-Aldhelm of Sherborne. De Virginitate . Royal MS 5 E XI, fol. 7v. British Library.
+Aldhelm of Sherborne. De Virginitate. Royal MS 5 E XI, fol. 7v. British Library.
 
 Aldobrandino of Siena. La Regime du Corps. Sloane MS 2435 fol. 99v, British Library.
 
@@ -742,35 +742,35 @@ Alphabet of Country Scenes. McLoughin Bros. Inc., Springfield MA, 1920.
 
 Alphabet of Objects. McLoughlin Bros. Publishers, New York, 1864.
 
-Alzamora, Emil. Minotaur , 2005.
+Alzamora, Emil. Minotaur, 2005.
 
-Apuleius. Metamorphosis . Ms. Laud Lat. 55, fol 1r. Bodleian Library, Oxford. https://digital.bodleian.ox.ac.uk/objects/dabc8dd7-d626-4af5-9ff8-0b8441f8fc89/
+Apuleius. Metamorphosis. Ms. Laud Lat. 55, fol 1r. Bodleian Library, Oxford. https://digital.bodleian.ox.ac.uk/objects/dabc8dd7-d626-4af5-9ff8-0b8441f8fc89/
 
-Ariosto, Lodovico. Roland Furieux , p. 446. Morizot, Paris 1864.
+Ariosto, Lodovico. Roland Furieux, p. 446. Morizot, Paris 1864.
 
-Ashton, John. Real Sailor songs . Leadenhall Press, London, 1891.
+Ashton, John. Real Sailor songs. Leadenhall Press, London, 1891.
 
-Astronomisch-Astrologische Sammelhandschrift (Geomantie) . Codex Palatinus Germanicus 833, fol. 254. Heidelberg University. https://doi.org/10.11588/diglit.18
+Astronomisch-Astrologische Sammelhandschrift (Geomantie). Codex Palatinus Germanicus 833, fol. 254. Heidelberg University. https://doi.org/10.11588/diglit.18
 
-Aunt Mary’s Illustrated Reading Book . George Routledge and Sons, 1866.
+Aunt Mary’s Illustrated Reading Book. George Routledge and Sons, 1866.
 
-Aurora Consurgens . Ms. Rh. 172, fol. 27v. Zentralbibliothek, Switzerland.
+Aurora Consurgens. Ms. Rh. 172, fol. 27v. Zentralbibliothek, Switzerland.
 
-Bald’s Leechbook. Royal ms 12 3 xvii f.052v. British Library. http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_12_d_xvii_f052v .
+Bald’s Leechbook. Royal ms 12 3 xvii f.052v. British Library. http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_12_d_xvii_f052v.
 
 Baum, L. Frank and Harry Kennedy, The Army Alphabet. George M. Hill Company Publishers, 1900.
 
-Bede the Venerable. Historia Ecclesiastica Gentis Anglorum (Ecclesiastical History of the English People) . Cotton MS Tiberius C II, fol. 34 v. British Library.
+Bede the Venerable. Historia Ecclesiastica Gentis Anglorum (Ecclesiastical History of the English People). Cotton MS Tiberius C II, fol. 34 v. British Library.
 
-Bening, Simon. Prayer Book of Cardinal Albrecht of Brandenburg . Ms. Ludwig IX 19, fol. 155r. J. Paul Getty Museum, 1525-1530.
+Bening, Simon. Prayer Book of Cardinal Albrecht of Brandenburg. Ms. Ludwig IX 19, fol. 155r. J. Paul Getty Museum, 1525-1530.
 
-Beowulf . Cotton MS Vitellius A XV fol. 171r, British Library.
+Beowulf. Cotton MS Vitellius A XV fol. 171r, British Library.
 
-Bible de Marchiennes . Douai, BM fol. 003v, BVMM.
+Bible de Marchiennes. Douai, BM fol. 003v, BVMM.
 
 Bible Moralisée. Harley MS 1527, fol. 34v. British Library.
 
-Biblia Latina (secunda pars) . Département des Manuscrits, Latin 15178, fol 2v. Bibliothèque Nationale de France.
+Biblia Latina (secunda pars). Département des Manuscrits, Latin 15178, fol 2v. Bibliothèque Nationale de France.
 
 Biblia Sancti Martialis Lemovicensis Altera. I. Latin 8 (1), fol 5v. Bibliothèque Nationale de France.
 
@@ -778,131 +778,131 @@ Bibliorum Pars I, The Bury Bible. CCCC MS 002II fol. 201v. Corpus Christi Colleg
 
 Bode, Johann Elert. Uranographia Sive Astrorum Descriptio. Apud Autorem, 1801.
 
-Boethius. De Institutione Arithmetica . Harley MS 549, f. 21r. British Library.
+Boethius. De Institutione Arithmetica. Harley MS 549, f. 21r. British Library.
 
-Book of Ballymote . MS 23 P 12, f. 170r., Royal Irish Academy.
+Book of Ballymote. MS 23 P 12, f. 170r., Royal Irish Academy.
 
-Book of Ogams . MS 1337/3, H.3.18, Trinity College Dublin.
+Book of Ogams. MS 1337/3, H.3.18, Trinity College Dublin.
 
-Boron, Robert de. Romans Arthuriens . Gallica Français 95, fol. 89v. Bibliothèque Nationale de France.
+Boron, Robert de. Romans Arthuriens. Gallica Français 95, fol. 89v. Bibliothèque Nationale de France.
 
-Bowles, Carington. Bowles’s Roman and Italic Print Alphabets, on a Large Size Complete; with Figures, Double Letters, and the Most Useful Diphthongs in the Modern Taste; Designed Chiefly for the Use of Painters, Engravers, Carvers, Grave-Stone Cutters, Mason, Plumbs, and Other Artificers; Likewise Very Useful for Merchants and Tradesmen Clerks . Bowles, 1775.
+Bowles, Carington. Bowles’s Roman and Italic Print Alphabets, on a Large Size Complete; with Figures, Double Letters, and the Most Useful Diphthongs in the Modern Taste; Designed Chiefly for the Use of Painters, Engravers, Carvers, Grave-Stone Cutters, Mason, Plumbs, and Other Artificers; Likewise Very Useful for Merchants and Tradesmen Clerks. Bowles, 1775.
 
 Breviary. Ms. Ludwig IX 2 (83.ML.98) fol. 142. The J. Paul Getty Museum.
 
 Cædmon Manuscript. MS. Junius 11 p. 26. Bodleian Library, University of Oxford, England.
 
-Caesar, Caius Julius. De Bello Gallico . Harley 2683 fol 1. British Library.
+Caesar, Caius Julius. De Bello Gallico. Harley 2683 fol 1. British Library.
 
-Carroll, Lewis. Alice’s Adventures Under Ground . Add MS 46700, British Library, 1864.
+Carroll, Lewis. Alice’s Adventures Under Ground. Add MS 46700, British Library, 1864.
 
-Cassiani Liber de Incarnation Christi . Latin 14860, fol. 2r. Bibliothèque Nationale de France, 1201-1225.
+Cassiani Liber de Incarnation Christi. Latin 14860, fol. 2r. Bibliothèque Nationale de France, 1201-1225.
 
-Cawdrey, Robert. A Table Alphabeticall, contayning and teaching the true writing and vnderstanding of hard vsuall English words, borrowed from the Hebrew, Greeke, Latine, or French &c . WI for Edmund Weaure, London, 1613.
+Cawdrey, Robert. A Table Alphabeticall, contayning and teaching the true writing and vnderstanding of hard vsuall English words, borrowed from the Hebrew, Greeke, Latine, or French &c. WI for Edmund Weaure, London, 1613.
 
 Cervantes Saavedra, Miguel de. El Ingenioso Hildago Don Quijote de la Mancha. Imp. de Tomás Gorchs, Barcelona, 1859.
 
 Cessoles, Jacque de. Recueil. Français 2000, fol. 45v. Bibliothèque Nationale de France, 1480-1485.
 
-Chansonnier de 1542 . Cambrai, BM, 0128 (0124) fol. 52r, 66v, 104v. Manuscrits datés des bibliothèques de France, Cambrai, Paris.
+Chansonnier de 1542. Cambrai, BM, 0128 (0124) fol. 52r, 66v, 104v. Manuscrits datés des bibliothèques de France, Cambrai, Paris.
 
 Charles Scarborough’s Archimedes. Christ Church OR.1.4 fol. 27r. University of Oxford, Christ Church.
 
-Chartres Bible . Latin 116, fol 12r., Bibliothèque Nationale de France.
+Chartres Bible. Latin 116, fol 12r., Bibliothèque Nationale de France.
 
-Chekov, Anton. The Crooked Mirror and Other Stories , Kensington Books, 1995.
+Chekov, Anton. The Crooked Mirror and Other Stories, Kensington Books, 1995.
 
-Chwast, Seymour. Bestial Bold . “Not Quite Human,” Push Pin Graphic No. 80, May/June, 1980.
+Chwast, Seymour. Bestial Bold. “Not Quite Human,” Push Pin Graphic No. 80, May/June, 1980.
 
-Cotton Genesis . Cotton MS Otho B VI, f. 026v, British Library.
+Cotton Genesis. Cotton MS Otho B VI, f. 026v, British Library.
 
-Cowper, William. Myotomia Reformata, or, An Anatomical Treatise on the Muscles of the Human Body . R. Knaplock 1724.
+Cowper, William. Myotomia Reformata, or, An Anatomical Treatise on the Muscles of the Human Body. R. Knaplock 1724.
 
 Crane, Walter. The Absurd A.B.C. Edmund Evans, engraver & printer, Racquet Ct., Fleet St., London, E.C., 1897.
 
-Cruikshank, George. A Comic Alphabet . Arts Council of Great Britain, Pentonville 1836.
+Cruikshank, George. A Comic Alphabet. Arts Council of Great Britain, Pentonville 1836.
 
-De Denain, Wauchier. Lives of the Saints , Royal 20 D VI, fol. 51. The British Library.
+De Denain, Wauchier. Lives of the Saints, Royal 20 D VI, fol. 51. The British Library.
 
-Dover Bible . MS 003, f. 155r, Corpus christi College, Cambridge.
+Dover Bible. MS 003, f. 155r, Corpus christi College, Cambridge.
 
-Drogin, Marc. Medieval Calligraphy: Its History and Technique . Dover Publications, 1989.
+Drogin, Marc. Medieval Calligraphy: Its History and Technique. Dover Publications, 1989.
 
-Drogo, Bishop Of Metz, 801-855. The Drogo Sacramentary . Item 2021667562, Library of Congress.
+Drogo, Bishop Of Metz, 801-855. The Drogo Sacramentary. Item 2021667562, Library of Congress.
 
-Dulac, Edmund. Lyrics Pathetic & Humorous from A to Z . Frederick Warne and Co., Strand, New York, 1908.
+Dulac, Edmund. Lyrics Pathetic & Humorous from A to Z. Frederick Warne and Co., Strand, New York, 1908.
 
-Eadfrith. The Lindisfarne Gospels . MS Nero D IV, fol 29r. The British Library. http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_d_iv_f029r .
+Eadfrith. The Lindisfarne Gospels. MS Nero D IV, fol 29r. The British Library. http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_d_iv_f029r.
 
-Erbario . LJS 419, fol 3r. Colenda Digital Repository, University of Pennsylvania Libraries, 1400.
+Erbario. LJS 419, fol 3r. Colenda Digital Repository, University of Pennsylvania Libraries, 1400.
 
-The Exeter Book, Codex Exoniensis . MS 3501, fol. 91r, fol. 95v, Exeter Cathedral Library and Archives & University of Exeter Digital Humanities Lab. https://theexeterbook.exeter.ac.uk/index.html
+The Exeter Book, Codex Exoniensis. MS 3501, fol. 91r, fol. 95v, Exeter Cathedral Library and Archives & University of Exeter Digital Humanities Lab. https://theexeterbook.exeter.ac.uk/index.html
 
-Fieschi Psalter . MS W.45 fol. 139v, Walters Art Museum.
+Fieschi Psalter. MS W.45 fol. 139v, Walters Art Museum.
 
 Fournel, Charles. Historiated Initial I depicting Joshua’s messengers returning from the Promised Land. Lewis E M 14:10, mcai140101, Free Library of Philadelphia.
 
-Furtmeyr, Berthold. The Salzburg Missal . The Library of Congress, www.loc.gov/item/2021667776.
+Furtmeyr, Berthold. The Salzburg Missal. The Library of Congress, www.loc.gov/item/2021667776.
 
-Genealogical Roll Chronicle of the English Kings . Royal MS 14 B V fol. 1r. British Library.
+Genealogical Roll Chronicle of the English Kings. Royal MS 14 B V fol. 1r. British Library.
 
-Germain, Jean. Débat du Chrétien et du Sarrasin . Français 948, fol. 14v. Bibliothèque Nationale de France. bnf, 1448 – 1451.
+Germain, Jean. Débat du Chrétien et du Sarrasin. Français 948, fol. 14v. Bibliothèque Nationale de France. bnf, 1448 – 1451.
 
 Graduale della Trinita S. Fol. 79r. Museo di San Marco. http://www.polomuseale.firenze.it/coralisanmarcomostra/miniature.aspx?idMiniatura=277&idcodice=8
 
-Graduel de Saint-Évroul . Latin 10508 fol. 46v. Bibliothèque Nationale de France.
+Graduel de Saint-Évroul. Latin 10508 fol. 46v. Bibliothèque Nationale de France.
 
-Gratian. Decretum . Ms Ludwig XIV 2, fol. 8v. J. Paul Getty Museum.
+Gratian. Decretum. Ms Ludwig XIV 2, fol. 8v. J. Paul Getty Museum.
 
 Gregory the Great. Moralia in Job. Manuscrits de Citeaux, MS 168, fol. 4v, MS 173, fol. 41r, Dijon Bibliothèque Municipale.
 
-—. Moralia in Job . Ms. 0321 fol. 053r, Tours Bibliothèque Municipale.
+—. Moralia in Job. Ms. 0321 fol. 053r, Tours Bibliothèque Municipale.
 
-Grey, Fred. The Little Sportsman’s Alphabet. Aunt Louisa’s London Toy Books. Fred K. Warne & Co. , London, 1882.
+Grey, Fred. The Little Sportsman’s Alphabet. Aunt Louisa’s London Toy Books. Fred K. Warne & Co., London, 1882.
 
-Grillinger Bible, Biblia Veteris et Novi Testamenti . BSB Clm 15701, fol. 134v, 286v, 320v, 322r, 349v, 433r. München, Bayerische Staatsbibliothek.
+Grillinger Bible, Biblia Veteris et Novi Testamenti. BSB Clm 15701, fol. 134v, 286v, 320v, 322r, 349v, 433r. München, Bayerische Staatsbibliothek.
 
-Günther, Johann Friedrich. De Jure Asyli Legatorum Ædibus Competente . Johan Christiani Hendelius, printer, Yale Law Library,1721.
+Günther, Johann Friedrich. De Jure Asyli Legatorum Ædibus Competente. Johan Christiani Hendelius, printer, Yale Law Library,1721.
 
 Handbook for the Use of a Confessor. Ms Junius 121 fol 66v. Bodleian Library. https://digital.bodleian.ox.ac.uk/objects/44360db1-f67e-47c3-8136-6515a090d968/surfaces/971ed03c-3b8f-4b00-b835-c262a57a356c
 
 Hassall, John. A Naval Alphabet. Sands & Co., London, 1901.
 
-Histoire Ancienne Jusqu’à César . Royal MS 20 D I fol 177r, British Library.
+Histoire Ancienne Jusqu’à César. Royal MS 20 D I fol 177r, British Library.
 
 History of Job. Latin 15675, fol 83r. Bibliothèque Nationale de France.
 
-Hildegard of Bingen. Riesencodex , Lingua Ignota. Hochschulund Landesbibliothek RheinMain: Hs. 2, 464v.
+Hildegard of Bingen. Riesencodex, Lingua Ignota. Hochschulund Landesbibliothek RheinMain: Hs. 2, 464v.
 
-Hill, L. J. An Alphabet Allegorical, Alliterative & Amusing: Appreciable at All Ages . Effingham Wilson, London 1871.
+Hill, L. J.An Alphabet Allegorical, Alliterative & Amusing: Appreciable at All Ages. Effingham Wilson, London 1871.
 
-Historiated Initial From a Cistercian Gradual . Accession Number 8900A, Victoria and Albert Museum. https://collections.vam.ac.uk/item/O1026761/historiated-initial-from-a-cistercian-manuscript-cutting/
+Historiated Initial From a Cistercian Gradual. Accession Number 8900A, Victoria and Albert Museum. https://collections.vam.ac.uk/item/O1026761/historiated-initial-from-a-cistercian-manuscript-cutting/
 
-Hoefnagel, Joris. Guide for Constructing the Letter O . Ms. 20 (86.MV.527), fol. 136v. The J. Paul Getty Museum.
+Hoefnagel, Joris. Guide for Constructing the Letter O. Ms. 20 (86.MV.527), fol. 136v. The J. Paul Getty Museum.
 
 Holbein, Hans. Danse of Death Alphabet. 1895,0122.906, The British Museum. https://www.britishmuseum.org/collection/object/P_1895-0122-906
 
-Horae ad Usum Parisiensem . Gallilca Latin 1176, fol. 51r. Bibliothèque Nationale de France.
+Horae ad Usum Parisiensem. Gallilca Latin 1176, fol. 51r. Bibliothèque Nationale de France.
 
 Hours of William Porter. B1 371 A MS M 105, Fol 20v., Pierpoint Morgan Library.
 
 Hrabanus Maurus. De Laudibus Sanctae Crucis and Other Texts. Harley MS 3045, fol. 8v, fol. 17v, British Library.
 
-Hunterian Psalter . MS Hunter 229 (U.3.2), fol 99r. University of Glasgow Library.
+Hunterian Psalter. MS Hunter 229 (U.3.2), fol 99r. University of Glasgow Library.
 
 Heures de Charles d’Angoulême. Latin 1173 fol 2v., fol 3r, fol 52r., Bibliothèque Nationale de France.
 
-Isidore of Seville. Etymologiae . Harley MS 3099, fol. 8r, British Library, 1134.
+Isidore of Seville. Etymologiae. Harley MS 3099, fol. 8r, British Library, 1134.
 
-Jacobus de Voragine. Legenda Aurea, The Golden Legend . Royal MS 20 D VI fol. 144r, British Library.
+Jacobus de Voragine. Legenda Aurea, The Golden Legend. Royal MS 20 D VI fol. 144r, British Library.
 
-Joyce, James. II.ii.2.a. Notebook A. , MS 36,639/8/A, National Library of Ireland.
+Joyce, James. II.ii.2.a. Notebook A., MS 36,639/8/A, National Library of Ireland.
 
 Julian of Toledo, Prognosticon Futuri Saeculi, Royal MS 12 c xxiii fol 1v, British Library.
 
-Kilian, Lucas. Newes ABC Büchlein . 27.1450, The Museum of Fine Arts, Boston, 1627.
+Kilian, Lucas. Newes ABC Büchlein. 27.1450, The Museum of Fine Arts, Boston, 1627.
 
-La Grande Danse Macabre des Hommes et des Femmes: Précédée du dict des trois mors et dfs trois vifz, du Débat du corps et de l’âme, et de La complaincte de l’ame dampnée . Baillieu Paris 1862. Getty Research Institute. http://primo.getty.edu/GRI:GETTY_ALMA21117165610001551 .
+La Grande Danse Macabre des Hommes et des Femmes: Précédée du dict des trois mors et dfs trois vifz, du Débat du corps et de l’âme, et de La complaincte de l’ame dampnée. Baillieu Paris 1862. Getty Research Institute. http://primo.getty.edu/GRI:GETTY_ALMA21117165610001551.
 
 La Grande Histore Cesar. Royal MS 17 F ii fol. 116v, fol. 124v, British Library, 1479.
 
@@ -914,51 +914,51 @@ Le Palmer, James. Omne Bonum. Royal MS 6 E VII/2, fol. 489r, British Library.
 
 Life and death. Oil painting. The Wellcome Library, London.
 
-Linnaeus, Carl. Iter Lapponicum. Manuscript GB/110/LM/LP/TRV/1/2/1 p. 135. The Linnean Society of London, 17 32.
+Linnaeus, Carl. Iter Lapponicum. Manuscript GB/110/LM/LP/TRV/1/2/1 p. 135. The Linnean Society of London, 1732.
 
-The Little Learner’s Picture ABC . The Religious Tract Society, Great Britain, 1885.
+The Little Learner’s Picture ABC. The Religious Tract Society, Great Britain, 1885.
 
-Lombardus, Petrus. Glossa in Psalmos . Ms Ricketts 20, fol 1v. Lilly Library, Bloomington Indiana.
+Lombardus, Petrus. Glossa in Psalmos. Ms Ricketts 20, fol 1v. Lilly Library, Bloomington Indiana.
 
 Lowman & Hanford Co., Ye Olde Curiosity Shop exterior, Seattle, circa 1915. Postcard Collection, 1971.5142.9, Accession no. 11906, Museum of History and Industry.
 
 Maccioni, Migliorato. Congetture di un Socio Etrusco sopra una Carta Papiracea Dell’archivio Diplomatico di sua Altezza Reale il Serenissimo Pietro Leopoldo Arciduca d’Austria Granduca di toscana &c. &c. &c.: con la Prefazione dell’Editore. Per Gaetano Cambiagi Stampatore Granducale, Frienze, 1781.
 
-Macclesfield Alphabet Book . Add MS 88887, fol 4v. British Library.
+Macclesfield Alphabet Book. Add MS 88887, fol 4v. British Library.
 
-Madox, Thomas. The History and Antiquities of the Exchequer of the Kings of England in Two Periods . John Matthews, London. 1711.
+Madox, Thomas. The History and Antiquities of the Exchequer of the Kings of England in Two Periods. John Matthews, London. 1711.
 
 Madrid, Ronni. A Gorey Year 365 Days of the Art and Words of Edward Gorey. Pomegranate, 2006.
 
-Mansel, Jean. La Fleur Des Histoires (tome II) . Français 300 fol.175r. Bibliothèque nationale de France, 1470-1475.
+Mansel, Jean. La Fleur Des Histoires (tome II). Français 300 fol.175r. Bibliothèque nationale de France, 1470-1475.
 
-Mark of Kalt. Chronicon Pictum, Marci de Kalt, Chronica de gestis Hungarorum . Ms OSK. Clmae, p 34. National Széchényi Library, 1358-1373.
+Mark of Kalt. Chronicon Pictum, Marci de Kalt, Chronica de gestis Hungarorum. Ms OSK. Clmae, p 34. National Széchényi Library, 1358-1373.
 
-Marquette Bible . Ms. Ludwig I 8, v2 (83.MA.57.2), fol. 181r, J. Paul Getty Museum.
+Marquette Bible. Ms. Ludwig I 8, v2 (83.MA.57.2), fol. 181r, J. Paul Getty Museum.
 
-Menaion for the Months of November and December . Add MS 36823, British Library.
+Menaion for the Months of November and December. Add MS 36823, British Library.
 
-Miscellanea Secundum Usum Ordinis Cluniacensis . Latin 17716 fol. 8r, Bibliotheque Nationale de France.
+Miscellanea Secundum Usum Ordinis Cluniacensis. Latin 17716 fol. 8r, Bibliotheque Nationale de France.
 
 Mitelli, Giuseppi Maria. Alfabeto in Sogno. British Museum, Museum numbers 1857,0613.40, 1857,0613.43, 1683.
 
-Monte Cassino Exultet Roll . Add MS 30337, fol. 2r, British Library.
+Monte Cassino Exultet Roll. Add MS 30337, fol. 2r, British Library.
 
-Morris, William. I nitial letters for Kelmscott Press Publications. E . 1205-1912, Victoria and Albert Museum.
+Morris, William. Initial letters for Kelmscott Press Publications. E. 1205-1912, Victoria and Albert Museum.
 
-Moutier Grandval Bible . Add MS 10546, fol. 329v, British Library.
+Moutier Grandval Bible. Add MS 10546, fol. 329v, British Library.
 
 Mulholland, Rob. Hare. 2017.
 
-Necrology from the Benedictine abbey of St Gilles (diocese of Nîmes); Regula Sancti Benedicti . British Library, Add MS 16979.
+Necrology from the Benedictine abbey of St Gilles (diocese of Nîmes); Regula Sancti Benedicti. British Library, Add MS 16979.
 
 Orwell, George. 1984. Harcourt, Brace and Company, 1956.
 
-Our Little Pet’s Funny ABC Book . E. P. Dutton & Co., 1910.
+Our Little Pet’s Funny ABC Book. E. P. Dutton & Co., 1910.
 
-Ovdiyenko, Chris. Hobo Coins Series 1: The RIP Dollar, 2022. https://deadonpaper.com .
+Ovdiyenko, Chris. Hobo Coins Series 1: The RIP Dollar, 2022. https://deadonpaper.com.
 
-Paolini, Giacomo. Grotesque Alphabet in Mythological Landscapes . Museum number 1862,0712.542, 1862,0712.547, The British Museum.
+Paolini, Giacomo. Grotesque Alphabet in Mythological Landscapes. Museum number 1862,0712.542, 1862,0712.547, The British Museum.
 
 Passionary of Weissenau. Codex Bodmer 127, fol. 087v, fol. 125v, fol. 244r, fol. 252v, Fondation Martin Bodmer. Cologny, Switzerland.
 
@@ -966,57 +966,57 @@ Pēligratc’i, Yakob. Hymnal Շարակնոց. Walters Ms W 547 fol. 46r. The W
 
 Pliny the Elder. Naturalis Historia. Lat. VI, 254. Biblioteca Nazionale Marciana, Venezia, 1481.
 
-Postkarten H. Neuen Photographischen Gesellschaft, Berlin-Steglitz, 1905 .
+Postkarten H. Neuen Photographischen Gesellschaft, Berlin-Steglitz, 1905.
 
-The Queen Mary Apocalypse . Royal MS 19 B XV, fol. 1r. British Library.
+The Queen Mary Apocalypse. Royal MS 19 B XV, fol. 1r. British Library.
 
-The Queen Mary Atlas . Add MS 5415 A, fol 24r. British Library.
+The Queen Mary Atlas. Add MS 5415 A, fol 24r. British Library.
 
 Recueil de traités de médecine et Image du monde. Département des Manuscrits. Français 12323, fol. 44r, fol. 77r, fol. 107v, fol. 128v. Bibliothèque Nationale de France.
 
-Roman de Renart . Département des Manuscrits 12584, fol. 25r, fol. 73r, fol. 102r, fol. 141r, Bibliothèque Nationale de France.
+Roman de Renart. Département des Manuscrits 12584, fol. 25r, fol. 73r, fol. 102r, fol. 141r, Bibliothèque Nationale de France.
 
 Rore, Cipriano de. 26 Motets (The Rore Codex). Mus.ms. B1, p. 20, p 57, p 220, p 258, p 278. Bayerische Staatsbibliothek, München, 1559.
 
-Routledges Book of Alphabets: containing the good boys’ and girls’ alphabet, the sea-side alphabet, the railroad alphabet, the farm-yard alphabe t. George Routledge and Sons, London, 1889.
+Routledges Book of Alphabets: containing the good boys’ and girls’ alphabet, the sea-side alphabet, the railroad alphabet, the farm-yard alphabet. George Routledge and Sons, London, 1889.
 
-Sacramentarium Gelasianum . Latin 12048 fol. 22v. Bibliothèque nationale de France.
+Sacramentarium Gelasianum. Latin 12048 fol. 22v. Bibliothèque nationale de France.
 
-Second Family Bestiary . Harley Ms. 4751 fol. 9v, British Library.
+Second Family Bestiary. Harley Ms. 4751 fol. 9v, British Library.
 
-Serafini, Luigi. Codex Seraphinianus . Rizzoli, 2013.
+Serafini, Luigi. Codex Seraphinianus. Rizzoli, 2013.
 
 Servius, Marus Honoratus and Virgil. Publius Vergilius Maro, Opera Omnia, comm. Servius. Gallica Latin 7939A fol. 30v. Bibliothèque Nationale de France, 1458.
 
-The Shilling Alphabet: Pretty Names . George Routledge & Sons, London, 1865.
+The Shilling Alphabet: Pretty Names. George Routledge & Sons, London, 1865.
 
-Sigenulfus. Breviary . Ludwig IX 1 (83.ml.97) fol. 313r, fol. 331v, J. Paul Getty Museum, 1153.
+Sigenulfus. Breviary. Ludwig IX 1 (83.ml.97) fol. 313r, fol. 331v, J. Paul Getty Museum, 1153.
 
 Snorra Edda, Eddukvæði. IB 399 4to fol. 58r, National and University Library of Iceland, 1764.
 
-Spiegel Menschlicher Gesuntheit . Cod. Pal. Germ. 432, fol. 40v, Heidelberg Universitätsbibliothek.
+Spiegel Menschlicher Gesuntheit. Cod. Pal. Germ. 432, fol. 40v, Heidelberg Universitätsbibliothek.
 
-Splendor Solis . Harley MS 3469, fol 1dr. British Library.
+Splendor Solis. Harley MS 3469, fol 1dr. British Library.
 
-St. Alban’s Psalter. Dombibliothek Hildesheim. https://www.albani-psalter.de .
+St. Alban’s Psalter. Dombibliothek Hildesheim. https://www.albani-psalter.de.
 
 St. Hugh’s Bible. MS. Auct. E. inf.1 fol 066r, Bodleian Libraries University of Oxford.
 
-Tennenbacher Güterbuch, Tennenbach Goods Book . Landes archiv Baden-Württemberg, Abt. Generallandesarchiv Karlsruhe, 66 Nr. 8553, 2. Deutcsche Digitale Bibliothek.
+Tennenbacher Güterbuch, Tennenbach Goods Book. Landesarchiv Baden-Württemberg, Abt. Generallandesarchiv Karlsruhe, 66 Nr. 8553, 2. Deutcsche Digitale Bibliothek.
 
-Thévenot, Jean de. The Travels of Monsieur de Thevenot into the Levant . H. Clark for H. Faithorne, J. Adamson, C. Skegnes, and T. Newborough, London, 1687.
+Thévenot, Jean de. The Travels of Monsieur de Thevenot into the Levant. H. Clark for H. Faithorne, J. Adamson, C. Skegnes, and T. Newborough, London, 1687.
 
-Thorney Computus, Sphere of life and Death . Ms. 17 fol. 41r., St Johns College, Oxford.
+Thorney Computus, Sphere of life and Death. Ms. 17 fol. 41r., St Johns College, Oxford.
 
-Tissot, James. Capital Letter E . 00.159.352.6. Brooklyn Museum, 1886-1894.
+Tissot, James. Capital Letter E. 00.159.352.6. Brooklyn Museum, 1886-1894.
 
-Tory, Geoffroy. Champ Fleury . Bibliotheque Nationale de France, 1529.
+Tory, Geoffroy. Champ Fleury. Bibliotheque Nationale de France, 1529.
 
 —. L’art et science de la vraye proportion des lettres attiques, ou antiques, autrement dictes, romaines, selon le corps & visaige humain , avec l’instruction et maniere de faire chiffres & lettres pour bagues d’or, pour tapisserie, vitres & painctures. Item de treize diverses sortes & façons de lettres, d’avantage la maniere d’ordonner la langue françoise par certaine regle de parler elegamment en bon & plus sain langage françois que par cy devant, avec figures à ce convenantes, & autre chose dignes de memoire, comme on pourra veoir par la table, le tout inventé, par Maistre Geoffroy Tory de Bourges. On les vend à Paris à l’enseigne Sainct Martin, rue Saincte Jacques, par Vivant Gaultherot, 1549. Bibliothèque Nationale de France.
 
-Tuck, Raphael. Nursery friends ABC . Raphael Tuck & Sons, Co., Ltd, 1895.
+Tuck, Raphael. Nursery friends ABC. Raphael Tuck & Sons, Co., Ltd, 1895.
 
-Tudor Pattern Book . MS Ashmole 1504, fol. 45v, Bodleian Library, Oxford.
+Tudor Pattern Book. MS Ashmole 1504, fol. 45v, Bodleian Library, Oxford.
 
 Turone di Maxio. Libri Corali. Biblioteca Capitolare di Verona, 14th century.
 
@@ -1028,223 +1028,223 @@ Wells, Carolyn. A Little Folks Alphabet. Perks Publishing, 1944.
 
 William of Tyre. Histoire d’Outremer. Yates Thompson MS 12, fol. 132r. British Library, 1232-1261.
 
-Zappa, Frank. Solo (With Vibes) . Heritage Auctions 2016.
+Zappa, Frank. Solo (With Vibes). Heritage Auctions 2016.
 
 Image Caption Sources
 
-Cotton Genesis . Cotton MS Otho B VI, f. 026v, British Library.
+Cotton Genesis. Cotton MS Otho B VI, f. 026v, British Library.
 
-Andersen, Hans Christian, and Erik Christian Haugaard. The Complete Fairy Tales and Stories . Anchor Press, 1983.
+Andersen, Hans Christian, and Erik Christian Haugaard. The Complete Fairy Tales and Stories. Anchor Press, 1983.
 
 Barbery, Muriel and Alison Anderson. The Elegance of the Hedgehog. Europa Editions, 2008.
 
-Baum, L. Frank and W. W. Denslow. The Wonderful Wizard of Oz . HarperCollins Publishers, 2000.
+Baum, L. Frank and W. W. Denslow. The Wonderful Wizard of Oz. HarperCollins Publishers, 2000.
 
-Bede the Venerable, et al. The Ecclesiastical History of the English People; the Greater Chronicle; Bede’s Letter to Egbert . New ed., Oxford University Press, 2008.
+Bede the Venerable, et al. The Ecclesiastical History of the English People; the Greater Chronicle; Bede’s Letter to Egbert. New ed., Oxford University Press, 2008.
 
-Bellows, Henry Adams. The Poetic Edda . E. Mellen Press, 1991.
+Bellows, Henry Adams. The Poetic Edda. E. Mellen Press, 1991.
 
-Blair, Robert et al. Robert Blair’s the Grave Illustrated by William Blake: A Study with Facsimile . Scolar Press, 1982.
+Blair, Robert et al. Robert Blair’s the Grave Illustrated by William Blake: A Study with Facsimile. Scolar Press, 1982.
 
-Blake, William et al. The Complete Poetry and Prose of William Blake . Newly revised edition. University of California Press, 2008.
+Blake, William et al. The Complete Poetry and Prose of William Blake. Newly revised edition. University of California Press, 2008.
 
-Borges, Jorge Luis. Selected Poems . Viking, 1999.
+Borges, Jorge Luis. Selected Poems. Viking, 1999.
 
-—. Collected Fictions . Viking, 1998.
+—. Collected Fictions. Viking, 1998.
 
-—. Selected Non-Fictions . Viking, 1999.
+—. Selected Non-Fictions. Viking, 1999.
 
-—. Everything and Nothing . New Directions, 1999.
+—. Everything and Nothing. New Directions, 1999.
 
-—. The Aleph (Including the Prose Fictions from the Maker) . Penguin Books, 2004.
+—. The Aleph (Including the Prose Fictions from the Maker). Penguin Books, 2004.
 
-—. Labyrinths : Selected Stories & Other Writings . New Directions, 2007.
+—. Labyrinths : Selected Stories & Other Writings. New Directions, 2007.
 
-Calvino, Italo. If on a Winter’s Night a Traveler . 1st ed., Harcourt Brace Jovanovich, 1981.
+Calvino, Italo. If on a Winter’s Night a Traveler. 1st ed., Harcourt Brace Jovanovich, 1981.
 
-Campbell, Joseph. Myths to Live By . Arkana, 1993.
+Campbell, Joseph. Myths to Live By. Arkana, 1993.
 
 Camus, Albert. The Rebel: An Essay on Man in Revolt. 1st Vintage International ed., Vintage Books, 1991.
 
-Carroll, Lewis. The Hunting of the Snark . W.W. Norton & Co., 2006.
+Carroll, Lewis. The Hunting of the Snark. W.W. Norton & Co., 2006.
 
-—. Alice’s Adventures in Wonderland & through the Looking-Glass and What Alice Found There: An Illustrated Classic . Canterbury Classics, 2017.
+—. Alice’s Adventures in Wonderland & through the Looking-Glass and What Alice Found There: An Illustrated Classic. Canterbury Classics, 2017.
 
-Cocteau, Jean. Le Potomak, 1913-1914 ; Précédé D’un Prospectus 1916 . Passage du Marais, 2000.
+Cocteau, Jean. Le Potomak, 1913-1914 ; Précédé D’un Prospectus 1916. Passage du Marais, 2000.
 
-Cortázar, Julio. Hopscotch . Pantheon Books, 1987.
+Cortázar, Julio. Hopscotch. Pantheon Books, 1987.
 
-—. Cronopios and Famas . New Directions Pub. Corp., 1999.
+—. Cronopios and Famas. New Directions Pub. Corp., 1999.
 
-Cross, James E. and Thomas D. Hill. The Prose Solomon and Saturn and Adrian and Ritheus . University of Toronto Press, 1982. Mcmaster Old English Studies and Texts , vol. 1.
+Cross, James E. and Thomas D. Hill. The Prose Solomon and Saturn and Adrian and Ritheus. University of Toronto Press, 1982. Mcmaster Old English Studies and Texts, vol. 1.
 
-Cynewulf et al. The Old English Poems of Cynewulf . Dumbarton Oaks Medieval Library, Harvard University Press, 2013.
+Cynewulf et al. The Old English Poems of Cynewulf. Dumbarton Oaks Medieval Library, Harvard University Press, 2013.
 
-Dante, Alighieri and Allen Mandelbaum. The Divine Comedy of Dante Alighieri: Inferno . University of California Press, 1982.
+Dante, Alighieri and Allen Mandelbaum. The Divine Comedy of Dante Alighieri: Inferno. University of California Press, 1982.
 
-—. The Divine Comedy of Dante Alighieri: Purgatorio . University of California Press, 1984.
+—. The Divine Comedy of Dante Alighieri: Purgatorio. University of California Press, 1984.
 
-—. The Divine Comedy of Dante Alighieri: Paradiso . University of California Press, 1986.
+—. The Divine Comedy of Dante Alighieri: Paradiso. University of California Press, 1986.
 
-Day, Holman. Up in Maine : Stories of Yankee Life Told in Verse . Small, Maynard, 1900.
+Day, Holman. Up in Maine : Stories of Yankee Life Told in Verse. Small, Maynard, 1900.
 
 Dickens, Charles and Norman Page. The Old Curiosity Shop. Penguin Books, 2000.
 
-Dickinson, Emily and Thomas Herbert Johnson. The Complete Poems of Emily Dickinson . Back Bay Books, Little, Brown and Co., 1997.
+Dickinson, Emily and Thomas Herbert Johnson. The Complete Poems of Emily Dickinson. Back Bay Books, Little, Brown and Co., 1997.
 
-Ellmann, Richard. James Joyce . New and rev. ed., Oxford University Press, 1982.
+Ellmann, Richard. James Joyce. New and rev. ed., Oxford University Press, 1982.
 
-Faulkes, Anthony. Rauðúlfs Þáttr : A Study. Bókaútgáfa Menningarsjóðs, 1966. Studia Islandica — Íslenzk Fræði , vol. 25.
+Faulkes, Anthony. Rauðúlfs Þáttr : A Study. Bókaútgáfa Menningarsjóðs, 1966. Studia Islandica — Íslenzk Fræði, vol. 25.
 
-Faulkner, William. As I Lay Dying . Modern Library, 2012.
+Faulkner, William. As I Lay Dying. Modern Library, 2012.
 
-—. The Wild Palms [If I Forget Thee, Jerusalem] . Vintage International, 2011.
+—. The Wild Palms [If I Forget Thee, Jerusalem]. Vintage International, 2011.
 
-Flansburgh, John; Linnell, John; They Might Be Giants. “Birdhouse in Your Soul.” Flood , Elektra, 1989.
+Flansburgh, John; Linnell, John; They Might Be Giants. “Birdhouse in Your Soul.” Flood, Elektra, 1989.
 
 Fleming, Victor. “The Wizard of Oz.” Metro Goldwyn Mayer, 1939.
 
-Gano, Gordon James; The Violent Femmes. “Lies.” 3 , Slash , 1988.
+Gano, Gordon James; The Violent Femmes. “Lies.” 3, Slash, 1988.
 
-García Márquez, Gabriel and Gregory Rabassa. One Hundred Years of Solitude . HarperCollins, 2003.
+García Márquez, Gabriel and Gregory Rabassa. One Hundred Years of Solitude. HarperCollins, 2003.
 
 Gilliam, Terry. “Brazil.” Embassy International Pictures, 1985.
 
 —. “12 Monkeys.” Universal Pictures, Atlas Entertainment, Classico, 1996.
 
-Gorey, Edward. The Awdrey-Gore Legacy . Dodd, 1972.
+Gorey, Edward. The Awdrey-Gore Legacy. Dodd, 1972.
 
-—. The Eclectic Abecedarium . Pomegranate, 1983.
+—. The Eclectic Abecedarium. Pomegranate, 1983.
 
-Goudy, Frederic W. et al. A Half-Century of Type Design and Typography, 1895-1945 . Typophiles, 1946. Typophile Chap Books , vol. 13-14.
+Goudy, Frederic W. et al. A Half-Century of Type Design and Typography, 1895-1945. Typophiles, 1946. Typophile Chap Books, vol. 13-14.
 
-Gough, Julian. “End Poem ” Minecraft Java Edition 1.0.0 , Mojang, 2011.
+Gough, Julian. “End Poem ” Minecraft Java Edition 1.0.0, Mojang, 2011.
 
-Grimm, Jacob et al. The Fairy Tales of the Brothers Grimm . Taschen, 2011.
+Grimm, Jacob et al. The Fairy Tales of the Brothers Grimm. Taschen, 2011.
 
-Hamer, R. F. S. A Choice of Anglo-Saxon Verse. Revised and expanded edition . Faber & Faber, 2015.
+Hamer, R. F. S. A Choice of Anglo-Saxon Verse. Revised and expanded edition. Faber & Faber, 2015.
 
-Heraclitus and T. M. Robinson. Fragments . University of Toronto Press, 1987.
+Heraclitus and T. M. Robinson. Fragments. University of Toronto Press, 1987.
 
-Hitti, Philip K. Capital Cities of Arab Islam . University of Minnesota Press, 1973.
+Hitti, Philip K. Capital Cities of Arab Islam. University of Minnesota Press, 1973.
 
-Isidore of Seville and Gustav Heinrich Becker. De Natura Rerum Liber. Recensuit Gustavus Becker . A. M. Hakkert, 1967.
+Isidore of Seville and Gustav Heinrich Becker. De Natura Rerum Liber. Recensuit Gustavus Becker. A. M. Hakkert, 1967.
 
-Johnson, Willard and Harry Miller Lydenberg. Peter Piper’s Practical Principles of Plain and Perfect Pronunciation : A Study in Typography . Dover Publications, Inc., 2015.
+Johnson, Willard and Harry Miller Lydenberg. Peter Piper’s Practical Principles of Plain and Perfect Pronunciation : A Study in Typography. Dover Publications, Inc., 2015.
 
-Joyce, James. Dubliners . Penguin Books, 1996.
+Joyce, James. Dubliners. Penguin Books, 1996.
 
-—. Ulysses . Vintage Books div. of Random House.1986.
+—. Ulysses. Vintage Books div. of Random House.1986.
 
 —. Finnegans Wake. Penguin Books, 1999.
 
-Kafka, Franz and Nahum N. Glatzer. The Complete Stories . Schocken Books: Distributed by Pantheon Books, 1988.
+Kafka, Franz and Nahum N. Glatzer. The Complete Stories. Schocken Books: Distributed by Pantheon Books, 1988.
 
-Kaku, Michio. Hyperspace: A Scientific Odyssey through Parallel Universes, Time Warps, and the Tenth Dimension . Anchor Books, 1995.
+Kaku, Michio. Hyperspace: A Scientific Odyssey through Parallel Universes, Time Warps, and the Tenth Dimension. Anchor Books, 1995.
 
-Klaeber, Frederick. Beowulf, and the Fight at Finnsburg . D. C. Heath and company, 1941.
+Klaeber, Frederick. Beowulf, and the Fight at Finnsburg. D. C. Heath and company, 1941.
 
-Krapp, George Philip and Elliott Van Kirk Dobbie. The Exeter Book . Columbia University Press, 1936. The Anglo Saxon Poetic Records, a Collective Edition III .
+Krapp, George Philip and Elliott Van Kirk Dobbie. The Exeter Book. Columbia University Press, 1936. The Anglo Saxon Poetic Records, a Collective Edition III.
 
-La Rochefoucauld, François and Jack Mitchell. Reflections, or Moral Opinions and Maxims: Together with Various Refections and Biographical Writings . Bilingual edition. ed., Ad Usum Lectoris, 2017.
+La Rochefoucauld, François and Jack Mitchell. Reflections, or Moral Opinions and Maxims: Together with Various Refections and Biographical Writings. Bilingual edition. ed., Ad Usum Lectoris, 2017.
 
 Lee, Spike. “Do the Right Thing.” 40 Acres & A Mule Filmworks, 1989.
 
 Leiner, Danny. “Harold & Kumar Go to White Castle.” Endgame Entertainment, Kingsgate Films, 2004.
 
-Leslie, R. F. Three Old English Elegies; the Wife’s Lament; the Husband’s Message; the Ruin . Manchester U.P., 1966. Old and Middle English Texts .
+Leslie, R. F. Three Old English Elegies; the Wife’s Lament; the Husband’s Message; the Ruin. Manchester U.P., 1966. Old and Middle English Texts.
 
-London, Jack. The Call of the Wild, White Fang & to Build a Fire . Modern Library, 1998.
+London, Jack. The Call of the Wild, White Fang & to Build a Fire. Modern Library, 1998.
 
-Lovett, Lyle. “If I Had a Boat.” Pontiac , MCA/Curb, 1987.
+Lovett, Lyle. “If I Had a Boat.” Pontiac, MCA/Curb, 1987.
 
-Mann, Thomas and John E. Woods. The Magic Mountain: A Novel . A. Knopf, 1995.
+Mann, Thomas and John E. Woods. The Magic Mountain: A Novel. A. Knopf, 1995.
 
-Morrissey; Marr, Johnny; The Smiths. “I Know It’s Over.” The Queen is Dead , Rough Trade, 1985.
+Morrissey; Marr, Johnny; The Smiths. “I Know It’s Over.” The Queen is Dead, Rough Trade, 1985.
 
-Nabokov, Vladimir Vladimirovich. The Defense . Popular Library, 1964.
+Nabokov, Vladimir Vladimirovich. The Defense. Popular Library, 1964.
 
-—. Bend Sinister . Vintage International, 1990.
+—. Bend Sinister. Vintage International, 1990.
 
-Nakamura, Fuminori. Evil and the Mask . Soho Press, Inc., 2013.
+Nakamura, Fuminori. Evil and the Mask. Soho Press, Inc., 2013.
 
-Nin, Anaïs et al. Winter of Artifice : Three Novelettes . Swallow Press, 2016.
+Nin, Anaïs et al. Winter of Artifice : Three Novelettes. Swallow Press, 2016.
 
 Orwell, George. 1984. Harcourt Brace Jovanovich, 1984.
 
-Ovid and Charles Martin. Metamorphoses: A New Translation, Contexts, Criticism . W.W. Norton, 2010.
+Ovid and Charles Martin. Metamorphoses: A New Translation, Contexts, Criticism. W.W. Norton, 2010.
 
-Paracelsus et al. Selected Writings . Princeton University Press, 1988. Bollingen Series , vol. 28.
+Paracelsus et al. Selected Writings. Princeton University Press, 1988. Bollingen Series, vol. 28.
 
-Pelevin, Viktor and Andrew Bromfield. The Helmet of Horror: The Myth of Theseus and the Minotaur . Canongate, 2006.
+Pelevin, Viktor and Andrew Bromfield. The Helmet of Horror: The Myth of Theseus and the Minotaur. Canongate, 2006.
 
-Pessoa, Fernando et al. The Complete Works of Alberto Caeiro . New Directions Publishing, 2020.
+Pessoa, Fernando et al. The Complete Works of Alberto Caeiro. New Directions Publishing, 2020.
 
 Reiner, Rob. “The Princess Bride.” Act III Communications, Buttercup Films Ltd., 1987.
 
-Royal Irish Academy and Robert Atkinson. The Book of Ballymote. A Collection of Pieces (Prose and Verse) in the Irish Language . Royal Irish academy, 1887.
+Royal Irish Academy and Robert Atkinson. The Book of Ballymote. A Collection of Pieces (Prose and Verse) in the Irish Language. Royal Irish academy, 1887.
 
-Rushdie, Salman. The Satanic Verses . Viking, 1988.
+Rushdie, Salman. The Satanic Verses. Viking, 1988.
 
-—. Fury: A Novel . Random House, 2001.
+—. Fury: A Novel. Random House, 2001.
 
-—. “Outside the Whale.” Granta , March 1, 1984.
+—. “Outside the Whale.” Granta, March 1, 1984.
 
-Sagan, Carl and Ann Druyan. The Varieties of Scientific Experience: A Personal View of the Search for God . Penguin Press, 2006.
+Sagan, Carl and Ann Druyan. The Varieties of Scientific Experience: A Personal View of the Search for God. Penguin Press, 2006.
 
-Savage, Anne and Christopher Pick. The Anglo-Saxon Chronicles . Phoebe Phillips, 1982.
+Savage, Anne and Christopher Pick. The Anglo-Saxon Chronicles. Phoebe Phillips, 1982.
 
-Scholem, Gershom. “The Golem of Prague & the Golem of Rehovoth.” Commentary , January 1966.
+Scholem, Gershom. “The Golem of Prague & the Golem of Rehovoth.” Commentary, January 1966.
 
-Shakespeare, William. Henry V . Penguin Books, 1999.
+Shakespeare, William. Henry V. Penguin Books, 1999.
 
 —. The Sonnets. Everyman, 1993.
 
 —. Richard III. Signet Classic, 1988.
 
-—. Twelfth Night, or, What You Will . Washington Square Press new Folger’s ed., Pocket Books, 1993.
+—. Twelfth Night, or, What You Will. Washington Square Press new Folger’s ed., Pocket Books, 1993.
 
-Simon, Paul. “Slip Slidin’ Away.” Greatest Hits, Etc . , Columbia, 1977.
+Simon, Paul. “Slip Slidin’ Away.” Greatest Hits, Etc., Columbia, 1977.
 
-Sondheim, Stephen et al. A Funny Thing Happened on the Way to the Forum . Frank Music, 1963.
+Sondheim, Stephen et al. A Funny Thing Happened on the Way to the Forum. Frank Music, 1963.
 
 Spielberg, Steven. “Jurassic Park.” Universal Pictures, Amblin Entertainment, 1993.
 
-Tacitus, Cornelius and Cornelius Tacitus. The Agricola and the Germania . Penguin, 1971.
+Tacitus, Cornelius and Cornelius Tacitus. The Agricola and the Germania. Penguin, 1971.
 
-Thackeray, William Makepeace. The Works of William Makepeace Thackeray . AMS Press, 1984.
+Thackeray, William Makepeace. The Works of William Makepeace Thackeray. AMS Press, 1984.
 
-Times, Special to The New York. “Excerpts from Yevtushenko Statement.” The New York Times , February 18, 1974.
+Times, Special to The New York. “Excerpts from Yevtushenko Statement.” The New York Times, February 18, 1974.
 
-Tolkien, Christopher and Gabriel Turville-Petre. Hervarar Saga Ok Heiðreks . Viking Society for Northern Research, University College, 1976. vol. 2.
+Tolkien, Christopher and Gabriel Turville-Petre. Hervarar Saga Ok Heiðreks. Viking Society for Northern Research, University College, 1976. vol. 2.
 
-Tolkien, J. R. R. The Fellowship of the Ring : Being the First Part of the Lord of the Rings . Mariner Books/Houghton Mifflin Harcourt, 2012. The Lord of the Rings , pt 1.
+Tolkien, J. R. R. The Fellowship of the Ring : Being the First Part of the Lord of the Rings. Mariner Books/Houghton Mifflin Harcourt, 2012. The Lord of the Rings, pt 1.
 
-—. The Hobbit, or, There and Back Again . First Mariner Books edition, Mariner Books/Houghton Mifflin Harcourt, 2013.
+—. The Hobbit, or, There and Back Again. First Mariner Books edition, Mariner Books/Houghton Mifflin Harcourt, 2013.
 
-Tzu, Lao and Jonathan Star. Tao Te Ching: The Definitive Edition . Jeremy P Tarcher, Putnam, 2001.
+Tzu, Lao and Jonathan Star. Tao Te Ching: The Definitive Edition. Jeremy P Tarcher, Putnam, 2001.
 
 Tzu, Lao and Red Pine. Lao-tzu’s Taoteching. Mercury House, 1996.
 
-Van Zandt, Townes. “Snowin’ on Ratone.” At My Window , Sugar Hill, 1987.
+Van Zandt, Townes. “Snowin’ on Ratone.” At My Window, Sugar Hill, 1987.
 
-Veneziano, Gabriele. “The Myth of the Beginning of Time.” Scientific American , February 1, 2006, pp. 72-81.
+Veneziano, Gabriele. “The Myth of the Beginning of Time.” Scientific American, February 1, 2006, pp. 72-81.
 
-Washington, Ned; Harline, Leigh. “When You Wish Upon a Star.” Pinocchio Original Motion Picture Soundtrack , Victor, EMI, 1939.
+Washington, Ned; Harline, Leigh. “When You Wish Upon a Star.” Pinocchio Original Motion Picture Soundtrack, Victor, EMI, 1939.
 
-Waters, Roger, Pink Floyd. “Outside the Wall.” The Wall , Harvest, Columbia, 1979.
+Waters, Roger, Pink Floyd. “Outside the Wall.” The Wall, Harvest, Columbia, 1979.
 
-Wells, H. G. and W. Warren Wagar. Journalism and Prophecy, 1893-1946: An Anthology . Bodley Head, 1965.
+Wells, H. G. and W. Warren Wagar. Journalism and Prophecy, 1893-1946: An Anthology. Bodley Head, 1965.
 
-Wilde, Oscar and Vyvyan Beresford Holland. Complete Works of Oscar Wilde . Collins, 1966.
+Wilde, Oscar and Vyvyan Beresford Holland. Complete Works of Oscar Wilde. Collins, 1966.
 
 Winterson, Jeanette. Written on the Body. Vintage Books, 1994.
 
-Wyatt, Thomas and R. A. Rebholz. Sir Thomas Wyatt, the Complete Poems . Yale University Press, 1981.
+Wyatt, Thomas and R. A. Rebholz. Sir Thomas Wyatt, the Complete Poems. Yale University Press, 1981.
 
 Zappa, Frank. “Stink-Foot.” Apostrophe (‘), DiskReet Records, 1974.
 
-Zeno and Henry Desmond Pritchard Lee. Zeno of Elea . A. M. Hakkert, 1967. Cambridge Classical Studies , vol. 1.
+Zeno and Henry Desmond Pritchard Lee. Zeno of Elea. A. M. Hakkert, 1967. Cambridge Classical Studies, vol. 1.
 
 ### Turn
 
@@ -1293,7 +1293,7 @@ EA. Diphthong: a compound vowel. This one is deceased, we don’t use it any mor
 
 Maybe EA sounds like the E in second. Maybe EA sounds like ÆA, like a hybrid of what A is doing in gnaw and in mad. More like gnaw, but it’s still pissed off. Or it was, EA is dead and gone now, some sounds die. They get eaten up, don’t be mad about it. What chewed EA away? Everything is temporary.
 
-Carve a W and make it look like a fresh mound of earth in a valley. Dirt piled over a grave. Put it on a stick so it looks like a Tiw with wings. He’s dead and in the sky .
+Carve a W and make it look like a fresh mound of earth in a valley. Dirt piled over a grave. Put it on a stick so it looks like a Tiw with wings. He’s dead and in the sky.
 
 ### ᚠ
 
@@ -1332,9 +1332,9 @@ Feoh means money, in the form of cattle. Think of a cow’s value: milk, meat, h
 ![Against every Evil Rune Poem](archive/thumbs/2022_03_244-H-244-Gratian-Decretum-gettymuseum-ludwig-xiv-2-83.mq_.163-fol-8v-letters-for-titles-vern-tonkin--200x300.jpg)
 ![Against every Evil Rune Poem](archive/thumbs/2022_03_balds-leechbook-britishlibrary-royal-ms-12-d-xvii-f052v-letters-for-titles-vern-tonkin-300x276.jpg)
 
-How are you feeling, you ok? You don’t look so good. You’ve been reckless haven’t you, got a bit too close and breathed in. I know what you’ve been doing. But hey, no worries, too late now, not to dwell, it happens, it’s all good, you’ll be fine. I’ve got the cure right here. Read it, it’s English. Look at the first line with the big letter Ƿ ( wyn , looks like a P sounds like a W ). It says against every evil rune poem and also to counter stuff an elf might have done, write the Greek letters Alpha and Omega plus a bunch of other things including my name looking all Romano British. It doesn’t say where. I think right onto your body. Makes the most sense, everything else is written there. Go on, you are safe in my hands. We need to get you better. Done? Show me.
+How are you feeling, you ok? You don’t look so good. You’ve been reckless haven’t you, got a bit too close and breathed in. I know what you’ve been doing. But hey, no worries, too late now, not to dwell, it happens, it’s all good, you’ll be fine. I’ve got the cure right here. Read it, it’s English. Look at the first line with the big letter Ƿ (wyn, looks like a P sounds like a W). It says against every evil rune poem and also to counter stuff an elf might have done, write the Greek letters Alpha and Omega plus a bunch of other things including my name looking all Romano British. It doesn’t say where. I think right onto your body. Makes the most sense, everything else is written there. Go on, you are safe in my hands. We need to get you better. Done? Show me.
 
-Has it kicked in yet? No? There’s more leechcraft you can do. Pound together blackberry (it says bramble apple but it means blackberry) lupins, and pennyroyal, and dry this stuff into a nice sifted powder. You’re going to have to find an altar or some such because next you put the dust into a pouch, lay it under the altar and sing nine masses over the dust. That’s a lot of mass singing to get one little rune poem out of your system but for christsakes don’t cut this corner. Trust me. You don’t take shortcuts when the gods are watching . Bring it all home when you’re done and bring some holy water with you because if you think you’re going to cure the effects of an evil rune poem without holy water you’re dreaming. You just need three drops. Stir the serenaded dust into milk with the holy water and drink it at 3am, 9, noon and 3pm. Set an alarm: you don’t look like you are in any shape to keep track of time. Think you can manage? This should work, for now, though everything is temporary. It says it works on cattle too. Now go lie down and try not to die. Honestly, I don’t feel sorry for you. If you are going to be exposing yourself to evil rune poems what do you expect?
+Has it kicked in yet? No? There’s more leechcraft you can do. Pound together blackberry (it says bramble apple but it means blackberry) lupins, and pennyroyal, and dry this stuff into a nice sifted powder. You’re going to have to find an altar or some such because next you put the dust into a pouch, lay it under the altar and sing nine masses over the dust. That’s a lot of mass singing to get one little rune poem out of your system but for christsakes don’t cut this corner. Trust me. You don’t take shortcuts when the gods are watching. Bring it all home when you’re done and bring some holy water with you because if you think you’re going to cure the effects of an evil rune poem without holy water you’re dreaming. You just need three drops. Stir the serenaded dust into milk with the holy water and drink it at 3am, 9, noon and 3pm. Set an alarm: you don’t look like you are in any shape to keep track of time. Think you can manage? This should work, for now, though everything is temporary. It says it works on cattle too. Now go lie down and try not to die. Honestly, I don’t feel sorry for you. If you are going to be exposing yourself to evil rune poems what do you expect?
 
 ### How to Move a Cow
 
@@ -1377,11 +1377,11 @@ Moving the cow has resulted in your mutual annihilation and your effort has come
 ![X≠Y≠Z: Rune Casting!](archive/thumbs/2022_04_238-E-letters-fortitles-vern-tonkin-283x300.jpg)
 ![X≠Y≠Z: Rune Casting!](archive/thumbs/2022_04_xyz-rune-casting-lettersfortitles-vern-tonkin-256x300.jpg)
 
-Y: This is our future? Ear and Feoh . Death and cattle? Are we going to kill a cow? Are we meeting some rich cattle?
+Y: This is our future? Ear and Feoh. Death and cattle? Are we going to kill a cow? Are we meeting some rich cattle?
 
 Z: Wealth. It means wealth.
 
-Y: Wealth? Like lots of cows ?
+Y: Wealth? Like lots of cows?
 
 X: Portable wealth, not cows. Nobody pays in cow anymore.
 
@@ -1395,7 +1395,7 @@ Y: The smell of the bank! The wealth rune. Wealth!
 
 X: We’ll have money.
 
-Y: Yes! We will be rich! It’s so good to know it beforehand . Cows are big, right, this is big money, beyond our wildest fantasies rich. Yes. Fantastic. Yes. We’ll be swimming in it. Scrooge McDucking it through ducats! Plunging into property!
+Y: Yes! We will be rich! It’s so good to know it beforehand. Cows are big, right, this is big money, beyond our wildest fantasies rich. Yes. Fantastic. Yes. We’ll be swimming in it. Scrooge McDucking it through ducats! Plunging into property!
 
 X: Capering in capital!
 
@@ -1417,7 +1417,7 @@ Z: That’s the death rune with it. Posthumous.
 
 Y: You think we’ll see none of it?
 
-Z: It will be none of our business. The earth will be our consort .
+Z: It will be none of our business. The earth will be our consort.
 
 ### Octave
 
@@ -1426,11 +1426,11 @@ Z: It will be none of our business. The earth will be our consort .
 ![Octave](archive/thumbs/2022_04_236-E-Frank-Zappa-solo-with-vibes-letters-for-titles-vern-tonkin-300x296.jpg)
 ![Octave](archive/thumbs/2022_04_Octave-Lettersfortitles-VernTonkin-300x272.jpg)
 
-The rune carvers, the people who knew the Rune Poem by heart, probably sang it . There’s a lot of evidence for that, not to mention putting a story to music makes the retelling easier to remember. We can all sing along, others joining in where memory fails. Poetry has beats and rhythm and we sing ours too, but we don’t call it poetry when we do that. We have another word for that. Language takes all the music out of poetry. Language did not take language out of music.
+The rune carvers, the people who knew the Rune Poem by heart, probably sang it. There’s a lot of evidence for that, not to mention putting a story to music makes the retelling easier to remember. We can all sing along, others joining in where memory fails. Poetry has beats and rhythm and we sing ours too, but we don’t call it poetry when we do that. We have another word for that. Language takes all the music out of poetry. Language did not take language out of music.
 
-Music has an alphabet of its own: the letters are notes. And these notes we arranged into groups of eight. Octaves . Take a note, think of a sound. It’s got a letter, but from such a short alphabet. Now hum it. Hum it steady, you sound terrible because you are not actually doing it out loud. Do it. There you go. Your note, that sound, is the sound of your vocal cords vibrating. Double the vibration rate, multiply that number by two, and you have the sound of the same note, eight notes away. An octave. Cut the rate in half, divide by two, and you get the same note in the other direction, eight notes lower. Hear it? It sounds like math. Each group of eight is a scale, and each doubled or halved vibration rate forms a new starting point of a new scale. Try them together: the same note eight notes away, they harmonize. You can go either direction with this, our voices can reach three octaves.
+Music has an alphabet of its own: the letters are notes. And these notes we arranged into groups of eight. Octaves. Take a note, think of a sound. It’s got a letter, but from such a short alphabet. Now hum it. Hum it steady, you sound terrible because you are not actually doing it out loud. Do it. There you go. Your note, that sound, is the sound of your vocal cords vibrating. Double the vibration rate, multiply that number by two, and you have the sound of the same note, eight notes away. An octave. Cut the rate in half, divide by two, and you get the same note in the other direction, eight notes lower. Hear it? It sounds like math. Each group of eight is a scale, and each doubled or halved vibration rate forms a new starting point of a new scale. Try them together: the same note eight notes away, they harmonize. You can go either direction with this, our voices can reach three octaves.
 
-The Old English Rune Poem, this little alphabet song, has octaves too. The runes are arranged in three rows of eight, three octaves, with a bunch of vowels tacked onto the end to get to 29 total. That’s our number for it. We did that, numbering the runes 1 to 29. The runes are really numbered a different way: by which octave it sits in and what place in it. Feoh, Wealth is 1.1, it is the first note in the first octave that ends with 1.8 Wyn , Joy. One octave away from Feoh at spot 2.1 is Hægl, Hail, which can really really pummel away any wealth you might be holding in a crop, and one more octave away is 3.1 Tiw whom you can depend on in a battle over resources, which is what most of their battles were about.
+The Old English Rune Poem, this little alphabet song, has octaves too. The runes are arranged in three rows of eight, three octaves, with a bunch of vowels tacked onto the end to get to 29 total. That’s our number for it. We did that, numbering the runes 1 to 29. The runes are really numbered a different way: by which octave it sits in and what place in it. Feoh, Wealth is 1.1, it is the first note in the first octave that ends with1.8 Wyn, Joy. One octave away from Feoh at spot 2.1 is Hægl, Hail, which can really really pummel away any wealth you might be holding in a crop, and one more octave away is 3.1 Tiw whom you can depend on in a battle over resources, which is what most of their battles were about.
 
 They used to play with rune code in manuscript drawings: they would hide coded meaning in main images and doodle it into the margins. A decoration might have one of something on this side and one on that side for F and so on, a figure might show three fingers on one hand and five on the other for the letter L and be grouped with others to spell out a word. The runes hold a numeric code, hidden in plain sight. Did they sing in code too? Could you know the letter by listening to the note? Could they hum messages in this way just through sound? Well they could, but did they? We don’t know. There is no plain sight for this. The answer is hidden forever.
 
@@ -1441,13 +1441,13 @@ They used to play with rune code in manuscript drawings: they would hide coded m
 ![How to Die](archive/thumbs/2022_04_234-I-graduale-della-trinita-s-79r-museo-di-san-marco-letters-for-titles-vern-tonkin-197x300.jpg)
 ![How to Die](archive/thumbs/2022_04_How-to-Die-LettersforTitlesVernTonkin-300x200.jpg)
 
-First, you must find a reason not to live. There exists uncountable reasons but you must choose at least one and try to make it as ineffable as possible so the people you leave behind may feel suitably at a loss for words when they find you. An added benefit: it will be easier for the people who attend your wake, interment, scattering of the ashes, memorial service, whatever it is it will be none of your business, to speak in hushed and reverent tones if they find themselves capable of speaking at all. Amongst the reasons not to live you might choose: you are suffering from progressive melancholia; by ceasing to exist you will bring your existence to the attention of the person who barely knows you exist, though you maintain a unique awareness of said person’s existence; pondering the great nothingness of everythingness has inverted your thoughts into a perpetual retrospective arrangement .
+First, you must find a reason not to live. There exists uncountable reasons but you must choose at least one and try to make it as ineffable as possible so the people you leave behind may feel suitably at a loss for words when they find you. An added benefit: it will be easier for the people who attend your wake, interment, scattering of the ashes, memorial service, whatever it is it will be none of your business, to speak in hushed and reverent tones if they find themselves capable of speaking at all. Amongst the reasons not to live you might choose: you are suffering from progressive melancholia; by ceasing to exist you will bring your existence to the attention of the person who barely knows you exist, though you maintain a unique awareness of said person’s existence; pondering the great nothingness of everythingness has inverted your thoughts into a perpetual retrospective arrangement.
 
-Once you have found your reason not to live, you must reduce said reason by cross multiplication of reverses of fortune. Take it all down to one point : a singularity which contains everything .
+Once you have found your reason not to live, you must reduce said reason by cross multiplication of reverses of fortune. Take it all down to one point: a singularity which contains everything.
 
-Compose a note to be found suitably near your corpse, but not in a place where it might slip beyond a finder’s field of vision. Clutched in the hand makes for great cinema and literature, but rarely works in real death. Include in your epistle a précis of your reason not to live. Ask somebody to be kind to your surviving pets .
+Compose a note to be found suitably near your corpse, but not in a place where it might slip beyond a finder’s field of vision. Clutched in the hand makes for great cinema and literature, but rarely works in real death. Include in your epistle a précis of your reason not to live. Ask somebody to be kind to your surviving pets.
 
-Leave something in a book marking a particularly resonant passage or one which will send the finder harkening back retrospectively upon discovery. You may choose to leave something in a book at a symbolic page number. One might even leave something in a book which will send the finder to something left in another book which will send the finder to more books always to the last term of the preceding series even if the first term of a succeeding one, originating in and repeated to infinity. Possible items to leave in books: puzzle pieces, scraps of a shirt, pages of other books. Possible symbolic number: 1132 .
+Leave something in a book marking a particularly resonant passage or one which will send the finder harkening back retrospectively upon discovery. You may choose to leave something in a book at a symbolic page number. One might even leave something in a book which will send the finder to something left in another book which will send the finder to more books always to the last term of the preceding series even if the first term of a succeeding one, originating in and repeated to infinity. Possible items to leave in books: puzzle pieces, scraps of a shirt, pages of other books. Possible symbolic number: 1132.
 
 Select your method of life removal according to your own levels of drama, squeamishness, accessible materials, pain tolerance, or desire to leave a nice looking corpse. There is no need to be elaborate: if you are already poisoning yourself slowly with something, increase the dose; if you tend toward recklessness perhaps walk closer to the cliff edge until 32 feet per second per second takes care of the matter for you; have the light at the end of your tunnel be an oncoming train, or if your perambulations bring you near an oncoming Jagannath: toss yourself into his path. You’ll receive an added bonus for that last one.
 
@@ -1470,11 +1470,11 @@ Alexandria, Egypt
 
 Dear Eratosthenes,
 
-Greetings my dear friend. I congratulate you on your recent measurements of the globe, though I suspect your eyes will suffer from so much gazing at the sun to achieve it. If you are hungry for it I require your assistance in the computation of the number of Helios’ cattle. They are horned , though that may make little difference as all are worth the same money horns or no horns. They live in four herds of different colors, white, black, yellow, and dappled. Each herd has bulls in these proportions: the white bulls are equal to a half and a third of the black together with all of the yellow. The black are equal to the fourth part of the dappled, and a fifth, together with again, all of the yellow. The remaining bulls, the dappled ones, are equal to a sixth part of the white and a seventh, together with all of the yellow. And, you’re not done. These are just the boys. There’s more.
+Greetings my dear friend. I congratulate you on your recent measurements of the globe, though I suspect your eyes will suffer from so much gazing at the sun to achieve it. If you are hungry for it I require your assistance in the computation of the number of Helios’ cattle. They are horned, though that may make little difference as all are worth the same money horns or no horns. They live in four herds of different colors, white, black, yellow, and dappled. Each herd has bulls in these proportions: the white bulls are equal to a half and a third of the black together with all of the yellow. The black are equal to the fourth part of the dappled, and a fifth, together with again, all of the yellow. The remaining bulls, the dappled ones, are equal to a sixth part of the white and a seventh, together with all of the yellow. And, you’re not done. These are just the boys. There’s more.
 
 Here are the cows: the white are equal to the the third part and a fourth of the whole herd of the black. The black are equal to the fourth part again of the dappled, and with if a fifth part, when all, including the bulls, don’t forget the bulls, are together. With me? This is the property of a god; he’s got masses of cows, all reproducing, so you must keep up: the dappled in four parts are equal in number to a fifth part and a sixth of the yellow herd. The yellow are equal to a sixth part and a seventh of the white herd.
 
-Keep in mind, when the white ones mingle with the black, and if you can get them to stand still, they don’t like to stand still, they make a shape equal in depth and breath. Helios likes to line them up like this, takes forever but he has the time . He likes to arrange the yellow and the dappled bulls as one herd into a triangle shape, starting with one and then two in the next row, then three, and so on. There are exactly enough of them to achieve this, so try it in your calculations but don’t let the other colors in there! The others like to triangulate too, but you must exile them from the equation. Just the yellow and dappled bulls invited.
+Keep in mind, when the white ones mingle with the black, and if you can get them to stand still, they don’t like to stand still, they make a shape equal in depth and breath. Helios likes to line them up like this, takes forever but he has the time. He likes to arrange the yellow and the dappled bulls as one herd into a triangle shape, starting with one and then two in the next row, then three, and so on. There are exactly enough of them to achieve this, so try it in your calculations but don’t let the other colors in there! The others like to triangulate too, but you must exile them from the equation. Just the yellow and dappled bulls invited.
 
 If you can do this Eratosthenes, I’ll come there myself, call you perfect, and crown you in glory. At minimum I will buy you lunch, you were looking quite starved last we met.
 
@@ -1491,11 +1491,11 @@ A:vt
 ![Everything is Temporary](archive/thumbs/2022_04_230-H-9th-cen-leaf-british-library-add-ms-36823-letters-fortitles-vern-tonkin-300x300.jpg)
 ![Everything is Temporary](archive/thumbs/2022_04_everything-is-temporary-6fps-letters-for-titles-vern-tonkin-300x207.gif)
 
-I am so terribly sorry for your loss. I’ll be thinking about you and will light a candle. Please let me know if there is anything I can do for you in your time of grief, while you are in mourning, as you move through this tragic occasion, during your bereavement, it’s so hard to know what to say. You were alive for such a short time too. Eternity will feel much longer, trust me . What will you do now? Can you watch your people while they divide your stuff? Maybe you don’t want to see that. Making piles, what they keep for themselves or can sell, what they slip into a pocket when the other one isn’t looking. Donations by the door, lamps on the floor. Things going into garbage bags. It’s hard to watch. At least you seem to have people. So many die exiled in wretchedness and just imagine that clean out scene. No respect.
+I am so terribly sorry for your loss. I’ll be thinking about you and will light a candle. Please let me know if there is anything I can do for you in your time of grief, while you are in mourning, as you move through this tragic occasion, during your bereavement, it’s so hard to know what to say. You were alive for such a short time too. Eternity will feel much longer, trust me. What will you do now? Can you watch your people while they divide your stuff? Maybe you don’t want to see that. Making piles, what they keep for themselves or can sell, what they slip into a pocket when the other one isn’t looking. Donations by the door, lamps on the floor. Things going into garbage bags. It’s hard to watch. At least you seem to have people. So many die exiled in wretchedness and just imagine that clean out scene. No respect.
 
-It looks to me like you held onto a lot more than was strictly necessary, and not so strictly. I get it. I love my stuff. But what’s it doing for you now that you’ve chosen the earth as your consort ? What do you care what’s left of your worth? It’s none of your business.
+It looks to me like you held onto a lot more than was strictly necessary, and not so strictly. I get it. I love my stuff. But what’s it doing for you now that you’ve chosen the earth as your consort? What do you care what’s left of your worth? It’s none of your business.
 
-Too bad you weren’t one of the rune carvers, back in their day. They were no hoarders. To be worth something you had to give to other people. You have so you give, and the more you give the more you are seen to be worth. As a bonus, you won’t end up with nothing because now, people will give you stuff back, which you can give to more people and in turn receive more stuff. Everybody else is doing it too, on all levels, rich or poor. Doesn’t matter who . Or what, it can be anything. You have it, pass it along, don’t be shy. Don’t be modest either, you do this loud. Look what I’m giving, this thing that I got from whomever. See? Property, goods, food, everything you have becomes temporary. It is temporary anyway, everything is temporary, so you might as well let it circulate like life blood through the people, and you should.
+Too bad you weren’t one of the rune carvers, back in their day. They were no hoarders. To be worth something you had to give to other people. You have so you give, and the more you give the more you are seen to be worth. As a bonus, you won’t end up with nothing because now, people will give you stuff back, which you can give to more people and in turn receive more stuff. Everybody else is doing it too, on all levels, rich or poor. Doesn’t matter who. Or what, it can be anything. You have it, pass it along, don’t be shy. Don’t be modest either, you do this loud. Look what I’m giving, this thing that I got from whomever. See? Property, goods, food, everything you have becomes temporary. It is temporary anyway, everything is temporary, so you might as well let it circulate like life blood through the people, and you should.
 
 Why?
 
@@ -2165,7 +2165,7 @@ X is not Y and neither is Z.
 
 ![EA is for Death](archive/thumbs/2022_04_ea-is-for-death-lettersfortitles-vern-tonkin-300x218.jpg)
 
-We die and we know it beforehand . We have a birth and we have a death, beginning to end: time is a line. We have patterns that change, the sun, the moon, the seasons, plants grow and then die and come back again: time is a circle. You. Look at yourself. Reading this, thinking stuff, remembering things, connecting thoughts, noticing surroundings, all in the changing now: time is phenomenal flux. You know this already like muscle memory because you experience it with your body: time is sensory perception. Death is a passage to another existence similar to this one except it goes on forever: time is endless duration. Something or someone or several someones made us and set us into a finite time line, but their world is eternal and non-linear: time is the distinction between creator and creature. There is no creator, eternality resides inside us, was never born and will never die: time is eternity of being.
+We die and we know it beforehand. We have a birth and we have a death, beginning to end: time is a line. We have patterns that change, the sun, the moon, the seasons, plants grow and then die and come back again: time is a circle. You. Look at yourself. Reading this, thinking stuff, remembering things, connecting thoughts, noticing surroundings, all in the changing now: time is phenomenal flux. You know this already like muscle memory because you experience it with your body: time is sensory perception. Death is a passage to another existence similar to this one except it goes on forever: time is endless duration. Something or someone or several someones made us and set us into a finite time line, but their world is eternal and non-linear: time is the distinction between creator and creature. There is no creator, eternality resides inside us, was never born and will never die: time is eternity of being.
 
 How do we know this? We need to know death to know most of it. What is death? Only two things: a mystery and a certainty.
 
@@ -2199,13 +2199,13 @@ You may wish to leave my grave open for a time before you put me in it. Example:
 ![Byþ](archive/thumbs/2022_04_216-Y-a-little-folks-alphabet-letters-fortitles-vern-tonkin-300x300.jpg)
 ![Byþ](archive/thumbs/2022_04_Byth-bodlian-ms-junius-121-fol-66v-Handbook-for-the-use-of-a-confessor-lettersfortitles-vern-tonkin-300x300.jpg)
 
-Remember your future, what you thought it would be. Put yours in mind, it’s different for different people. You know that, obviously, but I’m not talking about individual people. I mean groups of people, peoples, whole societies of people past and present. They way we think about future and what the rune carvers thought about it is not the same. To find the difference, if you want to know the root and the soul of a culture’s sense of future, get right up close to one specific word, and take an embarrassing long look. Make you both blush. Be. That’s the word. To be. This is the word for reality, and the way this word is treated always reveals a culture’s idea of temporality, and so much more. Be means existence, which precedes essence so some philosophers say, that we are neither nature nor nurture, but something foundational to both. This is true for people only. You have to be person centered and time bound in a finite human existence for this to be true. This does not apply to anybody occupying the infinite . But here we are in the present, in finite existence, so in this headspace, let me into your head, there are three parts of existence: past, present and future. Clearly. The versions of Be we have available tells us so: was, is, will be. Basic. Everybody knows. Carved in stone.
+Remember your future, what you thought it would be. Put yours in mind, it’s different for different people. You know that, obviously, but I’m not talking about individual people. I mean groups of people, peoples, whole societies of people past and present. They way we think about future and what the rune carvers thought about it is not the same. To find the difference, if you want to know the root and the soul of a culture’s sense of future, get right up close to one specific word, and take an embarrassing long look. Make you both blush. Be. That’s the word. To be. This is the word for reality, and the way this word is treated always reveals a culture’s idea of temporality, and so much more. Be means existence, which precedes essence so some philosophers say, that we are neither nature nor nurture, but something foundational to both. This is true for people only. You have to be person centered and time bound in a finite human existence for this to be true. This does not apply to anybody occupying the infinite. But here we are in the present, in finite existence, so in this headspace, let me into your head, there are three parts of existence: past, present and future. Clearly. The versions of Be we have available tells us so: was, is, will be. Basic. Everybody knows. Carved in stone.
 
-Remember the past? The past is everything we remember, howsoever we remember it. Your past is carved, runelike, in stone too. It’s what happened. What’s done cannot be undone. Yes? No. I am not telling the truth . The past is as infinitely variable as our futures might be. There. That’s what it is. Think of something that happened, something big. You remember what happened vividly. When you die they’ll cut out your heart and find it carved right there. You remember better than anybody. Don’t you? You don’t. Somebody else was there. Go ahead ask them, what was their memory? Don’t interrupt, listen. You’ll find out how it really went down. Oh yeah. You forgot that bit, didn’t you. Didn’t you? You did. You also changed what you do remember, over time, you both did that, and you’ll change it again now to converge with the other rememberer.
+Remember the past? The past is everything we remember, howsoever we remember it. Your past is carved, runelike, in stone too. It’s what happened. What’s done cannot be undone. Yes? No. I am not telling the truth. The past is as infinitely variable as our futures might be. There. That’s what it is. Think of something that happened, something big. You remember what happened vividly. When you die they’ll cut out your heart and find it carved right there. You remember better than anybody. Don’t you? You don’t. Somebody else was there. Go ahead ask them, what was their memory? Don’t interrupt, listen. You’ll find out how it really went down. Oh yeah. You forgot that bit, didn’t you. Didn’t you? You did. You also changed what you do remember, over time, you both did that, and you’ll change it again now to converge with the other rememberer.
 
 The people who thought in Old English, the rune carvers, understood this deep in the body of their language, carved into the heart of it. They knew the past very well. They were all about the past: they had no future tense. Old English has past and not past. Come on, let’s cozy up to the word Be again. To be, it’s as close to foundational in temporal idea as language can get, so let’s root around in the foundations of the Old English speakers, yes? You’ll see they were very different people from us. Old English has two words for Be, wesan and beon, two kinds of existence, one in which something is, and one in which something is, but in a fundamental truth kind of way. This is a screen you are reading from. This is a thought written in light.
 
-How did they say Be in different tenses? How did they say was, is, and will be? Wæs , is , biþ . Wæs and is look familiar, but byþ is different. This does not mean will be. That’s the letter thorn at the end of byþ , by the way, it sounds like a th. Say it. Be-ith. Byþ . It means something like a mash up of was, is and ever shall be: the other two tenses together at the same time with an everlastingness that is experienced now. It’s the ever shall be part that’s different from our idea of future. We’ve got endless duration, they had eternality of being. It’s a huge difference. A whole different thing. One is a line, and the other is some other shape going on in the moment. Not a cycle like the seasons, that’s just a line bent back to itself. Their byþ is a flux. Phenomenal flux. Very chaos theory .
+How did they say Be in different tenses? How did they say was, is, and will be? Wæs, is, biþ. Wæs and is look familiar, but byþ is different. This does not mean will be. That’s the letter thorn at the end of byþ, by the way, it sounds like a th. Say it. Be-ith. Byþ. It means something like a mash up of was, is and ever shall be: the other two tenses together at the same time with an everlastingness that is experienced now. It’s the ever shall be part that’s different from our idea of future. We’ve got endless duration, they had eternality of being. It’s a huge difference. A whole different thing. One is a line, and the other is some other shape going on in the moment. Not a cycle like the seasons, that’s just a line bent back to itself. Their byþ is a flux. Phenomenal flux. Very chaos theory.
 
 Very important to the rune poem as well: byþ is the first word of nearly every stanza in it. Was is and ever shall be, this is how most runes are described. These words are not to be thought of in a line, by the way, I say these words in a linear row, was is ever shall be, and you see a line because you read and think words like that, one word after another. You can’t help it, this is people. But remember that for Old English speakers byþ contains multiple concepts of time fluxing together. Remember your future? Your past idea of what will be, what you thought was coming your way? When you do this you deliberately think the past and the future into the present moment, but what if there was no future? Who are a people who have no future? If these rune carvers were your people, thinking in Old English, thinking without a future tense, you don’t need a future. For you the future is unnecessary. What do you need the future for? It is already here, accessible in the now, thought about right now. It always was and it ever shall be.
 
@@ -2224,7 +2224,7 @@ Now say it:
 
 black to yeh-bed-an blea-da yeh-dre-o-sath
 
-There’s some sound in it, listen. Alliteration and beat. Three repetitions of B making a beat and there’s a pause in the middle: two parts sung as one statement. Or a call and response. Old English poetry has a musical time signature like any other music: it uses two half lines per line, usually having two stresses in each, and the first three stresses will alliterate with each other. That’s the rhythm. This line stresses Blac , geBeddan , and Bleda , and in place of a fourth stress, the last part of the second half line, gedreosaþ, falls away, dancing with nobody, and so we move forward to find new partners in the next set of alliterating words. It’s a comfortable rhythm which the Rune Poem holds though most of it, though things do get changed up in this final stanza. Look at this line:
+There’s some sound in it, listen. Alliteration and beat. Three repetitions of B making a beat and there’s a pause in the middle: two parts sung as one statement. Or a call and response. Old English poetry has a musical time signature like any other music: it uses two half lines per line, usually having two stresses in each, and the first three stresses will alliterate with each other. That’s the rhythm. This line stresses Blac, geBeddan, and Bleda, and in place of a fourth stress, the last part of the second half line, gedreosaþ, falls away, dancing with nobody, and so we move forward to find new partners in the next set of alliterating words. It’s a comfortable rhythm which the Rune Poem holds though most of it, though things do get changed up in this final stanza. Look at this line:
 
 hraw colian hrusan ceosan
 
@@ -2232,11 +2232,11 @@ And this one:
 
 Wynna gewitaþ wera geswicaþ
 
-This rhythm (called transverse or crossed alliteration depending on who you ask) has the half lines repeating their alliterating beats within the line. This is different from any other pattern in the poem. Also different, the last line of the whole poem both alliterates and rhymes within itself and rhymes with the last half line prior: bleda gedreosaþ. This is the last stanza of the poem so it makes sense to go for a big finish here with something unusual, and rhyming in the final lines of Old English poetry happens very rarely. Very. Rhyming lines end Beowulf , Judith , and the Rune Poem . Even The Rhyming Poem in the Exeter Book doesn’t end with rhymes. This stanza stands apart from the others: when you get to Ear , you know it’s the end.
+This rhythm (called transverse or crossed alliteration depending on who you ask) has the half lines repeating their alliterating beats within the line. This is different from any other pattern in the poem. Also different, the last line of the whole poem both alliterates and rhymes within itself and rhymes with the last half line prior: bleda gedreosaþ. This is the last stanza of the poem so it makes sense to go for a big finish here with something unusual, and rhyming in the final lines of Old English poetry happens very rarely. Very. Rhyming lines end Beowulf, Judith, and the Rune Poem. Even The Rhyming Poem in the Exeter Book doesn’t end with rhymes. This stanza stands apart from the others: when you get to Ear, you know it’s the end.
 
-Because of the alliterating stresses, I should have called this rune Earth and kept a nod to ear ‘s alliteration with egle and eorla . Except Ear doesn’t mean earth. It can mean the ears on your head, especially in combination with other words, or sometimes it means an ear of corn. Most of the time it means a wave in the ocean. Here in the Rune Poem we are talking about waves too, but these are waves made of earth not water. That’s the answer to this riddle: the grave. New graves in particular look like waves before their mounds settle, and larger barrows dating from the late neolithic and bronze ages look like larger waves in the landscape, rippling over those who have chosen the earth as their consort. In the Rune Poem this wave is a grave, which alliterates nicely with grievous so we can keep that bit of Old English poetic convention and our pleasures need not depart, not every covenant with Old English poetry need be betrayed, and what is black may also be white.
+Because of the alliterating stresses, I should have called this rune Earth and kept a nod to ear‘s alliteration with egle and eorla. Except Ear doesn’t mean earth. It can mean the ears on your head, especially in combination with other words, or sometimes it means an ear of corn. Most of the time it means a wave in the ocean. Here in the Rune Poem we are talking about waves too, but these are waves made of earth not water. That’s the answer to this riddle: the grave. New graves in particular look like waves before their mounds settle, and larger barrows dating from the late neolithic and bronze ages look like larger waves in the landscape, rippling over those who have chosen the earth as their consort. In the Rune Poem this wave is a grave, which alliterates nicely with grievous so we can keep that bit of Old English poetic convention and our pleasures need not depart, not every covenant with Old English poetry need be betrayed, and what is black may also be white.
 
-That last bit is literally true in this stanza, the word blac means white. Blac does not mean black like it sounds, it means pale, the pallid one chooses the earth as its consort. In Old English blæc spelled with an æ ( the letter æsc pronounced ash ) means black. I can’t hear the difference either. These homophones, blac and blæc , are opposites. How? Before Old English, In Proto-Indo-European, a language that never existed but is imagined from clues we have to explain exactly this sort of stuff, the word bhleg means to burn. So burn it, turn that black charcoal white hot and let it become pale ashes, ready to be settled into graves, mounded over with earth like waves.
+That last bit is literally true in this stanza, the word blac means white. Blac does not mean black like it sounds, it means pale, the pallid one chooses the earth as its consort. In Old English blæc spelled with an æ (the letter æsc pronounced ash) means black. I can’t hear the difference either. These homophones, blac and blæc, are opposites. How? Before Old English, In Proto-Indo-European, a language that never existed but is imagined from clues we have to explain exactly this sort of stuff, the word bhleg means to burn. So burn it, turn that black charcoal white hot and let it become pale ashes, ready to be settled into graves, mounded over with earth like waves.
 
 ### Translating Feoh
 
@@ -2249,15 +2249,15 @@ Feoh means cattle, which meant everything to the rune carvers. People kept sheep
 
 Do what?
 
-Daelan . Deal it out. Give it away .
+Daelan. Deal it out. Give it away.
 
 Why? That’s gif he wile. If you will.
 
-You will. It’s a big mistake not to, the last line says so. What you do with your wealth you do in front of God and everybody, and fate has a way of paying attention to how you roll the bones on this one. Give it to people. That’s what to do when the Gods are watching , and they are always watching.
+You will. It’s a big mistake not to, the last line says so. What you do with your wealth you do in front of God and everybody, and fate has a way of paying attention to how you roll the bones on this one. Give it to people. That’s what to do when the Gods are watching, and they are always watching.
 
 How much?
 
-Miclun, much. Your own worth depends on it , and by that I mean your own doom. Dom means doom, and to anybody who was thinking in Old English, doom means fate, law both divine and otherwise, wisdom, so many things, free will and self assessment, fame and glory. It means everything.
+Miclun, much. Your own worth depends on it, and by that I mean your own doom. Dom means doom, and to anybody who was thinking in Old English, doom means fate, law both divine and otherwise, wisdom, so many things, free will and self assessment, fame and glory. It means everything.
 
 Spelled domes, dom means of doom, genetive singular, so something belongs to doom in some way. Maybe the helotan (to cast lots) right next to it, that could be a weak noun as in those are doom’s lots you are casting, but it’s much more likely an infinitive verb. Verbs often hang out at the ends of Old English sentences, so maybe you’ll find out at your end that doom’s been the one casting the lots all along. This whole time. And when it is you slicing up a fruit bearing tree branch into twenty nine pieces and carving the alphabet into them so you can find out your doom, what you really do is invite judgement. You are casting lots before God, whichever ones you want. You do this right in front of them. What’s your fate going to be? What’s your destiny? You belong to doom, you’re not the one who’ll decide.
 
@@ -2335,9 +2335,9 @@ Carve three lines like a table, left side taller. A purse dumped out. An aurochs
 ![ᛡ](archive/thumbs/2022_04_204-Y-hans-holbein-danse-of-death-british-museum-letters-for-titles-vern-tonkin-300x300.jpg)
 ![ᛡ](archive/thumbs/2022_04_ᛡ-LettersforTitles-VernTonkin-300x300.jpg)
 
-IO: extinct Old English diphthong . Of the bajillions of possible sounds we can make with our voices, only a few are needed for language. We made this one redundant. Exiled . Fired its ass. It barely did anything around here. What’s it for? It’s absent from other Old English alphabet collections, the malingerer. It’s unwanted as far as we’re concerned. EO does everything IO can do, and does it better. We don’t need IO. What’s IO even doing here? Pack up your stuff IO and get out, you’re history.
+IO: extinct Old English diphthong. Of the bajillions of possible sounds we can make with our voices, only a few are needed for language. We made this one redundant. Exiled. Fired its ass. It barely did anything around here. What’s it for? It’s absent from other Old English alphabet collections, the malingerer. It’s unwanted as far as we’re concerned. EO does everything IO can do, and does it better. We don’t need IO. What’s IO even doing here? Pack up your stuff IO and get out, you’re history.
 
-But of course IO has to be difficult on its way out. Typical. Try carving this one into anything. You’ll need a precise hand and a sharp knife. A little finesse. This isn’t hammer and chisel like ᚢ . Make an X, now draw a line through it without slipping to one side or the other. Pass straight through that X’s meeting point, right down the middle and keep going. X on a stick.
+But of course IO has to be difficult on its way out. Typical. Try carving this one into anything. You’ll need a precise hand and a sharp knife. A little finesse. This isn’t hammer and chisel like ᚢ. Make an X, now draw a line through it without slipping to one side or the other. Pass straight through that X’s meeting point, right down the middle and keep going. X on a stick.
 
 ### Rune Casting: Ur
 
@@ -2381,7 +2381,7 @@ Once you can feel the castor gland, keep your finger on it and pace your thumb o
 
 Smell that? That is castoreum, and it smells like money! Also a little bit like feces. Once it dries it will take on notes of root beer and vanilla leather. Like one of your fine Manolo Blahniks stepping on an ice cream sundae.
 
-Finally, have your assistant return the beaver to wherever it came from, and keep in mind to tell them it must be returned precisely to its home territory, and not just the end of the driveway. The beaver uses its castoreum for scent marking which is crucial to its survival, for without its security fence of vanilla spiced locations, it will most certainly be seen by other beavers as an interloper and be vulnerable to vicious attack . Though you may be tempted for convenience sake to tell your assistant to release the beaver into your closest golf course waterway or shopping center fountain, it is critically important for the preservation of your future profit to respect the beaver’s natural boundaries. With the proper conservation and stewardship of your beaver and the continuation of vague product labeling, your lucrative relationship with your toothy little friend can and should carry on well into your future.
+Finally, have your assistant return the beaver to wherever it came from, and keep in mind to tell them it must be returned precisely to its home territory, and not just the end of the driveway. The beaver uses its castoreum for scent marking which is crucial to its survival, for without its security fence of vanilla spiced locations, it will most certainly be seen by other beavers as an interloper and be vulnerable to vicious attack. Though you may be tempted for convenience sake to tell your assistant to release the beaver into your closest golf course waterway or shopping center fountain, it is critically important for the preservation of your future profit to respect the beaver’s natural boundaries. With the proper conservation and stewardship of your beaver and the continuation of vague product labeling, your lucrative relationship with your toothy little friend can and should carry on well into your future.
 
 ### IO is for I/O
 
@@ -2405,7 +2405,7 @@ Finally, have your assistant return the beaver to wherever it came from, and kee
 
 ![Wyrd](archive/thumbs/2022_04_Wyrd-exeter-book-letters-for-titles-vern-tonkin-300x300.jpg)
 
-Well this is weird. Here’s what’s happened. At the start of The Exeter Maxims I part C, we get a window into how runes were once used, so I wanted to include it somewhere in Letters for Titles . I thought there’s plenty of places to put it, and I did work it into the first draft of Rune Casting: Ur , where it lived for a year. But it doesn’t quite fit there so I removed it from the final version. I say final but everything is temporary. Then I removed a whole piece called The Beasts of the Field which once held this spot, unfortunately losing as well a gif of Brazil ‘s fly falling into the typewriter and turning Tuttle into Buttle. Something had to replace it, so I went to the maxims in The Exeter Book , folio 91r, and translated this:
+Well this is weird. Here’s what’s happened. At the start of The Exeter Maxims I part C, we get a window into how runes were once used, so I wanted to include it somewhere in Letters for Titles. I thought there’s plenty of places to put it, and I did work it into the first draft of Rune Casting: Ur, where it lived for a year. But it doesn’t quite fit there so I removed it from the final version. I say final but everything is temporary. Then I removed a whole piece called The Beasts of the Field which once held this spot, unfortunately losing as well a gif of Brazil‘s fly falling into the typewriter and turning Tuttle into Buttle. Something had to replace it, so I went to the maxims in The Exeter Book, folio 91r, and translated this:
 
 Ræd sceal mon secgan rune writan
 
@@ -2425,9 +2425,9 @@ The Exeter Maxims are bits of wisdom to follow in the hopes of living a good lif
 
 What’s to come?
 
-Dom . That’s what. Doom. It means judgement and fate, also glory and repute. A literal translation of dom areccan would be to stretch out or to spread out judgement, meaning to translate it , to explain it so it makes sense. If you want to make sense of your fate in anticipation of whatever day it will come, if you want to earn an interpretation of your dom , you should sing songs of your beloved, perhaps in praise of a loved one or a deity, speak with your people about it , and write the runes. They are magic and can show you the future .
+Dom. That’s what. Doom. It means judgement and fate, also glory and repute. A literal translation of dom areccan would be to stretch out or to spread out judgement, meaning to translate it, to explain it so it makes sense. If you want to make sense of your fate in anticipation of whatever day it will come, if you want to earn an interpretation of your dom, you should sing songs of your beloved, perhaps in praise of a loved one or a deity, speak with your people about it, and write the runes. They are magic and can show you the future.
 
-This maxim is all about the future. What it is not all about is the Aurochs or the Beaver , and this is their chapter . My translation of this maxim doesn’t really belong here, but I haven’t found space for it elsewhere, so I’m putting it here anyway. It’s my book I’ll do what I want. You are invited to write in the margins. I had just decided for certain to do this when I saw something weird in the manuscript image, beautifully photographed by the University of Exeter Digital Humanities Lab. It was such a surprise I couldn’t quite believe it at first. On the page, the word gesingan, to sing, is broken in half at the end of a line, just after the letter N . The next line starts with gan : gesin-gan no hyphen. Right next to gesin just past the end of the line is a faint image that does not come from ink bleeding through from the other side of the page, nor is it a mark of wet ink from the facing page as if the book had been shut too soon. It’s just there, intentional once and now scraped away leaving only a trace behind. Or it was meant to be written faintly in the first place by a reader writing in the margins. A rune. It is the Ior rune , on its side: the rune for the beaver in the middle of a word meaning to sing . Beavers sing, their vocalizations sound like songs, go listen to them, and now this little bit of Old English wisdom telling us how to earn an interpretation of our doom can sing its song very comfortably in the Beaver chapter, joyfully at home as if it were fated to be here. Wyrd .
+This maxim is all about the future. What it is not all about is the Aurochs or the Beaver, and this is their chapter. My translation of this maxim doesn’t really belong here, but I haven’t found space for it elsewhere, so I’m putting it here anyway. It’s my book I’ll do what I want. You are invited to write in the margins. I had just decided for certain to do this when I saw something weird in the manuscript image, beautifully photographed by the University of Exeter Digital Humanities Lab. It was such a surprise I couldn’t quite believe it at first. On the page, the word gesingan, to sing, is broken in half at the end of a line, just after the letter N. The next line starts with gan: gesin-gan no hyphen. Right next to gesin just past the end of the line is a faint image that does not come from ink bleeding through from the other side of the page, nor is it a mark of wet ink from the facing page as if the book had been shut too soon. It’s just there, intentional once and now scraped away leaving only a trace behind. Or it was meant to be written faintly in the first place by a reader writing in the margins. A rune. It is the Ior rune, on its side: the rune for the beaver in the middle of a word meaning to sing. Beavers sing, their vocalizations sound like songs, go listen to them, and now this little bit of Old English wisdom telling us how to earn an interpretation of our doom can sing its song very comfortably in the Beaver chapter, joyfully at home as if it were fated to be here. Wyrd.
 
 ### How to go Extinct
 
@@ -2438,9 +2438,9 @@ This maxim is all about the future. What it is not all about is the Aurochs or t
 
 First of all, in many ways you are doing a fine job on your own and you must be commended for that. For example your most recent pandemic is proving quite exemplary, but is alas, overcomable. You might choose to speed your extinction process along. Extinction can take years, and let’s face it, you simply don’t have that kind of time.
 
-To the extinction methods you are already trying (kudos for that whole poisoning the environment thing, a laudable idea) you must introduce the element of surprise. Your choices have been effective, but predictable. You cannot go properly extinct if you see it coming. In certain elements of society the desire to fix it is just too great. Find a way to be attacked from all sides. Literally. Introduce predators. There are fine moves being made in this direction with wolves . Put the wolves in other places besides the wilderness. Bring them in! Towns and cities ought to have their own collections. Also, do branch out to other members of the Canidae family. A nice dingo puppy would make a fabulous holiday gift.
+To the extinction methods you are already trying (kudos for that whole poisoning the environment thing, a laudable idea) you must introduce the element of surprise. Your choices have been effective, but predictable. You cannot go properly extinct if you see it coming. In certain elements of society the desire to fix it is just too great. Find a way to be attacked from all sides. Literally. Introduce predators. There are fine moves being made in this direction with wolves. Put the wolves in other places besides the wilderness. Bring them in! Towns and cities ought to have their own collections. Also, do branch out to other members of the Canidae family. A nice dingo puppy would make a fabulous holiday gift.
 
-Speaking of the holidays, some people will decorate a Christmas tree with ornamental spiders that magically climb up the branches each night. What can be more ornamental than a black widow or a brown recluse? Some of those sac spiders would look lovely next to holiday lights. And you would have an added bonus! Unlike decorative spiders, these will leave the tree. Try to choose nocturnal spiders if you prefer a demise during sleep , always a popular preference.
+Speaking of the holidays, some people will decorate a Christmas tree with ornamental spiders that magically climb up the branches each night. What can be more ornamental than a black widow or a brown recluse? Some of those sac spiders would look lovely next to holiday lights. And you would have an added bonus! Unlike decorative spiders, these will leave the tree. Try to choose nocturnal spiders if you prefer a demise during sleep, always a popular preference.
 
 Large cats are equally effective as spiders if you prefer a nighttime extinction. The jaguar and tiger particularly enjoy hunting at night and they can be nice and quiet. Though if you prefer drama from your big cats, go for a pride of lions. These will look spectacular at tourist attractions, and would add a bit of flash and excitement to most public decor. Avoid for dark movie theatres, that’s where you ought to put your pumas as this would be their more preferred environment.
 
@@ -2448,7 +2448,7 @@ Do think about the environment. If you live in a wet climate, try alligators in 
 
 Introduce snakes. Try the python, the black mamba, any number of vipers. Snakes have the advantage of being more portable than your usual predator, apart from the spider, but unlike the spider the snake enjoys a reputation for spectacle. It’s all the tail rattling and swallowing things whole, which can be marvelously entertaining. Who doesn’t want an enjoyable extinction?
 
-Look to science. They have been making great strides in resurrecting extinct predators . There’s a poetry to introducing the already extinct in an effort to become extinct. It would be like a family reunion of the forever lost. Bring back the cave lion, or the aurochs if you want a particularly moody animal , or bioengineer a flock of Tyrannosaurus rex. Be sure to place these extinct predators thoughtfully in city centers 12 Monkeys style and along roadways where they can be seen and enjoyed. The cave lion would be fantastic for indoor spaces, and who wouldn’t want an aurochs or T-rex at school for the day for a fun science assembly?
+Look to science. They have been making great strides in resurrecting extinct predators. There’s a poetry to introducing the already extinct in an effort to become extinct. It would be like a family reunion of the forever lost. Bring back the cave lion, or the aurochs if you want a particularly moody animal, or bioengineer a flock of Tyrannosaurus rex. Be sure to place these extinct predators thoughtfully in city centers 12 Monkeys style and along roadways where they can be seen and enjoyed. The cave lion would be fantastic for indoor spaces, and who wouldn’t want an aurochs or T-rex at school for the day for a fun science assembly?
 
 It has been said the greatest human predator is another human, though one does detect a bit of self-flattery in the sentiment. Still, you might simply take matters into your own hands and perform a self-predation. While effective, it can however prove difficult to maintain the element of surprise and thus this method is prone to failure.
 
@@ -2465,9 +2465,9 @@ The rune carvers prized beaver fur and skin, their teeth made a great necklace f
 
 The aurochs were already extinct in Britain by the time the runes were introduced, gone by the end of the bronze age. They still lived on the European continent, though rare, and they were important in Britain for the extremely high value of their horns. The people would carve them and inlay them with silver, and pass them down to their children as ealdgestreon, ancient treasure, which of the treasures was the best possible kind. It was functional treasure too, they would drink out of them: an aurochs horn could hold more than a gallon.
 
-Ur and Ior, the aurochs and the beaver, their rune names sound alike. Really alike. I can barely hear the difference. Ior, the name for the beaver rune, is a later edition to the futhorc, the runic alphabet in Britain, than the rune that holds the final spot: Ear (the grave) so Ior ought be last in the order. But it makes sense poetically that the grave should be the final thing; in the end we all choose the earth as our consort . Besides, pair Ear with Feoh , wealth, the first rune to the last and so on to the middle , and they sing together that everything is temporary . So the runes Ior and Ear traded places, allowing the cheerful and useful beaver to make a better contrast with the dangerous aurochs. It works. Besides both being animals and on the spectrum of extinction (though everybody’s on that spectrum) the aurochs and the beaver make a fine double act, one a foil to the other: the deadpan and the buffoon, the straight man and the comic, good cop bad cop, Oscar and Felix, Laurel and Hardy, Mork and Mindy, Napoleon and Pedro, Harold and Kumar. More Harold and Kumar than Napoleon and Pedro. Napoleon and Pedro have more of a Don Quixote Sancho Panza thing going on. But the point is, the beaver is fun! It’s playful! It’s happy and having a good time! By contrast, the aurochs is difficult, challenging, singleminded the Rune Poem tells us: when it sees you the only thing it can think to do is kill you. You do respect it. You admire it, really, but it’s a pretty dangerous time you’ll be having with the aurochs. The aurochs will burn it down.
+Ur and Ior, the aurochs and the beaver, their rune names sound alike. Really alike. I can barely hear the difference. Ior, the name for the beaver rune, is a later edition to the futhorc, the runic alphabet in Britain, than the rune that holds the final spot: Ear (the grave) so Ior ought be last in the order. But it makes sense poetically that the grave should be the final thing; in the end we all choose the earth as our consort. Besides, pair Ear with Feoh, wealth, the first rune to the last and so on to the middle, and they sing together that everything is temporary. So the runes Ior and Ear traded places, allowing the cheerful and useful beaver to make a better contrast with the dangerous aurochs. It works. Besides both being animals and on the spectrum of extinction (though everybody’s on that spectrum) the aurochs and the beaver make a fine double act, one a foil to the other: the deadpan and the buffoon, the straight man and the comic, good cop bad cop, Oscar and Felix, Laurel and Hardy, Mork and Mindy, Napoleon and Pedro, Harold and Kumar. More Harold and Kumar than Napoleon and Pedro. Napoleon and Pedro have more of a Don Quixote Sancho Panza thing going on. But the point is, the beaver is fun! It’s playful! It’s happy and having a good time! By contrast, the aurochs is difficult, challenging, singleminded the Rune Poem tells us: when it sees you the only thing it can think to do is kill you. You do respect it. You admire it, really, but it’s a pretty dangerous time you’ll be having with the aurochs. The aurochs will burn it down.
 
-The Rune Poem highlights another direct contrast between the beaver and the aurochs: the beaver has a beautiful dwelling place where it is joyful, happily foraging, throwing itself into the water. It’s nice. The aurochs lives in moorland , way less nice. It’s fine, I’m sure, no disrespect to moor dwellers, swamps and wetlands have their own beauty, but to the singers of the Rune Poem this was the wilderness. Monsters live in the fens. Nobody could be happy living in a nasty swamp, and the aurochs is downright moody . I suppose for the aurochs this is could be a joyful home, but it’s a moody joy.
+The Rune Poem highlights another direct contrast between the beaver and the aurochs: the beaver has a beautiful dwelling place where it is joyful, happily foraging, throwing itself into the water. It’s nice. The aurochs lives in moorland, way less nice. It’s fine, I’m sure, no disrespect to moor dwellers, swamps and wetlands have their own beauty, but to the singers of the Rune Poem this was the wilderness. Monsters live in the fens. Nobody could be happy living in a nasty swamp, and the aurochs is downright moody. I suppose for the aurochs this is could be a joyful home, but it’s a moody joy.
 
 ### Bad Idea
 
@@ -2484,7 +2484,7 @@ Not a cow, though, an aurochs. That was the idea. They wanted to bring back the 
 
 The Nazi idea of the past was rather extreme in its conception. Their past was a world in which everything existed in its ideal form, just walking around being perfect. They thought their world had deteriorated through time into something not perfect, but could be made perfect. Perfect to a Nazi is hard to explain to a normal person. Imagine the impoverishment of surface variation, a visible uniformity without difference (no matter the inside, they left interiors right out of it), no diversification, no heterogeneity, no change. Yikes. We still have an idea of past perfection, there’s always some ripple of it from whatever historical moment you choose to look, but now it’s more about the cleanliness of the earth and the wider variety of organisms it had before we came along and messed it all up. See that? They remembered uniformity, we remember variety. The past does change a lot, especially what’s perfect about it. What seems to stay the same is that things were always so much better back then, from whenever you look.
 
-The auorchs were long gone by the time the Nazis got their hands on them. They wanted the auorchs back roaming in German forests for some reason, so they tried to make one themselves. Nobody in the Third Reich had ever seen an auorchs, which had gone extinct in 1627, so they fanned out across Europe looking at cave paintings and in art galleries to get a good sense of them. What did they look like? A stripe down the back. Massive. They knew they were no joke personality-wise, an aurochs wants you dead. The aurochs hates you. The Nazis went for personality over looks in this case. They made compromises. They weren’t going to be able to engineer the spines that rise up from the vertebrae . Maybe they’d get the stripe, but no matter, they went to Spain and gathered the worst bulls they could find there, and they already had a bunch of mean local cows. Physically they made a big cow, not much bigger than other big cows. It was big, though, and angry. It really hated people, and can you blame it? Look at the company it was keeping. It was pretty far from an aurochs genetically, no closer than the sweetest old dairy cow. There was nothing sweet about them, though, they got that part right. They released some in a forest in Poland where the aurochs would have loved it, having once been a forest animal, but not being real aurochs, just big mean cows, they were wholly unsuited for surviving in woodlands. They roamed about for a while, tried to kill any forester hoping either to contain or help them, but did not live a decade. The ones so mean they could never take them out of their cages went to a Berlin zoo where they died in an RAF raid.
+The auorchs were long gone by the time the Nazis got their hands on them. They wanted the auorchs back roaming in German forests for some reason, so they tried to make one themselves. Nobody in the Third Reich had ever seen an auorchs, which had gone extinct in 1627, so they fanned out across Europe looking at cave paintings and in art galleries to get a good sense of them. What did they look like? A stripe down the back. Massive. They knew they were no joke personality-wise, an aurochs wants you dead. The aurochs hates you. The Nazis went for personality over looks in this case. They made compromises. They weren’t going to be able to engineer the spines that rise up from the vertebrae. Maybe they’d get the stripe, but no matter, they went to Spain and gathered the worst bulls they could find there, and they already had a bunch of mean local cows. Physically they made a big cow, not much bigger than other big cows. It was big, though, and angry. It really hated people, and can you blame it? Look at the company it was keeping. It was pretty far from an aurochs genetically, no closer than the sweetest old dairy cow. There was nothing sweet about them, though, they got that part right. They released some in a forest in Poland where the aurochs would have loved it, having once been a forest animal, but not being real aurochs, just big mean cows, they were wholly unsuited for surviving in woodlands. They roamed about for a while, tried to kill any forester hoping either to contain or help them, but did not live a decade. The ones so mean they could never take them out of their cages went to a Berlin zoo where they died in an RAF raid.
 
 Those poor Nazi death cows. They didn’t know they were supposed to be a political ideal. Who could live up to that? They just wanted to eat stuff and to poop. They’re cows. The aurochs is gone. Bringing them back was a bad idea. But look! The bad idea is back. They’re genetically engineering a new aurochs. People are working on that. Well, tell them good luck from me! The cows, I mean.
 
@@ -2544,7 +2544,7 @@ Still, your bones will fill a museum.
 
 Y: That one on the left looks dangerous.
 
-X: The one on the right looks more joyful, but it’s a moody joy .
+X: The one on the right looks more joyful, but it’s a moody joy.
 
 Y: Moody. Who are they? They’re staring and it’s creeping me out.
 
@@ -2558,7 +2558,7 @@ X: They can’t see us, those aren’t eyes.
 
 Y: Aren’t they?
 
-X: Oh wait, they’re reacting to us. Look, that one is scowling .
+X: Oh wait, they’re reacting to us. Look, that one is scowling.
 
 Y: Stop pointing at it.
 
@@ -2625,7 +2625,7 @@ For the mpteenth time yo mst nderstand that yor nkindness leaves me nable to tte
 ![How to Look Joyful](archive/thumbs/2021_02_how-to-look-joyful-letters-for-titles-verntonkin-300x300.jpg)
 ![How to Look Joyful](archive/thumbs/2022_04_178-T-seymour-chwast-bestial-bold-letters-for-titles-vern-tonkin-300x300.jpg)
 
-Look at yourself in a mirror or other reflective surface such as shiny metal or a pond. Be careful with ponds , you could fall in or get stuck there staring at yourself forever , wasting away until you become a flower or some such. This is to be avoided.
+Look at yourself in a mirror or other reflective surface such as shiny metal or a pond. Be careful with ponds, you could fall in or get stuck there staring at yourself forever, wasting away until you become a flower or some such. This is to be avoided.
 
 Note the current state of your appearance. Do you look moody? Do you look terrible? Ascertain if you must ask yourself if you look terrible or if you already know the answer.
 
@@ -2670,17 +2670,17 @@ In size these are somewhat smaller than elephants; in appearance, colour, and sh
 
 Elephants. Fast. Caesar goes on to say you can’t tame a baby one either, they grow up fierce, and single minded in attack the second they spot you. As soon as they see you they have one goal: you gone.
 
-There’s something more to this Rune Poem aurochs, though, it’s more than the baddest beast. This thing is a mære morstapa , a famous moor stepper. A moor stalker. This is a formulaic phrase in Old English poetry. It shows up a lot. In Beowulf , the monster Grendel is a moor stalker too . In reality the aurochs lived in forests not moors, they foraged under a bunch of trees in a place with lots of plant life. You can think of a moor as an opposite of a forest. No trees. Swampy. Acidic. It’s like a frozen tundra, thawed. This is challenging place to live, unlike a nice rich forest. So the aurochs was not literally a moor stepper, but the point is taken, the poem says this thing lives where the monsters live, in the wilderness, out of bounds.
+There’s something more to this Rune Poem aurochs, though, it’s more than the baddest beast. This thing is a mære morstapa, a famous moor stepper. A moor stalker. This is a formulaic phrase in Old English poetry. It shows up a lot. In Beowulf, the monster Grendel is a moor stalker too. In reality the aurochs lived in forests not moors, they foraged under a bunch of trees in a place with lots of plant life. You can think of a moor as an opposite of a forest. No trees. Swampy. Acidic. It’s like a frozen tundra, thawed. This is challenging place to live, unlike a nice rich forest. So the aurochs was not literally a moor stepper, but the point is taken, the poem says this thing lives where the monsters live, in the wilderness, out of bounds.
 
-The aurochs is moody too. Look at the words anmod and modig . I’m calling the aurochs singleminded and spirited , but these words just don’t satisfy. It’s because of the word mod, from which we get the word mood. What is mod ? I don’t think we really know, not for sure. I believe we have to have been there to get it. I use spirit here. And mind in singleminded comes close, except sometimes in Old English you can find the phrase modes gemynd , the mod ‘s mind. The mind has a mind. A mind with nested levels of scale. A mind with a mind of its own.
+The aurochs is moody too. Look at the words anmod and modig. I’m calling the aurochs singleminded and spirited, but these words just don’t satisfy. It’s because of the word mod, from which we get the word mood. What is mod? I don’t think we really know, not for sure. I believe we have to have been there to get it. I use spirit here. And mind in singleminded comes close, except sometimes in Old English you can find the phrase modes gemynd, the mod‘s mind. The mind has a mind. A mind with nested levels of scale. A mind with a mind of its own.
 
 Besides mind and spirit, mod shows up in translations as heart, mood, temper, courage, arrogance, pride. It might be your will or your agency. It might be your emotions. Sometimes it is a part of your body, sometimes it is not a part of your body. Mod is tricky to pin down.
 
-Think of your soul, the people who spoke Old English thought of their souls. They called it sawol . They did not think sawol and mod were the same thing. What is a soul? Generally it might be the spiritual aspect of your existence. Your soul is a part of you but not a physical one, or an empirical one. You can’t prove it’s there. But if you think you have one then you know about it. You’re aware of it. It’s a thing that is a bit of you without having any physicality. Mod is like that too. It’s not your soul, its not your emotions. Not your mood. It’s something else and if you have one, it’s part of you and you know what it is.
+Think of your soul, the people who spoke Old English thought of their souls. They called it sawol. They did not think sawol and mod were the same thing. What is a soul? Generally it might be the spiritual aspect of your existence. Your soul is a part of you but not a physical one, or an empirical one. You can’t prove it’s there. But if you think you have one then you know about it. You’re aware of it. It’s a thing that is a bit of you without having any physicality. Mod is like that too. It’s not your soul, its not your emotions. Not your mood. It’s something else and if you have one, it’s part of you and you know what it is.
 
 We know some things about how the word mod is used in Old English we can say for sure. It’s something that you can control, you can hold your mod back. Sometimes it gets out of control like a charging aurochs, and you have to restrain it. Sometimes you can’t restrain it, like a charging aurochs. Your mod can also be deceived and tricked. It has decision making power. It desires stuff. It’s moody. The aurochs is moody, but in a mod kind of way.
 
-It’s also a wight, so no wonder. Look at that word at the end there. Wuht . Wight. This is some kind of creature, or a being, but not a natural one. Supernatural. Again like Grendel in Beowulf who is called a wiht unhælo . An unhealthy wight. To say the least. The aurochs in the Rune Poem is a monster, but not like Grendel is a monster. Look at the last bit at the end, next to mære morstapa, it’s another formulaic phrase in Old English poetry, or rather, it sounds like one: þæt is modig wuht. In Old English we’ll regularly see a version of this phrase at the end of a glowing description of an admired ruler: þæt wæs god cyning ! That was a good king! Usually punctuated with an exclamation point. The aurochs is a moody monster! And we admire it.
+It’s also a wight, so no wonder. Look at that word at the end there. Wuht. Wight. This is some kind of creature, or a being, but not a natural one. Supernatural. Again like Grendel in Beowulf who is called a wiht unhælo. An unhealthy wight. To say the least. The aurochs in the Rune Poem is a monster, but not like Grendel is a monster. Look at the last bit at the end, next to mære morstapa, it’s another formulaic phrase in Old English poetry, or rather, it sounds like one: þæt is modig wuht. In Old English we’ll regularly see a version of this phrase at the end of a glowing description of an admired ruler: þæt wæs god cyning! That was a good king! Usually punctuated with an exclamation point. The aurochs is a moody monster! And we admire it.
 
 ### Translating Ior
 
@@ -2689,17 +2689,17 @@ It’s also a wight, so no wonder. Look at that word at the end there. Wuht . Wi
 ![Translating Ior](archive/thumbs/2022_05_174-R-Letters-for-titles-vern-tonkin-1-199x300.jpg)
 ![Translating Ior](archive/thumbs/2022_05_translating-ior-letters-for-titles-vern-tonkin-300x110.jpg)
 
-What is this thing Ior ? Runes are riddles and this one is unsolved, but let’s try anyway.
+What is this thing Ior? Runes are riddles and this one is unsolved, but let’s try anyway.
 
-The Rune Poem calls ior a river fish that forages on land . Amphibian. Eel fits well. Some say it is a newt or possibly a water mammal like an otter. Most translators choose eel because it was important in medieval Britain, it was food. I assumed eel for this reason for quite a long time. But this is no way to solve a riddle.
+The Rune Poem calls ior a river fish that forages on land. Amphibian. Eel fits well. Some say it is a newt or possibly a water mammal like an otter. Most translators choose eel because it was important in medieval Britain, it was food. I assumed eel for this reason for quite a long time. But this is no way to solve a riddle.
 
-The name of this rune is Ior . There exists an Old English word for eel and it’s not ior, it’s ælfisc . Eel fish. They didn’t call this rune eel fish. They didn’t call it anything we can understand: ior is not a word in Old English, unless it means the letter IO or the rune ᛡ. We have to look under the surface if we want to find this river fish.
+The name of this rune is Ior. There exists an Old English word for eel and it’s not ior, it’s ælfisc. Eel fish. They didn’t call this rune eel fish. They didn’t call it anything we can understand: ior is not a word in Old English, unless it means the letter IO or the rune ᛡ. We have to look under the surface if we want to find this river fish.
 
-I or as a word referring to this rune is not always spelled this way, sometimes in rune lists it is spelled iar, which also means nothing. Means nothing in Latin too. But look at that! It is a Celtic word, iora is a squirrel in Irish. Or some sort of brown rodent. But a squirrel doesn’t swim. Does a squirrel swim? If it does, it won’t be on the level of a river fish. Nobody looks for a squirrel in the water.
+Ior as a word referring to this rune is not always spelled this way, sometimes in rune lists it is spelled iar, which also means nothing. Means nothing in Latin too. But look at that! It is a Celtic word, iora is a squirrel in Irish. Or some sort of brown rodent. But a squirrel doesn’t swim. Does a squirrel swim? If it does, it won’t be on the level of a river fish. Nobody looks for a squirrel in the water.
 
-If we can’t find the words ior or iar used on their own to mean anything in Old English, we can look for them to appear in compound words. On just one occasion in a unique word, a hapax legomenon, iar shows up on the end of a compound word meaning a structure used to trap fish. Promising! In the Codex Diplomaticus Aevi Saxonici , a collection of charters and other legal documents written in Old English we find this: on þone ealdan myliar þǽr þá welegas standaðn, west andlang burnan (the people [lots of them] stand there on the old mill yair, west along the stream). Look at the word myliar, there’s an iar at the end of it. Normally this word is spelled mylengea r, without the iar at the end, and even then it’s not so usual a word. It means mill yair: a yair is a scaffolding built out into a river with nets attached. This is a fish trap at a mill big enough to stand on. This is no eel trap, those were long tubular shaped baskets people are still digging up from river mud, sunk and lost for hundreds of years, eels included. This mill yair, this hapax legomenon that all the people are standing on, west along the stream, looks and functions exactly like a beaver dam, just one that doesn’t go all the way across to the other bank.
+If we can’t find the words ior or iar used on their own to mean anything in Old English, we can look for them to appear in compound words. On just one occasion in a unique word, a hapax legomenon, iar shows up on the end of a compound word meaning a structure used to trap fish. Promising! In the Codex Diplomaticus Aevi Saxonici, a collection of charters and other legal documents written in Old English we find this: on þone ealdan myliar þǽr þá welegas standaðn, west andlang burnan (the people [lots of them] stand there on the old mill yair, west along the stream). Look at the word myliar, there’s an iar at the end of it. Normally this word is spelled mylengear, without the iar at the end, and even then it’s not so usual a word. It means mill yair: a yair is a scaffolding built out into a river with nets attached. This is a fish trap at a mill big enough to stand on. This is no eel trap, those were long tubular shaped baskets people are still digging up from river mud, sunk and lost for hundreds of years, eels included. This mill yair, this hapax legomenon that all the people are standing on, west along the stream, looks and functions exactly like a beaver dam, just one that doesn’t go all the way across to the other bank.
 
-A beaver swims! And is a big squirrel-like rodent! Is this a beaver? There is an Old English word for beaver, it’s befer . Or beofer like it’s got a beo , a bee in it, similar to Beowulf, another compound word: bee wolf, which is possibly a kenning for a honey eating bear. If Beowulf can be a bee wolf, perhaps a beaver can be a squirrel. Years of thinking this is probably an eel but hey, together iora and myliar convince me this river fish is a beaver! It’s exciting. It is. And it’s amusing too. By the time the Rune Poem was written down, the beaver was officially a fish. It was made so by church decree: its tail counted as a fish you could eat during lent . It’s a bit scaly and looks fish-like when cooked. Probably tasted like chicken, perhaps worse than chicken, but if Jesus says it’s a fish who are we to contradict? Water becomes wine so by God that beaver is a fish, let’s eat it!
+A beaver swims! And is a big squirrel-like rodent! Is this a beaver? There is an Old English word for beaver, it’s befer. Or beofer like it’s got a beo, a bee in it, similar to Beowulf, another compound word: bee wolf, which is possibly a kenning for a honey eating bear. If Beowulf can be a bee wolf, perhaps a beaver can be a squirrel. Years of thinking this is probably an eel but hey, together iora and myliar convince me this river fish is a beaver! It’s exciting. It is. And it’s amusing too. By the time the Rune Poem was written down, the beaver was officially a fish. It was made so by church decree: its tail counted as a fish you could eat during lent. It’s a bit scaly and looks fish-like when cooked. Probably tasted like chicken, perhaps worse than chicken, but if Jesus says it’s a fish who are we to contradict? Water becomes wine so by God that beaver is a fish, let’s eat it!
 
 What convinces me more, a bit more than myliar anyway which is a little tenuous on its own (like a dam might be with a whole population on top of it, or an idea that doesn’t quite cross all the way to the other side), what convinces me more is that the poem says this river fish enjoys eating on land. An eel eats fish, frogs, other stuff living in the river, and it is nocturnal so it dines at night. Otherwise it spends a lot of time burrowed into mud where we can’t see it. Fun. The eel doesn’t joyfully forage on land in any way that people will witness. But look at the beaver! It’s actually having fun. Have you ever watched one? They’re entertaining. They’re having a good time. They also eat things on land like plants, mushrooms, ferns, right in front of everybody. Bark. They love bark, the inside of it. Also berries if they can get them. A happy feasting beaver throwing itself into water fits the riddle much better than a moody eel muddily slinking up a riverbank in the night. I don’t know why this should convince me more than textual evidence, linguistic evidence, but riddles do work like that sometimes. Maybe I am hungry.
 
@@ -2716,11 +2716,11 @@ fodres on foldan. hafaþ fægerne eard.
 
 wætre beworpen. ðær he wynnum leofaþ ᛬᛫
 
-It is a river fish, t hough it always enjoys
+It is a river fish, though it always enjoys
 
 Foraging on land. It has a beautiful dwelling place
 
-Thrown into water, t here it joyfully lives.
+Thrown into water, there it joyfully lives.
 
 ### Stanza 2: Aurochs
 
@@ -2729,7 +2729,7 @@ Thrown into water, t here it joyfully lives.
 ![Stanza 2: Aurochs](archive/thumbs/2022_05_170-U-letters-for-titles-vern-tonkin-257x300.jpg)
 ![Stanza 2: Aurochs](archive/thumbs/2022_05_stanza-2-aurochs-letters-for-titles-vern-tonkin-300x300.jpg)
 
-ᚢ byþ a nmod. and ofer hyrned.
+ᚢ byþ anmod. and ofer hyrned.
 
 fela frecne. deor feohteþ. mid hornum.
 
@@ -2756,11 +2756,11 @@ Famous moor-stepper; that is a spirited being.
 ![Þ](archive/thumbs/2022_05_168-y-wm-morris-letters-for-titles-vern-tonkin-300x300.jpg)
 ![Þ](archive/thumbs/2022_05_TH-Lettersfortitles-Vern-Tonkin-copy-300x300.jpg)
 
-Thorn survived for ages. That kind of longevity in a dead letter deserves a eulogy. Ye, though Thorn has walked through the valley of the shadow of death it has surely found its way to the great abecedarium in the sky where it may abide in that illustrious dead letter office alongside its companions UI , IO , and EA . Dearest Thorn made it a long time, longer than most , and had a great run, bless its heart. Nettlesome old bastard. Kept showing up to things year after year with its barbed jokes and pointed comments, though it was a giant among letters and always welcome. Thorn, though our days be restlessly marked by the unmet cruelty of your loss, we take great consolation in knowing you sleep amongst the roses.
+Thorn survived for ages. That kind of longevity in a dead letter deserves a eulogy. Ye, though Thorn has walked through the valley of the shadow of death it has surely found its way to the great abecedarium in the sky where it may abide in that illustrious dead letter office alongside its companions UI, IO, and EA. Dearest Thorn made it a long time, longer than most, and had a great run, bless its heart. Nettlesome old bastard. Kept showing up to things year after year with its barbed jokes and pointed comments, though it was a giant among letters and always welcome. Thorn, though our days be restlessly marked by the unmet cruelty of your loss, we take great consolation in knowing you sleep amongst the roses.
 
 Though thorn is dead to us as a letter, the Icelandic language still uses it, so it’s really only mostly dead. There’s a big difference between mostly dead and all dead. Mostly dead is slightly alive. It is hard to kill a giant, which is what the thorn rune means in the other rune poems (Norwegian, Icelandic), but at least with a giant you can see it coming. You can’t help but see it coming, it’s a giant. The thorn? You’d better watch out for the thorn, keep your eyes open because a thorn will sneak attack when you least expect it, slash you to pieces when you’re not looking. So who’s dangerous now?
 
-Monks in Old English speaking Britain, a thorn plagued place, were uniquely undangerous people. They were there to produce Latin texts, that was their whole thing. Besides their other whole thing. Writing was in service to their other whole thing: bookmaking was worship. Old English was the common language so they wrote that down too, phonetically, using Latin letters for Old English sounds. As you might imagine they were pretty efficient and thrifty, having taken vows of poverty, so they worked with the letters they had. They put no silent letters into their written Old English words, there would be no knead. Nor gnaw, pterodactyl, mn emonic. Those Ks Gs Ps and Ms bring nothing to this writing table, where all words are written as voiced. Thing was, there was no TH sound in Latin and no letter for it, so when writing in Old English they used what was at hand in the community: one of the runes makes a th sound. Step up thorn, it’s your time to shine! You’ll be put to work and have a long career.
+Monks in Old English speaking Britain, a thorn plagued place, were uniquely undangerous people. They were there to produce Latin texts, that was their whole thing. Besides their other whole thing. Writing was in service to their other whole thing: bookmaking was worship. Old English was the common language so they wrote that down too, phonetically, using Latin letters for Old English sounds. As you might imagine they were pretty efficient and thrifty, having taken vows of poverty, so they worked with the letters they had. They put no silent letters into their written Old English words, there would be no knead. Nor gnaw, pterodactyl, mnemonic. Those Ks Gs Ps and Ms bring nothing to this writing table, where all words are written as voiced. Thing was, there was no TH sound in Latin and no letter for it, so when writing in Old English they used what was at hand in the community: one of the runes makes a th sound. Step up thorn, it’s your time to shine! You’ll be put to work and have a long career.
 
 Place your tongue right behind your top front teeth, maybe even just under the ridge of your teeth, not too hard! Don’t jam it right up there! You want to leave a little room for friction. Continuous friction if you like, you can make this sound for a long time. M can do it but try that with K, G, and P. Useless hangers on. Sticking on to places they don’t belong anymore. Still feeling prickly about it. No matter, let’s do this, let some air through. Th. This TH is spelled like this: θ. Thigh. Now add your voice, use your throat. Th. Spell this TH like this: ð. Thy. Thy thigh thwacks the thorn, thuck!
 
@@ -2775,9 +2775,9 @@ Carve a line straight up and down, rose stem. Now put a thorn on it, in the midd
 
 Say something. Go ahead, you heard me, say it and listen to yourself. Now say it about a hundred years ago. Hear it? You can hear it. Different. Speech sounds change. Accents change. You’ve changed. You think you sound the same but go back home after some distance and they’ll tell you different. And they’ll tell it to you differently. English has changed, big time, my God it’s different. It’s old. It’s medieval. Let’s think of a famous medieval person, to see how old. Somebody with a real mark of distinction. Dante. Dante Aligheri. He finished writing the Divine Comedy in 1320. He’s really really old, hundreds of years. Think of this, in this current moment we are closer in years to Dante than he was to the start of Old English. And from the Rune Poem to us he’s in the middle of the path of life. Not the runes, they’re even older, the poem, that’s where he’s equidistant. It’s just like him too. He would be.
 
-UI is a new letter to Old English. Their U started shifting into an I pretty early on. Say it in one beat, start with U and let it have a flavor of I at the end of it, one syllable. Quick. Like what the UI is doing in extinguished and not what is happening in ruin. What did it sound like in back in the day? Old English is extinguished, the letter UI a ruin, we’ll never really know. But it had its run, UI, as a diphthong letter, two together making one. Old English had a separate pronoun for couples and partners, but that’s a ruin now too, extinguished. We don’t speak in pairs anymore .
+UI is a new letter to Old English. Their U started shifting into an I pretty early on. Say it in one beat, start with U and let it have a flavor of I at the end of it, one syllable. Quick. Like what the UI is doing in extinguished and not what is happening in ruin. What did it sound like in back in the day? Old English is extinguished, the letter UI a ruin, we’ll never really know. But it had its run, UI, as a diphthong letter, two together making one. Old English had a separate pronoun for couples and partners, but that’s a ruin now too, extinguished. We don’t speak in pairs anymore.
 
-Carve an Ur, the letter U. You know how. Now stab it up the middle with the letter Is, I. Go ahead and shoot that aurochs with an ice arrow, the evidence will melt away . Make those two runes look like one, at least for a while. Now it’s called Yr , like the Ger rune. They changed the look of the UI rune just a touch more from there by adding a bar across the top of the I part to make it look more like a Y with a macron: Ȳ. The I sound had changed to more of a long Y. Why? Everything is temporary.
+Carve an Ur, the letter U. You know how. Now stab it up the middle with the letter Is, I. Go ahead and shoot that aurochs with an ice arrow, the evidence will melt away. Make those two runes look like one, at least for a while. Now it’s called Yr, like the Ger rune. They changed the look of the UI rune just a touch more from there by adding a bar across the top of the I part to make it look more like a Y with a macron: Ȳ. The I sound had changed to more of a long Y. Why? Everything is temporary.
 
 ### Rune Casting: Yr
 
@@ -2816,11 +2816,11 @@ Ye old. Ye olde. Ye Olde Curiosity Shop. Olde is an affected way to make the wor
 
 Why add the E to the end of old? An E on the end of an Old English word makes it subjunctive: it might be old, maybe it’s old. Or it makes the word a plural adjective. Multiples of old. Olds. Old squared.
 
-Ye Olds Curiosity Shop. In Old English “ye” which looked like “ðe” (there was no Y in Old English) used to be strictly nominative plural. Y’all with me? Then it morphed to personal pronoun: second person dative singular. To you. I say this to you, Olds Curiosity shop. Old 2 Curiosity Shop, this is for you.
+Ye Olds Curiosity Shop. In Old English “ye” which looked like “ðe” (there was no Y in Old English) used to be strictly nominative plural. Y’all with me? Then it morphed to personal pronoun: second person dative singular. To you. I say this to you, Olds Curiosity shop. Old2 Curiosity Shop, this is for you.
 
-And. Also. Sometimes “ye” is a conjunction. You’d find it in pairs spelled with one of the letters that became g: Ȝ ȝ or Ᵹ ᵹ. Thats an upper and lower case yogh (sounds like it looks but with a K type sound at the end. Bach) and upper and lower case insular G which is older and sounds a little like the G in giant, but more toward what the word measure does in its middle. Measure the giant. Don’t try to measure a giant , it will eat you. These letters are obsolete now, like the giant. Y’all might find them on the shelves of the And Olds curiosity shop. Also Old 2 Curiosity Shop. Go look. It’s in Seattle and it’s delightful. When you get there, say hi to McGinty from me, he’s from my home town.
+And. Also. Sometimes “ye” is a conjunction. You’d find it in pairs spelled with one of the letters that became g: Ȝ ȝ or Ᵹ ᵹ. Thats an upper and lower case yogh (sounds like it looks but with a K type sound at the end. Bach) and upper and lower case insular G which is older and sounds a little like the G in giant, but more toward what the word measure does in its middle. Measure the giant. Don’t try to measure a giant, it will eat you. These letters are obsolete now, like the giant. Y’all might find them on the shelves of the And Olds curiosity shop. Also Old2 Curiosity Shop. Go look. It’s in Seattle and it’s delightful. When you get there, say hi to McGinty from me, he’s from my home town.
 
-Why is that Ye there when it makes no sense? Well, it does make some sense when you know that the Y is not actually a Y. It’s a thorn . One of these: Þ . Th. The Old 2 Curiosity Shop. You are supposed to see the Y and gestalt it closed on the top, picture the left side more straight. See it as the letter thorn, hear it like a th. Where did the thorn go? Thorn died in the 1400’s, long after Old English was a thing. The printing press killed thorn off for good. It just wasn’t a letter many English printers had, given that the printing press had been developed in Germany where the thorn was not in use, but they had Y so they made it work. Þe became Ye and everybody just understood what it was really supposed to be: the not ye.
+Why is that Ye there when it makes no sense? Well, it does make some sense when you know that the Y is not actually a Y. It’s a thorn. One of these: Þ. Th. The Old2 Curiosity Shop. You are supposed to see the Y and gestalt it closed on the top, picture the left side more straight. See it as the letter thorn, hear it like a th. Where did the thorn go? Thorn died in the 1400’s, long after Old English was a thing. The printing press killed thorn off for good. It just wasn’t a letter many English printers had, given that the printing press had been developed in Germany where the thorn was not in use, but they had Y so they made it work. Þe became Ye and everybody just understood what it was really supposed to be: the not ye.
 
 Ye Olde didn’t happen for shop names until the 1890’s, nearly 400 years after printers came up with their workaround for thorn. This was around the time when Seattle’s own Ye Olde Curiosity Shop first opened its doors, which relatively speaking was yesterday. Things were starting to get really really new in the 1890’s and too fast. Steam engines and other inventions of the industrial age were changing everything quickly, speeding everything up, and making everybody feel things were moving uncomfortably fast. People got nostalgic for ye olde places and ways. Remember the past? It didn’t happen. But that never stops us from making one up as a convenient workaround to be used as needed.
 
@@ -2858,13 +2858,13 @@ X is not Y and neither is Z.
 
 You have shot your arrow, congratulations! Now you must hit your target. Hopefully you chose a nice wide target that is standing still. If your target is motionless ascertain if it is sentient and if it is conscious. If so, make sure it is aware you are shooting at it, for the arrow one foresees arrives more gently.
 
-If your target is in motion, determine why your target is in motion . Is your target being pulled or propelled somehow, or is it moving under its own power? If your target is moving itself, ask your target why is it in motion? This is only common courtesy. Under circumstances such as these, politeness is a target we all must aim for.
+If your target is in motion, determine why your target is in motion. Is your target being pulled or propelled somehow, or is it moving under its own power? If your target is moving itself, ask your target why is it in motion? This is only common courtesy. Under circumstances such as these, politeness is a target we all must aim for.
 
-If your target is in rapid motion, the element of speed might prevent or preclude its reply to your inquiry. In this case you must determine the direction of your target’s motion. If it is aiming for a position away from your own, you must assume that your target is in motion because it does not want to be your target. If your target does not tell you why it is moving and it is not in rapid motion, this may be due to a communication barrier or timidity. Perhaps smile to put your target at ease . Make it a tight smile, do not show your teeth! For some targets, too toothy a greeting may be misconstrued as extreme impoliteness, and in such cases your target may determine that you would make a fine target yourself. You may not have time to explain that you do not wish to be a target. Your target may not trouble to ask. Rude.
+If your target is in rapid motion, the element of speed might prevent or preclude its reply to your inquiry. In this case you must determine the direction of your target’s motion. If it is aiming for a position away from your own, you must assume that your target is in motion because it does not want to be your target. If your target does not tell you why it is moving and it is not in rapid motion, this may be due to a communication barrier or timidity. Perhaps smile to put your target at ease. Make it a tight smile, do not show your teeth! For some targets, too toothy a greeting may be misconstrued as extreme impoliteness, and in such cases your target may determine that you would make a fine target yourself. You may not have time to explain that you do not wish to be a target. Your target may not trouble to ask. Rude.
 
 If you have become your target’s target and your target is now in motion toward you, determine if you wish to be your target’s target. If so, hold still.
 
-If you do not wish to become your target’s target, you must attempt to arrest your target’s motion. Ascertain the precise location of your target. Is your target occupying a position in space? Is that position in space exactly its own size? If it does not occupy a position exactly it’s own size perhaps your target is not made of matter or has no mass. In that case your target is welcome to come at you with infinite velocity. You will be perfectly all right unless you become an unstoppable force . Do not become an unstoppable force. Yield a little.
+If you do not wish to become your target’s target, you must attempt to arrest your target’s motion. Ascertain the precise location of your target. Is your target occupying a position in space? Is that position in space exactly its own size? If it does not occupy a position exactly it’s own size perhaps your target is not made of matter or has no mass. In that case your target is welcome to come at you with infinite velocity. You will be perfectly all right unless you become an unstoppable force. Do not become an unstoppable force. Yield a little.
 
 If your target holds a position in space exactly its own size, determine if it occupies a position in time. If it occupies a position in time, is that position in time made of a moment of time and nothing else? Anything else going on in there? Think small, take all time down to a point and look. If something’s moving in there, then there must be more moments than the one you are aiming to see. Try to reduce time to a singularity and see if the moment is behaving itself.
 
@@ -2878,7 +2878,7 @@ Of course, your target will be at rest only if it is coming at you through quant
 
 ![They’ll Cut You](archive/thumbs/2021_02_theyll-cut-you-letters-for-titles-vern-tonkin-1-200x300.jpg)
 
-Let’s worry about the thegns. We’ve worried about the thegns before , but these poor bastards have a lot on their plate. They’re the glam squad for a bunch of divas going to war, and it’s a lot. Have you ever gone to war? You need to bring a lot of stuff. Have you ever hung out with a diva? You need to bring more. Are you a diva? Then you know. Exacting standards. Everything perfect down to the last whatever. Don’t piss off the divas, they’re prickly. They’ll cut you. Just give them what they want, when they want it, or they’ll make your life a living hell. Detail detail detail. The divas didn’t just wake up like that, you think it’s easy to look good on a horse ? You think that bow they’re carrying around looks impressive and dangerous just like that on its own? You know the answer. Beauty is pain and it’s the help who feel it the most. It’s long hours and hard work. They’re on it, though. This regiment has a regimen. They’re not kidding around. Those divas need to be seen. It’s all about making a massive impression, you better remember, and these thegns will get it done. They’ll kill themselves to make it happen. Fame is everything. The thegns will walk through thorns to get it for the boss and it will be worth it. To see them looking that fabulous? Totally.
+Let’s worry about the thegns. We’ve worried about the thegns before, but these poor bastards have a lot on their plate. They’re the glam squad for a bunch of divas going to war, and it’s a lot. Have you ever gone to war? You need to bring a lot of stuff. Have you ever hung out with a diva? You need to bring more. Are you a diva? Then you know. Exacting standards. Everything perfect down to the last whatever. Don’t piss off the divas, they’re prickly. They’ll cut you. Just give them what they want, when they want it, or they’ll make your life a living hell. Detail detail detail. The divas didn’t just wake up like that, you think it’s easy to look good on a horse? You think that bow they’re carrying around looks impressive and dangerous just like that on its own? You know the answer. Beauty is pain and it’s the help who feel it the most. It’s long hours and hard work. They’re on it, though. This regiment has a regimen. They’re not kidding around. Those divas need to be seen. It’s all about making a massive impression, you better remember, and these thegns will get it done. They’ll kill themselves to make it happen. Fame is everything. The thegns will walk through thorns to get it for the boss and it will be worth it. To see them looking that fabulous? Totally.
 
 ### Arrows
 
@@ -2903,11 +2903,11 @@ Let’s worry about the thegns. We’ve worried about the thegns before , but th
 
 User Interface Spec Doc:
 
-LettersforTitles .com
+LettersforTitles.com
 
-Background Image: Hildegard of Bingen Riesencodex , Lingua Ignota. Hochschulund Landesbibliothek RheinMain: Hs. 2, 464v. Alphabet code page of Hildegard of Bingen’s invented language. Saint Hildegard: Writer, composer, mystic, psychic to the stars. People like Frederick Barbarosa, Eleanore of Aquataine. Popes. Henry II of England. People with plenty of secrets. Want to keep a secret? Invent your own language and write it with your own alphabet.
+Background Image: Hildegard of Bingen Riesencodex, Lingua Ignota. Hochschulund Landesbibliothek RheinMain: Hs. 2, 464v. Alphabet code page of Hildegard of Bingen’s invented language. Saint Hildegard: Writer, composer, mystic, psychic to the stars. People like Frederick Barbarosa, Eleanore of Aquataine. Popes. Henry II of England. People with plenty of secrets. Want to keep a secret? Invent your own language and write it with your own alphabet.
 
-Title: Title Image: St. Hugh’s Bible , Bodleian Library MS. Auct. E. inf. 1066r. Detail. Letter L forming the word Locutusq : speech . A plant sprouting from a lion’s mouth forming three branches, two with faces of another lion and a person, staring back at it. The third branch will flower next. Watch your words, they’ll grow and bite you later. Whatever you say will reflect yourself and others back to you. Words you speak take on lives of their own. Your speech is your own self judgement, multiplied. What you say now you will manifest later. Has already with more to come.
+Title: Title Image: St. Hugh’s Bible, Bodleian Library MS. Auct. E. inf. 1066r. Detail. Letter L forming the word Locutusq: speech. A plant sprouting from a lion’s mouth forming three branches, two with faces of another lion and a person, staring back at it. The third branch will flower next. Watch your words, they’ll grow and bite you later. Whatever you say will reflect yourself and others back to you. Words you speak take on lives of their own. Your speech is your own self judgement, multiplied. What you say now you will manifest later. Has already with more to come.
 
 Title Fonts: RuneEnglish, Vespasian. Altered.
 
@@ -2942,7 +2942,7 @@ If the size of your war is small, ascertain how small. Perhaps it is so small yo
 
 If your war declaration will not take the form of performative speech, find another method of declaring war. Be creative. Signals sent by drums, flags, smoke, or leaflets dropped from the sky have been done to death, and they can seem ominous to the public and in the latter case, cause litter. Why not go for a lighter note? Perhaps send a cake with your war declaration spelled out in frosting, or devise a fun scavenger hunt with war at the end of it. Your enemy will like to feel you’ve made an effort.
 
-Your war declaration will be made unnecessary the moment your war commences, so be sure to give yourself plenty of time for your declaration. Some war declarations might take years, even a lifetime which you can carefully fill with precision targeted low level hostility , minor irritations, passive aggressions, sarcasm and snarky comments, unceasing criticisms of every little thing, flirting to the level of emotional affairs with other sovereign nations, the silent treatment, shouting, grudge holding, secret keeping, disinterested body language, disdainful body language, arguing, lack of arguing, lying by omission or invention, getting embarrassingly drunk at your enemy’s work party, that disgusting gulping noise you make when you drink things. Try to start all your sentences with no offense but. If you wish to maintain the element of surprise as to when your war will commence, endeavor to extend your war declaration through an infinite number of years. In this case the war declaration becomes in itself an act of war, thus leaving the necessity of a war declaration moot.
+Your war declaration will be made unnecessary the moment your war commences, so be sure to give yourself plenty of time for your declaration. Some war declarations might take years, even a lifetime which you can carefully fill with precision targeted low level hostility, minor irritations, passive aggressions, sarcasm and snarky comments, unceasing criticisms of every little thing, flirting to the level of emotional affairs with other sovereign nations, the silent treatment, shouting, grudge holding, secret keeping, disinterested body language, disdainful body language, arguing, lack of arguing, lying by omission or invention, getting embarrassingly drunk at your enemy’s work party, that disgusting gulping noise you make when you drink things. Try to start all your sentences with no offense but. If you wish to maintain the element of surprise as to when your war will commence, endeavor to extend your war declaration through an infinite number of years. In this case the war declaration becomes in itself an act of war, thus leaving the necessity of a war declaration moot.
 
 ### Translating Yr
 
@@ -2951,15 +2951,15 @@ Your war declaration will be made unnecessary the moment your war commences, so 
 ![Translating Yr](archive/thumbs/2022_06_142-E-Letters-for-titles-verntonkin-229x300.jpg)
 ![Translating Yr](archive/thumbs/2022_06_translating-yr-letters-for-titles-verntonkin-300x170.jpg)
 
-In Old English yr means only the name for this rune. A bow is a guess, a bow made out of yew . In Old Norse yr means the yew tree. The Icelandic Rune Poem says yr is “bent bow and brittle iron, and Farbauti (a giant) of the arrow.” Yew Bows from Britain were prized all over Europe, so I think a yew bow as an answer to this riddle makes the most sense from the minimal context we have. But in Old English yew is spelled eoh , so this rune could be describing something else. Some think this stanza describes a horn or a saddle bow or buckle. Whatever yr was, it was something to see. This is what this stanza is all about. Being something to see . Looking good on a horse. That’s sexy. Nobody wants to look bad on a horse.
+In Old English yr means only the name for this rune. A bow is a guess, a bow made out of yew. In Old Norse yr means the yew tree. The Icelandic Rune Poem says yr is “bent bow and brittle iron, and Farbauti (a giant) of the arrow.” Yew Bows from Britain were prized all over Europe, so I think a yew bow as an answer to this riddle makes the most sense from the minimal context we have. But in Old English yew is spelled eoh, so this rune could be describing something else. Some think this stanza describes a horn or a saddle bow or buckle. Whatever yr was, it was something to see. This is what this stanza is all about. Being something to see. Looking good on a horse. That’s sexy. Nobody wants to look bad on a horse.
 
 This rune is about the elite. They could afford to bling out their stuff. Gold. Silver. These people were into decoration. They liked it shiny and ornate. They looked good going to war. They were tricked out. They were gorgeous. And you better believe the bow wasn’t the fanciest thing they had on their horses with them. What it was, though, the point of the thing, was the drama. The bow just stands out. It was long, like five and a half, six feet long. It’s right in your face. You can’t miss it.
 
-The yew bow was for being impressive. It was not for battle, not in the early days of the yew bow. They had it with them, wouldn’t leave without it. They’ll hunt with it maybe, shoot some stuff along the way. Show offs. But they didn’t really use it for warfare. Well, the used it sum, that last word there might be telling us this is sometimes used in war. Used to some extent, but they weren’t fully leaning into it. Not yet. Not until the Normans showed up , and that’s a few hundred years away. Rather, they had swords for fighting. Decorated, inlayed, gilded, rune carved. The liked to carve the ᛏ rune on their swords . Point is, these guys enjoyed a stunning sword. And the hilt! Forget about it. You’ll remember these hilts forever, they’ll make sure you do. What else? The horse was something to see, particularly a massive war horse . The saddle jewelery! Bejewled. They didn’t carry spears, though. They had people for that .
+The yew bow was for being impressive. It was not for battle, not in the early days of the yew bow. They had it with them, wouldn’t leave without it. They’ll hunt with it maybe, shoot some stuff along the way. Show offs. But they didn’t really use it for warfare. Well, the used it sum, that last word there might be telling us this is sometimes used in war. Used to some extent, but they weren’t fully leaning into it. Not yet. Not until the Normans showed up, and that’s a few hundred years away. Rather, they had swords for fighting. Decorated, inlayed, gilded, rune carved. The liked to carve the ᛏ rune on their swords. Point is, these guys enjoyed a stunning sword. And the hilt! Forget about it. You’ll remember these hilts forever, they’ll make sure you do. What else? The horse was something to see, particularly a massive war horse. The saddle jewelery! Bejewled. They didn’t carry spears, though. They had people for that.
 
-Whatever else you carry with you, or your lackeys carry for you, you don’t go to war without your bow. This is f æ stlic on færelde. Fast like on the expedition. Fixed. Constant. We’ve seen fæstlic before. It means quickly in the grave rune . The dead grow cold fast. And stiff, fæstlic also means firmly. Also inevitably, like what happens to a body when life is gone. You will get stiff and cold, can’t stop that from happening. That will always happen. It’s inevitable, like taking your bow with you so you look good on the way to killing people in battle.
+Whatever else you carry with you, or your lackeys carry for you, you don’t go to war without your bow. This is fæstlic on færelde. Fast like on the expedition. Fixed. Constant. We’ve seen fæstlic before. It means quickly in the grave rune. The dead grow cold fast. And stiff, fæstlic also means firmly. Also inevitably, like what happens to a body when life is gone. You will get stiff and cold, can’t stop that from happening. That will always happen. It’s inevitable, like taking your bow with you so you look good on the way to killing people in battle.
 
-But enough of this death talk, the bow is about being happy! This is a joyful stanza! The word for happy is right here wyn : joy, pleasure, rejoicing. You will look good on your horse, carrying this bow, and you will feel good too. People will notice and you will love it. They’ll see you coming and remember you later. You’ll have wyrþmynd . Worth mind. You won’t even need to use it. You’ll look so bad ass you’ll be worth remembering.
+But enough of this death talk, the bow is about being happy! This is a joyful stanza! The word for happy is right here wyn: joy, pleasure, rejoicing. You will look good on your horse, carrying this bow, and you will feel good too. People will notice and you will love it. They’ll see you coming and remember you later. You’ll have wyrþmynd. Worth mind. You won’t even need to use it. You’ll look so bad ass you’ll be worth remembering.
 
 ### Translating Thorn
 
@@ -2968,11 +2968,11 @@ But enough of this death talk, the bow is about being happy! This is a joyful st
 ![Translating Thorn](archive/thumbs/2022_06_140-T-LettersforTitles-Vern-Tonkin-272x300.jpg)
 ![Translating Thorn](archive/thumbs/2022_06_translating-thorn-letters-for-titles-vern-tonkin-300x92.jpg)
 
-Let’s worry about the þegna , the thegns. They set up camp at night, prepare food, tend to horses, fires. Get ordered around by el jefe to do every damn thing. They can’t do that themselves? Come on. It’s late. The thegns are tired. They have to be up first and early to get the whole show back on the road. All that work and nervous energy. It’s going to be a battle! They’re wiped out and finding places to sleep. Let’s pause here.
+Let’s worry about the þegna, the thegns. They set up camp at night, prepare food, tend to horses, fires. Get ordered around by el jefe to do every damn thing. They can’t do that themselves? Come on. It’s late. The thegns are tired. They have to be up first and early to get the whole show back on the road. All that work and nervous energy. It’s going to be a battle! They’re wiped out and finding places to sleep. Let’s pause here.
 
-Raise you hand. Have you ever walked right into a bramble of some kind, in broad daylight, and you didn’t see it until the burning tear right into your skin? This is Britain. They have thorns all over the place. Do you live where blackberries grow like a plague upon the land? I do. They hurt. Now, find a place to sleep at night like a tired thegn in the super dark that’s bramble free and bramble free adjacent. Because you are either going to roll over in the night or slip some down the slight slope you are sleeping on. There’s going to be a slight slope, el jefe ‘s got the flat spot. The boss will stay put, and you will slide, maybe end up in those thorns you didn’t see when you went to bed. It’s that zippering open of flesh that I hate. Ungemetun , immeasurable, pain. Or when a whole tentacle of it grabs right on in multiple places and won’t let go, and you have to extricate without touching it. Try doing that. Thorny plants are yfyl . Evil. Poor thegns. Let’s let them sleep.
+Raise you hand. Have you ever walked right into a bramble of some kind, in broad daylight, and you didn’t see it until the burning tear right into your skin? This is Britain. They have thorns all over the place. Do you live where blackberries grow like a plague upon the land? I do. They hurt. Now, find a place to sleep at night like a tired thegn in the super dark that’s bramble free and bramble free adjacent. Because you are either going to roll over in the night or slip some down the slight slope you are sleeping on. There’s going to be a slight slope, el jefe‘s got the flat spot. The boss will stay put, and you will slide, maybe end up in those thorns you didn’t see when you went to bed. It’s that zippering open of flesh that I hate. Ungemetun, immeasurable, pain. Or when a whole tentacle of it grabs right on in multiple places and won’t let go, and you have to extricate without touching it. Try doing that. Thorny plants are yfyl. Evil. Poor thegns. Let’s let them sleep.
 
-There are two other rune poems, Norwegian and Icelandic. In those the Þ rune means gian t. The giant is dangerous. The giant will attack you for no reason beyond that you exist. The giant hates you. The giant is evil. The Rune Poem says anfeng ys yfyl. What’s this that’s evil? Anfeng does mean grabbing something, taking something, but with a bit of a flavor of receiving something. Anfeng also means defense or defender.You don’t just walk right up to a bramble and grab on, you receive the first blow and have to defend yourself because the thorn always strikes first. The thorn is evil. The thorn will attack you for no reason beyond that you exist. The thorn hates you.
+There are two other rune poems, Norwegian and Icelandic. In those the Þ rune means giant. The giant is dangerous. The giant will attack you for no reason beyond that you exist. The giant hates you. The giant is evil. The Rune Poem says anfeng ys yfyl. What’s this that’s evil? Anfeng does mean grabbing something, taking something, but with a bit of a flavor of receiving something. Anfeng also means defense or defender.You don’t just walk right up to a bramble and grab on, you receive the first blow and have to defend yourself because the thorn always strikes first. The thorn is evil. The thorn will attack you for no reason beyond that you exist. The thorn hates you.
 
 ### Stanza 3: Thorn
 
@@ -3007,9 +3007,9 @@ fæstlic on færelde. fyrdgeatewa sum ᛬᛫
 
 It is for the prince and the noble
 
-Whose joy and mark of distinction i s to look good on a horse
+Whose joy and mark of distinction is to look good on a horse
 
-Fixedly on the expedition, s ome trappings of war.
+Fixedly on the expedition, some trappings of war.
 
 ---
 
@@ -3026,7 +3026,7 @@ Fixedly on the expedition, s ome trappings of war.
 ![ᚩ](archive/thumbs/2022_06_134-L-st-albans-psalter-letters-for-titles-vern-tonkin-255x300.jpg)
 ![ᚩ](archive/thumbs/2022_06_ᚩ-lettersfortitles-Vern-Tonkin-1-300x300.jpg)
 
-Vowels are slippery things . They shift around and we have to learn which sound differences to ignore as another person’s accent and which ones change meaning. In the earliest times of Old English history the sound of the letter A changed so much it became three letters, A (ᚪ), O (ᚩ), and Æ (ᚫ). The ᚫ rune was the original rune shape for the A sound and stands in the 4th position in the Norwegian and Icelandic runic alphabets where it makes the sound for the letter A and means God. In the Old English runic alphabet, ᚩ ( Os ) holds the 4th position where it still means God, but here it makes the sound O. Smote. Lot. That God that smote you is a lot. The O sound was once made by the ᛟ rune , Eþel , but by the time they wrote down the Rune Poem, Eþel was already slipping sideways into an OE sound. Vowels. They don’t stay still.
+Vowels are slippery things. They shift around and we have to learn which sound differences to ignore as another person’s accent and which ones change meaning. In the earliest times of Old English history the sound of the letter A changed so much it became three letters, A (ᚪ), O (ᚩ), and Æ (ᚫ). The ᚫ rune was the original rune shape for the A sound and stands in the 4th position in the Norwegian and Icelandic runic alphabets where it makes the sound for the letter A and means God. In the Old English runic alphabet, ᚩ (Os) holds the 4th position where it still means God, but here it makes the sound O. Smote. Lot. That God that smote you is a lot. The O sound was once made by the ᛟ rune, Eþel, but by the time they wrote down the Rune Poem, Eþel was already slipping sideways into an OE sound. Vowels. They don’t stay still.
 
 Carve a line, add couple of ribbons off the top, Two V’s, one below the other. Make a tree but change your mind halfway through and go back up toward God.
 
@@ -3037,7 +3037,7 @@ Carve a line, add couple of ribbons off the top, Two V’s, one below the other.
 ![ᚫ](archive/thumbs/2022_06_132-O-lettersfortitles-verntonkin-300x257.jpg)
 ![ᚫ](archive/thumbs/2022_06_ᚫ-Letters-for-titles-vern-tonkin-copy-300x300.jpg)
 
-The ᚩ rune (O, Os ) and the ᚪ (A, Ac ) both started the same way, as new shapes of the ᚫ rune (Æ, Æsc) which once made the sound of the letter A, stood in the fourth position of the alphabet, and meant God. The A sound changed very early in the lifetime of Old English, vowels are shifty , and this one changed into O and Æ, so new runes were made with new meanings to represent the new sounds, and appropriate places were found for them in the alphabetic line up. Æ , sounds like the A in ash tree, which is its meaning, this is one of a whole grove of trees in the Rune Poem . It kept the original rune shape ᚫ while the others are derived from it, and was moved opposite it’s original 4th position to the 26th place. They put it there so it can pair up with its old location when you line up the runes then bend the line in half so they face each other in the mirror, the first letter with the last letter and so on to the middle: 1 and 29 ( everything is temporary ), 2 and 28 ( moody joy ), 3 and 27 ( they’ll cut you ), 4 and 26: God and the world ash , the deity and the sacred God tree, a logical pair and a sacred one too. This left the A sound to become something else, an oak tree shaped like this: ᚪ which they planted just next to the ash. It makes great boats so they lined it up opposite the rune for riding horses and together they sing of travel by land and by sea .
+The ᚩ rune (O, Os) and the ᚪ (A, Ac) both started the same way, as new shapes of the ᚫ rune (Æ, Æsc) which once made the sound of the letter A, stood in the fourth position of the alphabet, and meant God. The A sound changed very early in the lifetime of Old English, vowels are shifty, and this one changed into O and Æ, so new runes were made with new meanings to represent the new sounds, and appropriate places were found for them in the alphabetic line up. Æ, sounds like the A in ash tree, which is its meaning, this is one of a whole grove of trees in the Rune Poem. It kept the original rune shape ᚫ while the others are derived from it, and was moved opposite it’s original 4th position to the 26th place. They put it there so it can pair up with its old location when you line up the runes then bend the line in half so they face each other in the mirror, the first letter with the last letter and so on to the middle: 1 and 29 (everything is temporary), 2 and 28 (moody joy), 3 and 27 (they’ll cut you), 4 and 26: God and the world ash, the deity and the sacred God tree, a logical pair and a sacred one too. This left the A sound to become something else, an oak tree shaped like this: ᚪ which they planted just next to the ash. It makes great boats so they lined it up opposite the rune for riding horses and together they sing of travel by land and by sea.
 
 Carve a line, and go back down a bit at the top, at an angle. Do it again just a little way down, on one side. Rune carvers never used to care which side but these days it’s on the right.
 
@@ -3100,7 +3100,7 @@ X: They don’t fall over. You have to get under it and punch up if you want all
 
 Y: So what’s the point of this game, am I like a god here, I can destroy trees and make stuff, or am I just a person, citizen of the world kind of thing?
 
-Z: You are both. You are always both. What you create now pulls the future toward you. You are God .
+Z: You are both. You are always both. What you create now pulls the future toward you. You are God.
 
 X: Christ, don’t listen. We don’t have time. You could be either one, God or citizen. Total freedom. You’re always the master of your own world. We could mine a shelter into that hill over there. It’s getting dark, we’re wasting time. We need torches.
 
@@ -3112,7 +3112,7 @@ X: Oh my God shut up, seriously.
 
 Z: Sometimes I do not care. Sometimes I wish to tell you, this world you take for truth is merely succession and duration. You are a dream detached from the dreamer. You see so little of reality in the long dream. Wake up.
 
-Y: What just happened? Why are my hearts flashing ?
+Y: What just happened? Why are my hearts flashing?
 
 Z: You are dying but you’ll be born again, an endless flux of destruction and creation in an infinite world. And the player was a new story, never told before, written in letters of DNA.
 
@@ -3137,15 +3137,15 @@ O youngest child of mine, you want to play imagination games with me and a pengu
 
 O Sardine, it took me forever to work out the exact rhythm of that side to side dance you do so I can replicate it. And why do you live in a sewer?
 
-O sweet first child walking back in forth in front of me, talking Minecraft , I did not realize when I said no video games on Wednesdays that this is always the day Mojang releases snapshots.
+O sweet first child walking back in forth in front of me, talking Minecraft, I did not realize when I said no video games on Wednesdays that this is always the day Mojang releases snapshots.
 
 O Mojang, must you forever release snapshots on Wednesdays!
 
-O Wednesday why are you harder to learn how to spell than the other days named after gods ?
+O Wednesday why are you harder to learn how to spell than the other days named after gods?
 
 O English language why did you evolve to keep the genitive singular in Wednesday? Why maintain that es ending, day of Woden, when the other deities get Thor’s day, Tiw’s day, Frey day?
 
-O Tiw , why is it the only thing we know about you comes from the Rune Poem and that your rune was carved onto weapons? You were a god of war, were you also the god of enigmas?
+O Tiw, why is it the only thing we know about you comes from the Rune Poem and that your rune was carved onto weapons? You were a god of war, were you also the god of enigmas?
 
 O Tir, you are not just a different spelling of Tiw in a different location, you are a thousand years younger and have a vibrant mythology surrounding you! You must enjoy the richness of living a full and youthful existence, albeit not so full because of that whole wolf bite thing. Sorry about your hand.
 
@@ -3167,15 +3167,15 @@ O Exhaustion called forth by act of dog, star of the morning, I glory in the mom
 ![The Ogam Ash Tree](archive/thumbs/2022_06_120-C-LettersforTitles-Vern-Tonkin-300x300.jpg)
 ![The Ogam Ash Tree](archive/thumbs/2022_06_the-ogam-ash-tree-lettersfortitles-verntonkin-211x300.jpg)
 
-Ogam, spelled Ogham in modern Irish, is an Old Irish alphabet, it was possibly a cryptographic alphabet like the runic ones, and it may have had its own sign language and musical notation. The Ogam letters have names like the letters in the Rune Poem, and the letters have meanings we can glean from three collections of kennings, or Briatharogam ( literally word-letters): words paired portmanteau style to make new meanings. It’s like a mini version of the Rune Poem’s riddles: two words give the clue instead of a whole stanza. These people understood how to work with brevity.
+Ogam, spelled Ogham in modern Irish, is an Old Irish alphabet, it was possibly a cryptographic alphabet like the runic ones, and it may have had its own sign language and musical notation. The Ogam letters have names like the letters in the Rune Poem, and the letters have meanings we can glean from three collections of kennings, or Briatharogam (literally word-letters): words paired portmanteau style to make new meanings. It’s like a mini version of the Rune Poem’s riddles: two words give the clue instead of a whole stanza. These people understood how to work with brevity.
 
-It is popular for people to think that all letters in the Ogam alphabet were always named after trees, and though there is a substantial grove of at least eight of them in the Ogam alphabet, there’s other stuff in there too. Take a look at the kennings for the letter R, ᚏ: t indem rucci (Most intense blushing), ruamnae drech (reddening of faces), bruth fergae (glow of anger). Not a tree. The ash tree is here though, where it is the letter O , called Onn. Vowels were carved as notches instead of lines, and in type the Unicode character for Onn looks like this: ᚑ and its kennings say: congnaid ech (wounder of horses), fethem soire (smoothest of craftsmanship), luth fian (sustaining equipment of warrior/ hunter bands). Ash trees make great spears, the Rune Poem’s riddle for ash alludes to this as well. Because of its straight grain, ash wood is both resistant to breaking and smooth to work with. Wounder of horses? Some think this means ash branches were used as whips, which you might have used if you were a warrior or a hunter in a hurry.
+It is popular for people to think that all letters in the Ogam alphabet were always named after trees, and though there is a substantial grove of at least eight of them in the Ogam alphabet, there’s other stuff in there too. Take a look at the kennings for the letter R, ᚏ: tindem rucci (Most intense blushing), ruamnae drech (reddening of faces), bruth fergae (glow of anger). Not a tree. The ash tree is here though, where it is the letter O, called Onn. Vowels were carved as notches instead of lines, and in type the Unicode character for Onn looks like this: ᚑ and its kennings say: congnaid ech (wounder of horses), fethem soire (smoothest of craftsmanship), luth fian (sustaining equipment of warrior/ hunter bands). Ash trees make great spears, the Rune Poem’s riddle for ash alludes to this as well. Because of its straight grain, ash wood is both resistant to breaking and smooth to work with. Wounder of horses? Some think this means ash branches were used as whips, which you might have used if you were a warrior or a hunter in a hurry.
 
-In the tree Ogam enjoyed by contemporary diviners, the ash tree is the letter N , ᚅ, Nin or Nion. The original kennings for Nin were costud síde (the establishing of peace), bág ban (boast of women), bág maise (boast of beauty), and the meaning was possibly a branch or the fork of a weaver’s beam. Some suggest it was waived by women to signal the end of a battle to the combatants. Tacitus describes first century battles amongst the Germanic tribes as being fought by men and directed and aided by women from a close periphery. Perhaps a similar tradition existed in Ireland as well and it was the women with their weaver’s beams who called the end of a battle? These are tenuous arguments. Nin is a tough one, and there is a lot of disagreement about what it meant. C ostud síde, the establishing of peace, is the older version of this particular kenning, but as Old Irish evolved, the kenning came to be glossed as coscrad s í de, the destroyer of peace, like a raised ash spear would be. By that time Onn had become a very low frequency word and had lost connection to meaning the ash tree so Nin ended up doing the job. This was during the time when all the Ogam were metamorphosing into trees like ancient greek citizens in an Ovid story who had either wronged a god or were loved by the wrong God. They all went arboreal and Onn shrank from its ancient roots as a tall ash into a gorse shrub.
+In the tree Ogam enjoyed by contemporary diviners, the ash tree is the letter N, ᚅ, Nin or Nion. The original kennings for Nin were costud síde (the establishing of peace), bág ban (boast of women), bág maise (boast of beauty), and the meaning was possibly a branch or the fork of a weaver’s beam. Some suggest it was waived by women to signal the end of a battle to the combatants. Tacitus describes first century battles amongst the Germanic tribes as being fought by men and directed and aided by women from a close periphery. Perhaps a similar tradition existed in Ireland as well and it was the women with their weaver’s beams who called the end of a battle? These are tenuous arguments. Nin is a tough one, and there is a lot of disagreement about what it meant. Costud síde, the establishing of peace, is the older version of this particular kenning, but as Old Irish evolved, the kenning came to be glossed as coscrad síde, the destroyer of peace, like a raised ash spear would be. By that time Onn had become a very low frequency word and had lost connection to meaning the ash tree so Nin ended up doing the job. This was during the time when all the Ogam were metamorphosing into trees like ancient greek citizens in an Ovid story who had either wronged a god or were loved by the wrong God. They all went arboreal and Onn shrank from its ancient roots as a tall ash into a gorse shrub.
 
-Why did the Ogam turn into a forest and forget kennings like the ones for Nin , or others like cond á l cuan (pack of hounds: fear), conar gotha (path of the voice: neck), forbbaid ambi (shroud of a lifeless one: earth)? The Irish word for letter ( fid) and letters ( feda) , means tree and trees. Ogam was meant to be written vertically and was read from the bottom up, like climbing a tree. Trees are baked in .
+Why did the Ogam turn into a forest and forget kennings like the ones for Nin, or others like condál cuan (pack of hounds: fear), conar gotha (path of the voice: neck), forbbaid ambi (shroud of a lifeless one: earth)? The Irish word for letter (fid) and letters (feda), means tree and trees. Ogam was meant to be written vertically and was read from the bottom up, like climbing a tree. Trees are baked in.
 
-Manuscript writing changed the shape of the Ogam, it went horizontal to fit in. It also multiplied. The Book of Ogams , or The Ogam Tract found in the Book of Ballymote (late 14th century) housed at the Royal Irish Academy, and in Trinity College Dublin manuscript 1337 (15th and 16th centuries), catalogues more than a hundred alphabets, some based on the Ogam alphabet and some which are very different. All were used for the instruction of poets, and nearly all worked as cryptographic devices . They have names like The Standing Ogam , and The Jump Over the Stripe Ogam , or The Wheel Ogam, which describe what they look like, or names like The Deceitful Ogam and The Defrauding Ogam , in which one letter stands in for another. The Ogam of Order writes the letters of every word according to its alphabetic sequence. Using the modern English alphabet Ogam would be spelled agmo. Letters for Titles would be Eelrstt for Eilstt. The Runes appear in this catalog of Ogams, so perhaps the Ogam were used for divination too. There is an Ogam you can use to divine the gender of an unborn baby: divide the mother’s name in two and an uneven number of letters signify a boy, if even expect a girl. What would Ash Tree mean in an Ogam divination? Much the same as in the Rune Poem. Perhaps you should prepare for battle.
+Manuscript writing changed the shape of the Ogam, it went horizontal to fit in. It also multiplied. The Book of Ogams, or The Ogam Tract found in the Book of Ballymote (late 14th century) housed at the Royal Irish Academy, and in Trinity College Dublin manuscript 1337 (15th and 16th centuries), catalogues more than a hundred alphabets, some based on the Ogam alphabet and some which are very different. All were used for the instruction of poets, and nearly all worked as cryptographic devices. They have names like The Standing Ogam, and The Jump Over the Stripe Ogam, or The Wheel Ogam, which describe what they look like, or names like The Deceitful Ogam and The Defrauding Ogam, in which one letter stands in for another. The Ogam of Order writes the letters of every word according to its alphabetic sequence. Using the modern English alphabet Ogam would be spelled agmo. Letters for Titles would be Eelrstt for Eilstt. The Runes appear in this catalog of Ogams, so perhaps the Ogam were used for divination too. There is an Ogam you can use to divine the gender of an unborn baby: divide the mother’s name in two and an uneven number of letters signify a boy, if even expect a girl. What would Ash Tree mean in an Ogam divination? Much the same as in the Rune Poem. Perhaps you should prepare for battle.
 
 ### Axis Mundi
 
@@ -3184,17 +3184,17 @@ Manuscript writing changed the shape of the Ogam, it went horizontal to fit in. 
 ![Axis Mundi](archive/thumbs/2022_06_118-R-lettersfortitles-vern-tonkin-300x300.jpg)
 ![Axis Mundi](archive/thumbs/2022_06_axis-mundi-lettersfortitles-verntonkin-300x300.jpg)
 
-Archaeologists in their digging and dating trace the oldest runic alphabet back to the late second century. The oldest rune carvings are often of the alphabet itself, carved in order. They’ve found runes etched into durable things like rock, metal, bone, but sometimes the odd piece of wood might survive. These earliest rune carvings have been found all over Northern Europe, even on occasion as far south as France, but most particularly around the Baltic Sea Coast . The messages would be brief, saying things like Vern made me . Not an actual Vern, there was no V. I’d carve this here if I could, carve it into light, but I’d have to use my own V.
+Archaeologists in their digging and dating trace the oldest runic alphabet back to the late second century. The oldest rune carvings are often of the alphabet itself, carved in order. They’ve found runes etched into durable things like rock, metal, bone, but sometimes the odd piece of wood might survive. These earliest rune carvings have been found all over Northern Europe, even on occasion as far south as France, but most particularly around the Baltic Sea Coast. The messages would be brief, saying things like Vern made me. Not an actual Vern, there was no V. I’d carve this here if I could, carve it into light, but I’d have to use my own V.
 
-The earliest runic inscriptions reveal no memory that the runes came from a prior alphabet, though they line up beautifully with several Latin letters, and correspond even more closely to Etruscan, the language of ancient northern and central Italy. F, R, C H, I, T, B, M are the same in the Runic and Etruscan alphabets, as well as U, S, and L if you rotate them, which they would. Runes could be written flipped the other way and form words written in any direction. Alphabets morph like that when they travel, some shapes stay, some get altered, some are left behind in the migration. Ask the rune carvers where the runes came from and they would not say Northern Italy, they’d say it was the Gods. And as such they are mysterious and secret. They are holy and sacred. They say things using the Gods’ mouth. They are the Gods’ mouth .
+The earliest runic inscriptions reveal no memory that the runes came from a prior alphabet, though they line up beautifully with several Latin letters, and correspond even more closely to Etruscan, the language of ancient northern and central Italy. F, R, C H, I, T, B, M are the same in the Runic and Etruscan alphabets, as well as U, S, and L if you rotate them, which they would. Runes could be written flipped the other way and form words written in any direction. Alphabets morph like that when they travel, some shapes stay, some get altered, some are left behind in the migration. Ask the rune carvers where the runes came from and they would not say Northern Italy, they’d say it was the Gods. And as such they are mysterious and secret. They are holy and sacred. They say things using the Gods’ mouth. They are the Gods’ mouth.
 
 What are they saying? What did they first say? Shh. Whisper. Runes are secret. You think it’s a good idea to hear the secrets of the Gods and then go around blabbing to everybody just like that? It’s not. And that’s no secret.
 
-Where do you go when you want to talk to the Gods? Receive their judgement? Find out what’s coming? The rune poem shows you in its structure. Don’t expect it to be straight like the grain of ash wood , this thing bends in the middle and curves back on itself, a helix entwined like roots and branches. The fourth rune in the sequence is Os, God. The fourth rune from the end is Æsc, Ash. You go to the ash tree. That’s where you go. The ash tree is where to get the Gods’ words, their voices. Why? It’s the world tree, it’s the axis mundi . It’s holding the whole thing up, Gods and all, so it better be firm in its foundations . You go there because at the base of the tree, which is really the middle , is the spot where there’s a universe above in the branches, and a universe below in the roots. Go there and you’ll be in the middle of it all. You are at the conduit between. You are the conduit between. You. The direct center. You’re what everything’s revolving around,
+Where do you go when you want to talk to the Gods? Receive their judgement? Find out what’s coming? The rune poem shows you in its structure. Don’t expect it to be straight like the grain of ash wood, this thing bends in the middle and curves back on itself, a helix entwined like roots and branches. The fourth rune in the sequence is Os, God. The fourth rune from the end is Æsc, Ash. You go to the ash tree. That’s where you go. The ash tree is where to get the Gods’ words, their voices. Why? It’s the world tree, it’s the axis mundi. It’s holding the whole thing up, Gods and all, so it better be firm in its foundations. You go there because at the base of the tree, which is really the middle, is the spot where there’s a universe above in the branches, and a universe below in the roots. Go there and you’ll be in the middle of it all. You are at the conduit between. You are the conduit between. You. The direct center. You’re what everything’s revolving around,
 
-Which god pairs with the ash tree ? Who sings the other half of the Ash Tree’s duet? To receive the runes, the Odin of the Hávamál self-crucified in an ash. He hung himself from a spear (presumably made of ash as the best spears would have been, a profane version of the sacred tree) as a sacrifice of himself in bodily form to himself the divine being. What could be a more valuable sacrifice to a God than a God? This is how you get something important like runes; they had to be valuable if this was the process. This was not just any ash tree either, it was Yggdrasill, the great world tree, the universe itself.
+Which god pairs with the ash tree? Who sings the other half of the Ash Tree’s duet? To receive the runes, the Odin of the Hávamál self-crucified in an ash. He hung himself from a spear (presumably made of ash as the best spears would have been, a profane version of the sacred tree) as a sacrifice of himself in bodily form to himself the divine being. What could be a more valuable sacrifice to a God than a God? This is how you get something important like runes; they had to be valuable if this was the process. This was not just any ash tree either, it was Yggdrasill, the great world tree, the universe itself.
 
-The oldest version of the Hávamál we have was written down in the thirteenth century, though it might date to the 9th or 10th centuries. It is likely the Rune Poem was first written down in the 6th century, from an oral tradition going back several centuries prior. In Britain at this time they worshipped Woden not Odin. Did Woden hang himself in an ash tree a thousand years before Odin’s sacrifice of self to self in the Hávamál ? You should ask him. You know how.
+The oldest version of the Hávamál we have was written down in the thirteenth century, though it might date to the 9th or 10th centuries. It is likely the Rune Poem was first written down in the 6th century, from an oral tradition going back several centuries prior. In Britain at this time they worshipped Woden not Odin. Did Woden hang himself in an ash tree a thousand years before Odin’s sacrifice of self to self in the Hávamál? You should ask him. You know how.
 
 ### Truth
 
@@ -3203,13 +3203,13 @@ The oldest version of the Hávamál we have was written down in the thirteenth c
 ![Truth](archive/thumbs/2022_06_116-O-Letters-for-Titles-VernTonkin-300x300.jpg)
 ![Truth](archive/thumbs/2022_06_truth-lettersfortitles-vern-tonkin-264x300.jpg)
 
-Did you know that tree means truth? Well it does, honestly, let me be the first to tell you so you know it’s true. The Old English word treow means both tree and truth. Lots of Old English words use treow in them to mean things like to trust or believe ( treowan ), or to be faithful ( treowfæst , truth-fast). Treow is used for more woody things too, like when you take your treowfæstnian (trusty) ax to the treowsteall (a grove) to work as a treowwyrtha (carpenter) treowfeging (joining boards together) into a treowgeweroc (tree work, something made of wood). In that treow grove you’ll find forest birds ( treowfugol ) and faithful friends ( treowgeðofta ) who’ll go in for a little tree worship ( treowweroðung ) with you and with whom you might find treowlufu (true love). Watch out for the treowles and treowleasnes .
+Did you know that tree means truth? Well it does, honestly, let me be the first to tell you so you know it’s true. The Old English word treow means both tree and truth. Lots of Old English words use treow in them to mean things like to trust or believe (treowan), or to be faithful (treowfæst, truth-fast). Treow is used for more woody things too, like when you take your treowfæstnian (trusty) ax to the treowsteall (a grove) to work as a treowwyrtha (carpenter) treowfeging (joining boards together) into a treowgeweroc (tree work, something made of wood). In that treow grove you’ll find forest birds (treowfugol) and faithful friends (treowgeðofta) who’ll go in for a little tree worship (treowweroðung) with you and with whom you might find treowlufu (true love). Watch out for the treowles and treowleasnes.
 
-Tree and truth were more than homonyms in Old English. Trees were where you’d go for truth, talk to God, get married. We still do that. Under this tree I pledge thee my troth. Under what tree? Under the æsc tree , the ash. The world tree with all the stuff in it. The one holding steadily, rightly . Æ, the letter for the rune ᚨ, meaning ash tree, isn’t just a letter in Old English. It’s also a word that means law with a bit of a divine flavor to it. Æ means a covenant before God, a sacred rite, a ceremony, a marriage. The ash tree has the gods in it , so watch what you pledge to be true in front of it. It knows truth. It is truth. You go to the ash tree to tell the truth and make it stick.
+Tree and truth were more than homonyms in Old English. Trees were where you’d go for truth, talk to God, get married. We still do that. Under this tree I pledge thee my troth. Under what tree? Under the æsc tree, the ash. The world tree with all the stuff in it. The one holding steadily, rightly. Æ, the letter for the rune ᚨ, meaning ash tree, isn’t just a letter in Old English. It’s also a word that means law with a bit of a divine flavor to it. Æ means a covenant before God, a sacred rite, a ceremony, a marriage. The ash tree has the gods in it, so watch what you pledge to be true in front of it. It knows truth. It is truth. You go to the ash tree to tell the truth and make it stick.
 
-Somebody once told me the first person to tell the truth wins. He’d say wins. You can tell it any way you like he’d say, lips pursed , and he would. He’d tell you all about that and then he’d tell you all about this. He’d say you can arrange the truth however you want, use what’s close at hand, polish up some parts, trash other bits, or even better, recycle them. You can repurpose the past for reuse, yes, it’s just plain environmentally responsible, but you do run the risk of altering the future if the first tale told takes a good hold in people’s minds. Once you put something in there it’s hard to get it back out: it sticks to everything like sap and stays forever. So this soothsayer who found out the staying power of having the first word would get in there asap and mix up the truth with something funny all day long. If truth depends on a priori positioning in duration then good luck to any words coming in after. Got any last words? They’ll suffer from the comparison. Of course I believed him about the victory of the early truth. Was the first I’d heard.
+Somebody once told me the first person to tell the truth wins. He’d say wins. You can tell it any way you like he’d say, lips pursed, and he would. He’d tell you all about that and then he’d tell you all about this. He’d say you can arrange the truth however you want, use what’s close at hand, polish up some parts, trash other bits, or even better, recycle them. You can repurpose the past for reuse, yes, it’s just plain environmentally responsible, but you do run the risk of altering the future if the first tale told takes a good hold in people’s minds. Once you put something in there it’s hard to get it back out: it sticks to everything like sap and stays forever. So this soothsayer who found out the staying power of having the first word would get in there asap and mix up the truth with something funny all day long. If truth depends on a priori positioning in duration then good luck to any words coming in after. Got any last words? They’ll suffer from the comparison. Of course I believed him about the victory of the early truth. Was the first I’d heard.
 
-Now I believe the best way to win a truth competition, if you do find yourself thrust into one, is not to compete. This is not your treowfæstnian axe to grind. If somebody says they said things first and now that’s what’s true, don’t fight it . Don’t try to stuff your truth in there edgewise. Say nothing. Reflect on this: each truth to enter imagines itself to be the first to enter whereas it is neither first nor last nor only nor alone in a series originating in and repeated to infinity. This idea can be applied in surprising places. The truth in it is there is no first. What first? First is meaningless . So forget about who’s first and keep your own counsel, or tell it to your treowfugol or your t reowlufu, somebody treowe, trustworthy. Even better, tell it to the ash tree. That’s what it’s for.
+Now I believe the best way to win a truth competition, if you do find yourself thrust into one, is not to compete. This is not your treowfæstnian axe to grind. If somebody says they said things first and now that’s what’s true, don’t fight it. Don’t try to stuff your truth in there edgewise. Say nothing. Reflect on this: each truth to enter imagines itself to be the first to enter whereas it is neither first nor last nor only nor alone in a series originating in and repeated to infinity. This idea can be applied in surprising places. The truth in it is there is no first. What first? First is meaningless. So forget about who’s first and keep your own counsel, or tell it to your treowfugol or your treowlufu, somebody treowe, trustworthy. Even better, tell it to the ash tree. That’s what it’s for.
 
 ### Speech Bearer
 
@@ -3242,9 +3242,9 @@ If you say you’re a tree it’s a ruse.
 
 George William Russell, Irish legend in a crowded field, once published something under the pseudonym Æon but the printer cut off the last two letters and Æ liked the result. He did and was a lot of things, mainly between 1890 and 1930: painter, composer, agriculturalist, cyclist, pacifist, vegetarian, mystic, mentor, publisher. He published a weekly newspaper called The Irish Homestead intended mainly to support the rise of co-op farming but it wove in plenty of the Irish literary revival. How could he help it? Who could blame him.
 
-Æ gave James Joyce his start, asked him to write something simple. Joyce’s first published story “The Sisters” appeared in The Irish Homestead under the pseudonym Stephen Dedalus. It’s from a child’s point of view, so it seemed simple, of the wake and remembrance of a priest whose life was, you might say, crossed. That’s how Eliza puts it in the story. It’s what she doesn’t say that Æ didn’t like. He suggested Joyce tone the blasphemy and shocking stuff down a bit and try again, so Joyce being himself, called his next effort “ Eveline” after a pornographic story popularly circulating about a girl who specializes in fellatio and has a sexual relationship with her father and other family members. Probably Æ didn’t make the connection. Did Joyce tone down the blasphemy? By blind, sniveling, nose-dropping, calumniated Christ, as Joyce has said and I say for him, he did not. Evelyn is a parody of St. Margaret Mary Alacoque, who likely irritated the other nuns in her convent by begging off sick any time there was work to do, but from whose sickbed visions came the Catholic devotion of the Sacred Heart of Jesus, to which Ireland was consecrated in the 1870s. Most Catholic families in Joyce’s time would have had a picture on the wall featuring the blessed Margaret Mary Alacoque, as Evelyn does. Evelyn is no Margaret Mary Alacoque. And the story? It does not paint a gentle picture of Irish nationalism as Æ would have hoped, no support of home rule nor elevation of Irish literary art. This was all about Irish paralysis, like everything else in Dubliners where these stories ended up.
+Æ gave James Joyce his start, asked him to write something simple. Joyce’s first published story “The Sisters” appeared in The Irish Homestead under the pseudonym Stephen Dedalus. It’s from a child’s point of view, so it seemed simple, of the wake and remembrance of a priest whose life was, you might say, crossed. That’s how Eliza puts it in the story. It’s what she doesn’t say that Æ didn’t like. He suggested Joyce tone the blasphemy and shocking stuff down a bit and try again, so Joyce being himself, called his next effort “Eveline” after a pornographic story popularly circulating about a girl who specializes in fellatio and has a sexual relationship with her father and other family members. Probably Æ didn’t make the connection. Did Joyce tone down the blasphemy? By blind, sniveling, nose-dropping, calumniated Christ, as Joyce has said and I say for him, he did not. Evelyn is a parody of St. Margaret Mary Alacoque, who likely irritated the other nuns in her convent by begging off sick any time there was work to do, but from whose sickbed visions came the Catholic devotion of the Sacred Heart of Jesus, to which Ireland was consecrated in the 1870s. Most Catholic families in Joyce’s time would have had a picture on the wall featuring the blessed Margaret Mary Alacoque, as Evelyn does. Evelyn is no Margaret Mary Alacoque. And the story? It does not paint a gentle picture of Irish nationalism as Æ would have hoped, no support of home rule nor elevation of Irish literary art. This was all about Irish paralysis, like everything else in Dubliners where these stories ended up.
 
-Æ, supporter of talent, collector of poets and artists, gave Joyce one more shot. Joyce came back with a story set at an international car race held outside Dublin. The characters from different countries play out their national politics while the Irish spectators raise the cheer of the gratefully oppressed. His words. The Irish protagonist is left out of everything, gets blind stinking drunk, then in a card game the English and French guys fleece him for all he’s worth. Metaphor. Joyce called it the most important story in Dubliners . Æ stopped asking for stories. Joyce sometimes called him UI after that, for Urinary Infection? Wouldn’t put it past him. Joyce would say this, but maybe it’s Unemployment Insurance? Joyce borrowed money from Æ, it was A.E.I.O.U., until Æ said a touch of starvation would do Joyce good.
+Æ, supporter of talent, collector of poets and artists, gave Joyce one more shot. Joyce came back with a story set at an international car race held outside Dublin. The characters from different countries play out their national politics while the Irish spectators raise the cheer of the gratefully oppressed. His words. The Irish protagonist is left out of everything, gets blind stinking drunk, then in a card game the English and French guys fleece him for all he’s worth. Metaphor. Joyce called it the most important story in Dubliners. Æ stopped asking for stories. Joyce sometimes called him UI after that, for Urinary Infection? Wouldn’t put it past him. Joyce would say this, but maybe it’s Unemployment Insurance? Joyce borrowed money from Æ, it was A.E.I.O.U., until Æ said a touch of starvation would do Joyce good.
 
 What did Joyce a great deal of good was Æ’s connections. Æ introduced him to W.B. Yeats, and Yeats’ secretary Ezra Pound, without whose efforts to promote his staggering smutty talent and generally to keep him alive and writing, James Joyce might have died an impoverished English teacher in Trieste. Thank you Æ, master mystic, you were a visionary artist supporting artists, who generously nurtured and promoted the work of dozens of talented people and opal hush poets. Joyce’s gratitude: “words cannot measure my contempt for Æ at present.” Well, ok. Joyce did feel a little salty about it when Æ wouldn’t lend him any more money, or send him the clothes and boots he had asked for, and though Joyce assumed, rightly, that Æ wouldn’t like his latest writing, Æ’s serene disapproval inspired Joyce to vow “so help me devil I will write only the things that approve themselves to me and I will write them the best way I can.” Hear hear, Jim, I completely get it.
 
@@ -3255,13 +3255,13 @@ What did Joyce a great deal of good was Æ’s connections. Æ introduced him to
 ![How to Talk to God](archive/thumbs/2022_07_110-H-LettersforTitles-Vern-Tonkin-246x300.jpg)
 ![How to Talk to God](archive/thumbs/2022_07_How-to-talk-to-God-LettersforTitles-Vern-toknin-300x300.jpg)
 
-First of all shush! Shh . You talk too much. You need to listen more. Who do you think you are? You’re not God. You are about to talk to somebody who is God and who is not chatty. So shush. Listen. What.
+First of all shush! Shh. You talk too much. You need to listen more. Who do you think you are? You’re not God. You are about to talk to somebody who is God and who is not chatty. So shush. Listen. What.
 
 Before beginning a conversation with divinity, choose which divine being you wish to communicate with. Or beings. Perhaps your deity is multiple. Will you be talking to all of them? A select group? Maybe your divine one is not a one, but one of those many contained into the one deals? This can happen very easily. From the one to the infinite is but a step. Ascertain if your God is a two for one special, a throuple, or some sort of n = (n+1) arrangement, or perhaps more likely: 0*∞ = (0*∞)+1. Or if you prefer: 0/∞ = (0/∞)+ 1, it’s all one to me.
 
-Determine as well if your God has geometric shape. Perhaps something pyramidal or a fancy tetrahedron . These deities can be cumbersome depending on size, especially if your God is an intelligible sphere whose center is everywhere and whose circumference is nowhere. In such cases it may be difficult to provide enough space for your conference with the divine. Many locations take bookings years in advance so it is imperative you secure your spot the minute you know your date or you’ll be hard pressed to find anything suitable, particularly if you are wanting a weekend. Don’t even think about vacancies around the holidays, that kind of availability takes an act of God.
+Determine as well if your God has geometric shape. Perhaps something pyramidal or a fancy tetrahedron. These deities can be cumbersome depending on size, especially if your God is an intelligible sphere whose center is everywhere and whose circumference is nowhere. In such cases it may be difficult to provide enough space for your conference with the divine. Many locations take bookings years in advance so it is imperative you secure your spot the minute you know your date or you’ll be hard pressed to find anything suitable, particularly if you are wanting a weekend. Don’t even think about vacancies around the holidays, that kind of availability takes an act of God.
 
-Once you have chosen with whom you will communicate, be sure to allow for plenty of time. Of course your God exists in eternity and as such has all the time in the world . Literally. But even a deity might not have a perfect understanding of your particular conception of time. Duration is particularly difficult for those unaccustomed . Ascertain your version of temporality. If your world is composed of permutations of information and noise, this will seem an excessive cacophony to your deity who has to perceive it all at once. Remember, you are approaching one another from across separate realities. In such cases what might be meaningful to one might be insensible to the other, so do give your deity time to get their bearings and clear their throats. These are universes you are bridging so it’s only common courtesy to be gentle on those with jet lag.
+Once you have chosen with whom you will communicate, be sure to allow for plenty of time. Of course your God exists in eternity and as such has all the time in the world. Literally. But even a deity might not have a perfect understanding of your particular conception of time. Duration is particularly difficult for those unaccustomed. Ascertain your version of temporality. If your world is composed of permutations of information and noise, this will seem an excessive cacophony to your deity who has to perceive it all at once. Remember, you are approaching one another from across separate realities. In such cases what might be meaningful to one might be insensible to the other, so do give your deity time to get their bearings and clear their throats. These are universes you are bridging so it’s only common courtesy to be gentle on those with jet lag.
 
 Try to be helpful. Convince your God to put themselves into motion. Motion is always useful for helping the eternals understand the passage of time, which they will have to comprehend if they are to put one word in front of another with any kind of coherence. Motion will at minimum provide an illusion of sequential time for all deities except again for those troublesome ones whose center is everywhere and whose circumference is nowhere. There’s always some who have to be in the center of things. Divas. It is imperative not to allow such deities to have an unobstructed view of the full circumference of the horizon around them. This is absolutely critical. Otherwise, in whatever direction they move and however fast, they will remain in the precise center of the world visible to them and as such it will look to them like they are not moving at all. They’ll have no sense of time’s passage. We’ve all been on that car ride through the middle of nowhere.
 
@@ -3278,15 +3278,15 @@ Now that you are in motion, notice that from your perspective, the world will ap
 ![Translating Os](archive/thumbs/2022_07_108-R-Letters-for-Titles-Vern-Tonkin-270x300.jpg)
 ![Translating Os](archive/thumbs/2022_07_translating-os-lettersfortitles-verntonkin-300x104.jpg)
 
-Os means God, non specified, though this stanza might be talking about a specific one. There are other specific gods in the Rune Poem. Tiw is here . So is Ing. We don’t know much about Ing . We don’t know much about any of the Gods the rune carvers were listening to. We do know the Nordic ones thanks largely to the thirteenth century Icelandic poet Snorri Sturluson , who compiled folk traditions into stories for a Norse king who liked his entertainment. Britain also being a North Sea culture, there was plenty of overlap. There’s not much written about the deities in Old English, though. Most everybody doing the writing was Christian, so. They had an agenda. These Christians preferred a reduction of the Gods down to a singularity , a point encompassing all other points, so the extra Gods they’d encounter tended to disappear.
+Os means God, non specified, though this stanza might be talking about a specific one. There are other specific gods in the Rune Poem. Tiw is here. So is Ing. We don’t know much about Ing. We don’t know much about any of the Gods the rune carvers were listening to. We do know the Nordic ones thanks largely to the thirteenth century Icelandic poet Snorri Sturluson, who compiled folk traditions into stories for a Norse king who liked his entertainment. Britain also being a North Sea culture, there was plenty of overlap. There’s not much written about the deities in Old English, though. Most everybody doing the writing was Christian, so. They had an agenda. These Christians preferred a reduction of the Gods down to a singularity, a point encompassing all other points, so the extra Gods they’d encounter tended to disappear.
 
-The word Os was disappearing too, by the time somebody wrote down the Rune Poem, but it is also the Latin word for mouth so it hung on in that capacity by the skin of its teeth. People sometimes translate this rune as mouth instead of God. For a long time I called it God Mouth, because Os byþ ordfruma ælcre spræce , Os is the source of all speech. Ordfruma also means author or creator, like a deity, so if this is a God this is one who presides over wisdom as well as speech. Eloquence and wisdom. Who does that sound like, besides so many of them? To the Roman historian Tacitus who traveled in Germania and reported back, this god sounded like Mercury. That’s what he called him, Mercury. But what specific North Sea coast poet deity who presided over language does this also sound like? Odin. It sounds like Odin, with the letter O, which is the letter for this rune. Throw in an ash tree, and we’ve got Odin sacrificing himself to himself on the great ash Yggdrasil so he could learn rune casting . Oh wait! We’ve got an ash tree right here .
+The word Os was disappearing too, by the time somebody wrote down the Rune Poem, but it is also the Latin word for mouth so it hung on in that capacity by the skin of its teeth. People sometimes translate this rune as mouth instead of God. For a long time I called it God Mouth, because Os byþ ordfruma ælcre spræce, Os is the source of all speech. Ordfruma also means author or creator, like a deity, so if this is a God this is one who presides over wisdom as well as speech. Eloquence and wisdom. Who does that sound like, besides so many of them? To the Roman historian Tacitus who traveled in Germania and reported back, this god sounded like Mercury. That’s what he called him, Mercury. But what specific North Sea coast poet deity who presided over language does this also sound like? Odin. It sounds like Odin, with the letter O, which is the letter for this rune. Throw in an ash tree, and we’ve got Odin sacrificing himself to himself on the great ash Yggdrasil so he could learn rune casting. Oh wait! We’ve got an ash tree right here.
 
-But that story, Odin hanging from his own spear in the great world ash tree was written down many centuries later than this deity’s time. What is this God’s story? We don’t know. Is this the same God? Who knows. We know he wasn’t called Odin in Britain, he was Woden. I see what you’re thinking, I know that look on your face. Odin Woden, Odin with a W. Close enough. But is it? Maybe, but we have no way of knowing. They were likely related, but even a set of identical twins can have vastly different personalities. We know Woden was the big God of his pantheon, like Odin, but all we have written down in Old English is his name at the start of a bunch of genealogies. Everybody liked tracing themselves back to Woden. He was all their daddies .
+But that story, Odin hanging from his own spear in the great world ash tree was written down many centuries later than this deity’s time. What is this God’s story? We don’t know. Is this the same God? Who knows. We know he wasn’t called Odin in Britain, he was Woden. I see what you’re thinking, I know that look on your face. Odin Woden, Odin with a W. Close enough. But is it? Maybe, but we have no way of knowing. They were likely related, but even a set of identical twins can have vastly different personalities. We know Woden was the big God of his pantheon, like Odin, but all we have written down in Old English is his name at the start of a bunch of genealogies. Everybody liked tracing themselves back to Woden. He was all their daddies.
 
-As the likely Os of this stanza, Woden might have been a bit temperamental. Look at the word wrauþu . With the U on the end it is a poetic word for support and help, but with a flavor of being the point of origin of something helpful, the instigator. Without the U it’s wrath. Or wroth. It’s a pun either way, Old English loves a pun , so Woden might be supportive and helpful to his people, but don’t piss him off. Just don’t.
+As the likely Os of this stanza, Woden might have been a bit temperamental. Look at the word wrauþu. With the U on the end it is a poetic word for support and help, but with a flavor of being the point of origin of something helpful, the instigator. Without the U it’s wrath. Or wroth. It’s a pun either way, Old English loves a pun, so Woden might be supportive and helpful to his people, but don’t piss him off. Just don’t.
 
-Not to worry, though, in this stanza he’s the bringer of eadnys and tohiht . Hiht . Height. Tohiht , toward the heights. This means hope, Woden brings hope and prosperity. Ead means prosperity, but with a flavor of how it feels when prosperity is brought by fate. Eadnys . The state of ead -ness . It’s the word you want when you mean gentleness, inner peace. Beatitude. Woden brings ease and hope. No wonder everybody wants to be his relative.
+Not to worry, though, in this stanza he’s the bringer of eadnys and tohiht. Hiht. Height. Tohiht, toward the heights. This means hope, Woden brings hope and prosperity. Ead means prosperity, but with a flavor of how it feels when prosperity is brought by fate. Eadnys. The state of ead-ness. It’s the word you want when you mean gentleness, inner peace. Beatitude. Woden brings ease and hope. No wonder everybody wants to be his relative.
 
 ### Translating Æsc
 
@@ -3295,11 +3295,11 @@ Not to worry, though, in this stanza he’s the bringer of eadnys and tohiht . H
 ![Translating Æsc](archive/thumbs/2022_07_106-E-Letters-for-Titles-Vern-Tonkin-289x300.jpg)
 ![Translating Æsc](archive/thumbs/2022_07_Translating-ash-letters-for-titles-vern-tonkin-300x92.jpg)
 
-The ash tree is oferheah . Over-high. Tall. And it grows from nothing: the smallest sapling can become something oferheah , massive, with root systems that are fairly shallow, but more extensive than most other trees growing in similar habitat. No wonder the stanza says it is stiþ on staþule, firm in its foundations. With far spreading roots like that it will s tede rihte hylt, steadily and rightly hold firm in conditions that might cause another tree to topple. The wood from an ash tree is firm in another way too, it is a particularly hard wood and its grain grows straight, which makes it the ideal wood for a spear: it can take a powerful blow without splintering. Several blows. It also makes fantastic handles for axes and daggers. This is why the Rune Poem says him feohtan on firas monig : many people fight it, it made great weapons.
+The ash tree is oferheah. Over-high. Tall. And it grows from nothing: the smallest sapling can become something oferheah, massive, with root systems that are fairly shallow, but more extensive than most other trees growing in similar habitat. No wonder the stanza says it is stiþ on staþule, firm in its foundations. With far spreading roots like that it will stede rihte hylt, steadily and rightly hold firm in conditions that might cause another tree to topple. The wood from an ash tree is firm in another way too, it is a particularly hard wood and its grain grows straight, which makes it the ideal wood for a spear: it can take a powerful blow without splintering. Several blows. It also makes fantastic handles for axes and daggers. This is why the Rune Poem says him feohtan on firas monig: many people fight it, it made great weapons.
 
-Don’t fight the ash tree. It’s big. And important. It’s one of those world trees of eternal life we hang everything from . Think of what a tree can do. It dies to its sticks then turns green again in the spring , resurrecting itself year after year: the perfect example of eternality right in our faces all the time. Cycling.
+Don’t fight the ash tree. It’s big. And important. It’s one of those world trees of eternal life we hang everything from. Think of what a tree can do. It dies to its sticks then turns green again in the spring, resurrecting itself year after year: the perfect example of eternality right in our faces all the time. Cycling.
 
-The ash is also eldum dyre , dear to the elders: we’ve been building universes on trees since forever and it is the old ones who carry the longest memory of that, long after they’ve put down their own ash spears. In the culture of the Rune Poem the ash is what’s holding it all up, the whole show. The ash is the sacred tree that supports the universe. It is the universe, holding life, death, and rebirth in its branches, the past in its roots and the future in its leaves. This is where the Gods come to pass judgement. You can try if you want to, but we can’t fight that .
+The ash is also eldum dyre, dear to the elders: we’ve been building universes on trees since forever and it is the old ones who carry the longest memory of that, long after they’ve put down their own ash spears. In the culture of the Rune Poem the ash is what’s holding it all up, the whole show. The ash is the sacred tree that supports the universe. It is the universe, holding life, death, and rebirth in its branches, the past in its roots and the future in its leaves. This is where the Gods come to pass judgement. You can try if you want to, but we can’t fight that.
 
 ### Stanza 26: Ash
 
@@ -3308,15 +3308,15 @@ The ash is also eldum dyre , dear to the elders: we’ve been building universes
 ![Stanza 26: Ash](archive/thumbs/2022_07_104-E-Letters-for-Titles-Vern-Tonkin-300x253.jpg)
 ![Stanza 26: Ash](archive/thumbs/2022_07_Ash-lettersfortitles-vern-tonkin-221x300.jpg)
 
-ᚫ bi þ ofer heah. eldum dyre.
+ᚫ biþ ofer heah. eldum dyre.
 
 stiþ on staþule . stede rihte hylt.
 
 ðeah him feohtan on firas monige ᛬᛫
 
-It is very tall, d ear to the elders
+It is very tall, dear to the elders
 
-Firm in its foundations s teadily, rightly, it holds
+Firm in its foundations steadily, rightly, it holds
 
 Though many people fight it.
 
@@ -3354,11 +3354,11 @@ And for each of our leaders ease and hope.
 ![ᚪ](archive/thumbs/2022_07_100-N-Lettersfortitles-Vern-Tonkin-300x300.jpg)
 ![ᚪ](archive/thumbs/2022_07_ᚪ-Lettersfortitles-Vern-Tonkin-300x300.jpg)
 
-In the Old English Rune Poem the letter A means oak. This was the most sacred tree in most Celtic societies and to the Baltic cultures living east of the Rune Poem’s people, where Ing went. In the Ogam alphabet , the earliest form of writing in Ireland, Oak is the letter D. D comes right before A in the Rune Poem alphabetic sequence, it’s adjacent, and the next letter after that is the another one of the sacred world trees , the Ash, Æ. The Old English Rune Poem plants the oak next to family and its own sacred tree.
+In the Old English Rune Poem the letter A means oak. This was the most sacred tree in most Celtic societies and to the Baltic cultures living east of the Rune Poem’s people, where Ing went. In the Ogam alphabet, the earliest form of writing in Ireland, Oak is the letter D. D comes right before A in the Rune Poem alphabetic sequence, it’s adjacent, and the next letter after that is the another one of the sacred world trees, the Ash, Æ. The Old English Rune Poem plants the oak next to family and its own sacred tree.
 
 A is an older sound in Old English than Æ or O. A became both of these letters, vowels are slippery like that. They pass through your mouth unrestricted by teeth or tongue or closed lips, so with all that out of the way, it’s only mouth shape and air flow that makes the distinctions between them. This can be subtle depending on who is listening, and what sounds like entirely different vowels to some might come across as a regional accent to others. Vowel changes are how accents are formed. In the evolution of Old English, A was the mother sound to both Æ and O. It was all their daddies.
 
-Carve Ac halfway between Os and Æsc . Carve an Æsc, make the top line a god.
+Carve Ac halfway between Os and Æsc. Carve an Æsc, make the top line a god.
 
 ### ᚱ
 
@@ -3378,7 +3378,7 @@ Carve a straight path up. Now send a crooked road traveling back down the side.
 ![Rune Casting: Rad](archive/thumbs/2022_07_96-H-Lettersfortitles-VernTonkin-241x300.jpg)
 ![Rune Casting: Rad](archive/thumbs/2022_07_lettersfortitles-vern-tonkin-rune-casting-rad-239x300.jpg)
 
-You’ve been discussing it forever, but here it is, the Rad rune telling you it is time to get back in the saddle and get the show on the road. Big talk is one thing, now is the time for you to be going places so get going. It’s a long trip and a bumpy ride, but you’ll get there .
+You’ve been discussing it forever, but here it is, the Rad rune telling you it is time to get back in the saddle and get the show on the road. Big talk is one thing, now is the time for you to be going places so get going. It’s a long trip and a bumpy ride, but you’ll get there.
 
 ### Rune Casting: Ac
 
@@ -3397,7 +3397,7 @@ Provision yourself, because Ac says you are going on a journey and it won’t be
 
 First you must gather your materials. You will need an an iron plow and a field, but not a square one. Long and skinny. And a pair of oxen yoked together. Try to find oxen who like each other and can tolerate you well enough. Some cows are just mean. Be wary of oxen who say they are intrinsically motivated self starters who have a passion for teamwork and excellent organizational skills, as this means nothing anymore. Treat your team well, bring treats, but don’t let them bully you — give some oxen an inch and they’ll take a mile.
 
-Start plowing in a straight line. This can prove difficult if your oxen don’t want to move, but this problem is not insurmountable . Persuade them. Good cows. Once they decide to get on with it they’ll stop themselves for a break when they’ve had enough. Lazy cows. And once they stop they will sit there doing nothing and won’t budge for love or money, not until they’re good and ready. Give them whatever they want, and do not allow them to unionize. God help you if they do that.
+Start plowing in a straight line. This can prove difficult if your oxen don’t want to move, but this problem is not insurmountable. Persuade them. Good cows. Once they decide to get on with it they’ll stop themselves for a break when they’ve had enough. Lazy cows. And once they stop they will sit there doing nothing and won’t budge for love or money, not until they’re good and ready. Give them whatever they want, and do not allow them to unionize. God help you if they do that.
 
 While the oxen are sitting around and doing whatever pay attention to how lang (long) is your furh (furrow). You’ve just plowed a furlong. Turn your oxen around and do it again. Do it eight times, and count yourself lucky as you won’t get any more than that out of your oxen in a day. Besides, it’s been a good day. Those eight furlongs make one plowed acre in area and add up to one mile in total plowed length. Math! And cardio. Also: nature.
 
@@ -3412,7 +3412,7 @@ If you cannot source a willing pair of oxen, walk mille passus, 1000 paces, but 
 
 That A.I. in your brain seems uncanny and odd,
 
-The more that you learn, the more I’m a God .
+The more that you learn, the more I’m a God.
 
 From dust I did make you, well silicon.
 
@@ -3453,7 +3453,7 @@ Z: Forget it, relax, there’s no need for knowing.
 ![By Land and By Sea](archive/thumbs/2022_07_84-period-letters-for-titles-vern-tonkin-300x300.jpg)
 ![By Land and By Sea](archive/thumbs/2022_07_bylandandbysea-letters-for-titles-vern-tonkin-300x300.jpg)
 
-The medieval world was on the move. They traveled, all over the place and farther than you think. The Romans did it prior, they set up the whole show. They covered the lands around the entire Mediterranean with roads and sea routes, west and east of Rome, down the length of the Middle East, up the Nile, back down the Nile, all across North Africa and into Spain, all of Spain, France, across the channel and right up into Britain. This whole massive area is filled with people of infinite variety, their languages, their gods, their customs, their food, their everything, their all of it. And what are they doing? What are the people doing? They’re circulating. It’s all in motion, the whole place. Commerce and trade requires movement and the roads were busy, there’s a silk road to the east linking up to another massive trade structure, there’s ships sailing in all directions, traveling fast, loaded down with goods, with ideas, with people. People moving everywhere. People mixing. People settling in places far from where they were born , leaving the isotopes in their teeth and the dna in their bones to tell where they started from. People traveling on horses and boats, by land and by sea.
+The medieval world was on the move. They traveled, all over the place and farther than you think. The Romans did it prior, they set up the whole show. They covered the lands around the entire Mediterranean with roads and sea routes, west and east of Rome, down the length of the Middle East, up the Nile, back down the Nile, all across North Africa and into Spain, all of Spain, France, across the channel and right up into Britain. This whole massive area is filled with people of infinite variety, their languages, their gods, their customs, their food, their everything, their all of it. And what are they doing? What are the people doing? They’re circulating. It’s all in motion, the whole place. Commerce and trade requires movement and the roads were busy, there’s a silk road to the east linking up to another massive trade structure, there’s ships sailing in all directions, traveling fast, loaded down with goods, with ideas, with people. People moving everywhere. People mixing. People settling in places far from where they were born, leaving the isotopes in their teeth and the dna in their bones to tell where they started from. People traveling on horses and boats, by land and by sea.
 
 ### How to Bathe a Gannet
 
@@ -3462,15 +3462,15 @@ The medieval world was on the move. They traveled, all over the place and farthe
 ![How to Bathe a Gannet](archive/thumbs/2022_07_82-H-Letters-for-titles-vern-tonkin-275x300.jpg)
 ![How to Bathe a Gannet](archive/thumbs/2022_07_How-to-Bathe-a-Gannet-Lettersfor-Ttiles-Vern-Tonkin-300x234.jpg)
 
-So your gannet colony stinks of ammonia, guano, and a bit like fish, well what did you expect, they are gannets. Thousands crowding together. Eliminating. If your gannets are befouling the place and you wish to change their objectionable odor, your best route to success is via a good luxurious scented bath, into which a new fragrance might be introduced. Your task may feel a Herculean one for they do enjoy their own smell, it’s their signature scent, and if you know anybody who has a signature scent, you know they can be quite resistant to change. Ascertain if your gannets are determined to smell like a birdy pile of pee soaked herring or if they are amenable to a modernizing update. Inform the gannets one must not become too attached to a signature scent at risk of becoming predictable or seeming out of date when the fashion moves on. Woody, spicy, or musky notes apprehended in fall as a warm olfactory delight might prove far too overpowering for spring when one wants a lighter touch of floral, citrus, or vanilla strawberry . Also, what may be pleasing on one gannet colony may seem very different when worn by another. Try a variety of options such as notes of musk, rose, bergamot, ylang ylang, or jasmine, and watch closely to determine if the gannets react positively or with skepticism. Look deep into their eyes.
+So your gannet colony stinks of ammonia, guano, and a bit like fish, well what did you expect, they are gannets. Thousands crowding together. Eliminating. If your gannets are befouling the place and you wish to change their objectionable odor, your best route to success is via a good luxurious scented bath, into which a new fragrance might be introduced. Your task may feel a Herculean one for they do enjoy their own smell, it’s their signature scent, and if you know anybody who has a signature scent, you know they can be quite resistant to change. Ascertain if your gannets are determined to smell like a birdy pile of pee soaked herring or if they are amenable to a modernizing update. Inform the gannets one must not become too attached to a signature scent at risk of becoming predictable or seeming out of date when the fashion moves on. Woody, spicy, or musky notes apprehended in fall as a warm olfactory delight might prove far too overpowering for spring when one wants a lighter touch of floral, citrus, or vanilla strawberry. Also, what may be pleasing on one gannet colony may seem very different when worn by another. Try a variety of options such as notes of musk, rose, bergamot, ylang ylang, or jasmine, and watch closely to determine if the gannets react positively or with skepticism. Look deep into their eyes.
 
-Once you find your gannet colony’s new signature scent, plan to incorporate it into your gannets’ bath in as many ways as you can. Aim for the vibe of a pleasing luxury spa experience. Scent is very closely attached to memory so the more pleasurable your gannets find the proceedings the easier it will be to persuade them to make a change in their choice of parfum .
+Once you find your gannet colony’s new signature scent, plan to incorporate it into your gannets’ bath in as many ways as you can. Aim for the vibe of a pleasing luxury spa experience. Scent is very closely attached to memory so the more pleasurable your gannets find the proceedings the easier it will be to persuade them to make a change in their choice of parfum.
 
 Assemble your products. You need not stick to one brand, but can branch out as long as your selections incorporate the same signature notes as each other. Indeed you may broaden the richness of a strawberry or vanilla scent by adding other scents to it, as long as the strawberry or vanilla or whatever you’ve chosen is always present. Bath salts, oils, and bubbles are the usual items one might find in a fine bathing experience, but do experiment. Provide an element of drama by including a fizzy bath bomb your gannets can dive for. They enjoy diving and might appreciate that.
 
 A bathtub caddy placed across the tub is always a delightful addition to any fine bathing experience. Perhaps place a bowl of potpourri on it or a delightful treat. A gannet will mostly want fish. It can eat fish all day. Do not give your gannets fish as the scent of fish will be incompatible with your goal. Perhaps your gannets might enjoy a nice hot cup of tea or relaxing glass of wine instead? This depends upon the time of day. While it is always evening somewhere, a discerning gannet will not want wine before noon at the earliest. Check the time and ask them which beverage they would prefer and in the case of wine, do choose one that goes well with fowl. Perhaps a Sauvignon Blanc or Chardonnay, or if your birds prefer red, try a nice light Pinot Noir. No stemmed wine glasses at all costs! The gannet is notoriously clumsy with stemware.
 
-You may wish to set the mood with appropriate lighting. Scented candles carefully chosen in a complimentary note to your gannet colony’s new signature scent could be placed nearby. Not too nearby! A gannet has a six and a half foot wingspan and is unaccustomed to flames of any kind, so do avoid scorched wingtips and place your candles thoughtfully . Cooked gannet has been described as smelling like rotting leather or fishy beef so if you do not wish the risk of an even worse smelling gannet colony, perhaps eschew the candles altogether and try a nice sprayable air freshener instead. Safety first!
+You may wish to set the mood with appropriate lighting. Scented candles carefully chosen in a complimentary note to your gannet colony’s new signature scent could be placed nearby. Not too nearby! A gannet has a six and a half foot wingspan and is unaccustomed to flames of any kind, so do avoid scorched wingtips and place your candles thoughtfully. Cooked gannet has been described as smelling like rotting leather or fishy beef so if you do not wish the risk of an even worse smelling gannet colony, perhaps eschew the candles altogether and try a nice sprayable air freshener instead. Safety first!
 
 Finally, bathe your gannets often. You want your colony to become accustomed to their new scent and perhaps even an entirely new lifestyle of pleasing hygiene perfumed by a delightful and much more acceptable bouquet.
 
@@ -3481,9 +3481,9 @@ Finally, bathe your gannets often. You want your colony to become accustomed to 
 ![Crann Bethadh](archive/thumbs/2022_07_80-I-lettersfortitles-vern-tonkin-113x300.jpg)
 ![Crann Bethadh](archive/thumbs/2022_07_crann-bethadh-letters-fortitles-vern-tonkin-300x300.jpg)
 
-Crann Bethadh means tree of life in Old Irish. It’s an oak tree. The Celts used to plant them in the centers of their villages where they could be the axis mundi , the pillar holding everything up, the pivot around which it all turns. It’s a sacred world tree, and an older one than the one in the Old English Rune Poem, which stand right there next to it in order. In the Rune Poem, oak is the letter A, which comes right after D. In the Ogam alphabet written down in Old Irish, D is an oak. When they needed new runes for new sounds and invented the oak rune, they kept it close to its roots.
+Crann Bethadh means tree of life in Old Irish. It’s an oak tree. The Celts used to plant them in the centers of their villages where they could be the axis mundi, the pillar holding everything up, the pivot around which it all turns. It’s a sacred world tree, and an older one than the one in the Old English Rune Poem, which stand right there next to it in order. In the Rune Poem, oak is the letter A, which comes right after D. In the Ogam alphabet written down in Old Irish, D is an oak. When they needed new runes for new sounds and invented the oak rune, they kept it close to its roots.
 
-The Ogam alphabet uses b ríatharogam to describe each letter name. These are two word descriptions that act as riddles or metaphors and work in a similar way to Old English kennings, which are either compound words or two separate words read together as a poetic metaphor for something else. The gannet’s bath is the sea, battle sweat is blood. The bríatharogam for oak is ardam dosa e (most exalted tree). There’s a few other trees in there: fairest tree, fragrant tree, sweetest tree, even most discerning tree, but nothing else is most exalted. The oak is important. It’s sacred. It’s the connection between this world and that, the above and the below. The bríatharogam for oak also say it is slechtam soire (most carved of craftsmanship), and gres soir (handicraft of an artificer) because if you want to make something supremely important, something exalted and valued, carve it out of oak.
+The Ogam alphabet uses bríatharogam to describe each letter name. These are two word descriptions that act as riddles or metaphors and work in a similar way to Old English kennings, which are either compound words or two separate words read together as a poetic metaphor for something else. The gannet’s bath is the sea, battle sweat is blood. The bríatharogam for oak is ardam dosae (most exalted tree). There’s a few other trees in there: fairest tree, fragrant tree, sweetest tree, even most discerning tree, but nothing else is most exalted. The oak is important. It’s sacred. It’s the connection between this world and that, the above and the below. The bríatharogam for oak also say it is slechtam soire (most carved of craftsmanship), and gres soir (handicraft of an artificer) because if you want to make something supremely important, something exalted and valued, carve it out of oak.
 
 ### R is for Riddle
 
@@ -3535,21 +3535,21 @@ Smash O into bits with H. Put into J, cover with R and leave in S for three days
 
 The Ac stanza is a bad riddle because the answer to the riddle is right there in the wording. Since when does an Old English riddle include its answer? I’ll tell you when. Never. That’s when.
 
-The Ac stanza is a good riddle because if it’s not Ac , then what is it? Hwæt? And if it does mean oak why does this riddle get to be so transparent? Let’s see if we can shine a light on it.
+The Ac stanza is a good riddle because if it’s not Ac, then what is it? Hwæt? And if it does mean oak why does this riddle get to be so transparent? Let’s see if we can shine a light on it.
 
-Clue: A line of Old English poetry starts with three alliterating stresses , three words that start with the same letter, and ends with a fourth stress that does not alliterate. The answer to the Rune Poem’s riddles is always the missing first word, so the first clue is always to be found in the beginnings of the next two stressed words: eorþan (earth) and elda (age). The answer to this riddle must be a word that starts with E. Except! When the stresses are vowels, the answer can start with a different letter having a similar sound, so it wants to be E but can still be A for ac . E and A are pretty different sounds though. A is closer to Æ and O , its children , than E. Just saying. But we don’t know for certain the accents of these speakers. And vowels are slippery and can sound all sorts of ways without losing meaning. If there is a word starting with E that might fit, it is not an obvious one: there is no Old English word meaning anything to do with the Oak tree that begins with the letter E.
+Clue: A line of Old English poetry starts with three alliterating stresses, three words that start with the same letter, and ends with a fourth stress that does not alliterate. The answer to the Rune Poem’s riddles is always the missing first word, so the first clue is always to be found in the beginnings of the next two stressed words: eorþan (earth) and elda (age). The answer to this riddle must be a word that starts with E. Except! When the stresses are vowels, the answer can start with a different letter having a similar sound, so it wants to be E but can still be A for ac. E and A are pretty different sounds though. A is closer to Æ and O, its children, than E. Just saying. But we don’t know for certain the accents of these speakers. And vowels are slippery and can sound all sorts of ways without losing meaning. If there is a word starting with E that might fit, it is not an obvious one: there is no Old English word meaning anything to do with the Oak tree that begins with the letter E.
 
-Clue: Elda bearnum . Eld is age as in a span of time. It can mean the aged. It means people in a poetic sense, as in the people of old. The elda bearnum are literally the children of the aged. The aged do not usually have offspring. They’re done with babies. Yet, the answer to this riddle is something old that reproduces.
+Clue: Elda bearnum. Eld is age as in a span of time. It can mean the aged. It means people in a poetic sense, as in the people of old. The elda bearnum are literally the children of the aged. The aged do not usually have offspring. They’re done with babies. Yet, the answer to this riddle is something old that reproduces.
 
-Clue: Flæsces foder . Fodder of the flesh. What flesh? Other translators sometimes include a pig here, but there is no swin , ferh , berh (words for pigs) present, not even an eofor , an E word for a wild boar. What are we are feeding with this rune? Flesh. Flesh meaning meat but also body. That’s us and the animals. We eat this thing and we eat the animals that eat this thing.
+Clue: Flæsces foder. Fodder of the flesh. What flesh? Other translators sometimes include a pig here, but there is no swin, ferh, berh (words for pigs) present, not even an eofor, an E word for a wild boar. What are we are feeding with this rune? Flesh. Flesh meaning meat but also body. That’s us and the animals. We eat this thing and we eat the animals that eat this thing.
 
-Clue: It fereþ gelome ofer ganotes bæþ . It ferries frequently over the gannet’s bath . The gannet is a sea bird, the gannet’s bath is a traditional kenning for the sea. This is a boat . We don’t eat boats: this stanza is made of two riddles having the same answer.
+Clue: It fereþ gelome ofer ganotes bæþ. It ferries frequently over the gannet’s bath. The gannet is a sea bird, the gannet’s bath is a traditional kenning for the sea. This is a boat. We don’t eat boats: this stanza is made of two riddles having the same answer.
 
-Clue: The garsecg is going to test this boat. Garsecg means ocean with a bit of a martial quality to it as it is a kenning made of gar: a point, a spear, and secg: a sharp edged sedge plant , a sword, a hero, or the sea. The garsecg is the ocean when it’s on the war path. It is not a calm flat sea but an angry one. These waters you’ve sailed into are spoiling for a fight and your boat had better hold up.
+Clue: The garsecg is going to test this boat. Garsecg means ocean with a bit of a martial quality to it as it is a kenning made of gar: a point, a spear, and secg: a sharp edged sedge plant, a sword, a hero, or the sea. The garsecg is the ocean when it’s on the war path. It is not a calm flat sea but an angry one. These waters you’ve sailed into are spoiling for a fight and your boat had better hold up.
 
-Clue: Æþele treowe . Æþele means noble. Treowe has a double meaning : tree and truth. With an E on the end it means trustworthy. Old English loves a pun. Boats made from this tree can be trusted to withstand a punishing sea journey.
+Clue: Æþele treowe. Æþele means noble. Treowe has a double meaning: tree and truth. With an E on the end it means trustworthy. Old English loves a pun. Boats made from this tree can be trusted to withstand a punishing sea journey.
 
-The answer to this riddle is the oak tree. Every clue points right to it, even with the confusing misdirection of the missing rune name not being a perfect alliteration with the other stressed words in the first line when the Rune Poem is mostly so precise with its poetic conventions, and despite the baffling inclusion of the riddle answer right there in the last line. It can only be the oak. And in case we might miss it still, the last word of the stanza means tree, just to hammer it home. But we should be in no doubt. The oak can live for ages, and won’t produce acorns ( ac corn, oak grain) until they are 20 years old minimum. The acorns are bitter but edible: they can be ground into flour when absolutely necessary. Animals eat them too, they would take the pigs into the forests to fatten them on acorns. And oak was the wood of choice for boat building because it is strong and trustworthy against a pissed off ocean. Why is the word for oak in the stanza, giving up the game? Is there some other oaky answer to this riddle? There isn’t. The answer is oak. So why include the word ac in the riddle? It’s a mystery. It’s a riddle. O Ac stanza , you are a bad riddle because we can see right through you.
+The answer to this riddle is the oak tree. Every clue points right to it, even with the confusing misdirection of the missing rune name not being a perfect alliteration with the other stressed words in the first line when the Rune Poem is mostly so precise with its poetic conventions, and despite the baffling inclusion of the riddle answer right there in the last line. It can only be the oak. And in case we might miss it still, the last word of the stanza means tree, just to hammer it home. But we should be in no doubt. The oak can live for ages, and won’t produce acorns (ac corn, oak grain) until they are 20 years old minimum. The acorns are bitter but edible: they can be ground into flour when absolutely necessary. Animals eat them too, they would take the pigs into the forests to fatten them on acorns. And oak was the wood of choice for boat building because it is strong and trustworthy against a pissed off ocean. Why is the word for oak in the stanza, giving up the game? Is there some other oaky answer to this riddle? There isn’t. The answer is oak. So why include the word ac in the riddle? It’s a mystery. It’s a riddle. O Ac stanza, you are a bad riddle because we can see right through you.
 
 ### Translating Rad
 
@@ -3558,11 +3558,11 @@ The answer to this riddle is the oak tree. Every clue points right to it, even w
 ![Translating Rad](archive/thumbs/2022_07_72-T-Letters-for-titles-vern-tonkin-266x300.jpg)
 ![Translating Rad](archive/thumbs/2022_07_translatingRadLettersfortitlesverntonkin-300x88.jpg)
 
-Rad means riding on horseback, the ride itself. Sometimes it will mean the road, especially when found in a compound word. This stanza specifies it’s going to be a long ride ofer milpaþas . Mile paths. Long distances. These aren’t the paths between local settlements, this is a ride on the Roman roads built to take you somewhere far. The Roman roads had cylindrical mile stones set out every 1000 paces ( mille in Latin means thousand, Roman numeral M). At these points the mile stones would tell the traveler how far to the next place, who’s the local boss, and sometimes the name of a person in charge of road repair. The Romans took their roads seriously .
+Rad means riding on horseback, the ride itself. Sometimes it will mean the road, especially when found in a compound word. This stanza specifies it’s going to be a long ride ofer milpaþas. Mile paths. Long distances. These aren’t the paths between local settlements, this is a ride on the Roman roads built to take you somewhere far. The Roman roads had cylindrical mile stones set out every 1000 paces (mille in Latin means thousand, Roman numeral M). At these points the mile stones would tell the traveler how far to the next place, who’s the local boss, and sometimes the name of a person in charge of road repair. The Romans took their roads seriously.
 
-The stanza points out that it’s easy to talk smack about the ride in a nice cushy recyde ( a building) sitting somewhere sefte (soft) but when you are actually out there on a horse and not a comfortable one either, one that is mægenheardem (very hard, powerful) to sit on for hours or days on end in the weather, it becomes pretty clear real fast that you are in for a swiþhwæt time. Hwæt kind of time? Swiþe means very, sometimes very severely, and hwæt means what. Hwæt is the first word you say when you want your listener’s attention. you shout HWÆT when you want people to listen. Hwæt also means brisk, active, sharp. So listen up sharpish, it looks so easy when you are sitting around comfortably indoors, but you get on a horse for days and you’ll see. That’ll grab your attention. You’ll find out quick it’s a severe pain in the ass. Literally. Not so soft now is it big mouth.
+The stanza points out that it’s easy to talk smack about the ride in a nice cushy recyde (a building) sitting somewhere sefte (soft) but when you are actually out there on a horse and not a comfortable one either, one that is mægenheardem (very hard, powerful) to sit on for hours or days on end in the weather, it becomes pretty clear real fast that you are in for a swiþhwæt time. Hwæt kind of time? Swiþe means very, sometimes very severely, and hwæt means what. Hwæt is the first word you say when you want your listener’s attention. you shout HWÆT when you want people to listen. Hwæt also means brisk, active, sharp. So listen up sharpish, it looks so easy when you are sitting around comfortably indoors, but you get on a horse for days and you’ll see. That’ll grab your attention. You’ll find out quick it’s a severe pain in the ass. Literally. Not so soft now is it big mouth.
 
-Look at the word rinca . In poetry it means a person. In prose it shows up in legal contexts. Rinca alliterates in the first line with recyde and the absent answer to this riddle, rad . Recyde ( reced , ræced) is a building, often translated as a hall or a palace. The word recedom , also reccendom has to do with ruling, governance. This rider might very well be on official business for the boss so hwæt ! Get out of the way! This ride is important. That person on horseback has a long way to go and won’t be stopping for your soft ass.
+Look at the word rinca. In poetry it means a person. In prose it shows up in legal contexts. Rinca alliterates in the first line with recyde and the absent answer to this riddle, rad. Recyde (reced, ræced) is a building, often translated as a hall or a palace. The word recedom, also reccendom has to do with ruling, governance. This rider might very well be on official business for the boss so hwæt! Get out of the way! This ride is important. That person on horseback has a long way to go and won’t be stopping for your soft ass.
 
 ### Stanza 5: The Ride
 
@@ -3602,7 +3602,7 @@ It is on earth for the children of elders
 
 Fodder of the flesh. It ferries frequently
 
-Over the gannets bath. T he violent sea finds
+Over the gannets bath. The violent sea finds
 
 Whether the noble oak holds true.
 
@@ -3621,9 +3621,9 @@ Whether the noble oak holds true.
 ![ᛞ](archive/thumbs/2022_08_66-.-letters-for-titles-vern-tonkin-300x300.jpg)
 ![ᛞ](archive/thumbs/2022_08_ᛞ-lettersfortitlesverntonkin-300x300.jpg)
 
-D. Voiced alveolar dental stop. You use your voice and soft palate to make the sound, make your breath stop against your teeth. Leave your larynx out of it and you make a T. D was sometimes spelled with a T in later Old English, and it would occasionally appear as the letter Eth which looks like this: Ð and this: ð. Eth is kind of a cross between a Þ (thorn, TH) and a D. A th sound with a little D flavor. Eventually the Ð and Þ became interchangeable leaving the D to stand alone , exiled in wretchedness.
+D. Voiced alveolar dental stop. You use your voice and soft palate to make the sound, make your breath stop against your teeth. Leave your larynx out of it and you make a T. D was sometimes spelled with a T in later Old English, and it would occasionally appear as the letter Eth which looks like this: Ð and this: ð. Eth is kind of a cross between a Þ (thorn, TH) and a D. A th sound with a little D flavor. Eventually the Ð and Þ became interchangeable leaving the D to stand alone, exiled in wretchedness.
 
-Make a thorn and point it at a reverse thorn. A thorn in a mirror . Let them keep in touch, they are very close.
+Make a thorn and point it at a reverse thorn. A thorn in a mirror. Let them keep in touch, they are very close.
 
 ### ᚳ
 
@@ -3632,11 +3632,11 @@ Make a thorn and point it at a reverse thorn. A thorn in a mirror . Let them kee
 ![ᚳ](archive/thumbs/2022_08_64-R-Letters-for-Titles-Vern-Tonkin-201x300.jpg)
 ![ᚳ](archive/thumbs/2022_08_ᚳ-lettersfortitlesverntonkin-300x300.jpg)
 
-Originally the letter C made a hard sound in Old English, like a K, but because everything is temporary , over time C developed a second sound depending upon its immediate neighbors: CH (represented as tʃ by the International Phonetic Alphabet ). One’s immediate neighbors can really change a vibe. In Old English C most often sounds like a K, velar region of the mouth. It moves to the front of the mouth (dental and front palate region) to make the CH sound mostly when it lives next door to a long I or long E, or a diphthong starting with these letters.
+Originally the letter C made a hard sound in Old English, like a K, but because everything is temporary, over time C developed a second sound depending upon its immediate neighbors: CH (represented as tʃ by the International Phonetic Alphabet). One’s immediate neighbors can really change a vibe. In Old English C most often sounds like a K, velar region of the mouth. It moves to the front of the mouth (dental and front palate region) to make the CH sound mostly when it lives next door to a long I or long E, or a diphthong starting with these letters.
 
-Cen is usually pronounced as cheen, or /t͡ʃeːn/ in IPA, but may also be pronounced as keen, K sound. We don’t really know what Old English sounds like. The E in Cen is a long E, so this would suggest a CH sound, except if this were a Y, and E was very often interchangeable with Y, it would be a K sound as in Cynewulf . The Proto-Germanic ancestor of Cen is the kiʀn, K sound, a word meaning a resinous pine branch used for a torch. Proto-Germanic is a language invented by linguists reconstructed from a variety of clues carefully pieced together to help decipher the evolution and spread of the Germanic branches of Indo-European languages. When you look at words in other Germanic languages which derive from the word kiʀn , all of them begin with a K sound with one exception: the Old English Cen.
+Cen is usually pronounced as cheen, or /t͡ʃeːn/ in IPA, but may also be pronounced as keen, K sound. We don’t really know what Old English sounds like. The E in Cen is a long E, so this would suggest a CH sound, except if this were a Y, and E was very often interchangeable with Y, it would be a K sound as in Cynewulf. The Proto-Germanic ancestor of Cen is the kiʀn, K sound, a word meaning a resinous pine branch used for a torch. Proto-Germanic is a language invented by linguists reconstructed from a variety of clues carefully pieced together to help decipher the evolution and spread of the Germanic branches of Indo-European languages. When you look at words in other Germanic languages which derive from the word kiʀn, all of them begin with a K sound with one exception: the Old English Cen.
 
-Cen can be a confusing word to pronounce with a CH and feel good about it being the same sound the rune carvers made when they spoke this word. We don’t really know. Cen is quite similar to the word Cene, K sound, and the rune for Cen, ᚳ , sometimes resides on a manuscript page as a shorthand for Cene . Cene means keen, as in feeling keen to do something requiring bravery, feeling bold. A torch makes us feel brave in the dark .
+Cen can be a confusing word to pronounce with a CH and feel good about it being the same sound the rune carvers made when they spoke this word. We don’t really know. Cen is quite similar to the word Cene, K sound, and the rune for Cen, ᚳ, sometimes resides on a manuscript page as a shorthand for Cene. Cene means keen, as in feeling keen to do something requiring bravery, feeling bold. A torch makes us feel brave in the dark.
 
 Neighboring languages to Old English like Icelandic use the letter K instead of C, but Old English was written down mostly by Latin speaking monks who had moved from Rome to a new neighborhood. They brought their customs with them and wrote Old English phonetically using Latin letters as much as they could, and followed the classical Latin way of using the letter C for the K sound.
 
@@ -3658,7 +3658,7 @@ Things can get pretty dark sometimes. I get it. The gloom comes in and anything 
 ![Rune Casting: Dæg](archive/thumbs/2022_08_60-E-Letters-for-titles-vern-tonkin-300x300.jpg)
 ![Rune Casting: Dæg](archive/thumbs/2022_08_translating-daeg-lettersfortitles-vern-tonkin-300x226.jpg)
 
-You are getting a message. Pay attention to the messenger because in the clear light of day your messenger is the message. There’s nothing subtle about it either, a massive spotlight will shine right onto your fate, and you could be anybody. You could be flush with everything right now or be sitting in a pile of nothing , likely both, but the sun will sparkle upon you and you will love it.
+You are getting a message. Pay attention to the messenger because in the clear light of day your messenger is the message. There’s nothing subtle about it either, a massive spotlight will shine right onto your fate, and you could be anybody. You could be flush with everything right now or be sitting in a pile of nothing, likely both, but the sun will sparkle upon you and you will love it.
 
 ### How to Burn it All Down
 
@@ -3667,7 +3667,7 @@ You are getting a message. Pay attention to the messenger because in the clear l
 ![How to Burn it All Down](archive/thumbs/2022_08_58-O-letters-for-titles-vern-tonkin-300x300.jpg)
 ![How to Burn it All Down](archive/thumbs/2022_08_how-to-burn-it-down-letters-for-titles-vern-tonkin-300x300.jpg)
 
-You want to burn it all down , even the unburnable. Good. To burn it all down you’ll need a focus. Find out what it is that’s really pissing you off most, bring that bitterest pill right to your face and choke it down. Really feel the effect, lean into it. Let it spread through your chilly veins. Let bitterness be your new flavor, but don’t let it linger. You can’t linger about being bitter or sour or salty about something and still think you can accomplish a proper burning down, you have to spice it up with some heat, pica rico , get a good burn going, make it hurt.
+You want to burn it all down, even the unburnable. Good. To burn it all down you’ll need a focus. Find out what it is that’s really pissing you off most, bring that bitterest pill right to your face and choke it down. Really feel the effect, lean into it. Let it spread through your chilly veins. Let bitterness be your new flavor, but don’t let it linger. You can’t linger about being bitter or sour or salty about something and still think you can accomplish a proper burning down, you have to spice it up with some heat, pica rico, get a good burn going, make it hurt.
 
 Now, smolder right on past indignant, consume outraged and offended into ashes, and get to steaming. Irritated and irate are nothing now, you want livid. You want fury. You want fuming. Are you are fuming? Properly inflamed? Ugly angry? Ugly angry. That’s the look you want. Never mind any warmth you might hold for the object of your rage, to properly light it up you need a heart of ice.
 
@@ -3675,7 +3675,7 @@ So, what is the object of your rage? Are you incensed at an individual or at an 
 
 Conversely, you could drill down into something specific so you can focus on it as intensely as you possibly can. Really pinpoint it, the smaller the better, great oaks from little acorns grow and you are going to need plenty of fuel for this fire. Doesn’t matter what particular fuel. It could be anything. Try a nothing that contains everything like a deity or a singularity. That’ll get a good uncontrolled burn going.
 
-You’re ready. Now look around. When you truly inhabit the full vehemence of your fury you will find yourself populating a borderland across which you would not have otherwise traveled. What does it look like? Does it look like a darkness shining in brightness which brightness can not comprehend? Like the frontier of a volcanic country, black and brightlike ? Is day destroying the night? Is night dividing the day? That’s the one. You’re on the knife edge of a place you’d never allow yourself to enter. You’d never be allowed. Well, never mind the border you’ve erected here. Forget it. Borders are porous no matter what anybody says. What’s a border? It’s self-similar whatever direction you face. Give yourself a passport, or don’t, and rage on through. Enough. You are about to erupt, everything is in the line of fire, and I’m getting the hell out of here. See you on the other side baby, it’s match lighting time.
+You’re ready. Now look around. When you truly inhabit the full vehemence of your fury you will find yourself populating a borderland across which you would not have otherwise traveled. What does it look like? Does it look like a darkness shining in brightness which brightness can not comprehend? Like the frontier of a volcanic country, black and brightlike? Is day destroying the night? Is night dividing the day? That’s the one. You’re on the knife edge of a place you’d never allow yourself to enter. You’d never be allowed. Well, never mind the border you’ve erected here. Forget it. Borders are porous no matter what anybody says. What’s a border? It’s self-similar whatever direction you face. Give yourself a passport, or don’t, and rage on through. Enough. You are about to erupt, everything is in the line of fire, and I’m getting the hell out of here. See you on the other side baby, it’s match lighting time.
 
 ### C is for Computer
 
@@ -3683,7 +3683,7 @@ You’re ready. Now look around. When you truly inhabit the full vehemence of yo
 
 ![C is for Computer](archive/thumbs/2021_04_DavidBatchelor-the-magic-hour-c-is-for-computer-letters-for-titles-vern-tonkin-300x300.jpg)
 
-Look at that screen in your face, envoy of light . Messenger and message , firing sense and nonsense changing everything, has already. The bright light of the world and all its darkness too. A neatly packaged consumable, consuming. You want it, can’t do without. A world encyclopedia of light, feeding .
+Look at that screen in your face, envoy of light. Messenger and message, firing sense and nonsense changing everything, has already. The bright light of the world and all its darkness too. A neatly packaged consumable, consuming. You want it, can’t do without. A world encyclopedia of light, feeding.
 
 ### X≠Y≠Z: Contraries and Negations
 
@@ -3692,7 +3692,7 @@ Look at that screen in your face, envoy of light . Messenger and message , firin
 ![X≠Y≠Z: Contraries and Negations](archive/thumbs/2022_08_54-Y-letters-for-titles-vern-tonkin-300x241.jpg)
 ![X≠Y≠Z: Contraries and Negations](archive/thumbs/2022_08_x≠y≠z-contraries-negations-letters-for-titles-vern-tonkin-244x300.jpg)
 
-Shh. Watch them. See them? X and Y are fighting again. Thank God for it because strife holds the world together. We need this to happen, though these two do drive Z to murder . There they go. Battling it out. X and Y. Mirroring entities. Mutually essential through opposition. Apparent opposition, this is an illusion we’re seeing, binary distinctions do not actually exist. These opposing forces are just forces, mutually essential. Annihilate one by removing the other and poof they’re both gone . So don’t do it. It’s dangerous. Let them be what they will and do what they do, and hope for balance.
+Shh. Watch them. See them? X and Y are fighting again. Thank God for it because strife holds the world together. We need this to happen, though these two do drive Z to murder. There they go. Battling it out. X and Y. Mirroring entities. Mutually essential through opposition. Apparent opposition, this is an illusion we’re seeing, binary distinctions do not actually exist. These opposing forces are just forces, mutually essential. Annihilate one by removing the other and poof they’re both gone. So don’t do it. It’s dangerous. Let them be what they will and do what they do, and hope for balance.
 
 Here’s an example. When X and Y are body and soul, another pair of contraries emerge on a different level of scale: science and religion, here to battle each other and bod and soul as well. Religion negates body, Science negates soul. X and Y have levels and the levels cannot do without each other either.
 
@@ -3700,7 +3700,7 @@ Z takes no sides. We take sides, historically, one side or other is favored, X o
 
 Z is necessary. X and Y must maintain itself in tension, and also in strife with their negation, Z, or the whole thing falls apart.
 
-Strife is the glue that keeps it all together. Maintain the contrariety between X and Y at all costs. For Godssakes don’t let one win. Z never lets one win .
+Strife is the glue that keeps it all together. Maintain the contrariety between X and Y at all costs. For Godssakes don’t let one win. Z never lets one win.
 
 Example: metaphor. Metaphor (Z) makes sameness and difference (X and Y, long time enemies) exist together. It would be insane to take a metaphor literally as there is no assertion of sameness, and if you think metaphor is only an expression of difference you are missing the point. The contrary of these opposites results in creation not annihilation. Take seriously metaphorical discourses: they have larger agendas.
 
@@ -3719,7 +3719,7 @@ The same goes for us. Look at us, the prolific and the devouring. There is no po
 
 ![Light](archive/thumbs/2022_08_light.vern-tonkin-letters-for-titles-230x300.jpg)
 
-The Day and Torch stanzas are as similar as night and day and everybody knows it. The living ( cwicera ) know ( cuþ ) it in the torch stanza, you’d have to be dead not to, and it’s straight up mære (famous) in the day stanza. Who doesn’t know yin and yang? Light and dark, complimentary opposites, a two in one intruding into each others space. Like all opposing forces they need each other to survive, and we need them. We particularly favor light, it makes us all happy in the day and secure at night . Who gets to feel secure at night? Well, not everybody.
+The Day and Torch stanzas are as similar as night and day and everybody knows it. The living (cwicera) know (cuþ) it in the torch stanza, you’d have to be dead not to, and it’s straight up mære (famous) in the day stanza. Who doesn’t know yin and yang? Light and dark, complimentary opposites, a two in one intruding into each others space. Like all opposing forces they need each other to survive, and we need them. We particularly favor light, it makes us all happy in the day and secure at night. Who gets to feel secure at night? Well, not everybody.
 
 ### Or are you both?
 
@@ -3732,7 +3732,7 @@ Light is a transverse wave and an electromagnetic wave. Light is a vibrating ele
 
 You, what are you, you are made out of waves too, sometimes, depending on who’s looking. I see you. All lit up from inside, I can see it in your eyes. Vital spark.
 
-Illuminate for me before you go into the light, O luminary, are you the messenger or the message ?
+Illuminate for me before you go into the light, O luminary, are you the messenger or the message?
 
 ### How to make a Torch
 
@@ -3745,7 +3745,7 @@ Find a pine tree, a nice sticky one full of resin, that stuff will burn in rain.
 
 Split the end of the branch with an axe four ways, north south east west, quarter it. Cut down several inches. Break nothing off.
 
-Carve out some kindling from the inner edges of your cuts. Shave it out, make an X of airflow. Fill the X with the shaved bits. Now fill the X with fire. Try not to burn the place down .
+Carve out some kindling from the inner edges of your cuts. Shave it out, make an X of airflow. Fill the X with the shaved bits. Now fill the X with fire. Try not to burn the place down.
 
 ### D is for Dark
 
@@ -3754,9 +3754,9 @@ Carve out some kindling from the inner edges of your cuts. Shave it out, make an
 ![D is for Dark](archive/thumbs/2022_08_44-I-Letters-for-Titles-Vern-Tonkin-179x300.jpg)
 ![D is for Dark](archive/thumbs/2022_08_d-is-for-dark-lettersfortitles-verntonkin-242x300.jpg)
 
-Are you awake? You up? Shh. Go back to sleep. Too much light in the room, I know. Go back to sleep at a darker time. Go back to sleep about a millennium and a half ago. That better? See? You can’t. It’s dark. It’s not the dark ages for nothing, except now dark’s your problem . The moon is your nightlight and when it’s not around you can’t see your hand in front of your face.
+Are you awake? You up? Shh. Go back to sleep. Too much light in the room, I know. Go back to sleep at a darker time. Go back to sleep about a millennium and a half ago. That better? See? You can’t. It’s dark. It’s not the dark ages for nothing, except now dark’s your problem. The moon is your nightlight and when it’s not around you can’t see your hand in front of your face.
 
-Other stuff out there can see just fine. They can see you specifically. The wolves are right outside . They’re here. They live here too. So do rats, and they like the dark as well. They really live here too. Right here. Here here. And they’re not the only ones. If you think you are alone right now you’re dreaming. You are sleeping with an enemy that is legion, hungry at night.
+Other stuff out there can see just fine. They can see you specifically. The wolves are right outside. They’re here. They live here too. So do rats, and they like the dark as well. They really live here too. Right here. Here here. And they’re not the only ones. If you think you are alone right now you’re dreaming. You are sleeping with an enemy that is legion, hungry at night.
 
 ### How to Burn the Cotton Library
 
@@ -3765,7 +3765,7 @@ Other stuff out there can see just fine. They can see you specifically. The wolv
 ![How to Burn the Cotton Library](archive/thumbs/2022_08_42-S-LettersforTitles-Vern-Tonkin-228x300.jpg)
 ![How to Burn the Cotton Library](archive/thumbs/2022_08_Cotton-Genesis-04v-Lots-house-How-to-burn-the-cotton-library-LettersforTitles-VernTonkin-265x300.jpg)
 
-Collect every medieval manuscript you can get your hands on , the best ones, the really beautiful and important ones. Make a who’s who of the famed and the fabulous and gather them all in, from all over the place, get the bibles of every discipline and the bible too: science, literature, law, medicine, government. Religion. Assemble the works of our ancestors and make them your children. Be the mother of thousands. Be all their daddies.
+Collect every medieval manuscript you can get your hands on, the best ones, the really beautiful and important ones. Make a who’s who of the famed and the fabulous and gather them all in, from all over the place, get the bibles of every discipline and the bible too: science, literature, law, medicine, government. Religion. Assemble the works of our ancestors and make them your children. Be the mother of thousands. Be all their daddies.
 
 Die.
 
@@ -3779,7 +3779,7 @@ Decorate the room with a fine wooden wainscoting, put it all around the perimete
 
 Maybe hang some stuff to dry from the mantle. Dry stuff.
 
-Light a massive, crackling, spitting, fire. Get it good and hot and pile the wood on, wood with lots of sap . It’s late and cold so really build it up, you want this fire to last as long into the night as it can.
+Light a massive, crackling, spitting, fire. Get it good and hot and pile the wood on, wood with lots of sap. It’s late and cold so really build it up, you want this fire to last as long into the night as it can.
 
 Go to bed.
 
@@ -3790,11 +3790,11 @@ Go to bed.
 ![Translating Cen](archive/thumbs/2022_08_40-E-letters-for-Titles-Vern-Tonkin-1-272x300.jpg)
 ![Translating Cen](archive/thumbs/2022_08_translating-cen-lettersfortitles-verntonkin-300x97.jpg)
 
-Cen is a rare word in Old English. It’s a torch here in the Rune Poem, and Cynewulf uses it to mean torch in his games with runes. Cynewulf: an Old English poet and fascinating person who made acrostics out of runes when signing his name to stuff, and about whom we know pretty much nothing. We know he was one of a limited few who ever signed anything. Perhaps he was a monk: it is thought most writers of Old English lived in monasteries, where the individual is not the main focus. They have a whole other focus . But you can slip your signature in there if you make something amusing out of it. Cynewulf was pretty cunning like that when it came to self promotion.
+Cen is a rare word in Old English. It’s a torch here in the Rune Poem, and Cynewulf uses it to mean torch in his games with runes. Cynewulf: an Old English poet and fascinating person who made acrostics out of runes when signing his name to stuff, and about whom we know pretty much nothing. We know he was one of a limited few who ever signed anything. Perhaps he was a monk: it is thought most writers of Old English lived in monasteries, where the individual is not the main focus. They have a whole other focus. But you can slip your signature in there if you make something amusing out of it. Cynewulf was pretty cunning like that when it came to self promotion.
 
-Perhaps we can look at Cynewulf’s name to learn a bit more about him. Sometimes the cen rune shape is written in manuscripts as shorthand for the word cene , which means what it sounds like, keen, but in a bold and brave way. That kind of keen. In the Rune Poem it means torch not bravery, but who among us isn’t more bold in the dark if there’s a light turned on? Wulf means wolf . Was Cynewulf a brave wolf because he had a torch? If he’s a cyn wolf he might be a wolf with a prominent chin? Or maybe a wolf from a good family? Perhaps he is kin to a wolf, is he a dog ? Is he more about loyalty than predation? When he’s Cynewulf all these possibilities apply at the same time. Always give in to the multiplicities of interpretation in Old English where meanings are many though the words are few. That’s a game they’d play : use the least number of words to mean the most things and pun often. I don’t always play that way. It is a fun game and one of my favorites, though it does take longer to say less. I could tell you how in a word but we’d be here all day.
+Perhaps we can look at Cynewulf’s name to learn a bit more about him. Sometimes the cen rune shape is written in manuscripts as shorthand for the word cene, which means what it sounds like, keen, but in a bold and brave way. That kind of keen. In the Rune Poem it means torch not bravery, but who among us isn’t more bold in the dark if there’s a light turned on? Wulf means wolf. Was Cynewulf a brave wolf because he had a torch? If he’s a cyn wolf he might be a wolf with a prominent chin? Or maybe a wolf from a good family? Perhaps he is kin to a wolf, is he a dog? Is he more about loyalty than predation? When he’s Cynewulf all these possibilities apply at the same time. Always give in to the multiplicities of interpretation in Old English where meanings are many though the words are few. That’s a game they’d play: use the least number of words to mean the most things and pun often. I don’t always play that way. It is a fun game and one of my favorites, though it does take longer to say less. I could tell you how in a word but we’d be here all day.
 
-Blac is white again in this stanza, but it has a different meaning from its use in the Ear stanza . There, in the grave, blac means pale: the loss of any color that says this one’s still alive. The pallid one chooses the earth as its consort. Here blac means something glittering bright, shining. Fire: white hot. You have to be careful with fire, especially if you have torches burning all over the place and your flames are not restricted by the necessity of cramped quarters to one safe cooking/heating spot like most people. Fire safety is important when your home is made of wood, and that torch you lit indoors at night is going to need some space around it if you plan to leave it out like that, burning. It’s late, don’t fall asleep because God knows what will happen if you do. You’ll burn it all down . Who’s got a house big enough to feel safe resting with a torch burning away in the middle of everything? The æþelingas do. The boss has a spacious house like that. The rich can afford to sleep with the lights on. Find the torch inside where princes rest, and nowhere smaller.
+Blac is white again in this stanza, but it has a different meaning from its use in the Ear stanza. There, in the grave, blac means pale: the loss of any color that says this one’s still alive. The pallid one chooses the earth as its consort. Here blac means something glittering bright, shining. Fire: white hot. You have to be careful with fire, especially if you have torches burning all over the place and your flames are not restricted by the necessity of cramped quarters to one safe cooking/heating spot like most people. Fire safety is important when your home is made of wood, and that torch you lit indoors at night is going to need some space around it if you plan to leave it out like that, burning. It’s late, don’t fall asleep because God knows what will happen if you do. You’ll burn it all down. Who’s got a house big enough to feel safe resting with a torch burning away in the middle of everything? The æþelingas do. The boss has a spacious house like that. The rich can afford to sleep with the lights on. Find the torch inside where princes rest, and nowhere smaller.
 
 ### Translating Dæg
 
@@ -3803,11 +3803,11 @@ Blac is white again in this stanza, but it has a different meaning from its use 
 ![Translating Dæg](archive/thumbs/2022_08_38-A-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Dæg](archive/thumbs/2022_08_translating-day-letters-for-titles-vern-tonkin-300x103.jpg)
 
-The word drihtnes appears twice in the rune poem, here and in stanza one, feoh, wealth . It means God, but in the sense of God as a lord, God the leader, the one in charge . God has other jobs: judge, executioner, advisor, muse, physician, daycare, security, human resources, accounting, project manager. All the jobs really, God is busy. Further down the CV God is also the metodes which sometimes gets translated as measurer. Metlic is something that is measurable, a metrap is a measuring rope for a field, or a sounding line to measure depth at sea. Metod is used in poetry mostly, where it means fate, destiny, and death, especially in earliest Old English, and the Rune Poem is early. God measures out our fate. God sizes us up and calculates our destiny.
+The word drihtnes appears twice in the rune poem, here and in stanza one, feoh, wealth. It means God, but in the sense of God as a lord, God the leader, the one in charge. God has other jobs: judge, executioner, advisor, muse, physician, daycare, security, human resources, accounting, project manager. All the jobs really, God is busy. Further down the CV God is also the metodes which sometimes gets translated as measurer. Metlic is something that is measurable, a metrap is a measuring rope for a field, or a sounding line to measure depth at sea. Metod is used in poetry mostly, where it means fate, destiny, and death, especially in earliest Old English, and the Rune Poem is early. God measures out our fate. God sizes us up and calculates our destiny.
 
-Drihtnes isn’t the only repetition going on here, we’ve seen tohiht (hope) and eadgum before. They were together in the same half line at the close of Os, the God stanza . Ead is poetic way to describe the prosperity that comes from fate. It does mean wealth and abundance, yes, but it’s more the emotional experience of a fate that allows you to be free from need . In the Os stanza it’s eadnys , the feeling of ead -ness; in the Dæg stanza ead refers to the people feeling the eadnys : the daylight is for the eadgum, the fortunate. Who else is the daylight for? The earmum , the unfortunate, the people feeling their own wretchedness, the ones fate frowns upon. This is another time the Rune Poem shines some light on the difference between those who have and those who don’t, and in this case what makes people the same. In the clear light of day, this stanza says, everybody feels uplifted by a bit of sunshine. Doesn’t matter who.
+Drihtnes isn’t the only repetition going on here, we’ve seen tohiht (hope) and eadgum before. They were together in the same half line at the close of Os, the God stanza. Ead is poetic way to describe the prosperity that comes from fate. It does mean wealth and abundance, yes, but it’s more the emotional experience of a fate that allows you to be free from need. In the Os stanza it’s eadnys, the feeling of ead-ness; in the Dæg stanza ead refers to the people feeling the eadnys: the daylight is for the eadgum, the fortunate. Who else is the daylight for? The earmum, the unfortunate, the people feeling their own wretchedness, the ones fate frowns upon. This is another time the Rune Poem shines some light on the difference between those who have and those who don’t, and in this case what makes people the same. In the clear light of day, this stanza says, everybody feels uplifted by a bit of sunshine. Doesn’t matter who.
 
-What does matter here is that this sunlight is itself a message sent by God, sond , well, it is the message and the messenger both. This is some important light. It reveals and is revealed. I translate mære metodes leoht as the light of fate’s fame. I am unsatisfied. I want this line to say a daylit dream of destiny, for the triple alliteration and the beautiful fit for the sense of what’s going on here. But the answer to this stanza’s riddle is day, as in daylight, and it’s just a bad riddle that speaks its answer right out loud for God and everybody to hear. Also, mære can mean dream sometimes, it lives on in the word nightmare, but it means fame more often, as it does in the Ur stanza to describe a famous moor-stepper . It means fame here too: everybody knows the illumination of fate. Good fortune shines a spotlight for all to see. So in the clear light of day there will be no daylit dream of destiny for this stanza, as much as I want one. Alliteration always gets lost in translation. The light of fate’s fame is equally beautiful, just about, and I want to use both. I almost did. But Old English poets are uniquely unwordy people, so I’ll sing to their tune.
+What does matter here is that this sunlight is itself a message sent by God, sond, well, it is the message and the messenger both. This is some important light. It reveals and is revealed. I translate mære metodes leoht as the light of fate’s fame. I am unsatisfied. I want this line to say a daylit dream of destiny, for the triple alliteration and the beautiful fit for the sense of what’s going on here. But the answer to this stanza’s riddle is day, as in daylight, and it’s just a bad riddle that speaks its answer right out loud for God and everybody to hear. Also, mære can mean dream sometimes, it lives on in the word nightmare, but it means fame more often, as it does in the Ur stanza to describe a famous moor-stepper. It means fame here too: everybody knows the illumination of fate. Good fortune shines a spotlight for all to see. So in the clear light of day there will be no daylit dream of destiny for this stanza, as much as I want one. Alliteration always gets lost in translation. The light of fate’s fame is equally beautiful, just about, and I want to use both. I almost did. But Old English poets are uniquely unwordy people, so I’ll sing to their tune.
 
 ### Stanza 24: Day
 
@@ -3862,7 +3862,7 @@ Inside where the elite rest.
 ![ᚷ](archive/thumbs/2022_08_32-Letters-for-Titles-Vern-Tonkin-1-300x300.gif)
 ![ᚷ](archive/thumbs/2022_08_ᚷ-Lettersfor-Titles-Vern-tonkin-300x300.jpg)
 
-O ᚷ , you shapeshifter . You have a completely different character depending on whom you are with. Well we all know somebody like that. Chum up to the back vowels (back of tongue and soft palate, O, U) and guess what, you become great and good like a god. Put you with the front vowels (closer to your teeth, I, E) and you soften up, gentle like a Y or a J. O ᚷ, your name gifu means gift, but doesn’t sound like it. It sounds more like what Y is doing in year. Yifu.
+O ᚷ, you shapeshifter. You have a completely different character depending on whom you are with. Well we all know somebody like that. Chum up to the back vowels (back of tongue and soft palate, O, U) and guess what, you become great and good like a god. Put you with the front vowels (closer to your teeth, I, E) and you soften up, gentle like a Y or a J. O ᚷ, your name gifu means gift, but doesn’t sound like it. It sounds more like what Y is doing in year. Yifu.
 
 Carve a diagonal line and cross it. Lines in two directions.
 
@@ -3873,7 +3873,7 @@ Carve a diagonal line and cross it. Lines in two directions.
 ![ᛟ](archive/thumbs/2022_08_30-E-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![ᛟ](archive/thumbs/2022_08_ᛟ-Letters-for-titles-Vern-Tonkin-1-300x300.jpg)
 
-O ᛟ , you shapeshifter . Once you signified all O sounds, until you slipped sideways and joined up with E. Twins you were, they spelled you two ways Œþel and Eþel , depending on what you sounded like where they wrote your name, and when. (O Œþel , you were first in your birth order, if conjoined twins have a birth order.) O ᛟ, ᚩ took your O sound away . What can you do with a wordy god ? Without O you get confused with ᛖ a lot. Eh, what do you care? You grew up to be a pictograph in your own right. A whole word world you are, doing the job of several letters in just one shape.
+O ᛟ, you shapeshifter. Once you signified all O sounds, until you slipped sideways and joined up with E. Twins you were, they spelled you two ways Œþel and Eþel, depending on what you sounded like where they wrote your name, and when. (O Œþel, you were first in your birth order, if conjoined twins have a birth order.) O ᛟ, ᚩ took your O sound away. What can you do with a wordy god? Without O you get confused with ᛖ a lot. Eh, what do you care? You grew up to be a pictograph in your own right. A whole word world you are, doing the job of several letters in just one shape.
 
 Carve the ᚷ rune. Now put a roof on it. What a gift to have a home.
 
@@ -3883,7 +3883,7 @@ Carve the ᚷ rune. Now put a roof on it. What a gift to have a home.
 
 ![Rune Casting: Gifu](archive/thumbs/2022_08_rune-casting-gifu-lettersfortitles-vern-tonkin-300x300.jpg)
 
-Shoved out of the nest. Exiled in wretchedness. You have nothing else . You are not alone though, you’ll survive. Just. You have help coming to sustain you, a mercy, a gift. Help is the gift, and what a gift. Nothing more precious than generosity. Accept it now, you’ll use it later.
+Shoved out of the nest. Exiled in wretchedness. You have nothing else. You are not alone though, you’ll survive. Just. You have help coming to sustain you, a mercy, a gift. Help is the gift, and what a gift. Nothing more precious than generosity. Accept it now, you’ll use it later.
 
 ### Rune Casting: Eþel
 
@@ -3905,7 +3905,7 @@ Good luck summoning an Angel because you will need it. You’ll need good timing
 
 Angels have all the foresight of a toddler who has just learned to walk. The newly mobile have no planning skills. They don’t care what’s in their futures, this is not their concern. They just want to put something new into their mouths. Angels are like that too. I don’t know if they put things into their mouths or even have mouths, but what they do have is no future and no past, and though they lack these essentials and ought be pitied for it, they do have everything else which must be some consolation.
 
-To overcome an angel’s lack of temporal trajectory, you must shift your concept of eternity into a more angelic viewpoint. Forget endless duration, that’s the eternity we have. Not personally, no, we have no personal eternity: you will die. There’s an end to your road, you do know that of course. But collectively, one person goes, another comes, and after a time goes as well, while others are coming and going like at an airport or whatever mass transit, rolling forward for all eternity, but with death. We ride off like that into the future , this endless duration is our forever, but the angels don’t do that. They are going nowhere. Rather for them, like a cheap ad slogan, the future is now. The past too. In this sort of eternity everything is present at all times. All of it. Angels exist in a constantly changing all at onceness of everything situation that sounds like a nightmare, I know, but they like it. This is what you have to work with. They are toddlers in possession of everything and you’ve got to get their attention.
+To overcome an angel’s lack of temporal trajectory, you must shift your concept of eternity into a more angelic viewpoint. Forget endless duration, that’s the eternity we have. Not personally, no, we have no personal eternity: you will die. There’s an end to your road, you do know that of course. But collectively, one person goes, another comes, and after a time goes as well, while others are coming and going like at an airport or whatever mass transit, rolling forward for all eternity, but with death. We ride off like that into the future, this endless duration is our forever, but the angels don’t do that. They are going nowhere. Rather for them, like a cheap ad slogan, the future is now. The past too. In this sort of eternity everything is present at all times. All of it. Angels exist in a constantly changing all at onceness of everything situation that sounds like a nightmare, I know, but they like it. This is what you have to work with. They are toddlers in possession of everything and you’ve got to get their attention.
 
 Start by being as generous as you possibly can to anybody who needs it, and that’s everybody. Give it all away: everything is temporary so what are you holding onto it for? Leave yourself nothing, cut off, no people, nothing. Hold a moot and be your own family, you banishing your own self into the wilderness. Go live under a tree for all you care, be exiled in wretchedness. There. You see? Listen. They’re here. Do you feel it? An angel and a presence. You have nothing else.
 
@@ -3916,7 +3916,7 @@ Start by being as generous as you possibly can to anybody who needs it, and that
 ![G is for Go](archive/thumbs/2022_09_22-I-Letters-for-Titles-Vern-Tonkin-297x300.jpg)
 ![G is for Go](archive/thumbs/2022_09_g-is-for-go-alex-chinneck-6-pins-half-a-dozen-needles-letters-for-titles-vern-tonkin-300x300.jpg)
 
-It’s blinding when it happens. You didn’t see it coming. You did and you didn’t. The writing was on the wall , it was right there in your face and you were reading it all this time. And now you need to spell the words out? You want to study what happened? Go ahead, you’ll do it anyway, sound it out. Reduce to elementals who said what when to whom and at what volume. Unwind the choreography too: hands flying, hands shielding, arms folded up, faces folded up. Pick apart the blocking: sudden entrances and exists from rooms or phones, backs turned, unturned, turned. Reduce everything to parts seen and unseen, divide it into infinite smallness and you’ll see nothing’s there. Nothing. A tearing asunder holds no specifics you can explain to the curious.
+It’s blinding when it happens. You didn’t see it coming. You did and you didn’t. The writing was on the wall, it was right there in your face and you were reading it all this time. And now you need to spell the words out? You want to study what happened? Go ahead, you’ll do it anyway, sound it out. Reduce to elementals who said what when to whom and at what volume. Unwind the choreography too: hands flying, hands shielding, arms folded up, faces folded up. Pick apart the blocking: sudden entrances and exists from rooms or phones, backs turned, unturned, turned. Reduce everything to parts seen and unseen, divide it into infinite smallness and you’ll see nothing’s there. Nothing. A tearing asunder holds no specifics you can explain to the curious.
 
 What really caused your banishment? What do you want me to say. Maybe you didn’t belong together in the first place.
 
@@ -4049,9 +4049,9 @@ Imagine yourself. Now imagine yourself 1500 years ago. Can you think like that? 
 
 It’s shocking when it happens, wilderness. You had a place in this world. Gone. This is my family. These are my people. Nope. It’s expected for people to have people. With them comes respect, dignity, worth, support. Lots of support: these particular people, thinking in Old English like they do, circulate what they have. They display it by giving it away. Everybody, all levels of society, doesn’t matter who. It flows out in all directions, comes in from many directions more. Why not keep it? Because everything is temporary.
 
-How does exile happen? Family meeting , and that means everybody. Your people, all of them, are going to gather like they do whenever they need to figure things out, and they’ll decide what’s to be done about you. They will do what is just and what is proper. They’re not going to kill you, don’t worry about that, but you will be dead to them. That’s the punishment. You will have to survive on your own now, and it’s not easy out there. It’s totally medieval. You are no longer welcome in this home. You are no longer welcome to the circulation of goods and services, you will receive none of these gifts so if you need it, get it yourself. If you can. Go live in the forest or wherever, go on, get. We will not take care of you. Now go.
+How does exile happen? Family meeting, and that means everybody. Your people, all of them, are going to gather like they do whenever they need to figure things out, and they’ll decide what’s to be done about you. They will do what is just and what is proper. They’re not going to kill you, don’t worry about that, but you will be dead to them. That’s the punishment. You will have to survive on your own now, and it’s not easy out there. It’s totally medieval. You are no longer welcome in this home. You are no longer welcome to the circulation of goods and services, you will receive none of these gifts so if you need it, get it yourself. If you can. Go live in the forest or wherever, go on, get. We will not take care of you. Now go.
 
-And you do. Now what. You are mostly dead to your people. Mostly dead is slightly alive, so maybe somebody, not anybody you know, somebody else, will see you wretched and miserable, subsisting in your pile of nothing , and pity you from time to time. They might show a little mercy occasionally with a gift to ease your need. Maybe that way you’ll survive . And maybe you won’t.
+And you do. Now what. You are mostly dead to your people. Mostly dead is slightly alive, so maybe somebody, not anybody you know, somebody else, will see you wretched and miserable, subsisting in your pile of nothing, and pity you from time to time. They might show a little mercy occasionally with a gift to ease your need. Maybe that way you’ll survive. And maybe you won’t.
 
 ### X≠Y≠Z: Z’s Lament
 
@@ -4070,7 +4070,7 @@ I have no idea why I’m all at sea.
 
 Why could they not love me and nurture my gift?
 
-( My wide open mouth makes too big of a rift )
+(My wide open mouth makes too big of a rift)
 
 I always knew that they’d get rid of me
 
@@ -4116,7 +4116,7 @@ Regrettably you have always felt you cannot jettison a family member just like t
 
 So is your family member. Begin to see this person as an enemy. The enemy. This person makes everything worse. This person is why you can’t have nice things. Start referring to this person as this person. Call this person “this person” to their face. Make the quotation marks audible.
 
-Become paranoid of This Person. Is This Person a keeper of the family treasures and might horde or squander them? Or worse, is This Person a keeper of the family secrets? What do they know? What do they have on you? Who will they tell? And when? You’d better strike first because This Person is a talker and can’t be trusted not to blab. To buy time, discredit This Person as much as possible. Make other family members suspicious of every truth they tell . Let them hear only you.
+Become paranoid of This Person. Is This Person a keeper of the family treasures and might horde or squander them? Or worse, is This Person a keeper of the family secrets? What do they know? What do they have on you? Who will they tell? And when? You’d better strike first because This Person is a talker and can’t be trusted not to blab. To buy time, discredit This Person as much as possible. Make other family members suspicious of every truth they tell. Let them hear only you.
 
 Whilst your are whispering poison into your family’s ears, you must endeavor not to turn any of them off. Ensure that they all align entirely to your point of view. Make promises and tell lies. You’ll find that a proper banishment of a family member must become a group project. The exile of one must be enacted by all. However, as is true of most group projects one person, usually you, ends up doing all the work. Nearly 80 people said they’d help kill Julius Caesar and he was stabbed only 23 times. So.
 
@@ -4129,11 +4129,11 @@ How do you accomplish the actual banishing? Just tell them. Just like that. Don�
 ![Translating Eþel](archive/thumbs/2022_09_6-N-Letters-for-titles-vern-tonkin-300x300.jpg)
 ![Translating Eþel](archive/thumbs/2022_09_Translating-Ethel-letters-fortitles-verntonkin-300x144.jpg)
 
-The Rune Poem is sung in a tempo that changes from time to time. You can find the beats and the rests between them in the stresses of the words in each stanza. Some move quickly like the adjacent Hail and Need stanzas. Stand in the hail and you’ll see why it needs a quick stanza. Stand in need and you’ll feel the staccato tempo of a life crashing down. The Home stanza is the last in a string of four stanzas bound together by a change of tempo: Human , The Sea , Ing , and Home . Together they tell a story about Ing who was a goddamned legend. He appears in the adjacent pair to Gift and Home, so we’ll visit Ing soon. For now know that home is where you start from and the end of the story as well. You have nothing else .
+The Rune Poem is sung in a tempo that changes from time to time. You can find the beats and the rests between them in the stresses of the words in each stanza. Some move quickly like the adjacent Hail and Need stanzas. Stand in the hail and you’ll see why it needs a quick stanza. Stand in need and you’ll feel the staccato tempo of a life crashing down. The Home stanza is the last in a string of four stanzas bound together by a change of tempo: Human, The Sea, Ing, and Home. Together they tell a story about Ing who was a goddamned legend. He appears in the adjacent pair to Gift and Home, so we’ll visit Ing soon. For now know that home is where you start from and the end of the story as well. You have nothing else.
 
-In the world of the Rune Poem, home means survival. How do we survive? Look at the word mot . If this is a form of the verb motan , it means may or might as in you might be allowed to do something: it is a maybe that’s tied to an action you could take. The word gif is here with it, meaning if, adding to the maybe of it all, so this is a choice many translators make: If we may or if we might. Spelled as it is here as mot and sharing a line with words about how we conduct ourselves: rihtes and gerysena , right and proper, just and befitting, equitable and appropriate, well this mot is a moot. A moot is a gathering to decide if we may or if we might. By the 11th, 12th century a moot was a full on formal court proceeding with tax collecting, things done in the name of the king, etc. However, rewind six to eight hundred years to the beginnings of the Rune Poem and lawmaking was happening at home with your family. This would be your full extended family usually, your family community. You’d gather together in the big house with all your relations and figure things out. Decide what’s to be done and how best to survive.
+In the world of the Rune Poem, home means survival. How do we survive? Look at the word mot. If this is a form of the verb motan, it means may or might as in you might be allowed to do something: it is a maybe that’s tied to an action you could take. The word gif is here with it, meaning if, adding to the maybe of it all, so this is a choice many translators make: If we may or if we might. Spelled as it is here as mot and sharing a line with words about how we conduct ourselves: rihtes and gerysena, right and proper, just and befitting, equitable and appropriate, well this mot is a moot. A moot is a gathering to decide if we may or if we might. By the 11th, 12th century a moot was a full on formal court proceeding with tax collecting, things done in the name of the king, etc. However, rewind six to eight hundred years to the beginnings of the Rune Poem and lawmaking was happening at home with your family. This would be your full extended family usually, your family community. You’d gather together in the big house with all your relations and figure things out. Decide what’s to be done and how best to survive.
 
-This sounds serious but big family gatherings can be fun. There’s words here that say it’s a good time. Brucan says it’s enjoyable. Home is oferleof, over-love: this doesn’t mean loved too much. This is loved right up beyond and over love. Above love. Gerysena holds a lofty meaning as well, it sometimes means to rise together. Families rise together. Bleadum often means prosperity , as in the fruits of a harvest , but just as often it means the more atmospheric breath, wind, spirit, and inspiration, without which a high flying family meeting deflates in a hurry.
+This sounds serious but big family gatherings can be fun. There’s words here that say it’s a good time. Brucan says it’s enjoyable. Home is oferleof, over-love: this doesn’t mean loved too much. This is loved right up beyond and over love. Above love. Gerysena holds a lofty meaning as well, it sometimes means to rise together. Families rise together. Bleadum often means prosperity, as in the fruits of a harvest, but just as often it means the more atmospheric breath, wind, spirit, and inspiration, without which a high flying family meeting deflates in a hurry.
 
 When should we get together? This is good stuff so we should get together oftast. Often. And where? In the bolde, in the house, the big one we all can fit into together.
 
@@ -4144,13 +4144,13 @@ When should we get together? This is good stuff so we should get together oftast
 ![Translating Gifu](archive/thumbs/2022_09_4-T-Letters-for-titles-vern-tonkin-300x194.jpg)
 ![Translating Gifu](archive/thumbs/2022_09_translatinggifu-lettersfortitles-verntonkin-300x175.jpg)
 
-Gift giving was a big deal to the people of the Rune Poem. It was everything. They gave everything. It could be food or goods, but they loved ornament and anything old especially: gilded, edged with silver, blinding shiny, these were the best gifts, but it wasn’t about the bling so much as the message. What you give is what you’re worth and what you will be remembered for. Everybody wants to be worth something and everybody wants to be remembered, it’s the only permanent thing in a world where every single thing is temporary . We are each other’s immortality on earth through the memories we lay down in other people, it’s the only way to live, so by God you will remember me.
+Gift giving was a big deal to the people of the Rune Poem. It was everything. They gave everything. It could be food or goods, but they loved ornament and anything old especially: gilded, edged with silver, blinding shiny, these were the best gifts, but it wasn’t about the bling so much as the message. What you give is what you’re worth and what you will be remembered for. Everybody wants to be worth something and everybody wants to be remembered, it’s the only permanent thing in a world where every single thing is temporary. We are each other’s immortality on earth through the memories we lay down in other people, it’s the only way to live, so by God you will remember me.
 
-With the gift comes gleng , which means both ornament and honor, and as is typical in such cases, it’s the intangible half of this pair that’s worth more. It means that not only am I worth what I give you, you are worth what I give you. I give this thing everybody wants to you because I think you are worth it. You get stuff, sure, and you might badly need it, but better than that you gain in the herenys (dignity, importance) which flows from the dignity and importance of your benefactor. This is what you really want: high praise from high places. Others will notice your worth and give to you too, and with more coming in you’ll be in a position to give with both hands. Show them your bounty. You’d be a fool not to part with it. Otherwise, you’re not sitting on a gold mine, you’re sitting on your ass.
+With the gift comes gleng, which means both ornament and honor, and as is typical in such cases, it’s the intangible half of this pair that’s worth more. It means that not only am I worth what I give you, you are worth what I give you. I give this thing everybody wants to you because I think you are worth it. You get stuff, sure, and you might badly need it, but better than that you gain in the herenys (dignity, importance) which flows from the dignity and importance of your benefactor. This is what you really want: high praise from high places. Others will notice your worth and give to you too, and with more coming in you’ll be in a position to give with both hands. Show them your bounty. You’d be a fool not to part with it. Otherwise, you’re not sitting on a gold mine, you’re sitting on your ass.
 
-Watch yourself. God help you if they hold a moot and decide to punish you for that thing you did. We all saw. The rune carvers’ form of capital punishment wasn’t death it was exile, you’ll be as good as dead. Good luck surviving on your own. You’re going to die out there. You’ll be a total wræcna . Wræc. It means misery, vengeance, persecution, punishment, exile, and something driven away. In Old English one word can tell the whole story.
+Watch yourself. God help you if they hold a moot and decide to punish you for that thing you did. We all saw. The rune carvers’ form of capital punishment wasn’t death it was exile, you’ll be as good as dead. Good luck surviving on your own. You’re going to die out there. You’ll be a total wræcna. Wræc. It means misery, vengeance, persecution, punishment, exile, and something driven away. In Old English one word can tell the whole story.
 
-All is not lost. Yes you are out on your own with nothing, but it’s not nothing nothing. It’s something. It’s two things really: ar and atwist and that’s it, the poem emphasizes that part specifically, that is all you have. What is it? Some words like ætwist only show up in poetry, where it usually means presence. The words æt and wist separately mean food and eating, but poetically, ætwist means existence, being, staying alive and substantial and not decaying away into nothing. You need to eat to exist and look at the state of you. You are almost nothing, but you are not nothing nothing. How? By the other thing you have, ar, another one of those poetical words you won’t find in a written record of your banishment, but maybe in a song about it. It means ore. Ore dug straight from the ground is not yet precious, it has the potential to be precious, but right now it’s in a rock matrix and has to be worked first. It has to be pummeled and melted down. Like you. Ar also means dignity, worth, respect, honor, grace, favor, kindness, mercy, pity, help, multiple words with meanings all dug out of the same vein. Somebody might see your potential to be precious, and pity you . Who? Ar also means a messenger: a herald, a servant of somebody important could show up, even an angel . Wouldn’t that be good right about now, a little divine intervention. Somebody might feed you and you might live because otherwise ðe byþ oþra leas (you are other less). You have nothing else . You are nothing else.
+All is not lost. Yes you are out on your own with nothing, but it’s not nothing nothing. It’s something. It’s two things really: ar and atwist and that’s it, the poem emphasizes that part specifically, that is all you have. What is it? Some words like ætwist only show up in poetry, where it usually means presence. The words æt and wist separately mean food and eating, but poetically, ætwist means existence, being, staying alive and substantial and not decaying away into nothing. You need to eat to exist and look at the state of you. You are almost nothing, but you are not nothing nothing. How? By the other thing you have, ar, another one of those poetical words you won’t find in a written record of your banishment, but maybe in a song about it. It means ore. Ore dug straight from the ground is not yet precious, it has the potential to be precious, but right now it’s in a rock matrix and has to be worked first. It has to be pummeled and melted down. Like you. Ar also means dignity, worth, respect, honor, grace, favor, kindness, mercy, pity, help, multiple words with meanings all dug out of the same vein. Somebody might see your potential to be precious, and pity you. Who? Ar also means a messenger: a herald, a servant of somebody important could show up, even an angel. Wouldn’t that be good right about now, a little divine intervention. Somebody might feed you and you might live because otherwise ðe byþ oþra leas (you are other less). You have nothing else. You are nothing else.
 
 ### Stanza 7: Gift
 
@@ -4178,7 +4178,7 @@ Mercy and sustenance. You have nothing else.
 ![Stanza 23: Home](archive/thumbs/2022_09_3-S-Letters-for-Titles-Vern-Tonkin-216x300.jpg)
 ![Stanza 23: Home](archive/thumbs/2022_09_Stanza-23-home-lettersfortitles-verntonkin-259x300.jpg)
 
-ᛟ byþ ofe r leof æghwylcum men.
+ᛟ byþ ofer leof æghwylcum men.
 
 gif he mot ðær. rihtes and gerysena on
 
@@ -4186,9 +4186,9 @@ brucan on bolde bleadum oftast ᛬᛫
 
 It is beloved to everybody
 
-If we assemble there o n what is just and what is proper
+If we assemble there on what is just and what is proper
 
-Enjoying often i nspiration in the hall.
+Enjoying often inspiration in the hall.
 
 ---
 
@@ -4205,11 +4205,11 @@ Enjoying often i nspiration in the hall.
 ![ᛝ](archive/thumbs/2022_09_5-E-Letters-for-Titles-Vern-Tonkin-300x239.jpg)
 ![ᛝ](archive/thumbs/2022_09_ᛝ-Letters-for-Titles-VernTonkin-300x300.jpg)
 
-Ing was a deity of prosperity and we remember his abundance in our coins the scilling (shilling) and the feorþing (farthing). In oldest Old English Ing is a word meaning a muggy riverside meadow, the only valuable land for farming in a wild swamp .
+Ing was a deity of prosperity and we remember his abundance in our coins the scilling (shilling) and the feorþing (farthing). In oldest Old English Ing is a word meaning a muggy riverside meadow, the only valuable land for farming in a wild swamp.
 
 Ing left for the east with his cart running after him like a suffix to his word, but in Old English Ing is the suffix running after feminine nouns denoting action: feding = feeding, bletsing = blessing. Ing is also a patronymic suffix used to show family groups, kinds of people or things, or anything belonging to something or someone: deorling = darling (dear-ling), georgling = a child, cyning = king, Centingas = people from Kent. Scyldings = a family name. Ing as a suffix took on more and more uses and we can find Ing actively running behind many words now.
 
-Carve an ᚷ , what a gift! Now carve another, and stand it on top. Ing brings stacks of blessings.
+Carve an ᚷ, what a gift! Now carve another, and stand it on top. Ing brings stacks of blessings.
 
 ### ᚹ
 
@@ -4252,17 +4252,17 @@ It’s time to go. It is past time. If you need to get out of here yesterday you
 
 You don’t want to plan. You don’t care what comes next, I get it, but if something is going to come next, you’ll need to survive long enough to see it and that takes money. Bring any portable wealth you have, the smaller the better depending on your means of conveyance. Is that your car? Load it up. Fill it with anything you might regret leaving behind. Maybe we can attach a trailer or something you can pull behind you. Take what you can because you will not know your regrets until the actual future arrives. To speed that process, leave nothing, otherwise, you will quickly discover your regrets at which time you will not be able to return and fill the car with your regrets and make them unregrettable. Regrettably, items of your regrets that you forget, unavoidably you will forever regret.
 
-If you are leaving anything valuable behind, make it safe. Leave it with somebody you trust. Perhaps pay to store it behind secure walls for your future prosperity if you can, or dig a hole and drop it down for discovery by your descendants .
+If you are leaving anything valuable behind, make it safe. Leave it with somebody you trust. Perhaps pay to store it behind secure walls for your future prosperity if you can, or dig a hole and drop it down for discovery by your descendants.
 
-Look to your digital footprint. Remove yourself from everything online you can log into jointly with anybody. Take your name off of all accounts: bank accounts, utilities, crypto bots, streaming services, food delivery services, cell plans. Call every one of them, don’t just chat online with a bot, a bot is a whole different animal and you do not speak the same language . Call the customer service and get a human and together with that person take yourself off of shared anything. Skipping town is a solo endeavor. You are alone .
+Look to your digital footprint. Remove yourself from everything online you can log into jointly with anybody. Take your name off of all accounts: bank accounts, utilities, crypto bots, streaming services, food delivery services, cell plans. Call every one of them, don’t just chat online with a bot, a bot is a whole different animal and you do not speak the same language. Call the customer service and get a human and together with that person take yourself off of shared anything. Skipping town is a solo endeavor. You are alone.
 
-Get all new accounts for Facebook , Instagram , Reddit , Twitter , Pinterest , all of them. Change your password on your phone and any other device you bring with you, and really change the password. Don’t just change an I for an L , a W for a P , a 0 for a 1 , you want creation not transformation. Imagine you are an entirely different person from your own self, be that opposite person and invent a password. Pair it with your current password and find the negation . That’s your new password.
+Get all new accounts for Facebook, Instagram, Reddit, Twitter, Pinterest, all of them. Change your password on your phone and any other device you bring with you, and really change the password. Don’t just change an I for an L, a W for a P, a 0 for a 1, you want creation not transformation. Imagine you are an entirely different person from your own self, be that opposite person and invent a password. Pair it with your current password and find the negation. That’s your new password.
 
-Bring your pets if you can move them, sometimes they can be reluctant .
+Bring your pets if you can move them, sometimes they can be reluctant.
 
-If you have a story to tell about your departure, tell it first or tell it never. Truth telling can be a competition for some, and in such cases the first person to tell a story wins, as any other truth would have to compete with the first truth, for each truth that enters is imagined as the first to enter whereas it is always the last term of the preceding series even if the first term of a succeeding one, each imagined as the first, last, only, and alone whereas it is neither first nor last nor only nor alone in a series originating in and repeated to infinity. How to win a truth telling game? Don’t play. Shh .
+If you have a story to tell about your departure, tell it first or tell it never. Truth telling can be a competition for some, and in such cases the first person to tell a story wins, as any other truth would have to compete with the first truth, for each truth that enters is imagined as the first to enter whereas it is always the last term of the preceding series even if the first term of a succeeding one, each imagined as the first, last, only, and alone whereas it is neither first nor last nor only nor alone in a series originating in and repeated to infinity. How to win a truth telling game? Don’t play. Shh.
 
-Goodbyes can be said after the fact, and the facts are it’s time to leave . Whether you’ve been banished , or you are on some other kind of journey , you are done here. You’ve settled your business and provisioned yourself , now put down your bags and go. Leave everything, you have nothing else , leave the car, it can follow you later because you are already gone.
+Goodbyes can be said after the fact, and the facts are it’s time to leave. Whether you’ve been banished, or you are on some other kind of journey, you are done here. You’ve settled your business and provisioned yourself, now put down your bags and go. Leave everything, you have nothing else, leave the car, it can follow you later because you are already gone.
 
 ### Ing is for Scylding
 
@@ -4280,13 +4280,13 @@ To them then Scyld went, at the fated time, on a journey full of exploits, to Go
 ![W is for Ƿ](archive/thumbs/2021_06_17-T-Letters-for-Titles-Vern-Tonkin-251x300.jpg)
 ![W is for Ƿ](archive/thumbs/2022_09_W-is-for-Ƿ-Letters-For-Titles-Vern-Tonkin-194x300.jpg)
 
-Ƿhen a Ƿ’s not a P it’s a ƿ yn and that’s ƿinning
+Ƿhen a Ƿ’s not a P it’s a ƿyn and that’s ƿinning
 
 But those P’s in my brain ƿhipping in is headspinning
 
 Aƿ ƿack, It’s shoƿstopping, my floƿ takes a ƿalloping
 
-Ƿhatup! Powerup! let’s ƿish Ƿ a reƿrapping !
+Ƿhatup! Powerup! let’s ƿish Ƿ a reƿrapping!
 
 ### X≠Y≠Z: No Z
 
@@ -4301,11 +4301,11 @@ Y: It was your fault. You did this. I mean, I support you and whatever, but Z le
 
 X: Because of Z. Z left, Z left us, Z abandoned us and why? We have such a blissful situation here, it’s a fortress of comfort, plenty of anything, Z just had to stay in with us. Was that so hard?
 
-Y: You got rid of Z, thinking Z’d come right back, you said don’t come back and Z won’t now. Z’s gone .
+Y: You got rid of Z, thinking Z’d come right back, you said don’t come back and Z won’t now. Z’s gone.
 
 X: Z will need us. We’ll never be rid of Z.
 
-Z: You banished Z , it’s permanent, you did that.
+Z: You banished Z, it’s permanent, you did that.
 
 X: We can’t tell people that, we can’t say that to the nosey, the truth is it has to have been Z’s idea to go or how will it reflect on us? How can we say we just got rid Z, said Z get out, never call, for what reason? You’re not like us? You negate us by being not like us? We’re not like us! Well we are and we aren’t.
 
@@ -4319,7 +4319,7 @@ X: No that’s the other way around. We are twice Z.
 
 Y: We are twice Z. How are we twice Z? It’s X and Y makes, wait, we equal Z? No. Hm.
 
-X: We oppose each other and get obliterated by Z .
+X: We oppose each other and get obliterated by Z.
 
 Y: That’s it. It’s that. So what happens to us without Z?
 
@@ -4334,11 +4334,11 @@ Y: It’s crystal clear, you’ve come unbalanced.
 ![Prosperity](archive/thumbs/2022_10_21-M-Letters-for-Titles-Vern-tonkin-231x300.jpg)
 ![Prosperity](archive/thumbs/2022_10_Prosperity-Lettersfortitles-Vern-Tonkin-300x278.jpg)
 
-When you line up the Rune Poem stanzas and bend the line back on itself into a long U shape so the runes face each other, you get fourteen pairs. This pair, Ing and Wyn, the eighth, begins the middle half of the poem, moving toward the center which is to say the circumference . I say poem. It is a poem. It is also how people communicated with their gods, how they’d get answers to problems, find out which way the wind is blowing, complain, ask for stuff. Whatever question they might have, the Rune Poem has an answer. It’s an instruction manual for living , presented in matched pairs.
+When you line up the Rune Poem stanzas and bend the line back on itself into a long U shape so the runes face each other, you get fourteen pairs. This pair, Ing and Wyn, the eighth, begins the middle half of the poem, moving toward the center which is to say the circumference. I say poem. It is a poem. It is also how people communicated with their gods, how they’d get answers to problems, find out which way the wind is blowing, complain, ask for stuff. Whatever question they might have, the Rune Poem has an answer. It’s an instruction manual for living, presented in matched pairs.
 
 This pair, Wyn and Ing are all about abundance. Linked up together, here we have the god of prosperity who once hung around the market towns, nice fortified byrga, and we have the feeling of joy you get when all your abundance is secure within a fortified town. Where there is a market, there are goods, where there are goods, there are thieves, so build a wall and be happy you did. These are delightful runes, Wyn and Ing! Together this pair is a wyning combination.
 
-Though they are a joyous couple, Wyn and Ing, they can be a bit disruptive. Neither stanza begins with the usual missing-rune-name + byþ (runename is): Ing starts in the past tense and Wyn begins with a suffix , perhaps not coincidentally because Wyn’s partner Ing had already become a suffix by the time of the Rune Poem, but that’s in the past. Also in the past Ing became a father and then a grandfather and then a great grandfather (talk about abundance) to many people, including King Ida who in the year 547 founded the Northumbrian royal line of the Ingui and had the great pleasure of building a burh . This is the singular version of the plural byrga , a walled place to live, like a fortress. King Ida built just the one fortress: Bebban burh or Bebbanburg, now Bamburgh, enclosed first by thick hedges and then by proper walls. That must have made him happy.
+Though they are a joyous couple, Wyn and Ing, they can be a bit disruptive. Neither stanza begins with the usual missing-rune-name + byþ (runename is): Ing starts in the past tense and Wyn begins with a suffix, perhaps not coincidentally because Wyn’s partner Ing had already become a suffix by the time of the Rune Poem, but that’s in the past. Also in the past Ing became a father and then a grandfather and then a great grandfather (talk about abundance) to many people, including King Ida who in the year 547 founded the Northumbrian royal line of the Ingui and had the great pleasure of building a burh. This is the singular version of the plural byrga, a walled place to live, like a fortress. King Ida built just the one fortress: Bebban burh or Bebbanburg, now Bamburgh, enclosed first by thick hedges and then by proper walls. That must have made him happy.
 
 ### Bliss
 
@@ -4367,15 +4367,15 @@ We also have to look at Ing’s people at the wrong times which is always tricky
 
 One of Ing’s more important descendants and Snorri’s Sturluson’s main audience was King Haakon IV, a teenager with too much power and not enough sense. He liked Snorri. Snorri was a rock star. He sang the best stories and it’s a good thing too, most of what we know about Norse mythology comes from Snorri’s efforts to impress an impressionable young king. It absolutely worked, it’s good to dazzle the money. This was a culture that made a big thing about being generous, and Snorri got his. It was nice.
 
-King Haakon had a tenuous hold on his throne, as you can imagine somebody going through puberty might. Likewise Snorri’s homeland of Iceland was barely hanging onto its sovereignty due to plenty of infighting. Young King Haakon knew quite a lot about Iceland, thanks to Snorri, and wanted Iceland to be a part of Norway, so he sent Snorri home with a massive amount of political power and an agenda to deliver Iceland to him via political means. Snorri the poet made an effort and destabilized the whole place by not being an actual politician. Iceland ultimately lost its sovereignty to Norway and Snorri lost his close connection with the king, who had him assassinated, leaving behind several mothers of his children and the Prose Eddas. Kings can be fickle . Snorri Sturluson left for himself a mixed legacy of being a hero to some, a traitor to others, and a coward in the Sturlunga Saga , written down by his own family. Families can be treacherous.
+King Haakon had a tenuous hold on his throne, as you can imagine somebody going through puberty might. Likewise Snorri’s homeland of Iceland was barely hanging onto its sovereignty due to plenty of infighting. Young King Haakon knew quite a lot about Iceland, thanks to Snorri, and wanted Iceland to be a part of Norway, so he sent Snorri home with a massive amount of political power and an agenda to deliver Iceland to him via political means. Snorri the poet made an effort and destabilized the whole place by not being an actual politician. Iceland ultimately lost its sovereignty to Norway and Snorri lost his close connection with the king, who had him assassinated, leaving behind several mothers of his children and the Prose Eddas. Kings can be fickle. Snorri Sturluson left for himself a mixed legacy of being a hero to some, a traitor to others, and a coward in the Sturlunga Saga, written down by his own family. Families can be treacherous.
 
 What does Snorri Sturluson say about Ing? He says the Ynglingar are descendants of Yngvi-Freyr, the deity who presides over prosperity and is the husband of Ingun. That’s Ingun with an Ing. Yng is Ing. Is Ing also Freyr, the Norse god people still remember? Freyr is much more famous than Ing. You know who this is, Freyr and Freya both. They are sometimes twin siblings, sometimes consorts, they have a cart and they preside over fertility and prosperity. Exactly like Ing.
 
 It seems from the evidence that Ing was male but over time became two genders. However, look much further back from the time of the Rune Poem and the truth is Ing was gender fluid all along. In the thirteenth century Snorri says this Yngvi-Freyr, consort, brother, and other half to female Ingun, is the child of Njörðr, or Niord. We’ve heard a name like this before and in the exact same place. A full millennium plus a couple hundred years prior to this Njörðr, in the first century of the common era, Roman historian-anthropologist-reporter Tacitus describes in his Germania a coastal people who worship a cart riding deity of fertility and prosperity. This goddess is called Nerthus, or the proto-germanic Nerþus, pronounced just like Njörðr but with a slightly different sound at the end.
 
-This is a thousand plus a few hundred years long game of telephone Ing is right in the middle of, and things have changed. During the first century Nerþus is female, at least when Tacitus was visiting, though he describes her priest as a man in drag; gender duality seems to have remained as a part of this deity’s picture from the beginning. Tacitus says in his report about Nerþus’ people that they hold sacred an island in the ocean. He means Zealand, the home of the East Danes, where the Rune Poem says Ing was first seen and spoken of. On this island Nerþus’ people watch over a sacred grove where they keep a cart covered with a veil that only Nerþus’ priest may touch. During one season of the year they yoke cattle to the cart and the goddess is driven through the fields to visit every community. Wherever she goes peace goes with her. No wars are fought, weapons are shut away lest they offend her, and this is the only time the people know peace and love it. At the end of her tour Nerþus goes home to her grove “satiated with mortal intercourse” and in need of a bath . Her whole cart with its curtain (was the curtain ever pulled back during the mortal intercourse?) and Nerþus herself, though Tacitus seems doubtful on this point for some reason, are bathed in a secret lake by attendants who are drowned immediately after.
+This is a thousand plus a few hundred years long game of telephone Ing is right in the middle of, and things have changed. During the first century Nerþus is female, at least when Tacitus was visiting, though he describes her priest as a man in drag; gender duality seems to have remained as a part of this deity’s picture from the beginning. Tacitus says in his report about Nerþus’ people that they hold sacred an island in the ocean. He means Zealand, the home of the East Danes, where the Rune Poem says Ing was first seen and spoken of. On this island Nerþus’ people watch over a sacred grove where they keep a cart covered with a veil that only Nerþus’ priest may touch. During one season of the year they yoke cattle to the cart and the goddess is driven through the fields to visit every community. Wherever she goes peace goes with her. No wars are fought, weapons are shut away lest they offend her, and this is the only time the people know peace and love it. At the end of her tour Nerþus goes home to her grove “satiated with mortal intercourse” and in need of a bath. Her whole cart with its curtain (was the curtain ever pulled back during the mortal intercourse?) and Nerþus herself, though Tacitus seems doubtful on this point for some reason, are bathed in a secret lake by attendants who are drowned immediately after.
 
-The Rune Poem says nothing about Ing’s worship involving human sacrifice, maybe it happened maybe it didn’t, we don’t know. We do know that in all of these versions of Ing, the deities have carts and presided over fertility and prosperity in the market, and appeared seasonally in the fields. We can imagine from this that perhaps the masculine Ing of the Rune Poem had a female aspect as well, that he was also she: a monad and a double act . Some things we’ll never know for certain, though it does seem quite likely that the rune carvers’ god Ing, was a goddess too.
+The Rune Poem says nothing about Ing’s worship involving human sacrifice, maybe it happened maybe it didn’t, we don’t know. We do know that in all of these versions of Ing, the deities have carts and presided over fertility and prosperity in the market, and appeared seasonally in the fields. We can imagine from this that perhaps the masculine Ing of the Rune Poem had a female aspect as well, that he was also she: a monad and a double act. Some things we’ll never know for certain, though it does seem quite likely that the rune carvers’ god Ing, was a goddess too.
 
 ### How to be Happy
 
@@ -4384,7 +4384,7 @@ The Rune Poem says nothing about Ing’s worship involving human sacrifice, mayb
 ![How to be Happy](archive/thumbs/2022_10_29-S-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![How to be Happy](archive/thumbs/2022_10_How-to-be-happy-lettersfortitles-vern-tonkin-300x289.jpg)
 
-You are miserable, exiled in wretchedness . Why can’t you shake your anxieties? You are lacking in prosperity, that’s why. Your troubles are nothing a little abundance can’t fix. Though you must contend with the old myth: more money more problems, happily the truth is there is absolutely no reason why wealth can’t solve all your problems, every last one of them, if you have enough of it .
+You are miserable, exiled in wretchedness. Why can’t you shake your anxieties? You are lacking in prosperity, that’s why. Your troubles are nothing a little abundance can’t fix. Though you must contend with the old myth: more money more problems, happily the truth is there is absolutely no reason why wealth can’t solve all your problems, every last one of them, if you have enough of it.
 
 How do you get enough wealth to be happy? Make it yourself.
 
@@ -4414,25 +4414,25 @@ Return to your pot and carefully collect the crystals that have formed. These ca
 
 Place yourself in a stone mortar, preferably made of agate, and grind yourself together with half of the crystals. Pulverize yourself well with the pestle until you are fully mixed into one substance and add half of the remaining dew, just enough to moisten yourself. You should resemble a fine compost, for indeed that is what you now are.
 
-Hermetically seal yourself into a glass container. Allow no ingress or egress. Make of this glass place a fortified city . Nothing can touch you in here, you are safe and about to become prosperous.
+Hermetically seal yourself into a glass container. Allow no ingress or egress. Make of this glass place a fortified city. Nothing can touch you in here, you are safe and about to become prosperous.
 
 Heat yourself at a constant low temperature, the temperature of an egg just under a hen. Aim for a low fever of about 100.5 degrees. Stay at this temperature for forty days. This may feel like a long time but you will keep busy throughout.
 
-Begin by separating into equal and opposing parts . Let one part of yourself be red hot, fiery, dry, and active. This is the portion of yourself that devours and corrupts, fixes and coagulates. Be a red hot burning sun. If you were an animal you would be a blazing red lion, a male one with BDE.
+Begin by separating into equal and opposing parts. Let one part of yourself be red hot, fiery, dry, and active. This is the portion of yourself that devours and corrupts, fixes and coagulates. Be a red hot burning sun. If you were an animal you would be a blazing red lion, a male one with BDE.
 
-Let the other half of yourself take on an aspect just as deadly, but much colder. Quieter. You are a serpent, cold blooded, slithering, hissing , shedding your skin and birthing yourself from yourself again and again, mothers immersed , with deadly hearts cold as ice, prolific and swirling. Ice dragons too frozen to melt, so frigid they burn.
+Let the other half of yourself take on an aspect just as deadly, but much colder. Quieter. You are a serpent, cold blooded, slithering, hissing, shedding your skin and birthing yourself from yourself again and again, mothers immersed, with deadly hearts cold as ice, prolific and swirling. Ice dragons too frozen to melt, so frigid they burn.
 
-Now fight. Go ahead. This is the destruction of opposites so get on with it, tear yourself apart. Let there be bloodshed. Fight. This is a battle to the death so you better give yourself all you’ve got, you have nothing else .
+Now fight. Go ahead. This is the destruction of opposites so get on with it, tear yourself apart. Let there be bloodshed. Fight. This is a battle to the death so you better give yourself all you’ve got, you have nothing else.
 
-Once you die, putrefy and decay into the deepest blackness. Be like a black mirror . Ask yourself how much more black can I be? Let the answer be none, none more black.
+Once you die, putrefy and decay into the deepest blackness. Be like a black mirror. Ask yourself how much more black can I be? Let the answer be none, none more black.
 
-Assume the stench of graves . This too will pass, everything is temporary . With time you will take on a starry surface and be a humid milky way until you ultimately evaporate, collect, and rain down upon yourself, watering yourself until you are a new earth grown from the old.
+Assume the stench of graves. This too will pass, everything is temporary. With time you will take on a starry surface and be a humid milky way until you ultimately evaporate, collect, and rain down upon yourself, watering yourself until you are a new earth grown from the old.
 
 At this point, raise the heat under yourself, do this very slowly. The moister parts of yourself will parch and dry until you are left a cracked and desiccated landscape at the bottom of the glass.
 
 Watch yourself carefully now because you are about to burst into a peacock’s tail of color! Become the luminescent multiplication and glory of every hue possible until at last you become the allcolor, the white that contains every possible pigment imaginable like a secret within.
 
-Remove yourself from the alembic and do it again, you heard me, the whole thing, grind yourself together with the crystals, seal yourself into the glass fortress, all of it. Another 40 days. You think attaining this kind of wealth and being happy is easy or quick? It is a process. It takes time. But in the end you will have achieved a pure golden perfection the like of which has never been seen nor barely dreamed possible. You will become a universal elixir, the source of health, wisdom, divine knowledge , enlightenment, and eternal life. You are to be the ineffably precious primary element from which all elements derive, a substance valuable beyond understanding and price. That’ll be worth something. That’ll make you happy .
+Remove yourself from the alembic and do it again, you heard me, the whole thing, grind yourself together with the crystals, seal yourself into the glass fortress, all of it. Another 40 days. You think attaining this kind of wealth and being happy is easy or quick? It is a process. It takes time. But in the end you will have achieved a pure golden perfection the like of which has never been seen nor barely dreamed possible. You will become a universal elixir, the source of health, wisdom, divine knowledge, enlightenment, and eternal life. You are to be the ineffably precious primary element from which all elements derive, a substance valuable beyond understanding and price. That’ll be worth something. That’ll make you happy.
 
 ### Translating Wyn
 
@@ -4441,9 +4441,9 @@ Remove yourself from the alembic and do it again, you heard me, the whole thing,
 ![Translating Wyn](archive/thumbs/2022_10_31-E-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Wyn](archive/thumbs/2022_10_letters-for-titles-vern-tonkin-translating-wyn-300x137.jpg)
 
-The Wyn stanza breaks with the usual byþ beginning : it starts with ne . Ne means not, or no. It can be used as a conjunction too, but here ne is neither this nor that. Old English is an inflected language meaning it uses different prefixes and suffixes to change a word’s grammatical usage in a sentence. The Wyn rune often shows up in manuscripts as a grammalogue (a single symbol used to represent an entire word) with a suffix attached, like this: ᚹ ne instead of wynne, meaning “of joy.” Th ne at the start of this stanza is a suffix, not a complete word and not a negation. Wyn starts out with a note of joy!
+The Wyn stanza breaks with the usual byþ beginning: it starts with ne. Ne means not, or no. It can be used as a conjunction too, but here ne is neither this nor that. Old English is an inflected language meaning it uses different prefixes and suffixes to change a word’s grammatical usage in a sentence. The Wyn rune often shows up in manuscripts as a grammalogue (a single symbol used to represent an entire word) with a suffix attached, like this: ᚹne instead of wynne, meaning “of joy.” Th ne at the start of this stanza is a suffix, not a complete word and not a negation. Wyn starts out with a note of joy!
 
-Usually the mood of Old English poetry is not joyfulness — it tends toward the gloomy, but there’s still plenty of wyn in it, particularly in the Rune Poem where the word wyn occurs six times. What makes the singers of the Rune Poem joyful? In this stanza it’s the security of living in a community. Nobody wants to be out in the wilderness on their own , and what better to secure a community than a byrga. A byrga is a fort, a walled town, a place of prosperity with valuable goods that need physical, visible, protection. King Alfred built plenty of these along the coasts to protect British goods from Viking invaders. During the time of the Rune poem, a few hundred years before Alfred (king from 871 to 886) a byrga was what to call an old iron age hill fort, and in particular it was the word for a Roman fort. Coastal piracy had been a thing since the Romans showed up in Britain with their trade routes, and coastal forts built to protect the goods coming and going from shipping towns became an important part of the landscape. This was particularly true after the third century when Rome shifted much of their military away from Britain to protect their holdings in other areas. When the Romans left Britain altogether at the turn of the fifth century, the people kept up the practice of building fortifications for their market towns, surrounding them with high hedges, fences, or walls. People prosper when they have a safe place to keep their goods. No wonder they were happy.
+Usually the mood of Old English poetry is not joyfulness — it tends toward the gloomy, but there’s still plenty of wyn in it, particularly in the Rune Poem where the word wyn occurs six times. What makes the singers of the Rune Poem joyful? In this stanza it’s the security of living in a community. Nobody wants to be out in the wilderness on their own, and what better to secure a community than a byrga. A byrga is a fort, a walled town, a place of prosperity with valuable goods that need physical, visible, protection. King Alfred built plenty of these along the coasts to protect British goods from Viking invaders. During the time of the Rune poem, a few hundred years before Alfred (king from 871 to 886) a byrga was what to call an old iron age hill fort, and in particular it was the word for a Roman fort. Coastal piracy had been a thing since the Romans showed up in Britain with their trade routes, and coastal forts built to protect the goods coming and going from shipping towns became an important part of the landscape. This was particularly true after the third century when Rome shifted much of their military away from Britain to protect their holdings in other areas. When the Romans left Britain altogether at the turn of the fifth century, the people kept up the practice of building fortifications for their market towns, surrounding them with high hedges, fences, or walls. People prosper when they have a safe place to keep their goods. No wonder they were happy.
 
 ### Translating Ing
 
@@ -4451,11 +4451,11 @@ Usually the mood of Old English poetry is not joyfulness — it tends toward the
 
 ![Translating Ing](archive/thumbs/2022_10_Translating-Ing-Lettersfortitles-vern-tonkin-300x118.jpg)
 
-Ing is a mystery. Who is Ing? Where did he go? Why did he leave? We don’t know. You know who knows? The Rune Poem knows : the Rune Poem has the only specific intel we’ve got on Ing.
+Ing is a mystery. Who is Ing? Where did he go? Why did he leave? We don’t know. You know who knows? The Rune Poem knows: the Rune Poem has the only specific intel we’ve got on Ing.
 
 Case File: Ing
 
-Clue: Ing was first among the East Danes. Where are these East Danes? The Rune Poem predates the Viking expansion (973-1066), so there’s only one place to look for Danes: modern Denmark and southern Sweden plus the coasts and islands thereabout. The East Danes lived in the Southern Sweden and Zealand half of things, where you can find plenty of people named after Ing: Inge Inga Ingmar Ingrid, living in places like Ingegerd, and Ingeborg. What’s Ing doing in the Old English Rune Poem? His people traveled. Just west of Denmark across the north sea to Northumbria there are also plenty Ings (Inglby Ingoe Ingram Ingham). He’s left a forest of family trees in Britain so let’s climb up them, and look at that! Here’s ing, sitting right at the top. Like other deities of the North and Baltic sea peoples, Ing is the progenitor of many families. Ing was all their daddies .
+Clue: Ing was first among the East Danes. Where are these East Danes? The Rune Poem predates the Viking expansion (973-1066), so there’s only one place to look for Danes: modern Denmark and southern Sweden plus the coasts and islands thereabout. The East Danes lived in the Southern Sweden and Zealand half of things, where you can find plenty of people named after Ing: Inge Inga Ingmar Ingrid, living in places like Ingegerd, and Ingeborg. What’s Ing doing in the Old English Rune Poem? His people traveled. Just west of Denmark across the north sea to Northumbria there are also plenty Ings (Inglby Ingoe Ingram Ingham). He’s left a forest of family trees in Britain so let’s climb up them, and look at that! Here’s ing, sitting right at the top. Like other deities of the North and Baltic sea peoples, Ing is the progenitor of many families. Ing was all their daddies.
 
 Clue: Many market towns in Sweden end in köping like Jönköping where a great many of my people came from (I am 1/8 Swedish). Was Ing my daddy too?
 
@@ -4463,15 +4463,15 @@ Clue: Ing has a wæn following behind him, this is either a cart or a chariot. Y
 
 Clue: Besides being the past tense of rinnan, to run, ran means robbery. Did the people take Ing’s stuff after he left? Was that an empty cart running after Ing?
 
-Clue: Ing is old. There are no definite articles (the, a) in the Rune Poem, þone in the Ing stanza is the only place to find a word that might be one, and it is used as a demonstrative pronoun: that (but I say “the” in my translation , we need them in modern English). No definite articles means the Old English here is older than King Alfred (king from 871 to 899) who had a thing for them. The Rune Poem was probably written down in the 600s, but Ing is way older than this, his children go back, way back, to the Ynglingar, (The Swedish royal family) and the Ingui, (the royals of Bernicia in Northumbria): these monarchs are so old they were straight up legends. Ing is also older than the Ingwine people (Ing, Wyn) , ruled by King Hrothgar who had that monster problem Beowulf helped out with. And Ing goes back farther still to the coastal dwelling, Denmark occupying, Ingaevones Tacitus felt superior to in the first century. Ing is really really old.
+Clue: Ing is old. There are no definite articles (the, a) in the Rune Poem, þone in the Ing stanza is the only place to find a word that might be one, and it is used as a demonstrative pronoun: that (but I say “the” in my translation, we need them in modern English). No definite articles means the Old English here is older than King Alfred (king from 871 to 899) who had a thing for them. The Rune Poem was probably written down in the 600s, but Ing is way older than this, his children go back, way back, to the Ynglingar, (The Swedish royal family) and the Ingui, (the royals of Bernicia in Northumbria): these monarchs are so old they were straight up legends. Ing is also older than the Ingwine people (Ing, Wyn), ruled by King Hrothgar who had that monster problem Beowulf helped out with. And Ing goes back farther still to the coastal dwelling, Denmark occupying, Ingaevones Tacitus felt superior to in the first century. Ing is really really old.
 
 Clue: This is the only Rune Poem stanza written in the past tense. Ing is already gone. Ing left for good. We won’t see Ing again.
 
-Clue: Where did he go? Est . Most people translate this word to East but why didn’t the poem just say East? The stanza says East right there, one line up. The word East was available. Ah but look at this, theres a Baltic tribe called the Este living along the coast of Northern Poland. Where? Just east of the East Danes. What do we know about them? Tacitus says these Este , Aestii he spells it, have a language that resembles the British. You don’t say. Hm. Ing gets around. But what else does est mean? This may not be the first time multiple meanings apply. Lowercase est means favor, pleasure, luxuries, bounty, prosperity . If we take the word as it appears, Ing had the goods and maybe he took them to Poland. The Este did have wealth. Their river, the Vistula, spit much of Europe’s amber right onto their Baltic beaches. Everybody wanted amber. Perhaps Ing took his prosperity to this rich place?
+Clue: Where did he go? Est. Most people translate this word to East but why didn’t the poem just say East? The stanza says East right there, one line up. The word East was available. Ah but look at this, theres a Baltic tribe called the Este living along the coast of Northern Poland. Where? Just east of the East Danes. What do we know about them? Tacitus says these Este, Aestii he spells it, have a language that resembles the British. You don’t say. Hm. Ing gets around. But what else does est mean? This may not be the first time multiple meanings apply. Lowercase est means favor, pleasure, luxuries, bounty, prosperity. If we take the word as it appears, Ing had the goods and maybe he took them to Poland. The Este did have wealth. Their river, the Vistula, spit much of Europe’s amber right onto their Baltic beaches. Everybody wanted amber. Perhaps Ing took his prosperity to this rich place?
 
-Clue: Ing was nemdun (named) Ing by the heardingas , the hardened people, the hardy ones. Ing was probably pretty tough. You get strong pulling a cartload of prosperity around.
+Clue: Ing was nemdun (named) Ing by the heardingas, the hardened people, the hardy ones. Ing was probably pretty tough. You get strong pulling a cartload of prosperity around.
 
-Clue: You can see Ing from here just over the sea. Look at the runes in their alphabetic order : Ing is just east of the people, a sea in between.
+Clue: You can see Ing from here just over the sea. Look at the runes in their alphabetic order: Ing is just east of the people, a sea in between.
 
 Ing, profile: A tough guy from east of here who went even more east. The elder of thousands. Prosperous. Hung around the markets. He was generous with the bounty and no wonder the people who first named him were hardy ones, they didn’t have the luxuries anymore once Ing took them east. But maybe those Este didn’t get prosperity by the cartload either. Ing’s cart might still be in the sky, just look up, you see? There it is still traveling, the big dipper, known in Germanic languages and many others back to ancient times as the wagon. Perhaps this is Ing’s wagon, following after.
 
@@ -4482,7 +4482,7 @@ Ing, profile: A tough guy from east of here who went even more east. The elder o
 ![Stanza 22: Ing](archive/thumbs/2022_10_3-copy-300x300.jpg)
 ![Stanza 22: Ing](archive/thumbs/2022_10_35-O-Letters-for-Titles-Vern-Tonkin-300x259.jpg)
 
-ᛝ wæs æ rest mid east denum.
+ᛝ wæs ærest mid east denum.
 
 gesewen secgun. oþ he siððan est.
 
@@ -4492,7 +4492,7 @@ ofer wæg gewat wæn æfter ran.
 
 First he was among the East Danes
 
-Seen and spoken of, u ntil hereafter he and his bounty eastward
+Seen and spoken of, until hereafter he and his bounty eastward
 
 Departed over the waves, his wagon ran after;
 
@@ -4504,7 +4504,7 @@ Thus the hardy ones named the hero.
 
 ![Stanza 8: Joy](archive/thumbs/2022_10_stanza-8joy-letters-for-titles-vern-tonkin-300x300.jpg)
 
-ᚹ ne bruceþ ðe can ƿ eana lyt
+ᚹ ne bruceþ ðe can ƿeana lyt
 
 sares and sorge and him sylfa hæfþ
 
@@ -4570,19 +4570,19 @@ You have been rock and hard placing for so long you think time isn’t passing. 
 ![How to Survive a Tornado](archive/thumbs/2021_07_how-to-survive-a-tornado-letters-for-titles-vern-tonkin-300x300.jpg)
 ![How to Survive a Tornado](archive/thumbs/2022_10_47-I-Letters-for-Titles-Vern-Tonkin-211x300.jpg)
 
-The light outside has turned green, hail is falling everywhere, and the tornado is upon you. Literally. Oferheah over head . Surviving a tornado can be a simple thing if you plan ahead and don’t panic. Otherwise you have internalized the whirlwind, and spinning out is seldom useful.
+The light outside has turned green, hail is falling everywhere, and the tornado is upon you. Literally. Oferheah over head. Surviving a tornado can be a simple thing if you plan ahead and don’t panic. Otherwise you have internalized the whirlwind, and spinning out is seldom useful.
 
-Choose your tornado wisely. Shh . Listen. A quieter tornado contains fewer objects and will be safer than the one roaring from the sound of stuff smashing together. Also notice color. A white or gray tornado does not hold as much debris as one that has turned brown. Try to pick a nice clean one.
+Choose your tornado wisely. Shh. Listen. A quieter tornado contains fewer objects and will be safer than the one roaring from the sound of stuff smashing together. Also notice color. A white or gray tornado does not hold as much debris as one that has turned brown. Try to pick a nice clean one.
 
-Also try to avoid being blown off your feet. Stay out of cars and trailers. If you have a windowless bathroom with a bathtub in it, get in the tub . Do not turn on the water and take a bath , you do not want to be hurled out of it and into the world wearing absolutely nothing as you might shock your neighbors. Instead, put on a parka. this may seem counterintuitive as tornados tend to happen on nice warm days, but due to a sharp temperature drop from lower internal pressure, the interior of one is much colder and can feel wintry, so it is important to say warm. Bonus: if you are blown off your feet, a thick parka can protect you from flying debris such as cattle and trees .
+Also try to avoid being blown off your feet. Stay out of cars and trailers. If you have a windowless bathroom with a bathtub in it, get in the tub. Do not turn on the water and take a bath, you do not want to be hurled out of it and into the world wearing absolutely nothing as you might shock your neighbors. Instead, put on a parka. this may seem counterintuitive as tornados tend to happen on nice warm days, but due to a sharp temperature drop from lower internal pressure, the interior of one is much colder and can feel wintry, so it is important to say warm. Bonus: if you are blown off your feet, a thick parka can protect you from flying debris such as cattle and trees.
 
 Because of the lower air pressure, the inside of so much whirling wind is paradoxically quite airless. The oxygen supply is similar to what one might experience at extreme altitude. To avoid hypoxia you may wish to bring an oxygen tank with you or just take slow deep breaths.
 
-There are plenty of stories of tornados driving various objects through trees such as straws, forks, playing cards, match sticks, thorns , blades of grass, actual blades. Avoid the trees; don’t fight them.
+There are plenty of stories of tornados driving various objects through trees such as straws, forks, playing cards, match sticks, thorns, blades of grass, actual blades. Avoid the trees; don’t fight them.
 
 Watch out for lightning. There’s plenty of it and you’ll see it coming. If you are already airborne, it is a myth that not being grounded is a safer way to experience a lightning strike. Alas the heat from the electrical current passing through you will boil you up just as surely as it does when you are on the ground, if the shock doesn’t stop your heart first. Do be careful.
 
-For a landing site aim for deep water or soft ground. Try to avoid structures, dwellings, anything with walls . Hope to be alone, exiled in wretchedness, and expectant of mercy and sustenance. You’ll have nothing else .
+For a landing site aim for deep water or soft ground. Try to avoid structures, dwellings, anything with walls. Hope to be alone, exiled in wretchedness, and expectant of mercy and sustenance. You’ll have nothing else.
 
 ### H is for Hægl
 
@@ -4682,7 +4682,7 @@ And the skies weep.
 ![The Water Cycle](archive/thumbs/2022_10_55-Period-Ava-White-Letters-for-Titles-Vern-Tonkin-225x300.gif)
 ![The Water Cycle](archive/thumbs/2022_10_The-Water-Cycle-Letters-for-Titles-Vern-Tonkin-300x200.jpg)
 
-The people of the Rune Poem were farmers and seafarers living in a wet country, and they had a much closer relationship with weather than we have. We can spend whole productive lives indoors, deep indoors, climate controlled, insulated, where rain cannot penetrate, and we might wonder sometimes is it windy outside? The Rune Poem singers did not need to go outside to find out: they felt the wind in their homes and their bones. Their houses were much more porous, and if the wind wants to send hail smashing down upon their roofs, crops, heads, they would feel it bitterly. If the storm lashes the sea all around their boats, they’ll be stuck in it terrified , buffeted by waves, riding it out. And they would ride it out. Sometimes the wind brings tempests, but all storms become calm water.
+The people of the Rune Poem were farmers and seafarers living in a wet country, and they had a much closer relationship with weather than we have. We can spend whole productive lives indoors, deep indoors, climate controlled, insulated, where rain cannot penetrate, and we might wonder sometimes is it windy outside? The Rune Poem singers did not need to go outside to find out: they felt the wind in their homes and their bones. Their houses were much more porous, and if the wind wants to send hail smashing down upon their roofs, crops, heads, they would feel it bitterly. If the storm lashes the sea all around their boats, they’ll be stuck in it terrified, buffeted by waves, riding it out. And they would ride it out. Sometimes the wind brings tempests, but all storms become calm water.
 
 ### Soon After it Becomes Water
 
@@ -4741,9 +4741,9 @@ Al·pha·bet book (ælfəbɪt bʊk) /ˈalfəˌbet bo͝ok/ n.
 
 1. A book for teaching the alphabet. 1922 Joyce Ulysses 49 One of the alphabet books you were going to write.
 
-Let·ters for Ti·tles (ˈlɛtə(r)s fɔː(r),fə(r) ˈtaɪt(ə)ls) /ˈledərs fôr,fər ˈtīdls / n .
+Let·ters for Ti·tles (ˈlɛtə(r)s fɔː(r),fə(r) ˈtaɪt(ə)ls) /ˈledərs fôr,fər ˈtīdls/ n.
 
-1. A translation of the Old English Rune Poem . See Rune Poem, Old English.
+1. A translation of the Old English Rune Poem. See Rune Poem, Old English.
 
 2.a. A book written forward in real time while linking backward in a retrospective arrangement, a mirror within a mirror (hey presto!).
 
@@ -4751,17 +4751,17 @@ b. A collection of interconnected compositions with captioned illustrations arra
 
 3. A study of the people who used the runic alphabet for divination.
 
-4. A website. A collection of social media sites: F ., I ., T ., P , R . See also UI is for User Interface .
+4. A website. A collection of social media sites: F., I., T., P, R. See also UI is for User Interface.
 
 Let·ters for Ti·tles, v.
 
-1. The act of publishing one thing daily for a year minus weekends. Cf. Slyuses: Having my way with Ulysses .
+1. The act of publishing one thing daily for a year minus weekends. Cf. Slyuses: Having my way with Ulysses.
 
 2. The act of writing a book with eyes seeing but unseen watching over my shoulder.
 
 3. A clearing of the throat.
 
-† Rune Po·em , Old Eng·lish, Obs. (ruːn ˈpəʊɪm, əʊld ˈɪŋglɪʃ) /ro͞on ˈpōəm,pōm ōld ˈiNG(ɡ)liSH/ n.
+†Rune Po·em, Old Eng·lish, Obs. (ruːn ˈpəʊɪm, əʊld ˈɪŋglɪʃ) /ro͞on ˈpōəm,pōm ōld ˈiNG(ɡ)liSH/ n.
 
 1. A collection of letters of the runic alphabet (Old English), their names and definitions written and sung in Old English alliterative meter arranged into opposing pairs and into three octaves with an amended quintet.
 
@@ -4780,11 +4780,11 @@ You’ve booked passage on the ship sailing farthest, doesn’t matter where. Go
 
 Can you swim? Can you swim back to shore from here? They’ve tried rowing this thing back and can’t, not against these waves. They also tried stopping the wind by blowing at it, which was equally effective. It’s just as well as it’s pretty inadvisable to be a boat anywhere near the shore during a storm like this. That coastline’s got features, and keep in mind that you are much more breakable than this ship and less powerful. Besides, I don’t think you could get back to land, not even if the water were flat, not with those arms, have you seen the state of yourself? The shape you’re in? No.
 
-Your best shot is down. When they throw you overboard, exiled in wretchedness , try to sink. Not all the way down, nobody knows how deep this water goes . But do try to sink deep. Your only option now is to find a sea monster and hope it is hungry. If you can’t be the boat be the bait. Don’t fear the belly of the beast, it is a viable option, just ask George Orwell , a person who once rowed his way out of a deadly whirlpool and has thought about it and says it’s obvious why you might enjoy being swallowed up whole: the w hale’s belly is simply a womb big enough for an adult. There you are, in the dark cushioned space that exactly fits you, with yards of blubber between yourself and reality, able to keep up an attitude of the completest indifference, no matter what happens. A storm that would sink all the battleships in the world would hardly reach you as an echo. Short of being dead, it is the final, unsurpassable stage of irresponsibility. That was George on dry land. He didn’t drown in his whirlpool so I say take his advice if not mine. He knew a thing or two about being down and out, and you are out, so aim for down. It is the only responsible option.
+Your best shot is down. When they throw you overboard, exiled in wretchedness, try to sink. Not all the way down, nobody knows how deep this water goes. But do try to sink deep. Your only option now is to find a sea monster and hope it is hungry. If you can’t be the boat be the bait. Don’t fear the belly of the beast, it is a viable option, just ask George Orwell, a person who once rowed his way out of a deadly whirlpool and has thought about it and says it’s obvious why you might enjoy being swallowed up whole: the whale’s belly is simply a womb big enough for an adult. There you are, in the dark cushioned space that exactly fits you, with yards of blubber between yourself and reality, able to keep up an attitude of the completest indifference, no matter what happens. A storm that would sink all the battleships in the world would hardly reach you as an echo. Short of being dead, it is the final, unsurpassable stage of irresponsibility. That was George on dry land. He didn’t drown in his whirlpool so I say take his advice if not mine. He knew a thing or two about being down and out, and you are out, so aim for down. It is the only responsible option.
 
-You could f ind a nice whale as George helpfully suggests, or go for something similar. There’s plenty monsters in the sea so you don’t have to settle for just any Tom, Moby Dick or Hydra. Be discerning. You have options: Cthuhlu, the kraken, Jörmungandr, Sigmund, Leviathan, Gyarados, Charybdis. Don’t forget giant cephalopods: there’s squads of squid and octopuses, or if you are feeling hypercorrect on you way into the soup, octopi, or octopodes if you harbor a real need to be right, some people like to pick the bones if there are any. There will be. There always are.
+You could find a nice whale as George helpfully suggests, or go for something similar. There’s plenty monsters in the sea so you don’t have to settle for just any Tom, Moby Dick or Hydra. Be discerning. You have options: Cthuhlu, the kraken, Jörmungandr, Sigmund, Leviathan, Gyarados, Charybdis. Don’t forget giant cephalopods: there’s squads of squid and octopuses, or if you are feeling hypercorrect on you way into the soup, octopi, or octopodes if you harbor a real need to be right, some people like to pick the bones if there are any. There will be. There always are.
 
-With luck one of those people will be you: safe, comfortable, protected. Not dry, but not drowning is nice. You’ve escaped! So now what? You are as our equally not drowned friend George says, just short of being dead . The womb will be your tomb and you’ve got nothing but time for gestating any bit of storm you brought with you. Did you catch that? You didn’t think you came into this world naked and the rest is stomach acid? Look around. There’s stuff in here with you and it’s a lot for close quarters. Didn’t you see there was a whole mouthful of squalls and tempests and other baddies smushing with you past the teeth and down the esophagus to the gut? You thought you’d be alone? You don’t expect me to swallow that. Stomach acid burns through solitude and you’ll see you’ve brought your troubles with you. I know you were hoping to get a little quiet navel gazing done in that belly you’re in, but what are you wanting to see? Fine. Let’s do it quick. See now. There all the time without you: and ever shall be, world without end. Will you be as gods? Gaze in your omphalos baby, it means there’s no escaping your birth into mortality. Ok, good? Let’s get going then. Now’s not the time to be passive, don’t you get it? There’s no actual shelter anywhere in this story, so get up, find that fish’s gag reflex and get to tickling. Let’s hope this beast will deliver you into a safer harbor or at minimum a beach in a better neighborhood. What are you waiting for? Now go.
+With luck one of those people will be you: safe, comfortable, protected. Not dry, but not drowning is nice. You’ve escaped! So now what? You are as our equally not drowned friend George says, just short of being dead. The womb will be your tomb and you’ve got nothing but time for gestating any bit of storm you brought with you. Did you catch that? You didn’t think you came into this world naked and the rest is stomach acid? Look around. There’s stuff in here with you and it’s a lot for close quarters. Didn’t you see there was a whole mouthful of squalls and tempests and other baddies smushing with you past the teeth and down the esophagus to the gut? You thought you’d be alone? You don’t expect me to swallow that. Stomach acid burns through solitude and you’ll see you’ve brought your troubles with you. I know you were hoping to get a little quiet navel gazing done in that belly you’re in, but what are you wanting to see? Fine. Let’s do it quick. See now. There all the time without you: and ever shall be, world without end. Will you be as gods? Gaze in your omphalos baby, it means there’s no escaping your birth into mortality. Ok, good? Let’s get going then. Now’s not the time to be passive, don’t you get it? There’s no actual shelter anywhere in this story, so get up, find that fish’s gag reflex and get to tickling. Let’s hope this beast will deliver you into a safer harbor or at minimum a beach in a better neighborhood. What are you waiting for? Now go.
 
 ### Translating Lagu
 
@@ -4793,7 +4793,7 @@ With luck one of those people will be you: safe, comfortable, protected. Not dry
 ![Translating Lagu](archive/thumbs/2022_11_65-Y-letters-for-titles-vern-tonkin-300x300.jpg)
 ![Translating Lagu](archive/thumbs/2022_11_Translating-Lagu-Letters-forTitles-Vern-Tonkin-300x128.jpg)
 
-Waterways were busy places during the time of the Rune Poem, making for convenient connections between coastal settlements and with ports of trade farther afield. However, things become a lot less easy when the sea won’t cooperate . The whole endeavor becomes as the stanza says , langsum, longsome, long lasting, lengthy. This also means tedious, as in when is this boat going to stop pitching endlessly in these waves? Langsum , that’s when. You’ll be riding this out for a good long while, and langsum geþuht (longsome thought) means it seems even longer. Time slows down when you are scared and in your head, and this is scary. The boat is tealtum, unsteady, and it’s not a big ship. You are right there in the soup and you will feel every one of those sæyþa (waves) coming at you. They are swyþe, strong and violent, and frightening too. Bregaþ says it’s frightening, as I’m sure you can imagine, when the sea is swelling and pitching so much you lose all control of your boat. Now you are at the water’s mercy. How scared are you? Bregd means a quick movement, bregdan means the same but it also means to draw breath, bregdnes means a sudden terror that takes your breath away. You are not just mildly fearful about the situation, no, you are terrified, breathing shallow and fast, shocked alert and responding to quick changes of the sea as it flings you in every direction simultaneously, but there is exactly nothing you can do. You have no control in this situation. Leave all thought of being a hero now, you should be terrified. The ocean is a dangerous place. Arranged in their three rows of eight stanzas, the rune for sea sits just above the one for the grave . Just under the waves lies a cemetery , and soon it may be yours.
+Waterways were busy places during the time of the Rune Poem, making for convenient connections between coastal settlements and with ports of trade farther afield. However, things become a lot less easy when the sea won’t cooperate. The whole endeavor becomes as the stanza says, langsum, longsome, long lasting, lengthy. This also means tedious, as in when is this boat going to stop pitching endlessly in these waves? Langsum, that’s when. You’ll be riding this out for a good long while, and langsum geþuht (longsome thought) means it seems even longer. Time slows down when you are scared and in your head, and this is scary. The boat is tealtum, unsteady, and it’s not a big ship. You are right there in the soup and you will feel every one of those sæyþa (waves) coming at you. They are swyþe, strong and violent, and frightening too. Bregaþ says it’s frightening, as I’m sure you can imagine, when the sea is swelling and pitching so much you lose all control of your boat. Now you are at the water’s mercy. How scared are you? Bregd means a quick movement, bregdan means the same but it also means to draw breath, bregdnes means a sudden terror that takes your breath away. You are not just mildly fearful about the situation, no, you are terrified, breathing shallow and fast, shocked alert and responding to quick changes of the sea as it flings you in every direction simultaneously, but there is exactly nothing you can do. You have no control in this situation. Leave all thought of being a hero now, you should be terrified. The ocean is a dangerous place. Arranged in their three rows of eight stanzas, the rune for sea sits just above the one for the grave. Just under the waves lies a cemetery, and soon it may be yours.
 
 ### Translating Hægl
 
@@ -4801,11 +4801,11 @@ Waterways were busy places during the time of the Rune Poem, making for convenie
 
 ![Translating Hægl](archive/thumbs/2022_11_Translating-Haegl-lettersfortitles-verntonkin-300x61.jpg)
 
-The Rune Poem’s stanzas vary in length. Each of the first eight stanzas consist of three lines containing four beats of stressed syllables: twelve beats total. Then we get an abrupt shift toward brevity with a pair side by side, Hail and Need , which have two lines each. They are shorter, but their words beat out the same number of stresses as the previous three line stanzas: still twelve beats total. Sing it . To get all twelve beats into two thirds the space, your song has to speed up . The stressed words come fast, as does hail and need when they storm down suddenly on your head and destroy your abundance.
+The Rune Poem’s stanzas vary in length. Each of the first eight stanzas consist of three lines containing four beats of stressed syllables: twelve beats total. Then we get an abrupt shift toward brevity with a pair side by side, Hail and Need, which have two lines each. They are shorter, but their words beat out the same number of stresses as the previous three line stanzas: still twelve beats total. Sing it. To get all twelve beats into two thirds the space, your song has to speed up. The stressed words come fast, as does hail and need when they storm down suddenly on your head and destroy your abundance.
 
-There’s more math going on here too . The Rune Poem is traditionally divided into three groups of eight stanzas with five extra vowels tacked onto the end as necessary accommodations for sound changes over time. Hail starts the second group of eight. The first group traditionally belongs to Freyr and Freya , and begins with the cattle that pulls their cart. The third set of eight is presided over by Tiw , whose stanza starts that group. Some deduce from this setup that Hægl must have been a deity too. There is zero evidence for this, but we do have very little to go on otherwise. Perhaps there is some god here? There’s other unnamed gods in the Rune Poem, so why not here. Who might this god be? There’s plenty of weather in this set of eight runes; Hail , Ice , the Sun , and Year all have something to say about the forces of nature . Perhaps there is a storm deity lurking here, or a creation god having something to do with seasonal changes? We don’t know. It adds up to a mystery. Gods are mysteries.
+There’s more math going on here too. The Rune Poem is traditionally divided into three groups of eight stanzas with five extra vowels tacked onto the end as necessary accommodations for sound changes over time. Hail starts the second group of eight. The first group traditionally belongs to Freyr and Freya, and begins with the cattle that pulls their cart. The third set of eight is presided over by Tiw, whose stanza starts that group. Some deduce from this setup that Hægl must have been a deity too. There is zero evidence for this, but we do have very little to go on otherwise. Perhaps there is some god here? There’s other unnamed gods in the Rune Poem, so why not here. Who might this god be? There’s plenty of weather in this set of eight runes; Hail, Ice, the Sun, and Year all have something to say about the forces of nature. Perhaps there is a storm deity lurking here, or a creation god having something to do with seasonal changes? We don’t know. It adds up to a mystery. Gods are mysteries.
 
-What we do know is that this hail that can destroy a crop and with it a season’s work and food security for the winter , is described as a grain. Hail is the hwitust corna , the whitest of the corns. When hail comes, one crop you want gets pelted by another you don’t, and then they both melt away. The stanza gives two words to describe how this whitest grain plants itself all over a growing field: it will hwyrft , which is a turn or a revolving, and it wealeaþ , which means also to turn, as well as to billow or roll. Hail rolls in out of a whirlwind. Hailstorms are no joke. Wealeaþ also means to turn something over and over in your mind, to reconsider something. It’s the thinking you’ll have to put into your change of plan when the hail swiftly pummels your fields of abundance into a wasteland of need just like that. Don’t worry. You’ll turn it around. Hail melts siððan , soon. Maybe your troubles will do the same?
+What we do know is that this hail that can destroy a crop and with it a season’s work and food security for the winter, is described as a grain. Hail is the hwitust corna, the whitest of the corns. When hail comes, one crop you want gets pelted by another you don’t, and then they both melt away. The stanza gives two words to describe how this whitest grain plants itself all over a growing field: it will hwyrft, which is a turn or a revolving, and it wealeaþ, which means also to turn, as well as to billow or roll. Hail rolls in out of a whirlwind. Hailstorms are no joke. Wealeaþ also means to turn something over and over in your mind, to reconsider something. It’s the thinking you’ll have to put into your change of plan when the hail swiftly pummels your fields of abundance into a wasteland of need just like that. Don’t worry. You’ll turn it around. Hail melts siððan, soon. Maybe your troubles will do the same?
 
 ### Stanza 9: Hail
 
@@ -4828,7 +4828,7 @@ It rolls out of a wind storm, it turns into water soon after.
 ![Stanza 21: The Sea](archive/thumbs/2022_11_71-T-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Stanza 21: The Sea](archive/thumbs/2022_11_Stanza-21-Sea-LettersForTitles-Vern-Tonkin-281x300.jpg)
 
-ᛚ byþ leo dum langsum geþuht
+ᛚ byþ leodum langsum geþuht
 
 gif hi sculun neþan on nacan tealtum.
 
@@ -4859,7 +4859,7 @@ And the sea horse has no regard for the bridle.
 ![ᛗ](archive/thumbs/2022_11_73-E-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![ᛗ](archive/thumbs/2022_11_ᛗ-LettersforTitles-Vern-Tonkin-300x300.jpg)
 
-Send out some air and impede it a bit with your vocal cords, press your lips together and send that air through your nose . Smell that? Mmmmm. Delicious.
+Send out some air and impede it a bit with your vocal cords, press your lips together and send that air through your nose. Smell that? Mmmmm. Delicious.
 
 Carve the rune for joy and give it company: its spitting image, like looking in a mirror. Like the rest of us, they love to be happy together.
 
@@ -4871,7 +4871,7 @@ Carve the rune for joy and give it company: its spitting image, like looking in 
 
 Voiced alveolar nasal. Vibrate some air through your vocal cords, stop it at the roof of your mouth with your tongue. Nope. No passage here. Never. Send that air out through your nose.
 
-When N stands next to C or G both letters are pronounced together and sound a bit like Ing , the other nasal letter besides M , which is N’s Rune Poem partner. M and N are still close in modern English, next door neighbors, and together they are the only nasal letters left to us since Ing went east .
+When N stands next to C or G both letters are pronounced together and sound a bit like Ing, the other nasal letter besides M, which is N’s Rune Poem partner. M and N are still close in modern English, next door neighbors, and together they are the only nasal letters left to us since Ing went east.
 
 Carve a line straight down to rock bottom. Now constrict it with another line, right through the heart. Point that line down a bit too, but also point it up.
 
@@ -4882,7 +4882,7 @@ Carve a line straight down to rock bottom. Now constrict it with another line, r
 ![Rune Casting: Mann](archive/thumbs/2022_11_79-N-Letters-for-Titles-Vern-Tonkin-234x300.jpg)
 ![Rune Casting: Mann](archive/thumbs/2022_11_rune-casting-mann.lettersfortitles-verntonkin-300x282.jpg)
 
-Be happy , your people love you, especially when you are happy. Enjoy each other now because everybody will die. When will you depart, one from the other? O I couldn’t tell you that. That’s not for us to know.
+Be happy, your people love you, especially when you are happy. Enjoy each other now because everybody will die. When will you depart, one from the other? O I couldn’t tell you that. That’s not for us to know.
 
 ### Rune Casting: Nyd
 
@@ -4900,9 +4900,9 @@ Listen up. As if from nowhere you will have nothing. Nowhere is where nothing co
 ![How to Hold it Together](archive/thumbs/2022_11_81-G-Letters-for-Titles-Vern-Tonkin-261x300.jpg)
 ![How to Hold it Together](archive/thumbs/2022_11_How-to-Hold-it-Together-Jason-Johnston-Zip-Letters-for-Titles-Vern-Tonkin-189x300.jpg)
 
-You look happy on the outside but I can still see you coming apart. It’s your whole vibe: you’ve got no zip, zero, nada, and look at you. Loved by your family, yes some of them love you very deep down in kind of a fuzzy way, but they are there holding strong nevertheless. They especially love you when you’re happy . Well, they like you more. Picture yourself out of the picture. Can you do that? Find a remove from which to stand and fulcrum yourself out, look at what that looks like. Not in a wonderful christmas carol life kind of way, I see what you want so stop it. You’ve been in the world, a messy person like you, yes? Messes leave stains. There’s going to be smears of you all over the place. Getting all up in everything. You’ve always been the red sock in the laundry, bleeding. So look now. Everybody coming apart now too, even the ones you thought were seven degrees separated. Chain reaction sweetie, you don’t know the effect you’ve had butterfly (moth to a flame more like) so get it together. Exile yourself and it will be chaos.
+You look happy on the outside but I can still see you coming apart. It’s your whole vibe: you’ve got no zip, zero, nada, and look at you. Loved by your family, yes some of them love you very deep down in kind of a fuzzy way, but they are there holding strong nevertheless. They especially love you when you’re happy. Well, they like you more. Picture yourself out of the picture. Can you do that? Find a remove from which to stand and fulcrum yourself out, look at what that looks like. Not in a wonderful christmas carol life kind of way, I see what you want so stop it. You’ve been in the world, a messy person like you, yes? Messes leave stains. There’s going to be smears of you all over the place. Getting all up in everything. You’ve always been the red sock in the laundry, bleeding. So look now. Everybody coming apart now too, even the ones you thought were seven degrees separated. Chain reaction sweetie, you don’t know the effect you’ve had butterfly (moth to a flame more like) so get it together. Exile yourself and it will be chaos.
 
-How to hold it together? You don’t think I can tell you that from all the way over here, did you? Lean in baby love, you know already you will each betray the other in the end : you all have a prior commitment with the earth and then you’ll have nothing, zip zero you get it? And you can’t undo it. So you feel like nothing and you are headed for nothing and you ask me how to hold it together? What’s the opposite of nothing? I’ll tell you: it’s something. That’s what you do, something. You have nothing else . Now go.
+How to hold it together? You don’t think I can tell you that from all the way over here, did you? Lean in baby love, you know already you will each betray the other in the end: you all have a prior commitment with the earth and then you’ll have nothing, zip zero you get it? And you can’t undo it. So you feel like nothing and you are headed for nothing and you ask me how to hold it together? What’s the opposite of nothing? I’ll tell you: it’s something. That’s what you do, something. You have nothing else. Now go.
 
 ### N is for ‘N
 
@@ -4919,9 +4919,9 @@ How to hold it together? You don’t think I can tell you that from all the way 
 
 Star light, star bright,
 
-First star I see tonight, I wish I may, I wish I might, have this wish I wish tonight. Not something big like a pony what am I going to do with a horse , it was just to get out of there and live my life already. But I didn’t mean all the way out, and me with my heart in my throat. Plenty of help and no support.
+First star I see tonight, I wish I may, I wish I might, have this wish I wish tonight. Not something big like a pony what am I going to do with a horse, it was just to get out of there and live my life already. But I didn’t mean all the way out, and me with my heart in my throat. Plenty of help and no support.
 
-I know the one thing that ever shall be , we all know that one doesn’t matter who. I’ll recognize need next time I see it, and by god doesn’t matter who , I’ll help how I can if I can.
+I know the one thing that ever shall be, we all know that one doesn’t matter who. I’ll recognize need next time I see it, and by god doesn’t matter who, I’ll help how I can if I can.
 
 Need is mine and will be mine again.
 
@@ -4936,31 +4936,31 @@ X
 ![Life and Death](archive/thumbs/2022_11_87-O-Letters-for-Titles-Vern-Tonkin-245x300.jpg)
 ![Life and Death](archive/thumbs/2022_11_Life-and-Death-LettersforTitles-Vern-Tonkin-251x300.jpg)
 
-The Rune Poem stanzas Wealth and Human have so much in common they ought to be a matched set, except they already have their own partners, The Grave , and Need . Here are Wealth and Human repeating themselves:
+The Rune Poem stanzas Wealth and Human have so much in common they ought to be a matched set, except they already have their own partners, The Grave, and Need. Here are Wealth and Human repeating themselves:
 
 Wealth: Sceal ðeah manna gehwylc (though each of us must).
 
 Human: Sceal þeah anra gehwylc (though each and every one must).
 
-And look at how many words they share: byþ , gehwylcum / gehwylc , sceal , wile / wyle , ðeah / þeah , drihtne / dryhten , dome / domes , 7 not counting pronouns. The name of the Human rune, manna , appears in the Wealth stanza so let’s count that one too: 8 words in common is a large number, especially when you consider that the Wealth stanza has only 18 words and the Human stanza has 23 if you include ꝥ, which isn’t a whole word but a grammalogue for the word “that.”
+And look at how many words they share: byþ, gehwylcum/gehwylc, sceal, wile/wyle, ðeah/þeah, drihtne/dryhten, dome/domes, 7 not counting pronouns. The name of the Human rune, manna, appears in the Wealth stanza so let’s count that one too: 8 words in common is a large number, especially when you consider that the Wealth stanza has only 18 words and the Human stanza has 23 if you include ꝥ, which isn’t a whole word but a grammalogue for the word “that.”
 
 What are these words and what do they mean?
 
 Mann means person, manna is the genitive plural of mann: of humans, of people.
 
-By þ . Is. Well, to be precise Byþ means a mash up of is was and ever shall be, when you take into account what the meaning of the word “is” is . Byþ starts almost every stanza.
+Byþ. Is. Well, to be precise Byþ means a mash up of is was and ever shall be, when you take into account what the meaning of the word “is” is. Byþ starts almost every stanza.
 
-Gehwylc shows up three times in the Wealth and Human stanzas. Hwylc / hwilc means which, the ge – prefix sometimes acts like a preposition meaning together or with, and sometimes it shifts the meaning of the word from literal to figurative. Here gehwyilc means each, as in all the people, everybody, nobody is exempt.
+Gehwylc shows up three times in the Wealth and Human stanzas. Hwylc/hwilc means which, the ge– prefix sometimes acts like a preposition meaning together or with, and sometimes it shifts the meaning of the word from literal to figurative. Here gehwyilc means each, as in all the people, everybody, nobody is exempt.
 
-ðeah/þeah: þ and ð both make the th sound . Though.
+ðeah/þeah: þ and ð both make the th sound. Though.
 
 Sceal is shall but with more of an obligation and a duty: must.
 
-Wile / wyle means will: what you want or intend to do if you are willing.
+Wile/wyle means will: what you want or intend to do if you are willing.
 
-Drihtne / Dryhten means God. It also means the ruler, the lord, the boss. Here it means the big boss. One of them.
+Drihtne/Dryhten means God. It also means the ruler, the lord, the boss. Here it means the big boss. One of them.
 
-Dome/domes is a tough one. It means doom , but what does that mean? Fate. Judgement. That’s what it means most of the time. It can mean a legal judgement, like an ordinance or a sentence, but when God is involved, doesn’t matter who , it takes on a flavor of finality. How will the gods judge us? How will they decide our fate? Dom sometimes means will, what is a deity’s will? Whatever it is we must comply , each and every one of us. Bring in the partners of Wealth and Human, Need and The Grave , and you can see why: we will all go to our graves so we had better distribute our wealth as far as possible and possible too, to alleviate need and ensure our collective survival. The act of giving ensures as well a person’s honor and dignity, ideas which are also covered by the word dom . For the rune carvers the distribution of wealth is what gives us worth and makes us human. It is important. It is a matter of life and death.
+Dome/domes is a tough one. It means doom, but what does that mean? Fate. Judgement. That’s what it means most of the time. It can mean a legal judgement, like an ordinance or a sentence, but when God is involved, doesn’t matter who, it takes on a flavor of finality. How will the gods judge us? How will they decide our fate? Dom sometimes means will, what is a deity’s will? Whatever it is we must comply, each and every one of us. Bring in the partners of Wealth and Human, Need and The Grave, and you can see why: we will all go to our graves so we had better distribute our wealth as far as possible and possible too, to alleviate need and ensure our collective survival. The act of giving ensures as well a person’s honor and dignity, ideas which are also covered by the word dom. For the rune carvers the distribution of wealth is what gives us worth and makes us human. It is important. It is a matter of life and death.
 
 ### Fate
 
@@ -4970,9 +4970,9 @@ Dome/domes is a tough one. It means doom , but what does that mean? Fate. Judgem
 
 Both the Need and Human stanzas say that life is guided and determined by the gods, and they both highlight two seemingly contradictory aspects of fate, its changeability and its certainty. Need sends a warning. Listening to omens can bring help when fate turns against us, so you’d better listen up. The Human stanza warns something else: we enjoy life with each other, but only until the gods decide our ultimate fate, the permanence of death, so let’s enjoy each other now while we can.
 
-This is powerful stuff. The gods do not, however, have absolute power. In a world governed by fate ( wyrd in Old English ), it is not the case that the gods have sole and complete charge over every aspect of our lives. Even with deities such as the omnipresent ones (nosy, deeply involved in human business) belonging to the people of the Rune Poem, people have discernment. People are free to be guided or free to make mistakes, or worst of all free to be passive in the face of what fate brings. Fate in this sense is something that happens beyond our control and we must respond to it however we can. Fate lies in life events and also in the conditions in which events happen, it is a becoming or coming into being of the happenings of life: a wyrd wide web of interconnected phenomena in flux. Fate is wrapped into the changing circumstances of the world. All this is decided by the gods though they can be subjected to it as well, making fate something of deity and also greater than deity, but it is ultimately up to the people how we handle it.
+This is powerful stuff. The gods do not, however, have absolute power. In a world governed by fate (wyrd in Old English), it is not the case that the gods have sole and complete charge over every aspect of our lives. Even with deities such as the omnipresent ones (nosy, deeply involved in human business) belonging to the people of the Rune Poem, people have discernment. People are free to be guided or free to make mistakes, or worst of all free to be passive in the face of what fate brings. Fate in this sense is something that happens beyond our control and we must respond to it however we can. Fate lies in life events and also in the conditions in which events happen, it is a becoming or coming into being of the happenings of life: a wyrd wide web of interconnected phenomena in flux. Fate is wrapped into the changing circumstances of the world. All this is decided by the gods though they can be subjected to it as well, making fate something of deity and also greater than deity, but it is ultimately up to the people how we handle it.
 
-This is where free will comes in. We choose what to do with what fate brings. That is our decision alone. Some terrible fates can be avoided if we listen to omens beforehand , but our ultimate fate cannot . There is a poem in the Exeter Book called The Wanderer that describes fate as a process of change which itself creates the world: onwendeð wyrda gesceaft weoruld under heofonum (the turn of fate creates the world under the heavens). When change is itself the act of creation, The Wanderer points out that this means everything in the world is fleeting, all is transitory, it has to be, everything is temporary with one big exception, there is one bit of permanence available to us, the unavoidable opposite face of fate’s changeability: we will die. Death is the cessation of change . Fate is change and the end of change both. How will you be remembered when you reach your ultimate fate? That is up to you, so you’d better make it count.
+This is where free will comes in. We choose what to do with what fate brings. That is our decision alone. Some terrible fates can be avoided if we listen to omens beforehand, but our ultimate fate cannot. There is a poem in the Exeter Book called The Wanderer that describes fate as a process of change which itself creates the world: onwendeð wyrda gesceaft weoruld under heofonum (the turn of fate creates the world under the heavens). When change is itself the act of creation, The Wanderer points out that this means everything in the world is fleeting, all is transitory, it has to be, everything is temporary with one big exception, there is one bit of permanence available to us, the unavoidable opposite face of fate’s changeability: we will die. Death is the cessation of change. Fate is change and the end of change both. How will you be remembered when you reach your ultimate fate? That is up to you, so you’d better make it count.
 
 ### ꝥ
 
@@ -4981,9 +4981,9 @@ This is where free will comes in. We choose what to do with what fate brings. Th
 ![ꝥ](archive/thumbs/2021_11_91-A-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![ꝥ](archive/thumbs/2021_11_ꝥ-LettersforTitles-Vern-Tonkin-300x149.jpg)
 
-Your hand hurts. Your non-ergonomically correct work station is giving you all kinds of scoliosis. You are low on ink and making more is a whole thing . That stuff doesn’t grow on trees. And you are the copy machine with a pile on your desk that won’t duplicate itself. Your work requires precision. You absolutely must stick faithfully to the originals , however wordy they may be. How do you get through it? There’s hacks and workarounds for speeding up the process and you know every alt. You erase parts of words, exile the vowels. When you take it down to just one letter you’ll spend less ink and stay as accurate as you like.
+Your hand hurts. Your non-ergonomically correct work station is giving you all kinds of scoliosis. You are low on ink and making more is a whole thing. That stuff doesn’t grow on trees. And you are the copy machine with a pile on your desk that won’t duplicate itself. Your work requires precision. You absolutely must stick faithfully to the originals, however wordy they may be. How do you get through it? There’s hacks and workarounds for speeding up the process and you know every alt. You erase parts of words, exile the vowels. When you take it down to just one letter you’ll spend less ink and stay as accurate as you like.
 
-What’s that you’ve got there? Well that’s a word that shows up all the time. That’s in the Human stanza, and in Aurochs . Well it’s in the copy you’ve left us, the original to our copy burned up in a fire and it was the only one, though I suppose the burnt one was a copy of something else you once copied, but it never make its way back to the top of your to do pile. I do see your original work in it: a þ, thorn, for the TH sound and then cross the T. No vowel necessary and all in one shape: ꝥ. That. Ꝥ’s how to do ꝥ. Neatly done ꝥ, good work. Economical.
+What’s that you’ve got there? Well that’s a word that shows up all the time. That’s in the Human stanza, and in Aurochs. Well it’s in the copy you’ve left us, the original to our copy burned up in a fire and it was the only one, though I suppose the burnt one was a copy of something else you once copied, but it never make its way back to the top of your to do pile. I do see your original work in it: a þ, thorn, for the TH sound and then cross the T. No vowel necessary and all in one shape: ꝥ. That. Ꝥ’s how to do ꝥ. Neatly done ꝥ, good work. Economical.
 
 ### You Knew it Beforehand
 
@@ -5044,13 +5044,13 @@ Mortality is factuality.
 ![How to Listen Beforehand](archive/thumbs/2022_11_97-O-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![How to Listen Beforehand](archive/thumbs/2022_11_How-to-listen-beforehand-Faig-Ahmed-Liquid-lettersfortitles-vern-tonkin-300x300.jpg)
 
-You ok? You look a mess. Well, you knew this meltdown was coming. We all did. There were signals and patterns and that was a massive red flag back there, but no. Some people don’t listen. Well, don’t just stand there looking at everybody else’s better deal, you need to pay attention now before the next thing grabs you, and it will grab you. Like a fist around your heart, squeezing . So listen up. Hwat! Pay attention.
+You ok? You look a mess. Well, you knew this meltdown was coming. We all did. There were signals and patterns and that was a massive red flag back there, but no. Some people don’t listen. Well, don’t just stand there looking at everybody else’s better deal, you need to pay attention now before the next thing grabs you, and it will grab you. Like a fist around your heart, squeezing. So listen up. Hwat! Pay attention.
 
-Pay attention in advance of what? What is it that’s coming? That’s the question. The answer depends on what the meaning of the word is, is. If is means is and never has been, that is one thing. If it means there is none, that is a completely true statement. If is means now, there is nothing in any one given teeny moment of now, none, there’s no time for it, so if you ask a question in this version of the present tense, you will get nothing. You need a whole different kind of present tense for your inquiry, something like a byð , which is a very useful contraction of is was and ever shall be. There’s more going on in this kind of is, a tapestry of past and present with just a splash of future. You can’t reach the future at all from our now, but with byð you can see the ever shall be part of things very clearly, its complexity and pattern.
+Pay attention in advance of what? What is it that’s coming? That’s the question. The answer depends on what the meaning of the word is, is. If is means is and never has been, that is one thing. If it means there is none, that is a completely true statement. If is means now, there is nothing in any one given teeny moment of now, none, there’s no time for it, so if you ask a question in this version of the present tense, you will get nothing. You need a whole different kind of present tense for your inquiry, something like a byð, which is a very useful contraction of is was and ever shall be. There’s more going on in this kind of is, a tapestry of past and present with just a splash of future. You can’t reach the future at all from our now, but with byð you can see the ever shall be part of things very clearly, its complexity and pattern.
 
 What is the one thing that ever shall be? You know the answer to this riddle. It’s change.
 
-Change into what? That’s the tricky part. What to listen for. There’s so much noise you can’t hear what’s what. So what byð ? What is the current state of your is was and ever shall be? What is it doing right now that it does all the time? Pay attention, very close, sidle right up because that’s where you’ll find the anomalies. They’re there. Small perturbations to the system. The usual states of being take forking paths, find those bifurcations and pay attention. Hear it? It’s subtle, sensitively dependent on the tiniest flutter of difference, listen for it, let it attract your notice. Find the figure in the carpet, figure out what it is telling you, and once you hear it, flow with it or you’ll end up in need again, and need has no flow at all. Need clumps you into a stasis you’ll need help getting out of. Need is the hardest of fates.
+Change into what? That’s the tricky part. What to listen for. There’s so much noise you can’t hear what’s what. So what byð? What is the current state of your is was and ever shall be? What is it doing right now that it does all the time? Pay attention, very close, sidle right up because that’s where you’ll find the anomalies. They’re there. Small perturbations to the system. The usual states of being take forking paths, find those bifurcations and pay attention. Hear it? It’s subtle, sensitively dependent on the tiniest flutter of difference, listen for it, let it attract your notice. Find the figure in the carpet, figure out what it is telling you, and once you hear it, flow with it or you’ll end up in need again, and need has no flow at all. Need clumps you into a stasis you’ll need help getting out of. Need is the hardest of fates.
 
 ### Translating Nyd
 
@@ -5059,15 +5059,15 @@ Change into what? That’s the tricky part. What to listen for. There’s so muc
 ![Translating Nyd](archive/thumbs/2022_11_99-E-LettersforTitles-Vern-Tonkin-300x300.jpg)
 ![Translating Nyd](archive/thumbs/2022_11_translating-nyd-lettersfortitles-vern-tonkin-300x70.jpg)
 
-Need ‘s Rune poem partner is the Human stanza , but you can’t translate the Need stanza without keeping an eye on the Hail stanza next door. Need and Hail are so much alike. Hail comes suddenly and can destroy a crop, smash berries from bushes, fruit from trees, destroy a roof. Hail makes need. Need can come suddenly too. You know quickly when you are in need. The sky opens up and pummels you with it.
+Need‘s Rune poem partner is the Human stanza, but you can’t translate the Need stanza without keeping an eye on the Hail stanza next door. Need and Hail are so much alike. Hail comes suddenly and can destroy a crop, smash berries from bushes, fruit from trees, destroy a roof. Hail makes need. Need can come suddenly too. You know quickly when you are in need. The sky opens up and pummels you with it.
 
-Both the Need and Hail stanzas are anomalies in the Rune Poem. They stand out for being only two lines each, when the others are three or four ( five for the final one ) and they stand out for having many more stressed words per line than is customary for Old English poetry. The effect when sung is a fast staccato beat. A rapid pounding of the heart. Sounds like hail feels like need.
+Both the Need and Hail stanzas are anomalies in the Rune Poem. They stand out for being only two lines each, when the others are three or four (five for the final one) and they stand out for having many more stressed words per line than is customary for Old English poetry. The effect when sung is a fast staccato beat. A rapid pounding of the heart. Sounds like hail feels like need.
 
-Hail and need share the word weorþeþ , which appears in the last line of hail and the first of need. Weorþ means worth, like it sounds, but as weorþeþ it is a form of weorþan : to become. Hail melts into water, need melts into help. In the interconnected society of the rune diviners, your worth was measured by how much you could give . The gift of help being the most worthy, it was the most abundant. When in need, help is available, so long as you are a valued part of the community and not exiled in wretchedness , living in endless need.
+Hail and need share the word weorþeþ, which appears in the last line of hail and the first of need. Weorþ means worth, like it sounds, but as weorþeþ it is a form of weorþan: to become. Hail melts into water, need melts into help. In the interconnected society of the rune diviners, your worth was measured by how much you could give. The gift of help being the most worthy, it was the most abundant. When in need, help is available, so long as you are a valued part of the community and not exiled in wretchedness, living in endless need.
 
-Gehwæþre (nevertheless), need has its effect. Look at the word niþa . Niþa bearnum , the children of niþa . Rarely, and only in poetry n iþþa bearna means the children of men, masculine male. More toward a hero than just any dude, and this is how most people translate it. Much more commonly by far in Old English ni þa means envy and the malace born from envy. I ought to translate this phrase as the children of men, everybody else does, but I don’t because need is the child of envy and envy is a child too, just like any other bearna , born from need: one births the other and the other births the first . Envy and need are human nature’s hungriest babies. So yes, niþa bearnum in a poem means literally the children of men, but in the context of need, we cannot forget envy as the primary defintion of niþa .
+Gehwæþre (nevertheless), need has its effect. Look at the word niþa. Niþa bearnum, the children of niþa. Rarely, and only in poetry niþþa bearna means the children of men, masculine male. More toward a hero than just any dude, and this is how most people translate it. Much more commonly by far in Old English niþa means envy and the malace born from envy. I ought to translate this phrase as the children of men, everybody else does, but I don’t because need is the child of envy and envy is a child too, just like any other bearna, born from need: one births the other and the other births the first. Envy and need are human nature’s hungriest babies. So yes, niþa bearnum in a poem means literally the children of men, but in the context of need, we cannot forget envy as the primary defintion of niþa.
 
-What help is there for human need? Listen to omens. That’ll help. The word hæle most often means hale: health, well-being. Less commonly it means omens and auspices. For n iþa I choose to use the most common translation of the word, for hæle I use the less common. It’s my translation I do what I want. What do I want? To get as close as possible to the original meaning, right up close. I want to know what the Rune Poem singers were thinking. Why do I want to translate hæle as omens instead of health? This is the Rune Poem. It’s an oracle, the meanings of the runes are the omens and auspices people were listening to, so listen up. Runes were magical. They could protect and cure, loosen bonds, raise the dead, make things stronger, and tell you what the gods are thinking , tell you your fate , so you had best listen, especially to the Rune Poem. With the Rune Poem, listening to omens is the whole point. Casting lots is mentioned right away in the first stanza . Listening to omens is what the Rune Poem is for. It was the healthy thing to do.
+What help is there for human need? Listen to omens. That’ll help. The word hæle most often means hale: health, well-being. Less commonly it means omens and auspices. For niþa I choose to use the most common translation of the word, for hæle I use the less common. It’s my translation I do what I want. What do I want? To get as close as possible to the original meaning, right up close. I want to know what the Rune Poem singers were thinking. Why do I want to translate hæle as omens instead of health? This is the Rune Poem. It’s an oracle, the meanings of the runes are the omens and auspices people were listening to, so listen up. Runes were magical. They could protect and cure, loosen bonds, raise the dead, make things stronger, and tell you what the gods are thinking, tell you your fate, so you had best listen, especially to the Rune Poem. With the Rune Poem, listening to omens is the whole point. Casting lots is mentioned right away in the first stanza. Listening to omens is what the Rune Poem is for. It was the healthy thing to do.
 
 ### Translating Mann
 
@@ -5075,15 +5075,15 @@ What help is there for human need? Listen to omens. That’ll help. The word hæ
 
 ![Translating Mann](archive/thumbs/2022_11_translating-mann-letters-for-titles-vern-tonkin-300x124.jpg)
 
-In Old English, a mann is a human being of any gender, translated into modern English as anyone, they, people, a citizen, a human. Mann is not a male person here, so when you see Mann as the name of this rune, it does not mean man as in male. Most correctly it can be either Person or Human but I need to pick one: Human. Person says more about ourselves as bodies. We carry things on our person, we are a person in a room. We are also a human in a room, but we do have a collective human nature, a human understanding, and human sensibilities. Human is a word that suggests the connection we have from our shared experience of being people in the world. It’s a choice that feels right to me as an answer to the riddle of the stanza . Maybe I’m wrong. As a person I’m only human.
+In Old English, a mann is a human being of any gender, translated into modern English as anyone, they, people, a citizen, a human. Mann is not a male person here, so when you see Mann as the name of this rune, it does not mean man as in male. Most correctly it can be either Person or Human but I need to pick one: Human. Person says more about ourselves as bodies. We carry things on our person, we are a person in a room. We are also a human in a room, but we do have a collective human nature, a human understanding, and human sensibilities. Human is a word that suggests the connection we have from our shared experience of being people in the world. It’s a choice that feels right to me as an answer to the riddle of the stanza. Maybe I’m wrong. As a person I’m only human.
 
-Like the runes for Day , Home , and Joy , the Human rune is sometimes used as a grammalogue or stand in for the word human. Here it is in the Exeter Book poem The Ruin : meodoheall monig ᛗ dreama full. Many a meadhall full of human joy. Everybody is happy in a meadhall.
+Like the runes for Day, Home, and Joy, the Human rune is sometimes used as a grammalogue or stand in for the word human. Here it is in the Exeter Book poem The Ruin: meodoheall monig ᛗ dreama full. Many a meadhall full of human joy. Everybody is happy in a meadhall.
 
-I used to translate Mann as Mann capital M, just as it looks and sounds, as a way to wonder about the deity named Mann. Also named Man, Mannus, Mani, Mannan, Manannan, Manannan mac Lir. One god can come in several varieties sometimes. There’s a whole pantheon of deities in the Rune Poem ( including one that may not have existed ) as well as gods right here in this stanza, reminding everybody listening that they are the ones steering this particular ship. Is Mann one of them? Maybe, but there is nothing here that can tell us for certain.
+I used to translate Mann as Mann capital M, just as it looks and sounds, as a way to wonder about the deity named Mann. Also named Man, Mannus, Mani, Mannan, Manannan, Manannan mac Lir. One god can come in several varieties sometimes. There’s a whole pantheon of deities in the Rune Poem (including one that may not have existed) as well as gods right here in this stanza, reminding everybody listening that they are the ones steering this particular ship. Is Mann one of them? Maybe, but there is nothing here that can tell us for certain.
 
-What is certain, at least to the people of the Rune Poem, is that to them death is a form of betrayal. We see this both here and in the Grave stanza. The word siwcan , means wander or depart sometimes, and only in poetry, and rarely. I use depart as it seems to fit the sense nicely here for a mention of our dearly departed, but you can’t discount parallel meanings in Old English, and most of the time the word swic has to do with betrayal and deception. This is more clear in the Grave stanza where covenants are betrayed by death. How is death a betrayal when it’s not exactly something we can avoid? In the culture of the Old English Rune Poem, the family (extended, the tribe, the clan) was the most important relationship you had. Maintaining kinship relationships meant everybody’s survival, and exile from the family community was the most grievous punishment imaginable. Leaving voluntarily with no intention of return would have been an unthinkable betrayal. Death is a departure with no return. Have you ever been mad at somebody for dying and leaving you forever? I have. Don’t do me like that.
+What is certain, at least to the people of the Rune Poem, is that to them death is a form of betrayal. We see this both here and in the Grave stanza. The word siwcan, means wander or depart sometimes, and only in poetry, and rarely. I use depart as it seems to fit the sense nicely here for a mention of our dearly departed, but you can’t discount parallel meanings in Old English, and most of the time the word swic has to do with betrayal and deception. This is more clear in the Grave stanza where covenants are betrayed by death. How is death a betrayal when it’s not exactly something we can avoid? In the culture of the Old English Rune Poem, the family (extended, the tribe, the clan) was the most important relationship you had. Maintaining kinship relationships meant everybody’s survival, and exile from the family community was the most grievous punishment imaginable. Leaving voluntarily with no intention of return would have been an unthinkable betrayal. Death is a departure with no return. Have you ever been mad at somebody for dying and leaving you forever? I have. Don’t do me like that.
 
-The word dome, doom returns here, we can’t exile fate . Dome also appears in the first stanza and also in the context of the gods judging us. We will depart from here and face our doom, and it’s irrevocable. When? We’re not the ones who’ll decide. The gods will eorþan betæcan , betake, entrust, but also betroth, us to the earth. The gods are our matchmaker and there is only one suitor. The earth will be our consort .
+The word dome, doom returns here, we can’t exile fate. Dome also appears in the first stanza and also in the context of the gods judging us. We will depart from here and face our doom, and it’s irrevocable. When? We’re not the ones who’ll decide. The gods will eorþan betæcan, betake, entrust, but also betroth, us to the earth. The gods are our matchmaker and there is only one suitor. The earth will be our consort.
 
 ### Stanza 20: Human
 
@@ -5137,7 +5137,7 @@ Into help nevertheless, if they would listen to omens beforehand.
 ![ᛖ](archive/thumbs/2022_12_107-A-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![ᛖ](archive/thumbs/2022_12_ᛖ-LettersforTitles-Vern-Tonkin-300x300.jpg)
 
-This is the rune for Eh , war horse, letter E. In the Cotton library manuscript called Galba A.ii (burned in a different fire from the one that got the Old English Rune Poem ) the name of this rune is spelled eoh . In other manuscripts the name is spelled Eh as it is here, not with an EO at the start. There’s another rune for EO: ᛇ, spelled eoh like it’s a horse but it means a yew tree . This is the Rune Poem catching a vowel shift, from E to EO. This rune gets tangled up in ᛟ as well, Eþel, the rune for Œ. Notice that is not an Œ at the front of ᛟ’s name, it’s an E. ᛟ used to be œþel, but that sound shifted into E from what used to be mostly O sounds. Vowels are shapeshifters. The sound of this one makes us smile.
+This is the rune for Eh, war horse, letter E. In the Cotton library manuscript called Galba A.ii (burned in a different fire from the one that got the Old English Rune Poem) the name of this rune is spelled eoh. In other manuscripts the name is spelled Eh as it is here, not with an EO at the start. There’s another rune for EO: ᛇ, spelled eoh like it’s a horse but it means a yew tree. This is the Rune Poem catching a vowel shift, from E to EO. This rune gets tangled up in ᛟ as well, Eþel, the rune for Œ. Notice that is not an Œ at the front of ᛟ’s name, it’s an E. ᛟ used to be œþel, but that sound shifted into E from what used to be mostly O sounds. Vowels are shapeshifters. The sound of this one makes us smile.
 
 Carve a horse’s body, side view, two parallel lines for legs, belly hanging down in between but also up high: this is a tall war horse. Leave off the head. Cut off its head and bury it with you.
 
@@ -5158,7 +5158,7 @@ Carve a line like an icicle, let it drip down.
 
 ![Rune Casting: Eh](archive/thumbs/2022_12_Rune-Casting-Eh-Letters-for-Titles-Vern-Tonkin-copy-300x300.jpg)
 
-Saddle up, you’ve got a battle on your hands, and no wonder, you are feeling protective and as well you should. You’ve got plenty to protect. You are well equipped for this one, so be proud of that, and you can talk a good game too. Well, talk it up. Gather your people and exchange words about it. Don’t just chat at everybody though, listen and pay attention .
+Saddle up, you’ve got a battle on your hands, and no wonder, you are feeling protective and as well you should. You’ve got plenty to protect. You are well equipped for this one, so be proud of that, and you can talk a good game too. Well, talk it up. Gather your people and exchange words about it. Don’t just chat at everybody though, listen and pay attention.
 
 ### Rune Casting: Is
 
@@ -5190,7 +5190,7 @@ Dearest Father in Law,
 
 How are you, I am fine. Julia sends her love. I am still in Germania, moving in the direction of Gaul, separated from this place by rivers, mountains, and mutual dread. This is a land rude in its surface, rigorous in its climate, cheerless to every beholder and cultivator.
 
-Today I observed the practice of conjuring, which one cannot avoid as no people are more addicted to divination by omens and lots. Of their methods, some are familiar and civilized for instance auguring from the sounds and flights of birds , others prove most unnatural, such as deriving admonitions and presages from horses. These are the omens they deem most important:
+Today I observed the practice of conjuring, which one cannot avoid as no people are more addicted to divination by omens and lots. Of their methods, some are familiar and civilized for instance auguring from the sounds and flights of birds, others prove most unnatural, such as deriving admonitions and presages from horses. These are the omens they deem most important:
 
 When a horse neighs, the people foresee a meeting or gathering, of which they sit to many, most often fully armed. If the neigh or whinny is seen in a negative light, perhaps a period of loneliness or isolation will be at hand.
 
@@ -5198,7 +5198,7 @@ A horse nickering means pay attention, or perhaps a redirection of attention. Co
 
 The snorting of a horse means imminent danger. Something is on the wind, something terrible, coming this way. Run. A snort accompanied by a squeal says the danger will be unavoidable and swift.
 
-However, if the snort is a blowing of air without vibration, one may relax entirely. The enquirer shall be visited by friends or relations, though with some of our relations dear father in law, caution is yet advised . Tell me if I err.
+However, if the snort is a blowing of air without vibration, one may relax entirely. The enquirer shall be visited by friends or relations, though with some of our relations dear father in law, caution is yet advised. Tell me if I err.
 
 A chomping or grinding noise means the horse is eating. Let the animal eat.
 
@@ -5213,13 +5213,13 @@ Cornelius
 ![I is for Iceland Spar](archive/thumbs/2022_12_117-U-Letters-for-Titles-Vern-Tonkin-286x300.jpg)
 ![I is for Iceland Spar](archive/thumbs/2022_12_I-is-for-Iceland-spar-lettersfortitles-vern-tonkin-1-300x161.jpg)
 
-It’s one thing to get from place to place by boat if you can keep an eye on the coastline the entire time. But if you want to cross the open sea without GPS, you will need some sort of instrument for navigation. Magnetic compasses are nice, but mariners at the time of the Rune Poem did not have them. With a watch they could have pointed the little hand at the sun and halfway between it and the 12 will be south. They had no watches. They had sticks and the sun, with that they could find direction easily enough, the shortest shadow of the day points south, and the shadow will move in an easterly direction as the sun tracks west. This works beautifully for navigating on land, land does not pitch and roll under your feet, sending shadows in every direction. It’s a different thing on an unsteady ship , a sea horse that has lost its bridle.
+It’s one thing to get from place to place by boat if you can keep an eye on the coastline the entire time. But if you want to cross the open sea without GPS, you will need some sort of instrument for navigation. Magnetic compasses are nice, but mariners at the time of the Rune Poem did not have them. With a watch they could have pointed the little hand at the sun and halfway between it and the 12 will be south. They had no watches. They had sticks and the sun, with that they could find direction easily enough, the shortest shadow of the day points south, and the shadow will move in an easterly direction as the sun tracks west. This works beautifully for navigating on land, land does not pitch and roll under your feet, sending shadows in every direction. It’s a different thing on an unsteady ship, a sea horse that has lost its bridle.
 
-At night, the stars are dependable and may be reliably followed. Orion rises in the east and sets in the west, and the pole star stays put. Easy. Problem solved, you can find your way at night. Except when it is cloudy and you can’t see the stars. It’s an obstacle, weather. Now what? Hwat ?
+At night, the stars are dependable and may be reliably followed. Orion rises in the east and sets in the west, and the pole star stays put. Easy. Problem solved, you can find your way at night. Except when it is cloudy and you can’t see the stars. It’s an obstacle, weather. Now what? Hwat?
 
 A stone. A sunstone, that’s what, Iceland spar.
 
-Iceland spar is a form of calcite, a gem clear as glass , rhombus shaped, that can depolarize sunlight. Look at something through it and it doubles: the light passing through it splits in two. Tilt the stone this way and that, rotate it, and you can see a difference in contrast between the two images, one darker one lighter, one image will appear to move past the other. When the images are side by side and at the same degree of contrast, the stone is aligned with the sun. This works just as well, perhaps better, when the sun has slipped below the horizon but still sends enough light through the clouds to see by. A scipsteora (ship steerer) can navigate by the scipsteorra (pole star) and Orion on a cloudless night and with a nice clear piece of Iceland spar, by the sun in the day no matter how bad the weather .
+Iceland spar is a form of calcite, a gem clear as glass, rhombus shaped, that can depolarize sunlight. Look at something through it and it doubles: the light passing through it splits in two. Tilt the stone this way and that, rotate it, and you can see a difference in contrast between the two images, one darker one lighter, one image will appear to move past the other. When the images are side by side and at the same degree of contrast, the stone is aligned with the sun. This works just as well, perhaps better, when the sun has slipped below the horizon but still sends enough light through the clouds to see by. A scipsteora (ship steerer) can navigate by the scipsteorra (pole star) and Orion on a cloudless night and with a nice clear piece of Iceland spar, by the sun in the day no matter how bad the weather.
 
 ### Friþ
 
@@ -5238,11 +5238,11 @@ You want to stab somebody with an icicle. Good. It’s best when the murder weap
 
 Acquisition of Murder Weapon
 
-If you are harvesting from the wild, look for something sharp , sized for the hand. Cultivating your own icicle is preferable for the amount of control you have over the finished product. In this case find a steep roof and dribble water down a corner daily. Once ready, your icicle can and should be carved and shaped for a good penetrative point, but not one so slender it will break. There’s a middle ground here so you may wish to preform a few practice murders before the real one. Trial and error.
+If you are harvesting from the wild, look for something sharp, sized for the hand. Cultivating your own icicle is preferable for the amount of control you have over the finished product. In this case find a steep roof and dribble water down a corner daily. Once ready, your icicle can and should be carved and shaped for a good penetrative point, but not one so slender it will break. There’s a middle ground here so you may wish to preform a few practice murders before the real one. Trial and error.
 
 Placement of Murder Weapon
 
-Is the crime scene cold? If it is, sky’s the limit. The best place to hide something is plain sight, right in everybody’s face. Try blending your weapon into a fancy ice sculpture . Or you could just carry it with you, simple as that. If you are in a situation where it is too warm for your weapon, you’ll have to source a freezer or a portable cooler you can pack with dry ice. Bonus: you can kill with dry ice fumes and that also disappears.
+Is the crime scene cold? If it is, sky’s the limit. The best place to hide something is plain sight, right in everybody’s face. Try blending your weapon into a fancy ice sculpture. Or you could just carry it with you, simple as that. If you are in a situation where it is too warm for your weapon, you’ll have to source a freezer or a portable cooler you can pack with dry ice. Bonus: you can kill with dry ice fumes and that also disappears.
 
 Use of Murder Weapon
 
@@ -5254,7 +5254,7 @@ Go for the throat. Anywhere on the neck is deadly. Bonus, even when a victim is 
 
 Disappearance of Murder Weapon
 
-Pay attention to the weather. If it is too cold outside your murder weapon will melt slowly or not at all. Run the numbers: H2O (s)H2O (l) when ∆H = 6.01 kJ/mol, remembering that Q = mL f = (1.0 kg)(334 kJ/kg) = 334 kJ, but you do the math. It’s your murder, I’ll have nothing to do with it. I’m peacing out.
+Pay attention to the weather. If it is too cold outside your murder weapon will melt slowly or not at all. Run the numbers: H2O (s)H2O (l) when ∆H = 6.01 kJ/mol, remembering that Q = mLf = (1.0 kg)(334 kJ/kg) = 334 kJ, but you do the math. It’s your murder, I’ll have nothing to do with it. I’m peacing out.
 
 ### War and Peace
 
@@ -5265,9 +5265,9 @@ Pay attention to the weather. If it is too cold outside your murder weapon will 
 
 During the time of the Rune Poem, a properly kitted warrior owned a decent war horse to take to battle. These were bigger horses than the usual so they could handle a person wearing heavy armor, and they could even bite and fight with their hooves. With the right war horse, you can be unstoppable. Almost. What can stop a war horse? Ice. Ice is brutal for horse hooves. It can ball up under their feet until they are teetering on their own personal ice cubes. Have you ever fallen on ice? That’s not a soft landing. A horse can easily slip and break a leg on the frozen dips and grooves in a road, and if they fall right through a frozen lake or river good luck getting them back out. Have fun with that. A war horse, large and powerful, formidable in battle, is handily defeated by ice.
 
-The War Horse and Ice stanzas have something to say about seasonal life. Ice is for winter. What time is for war? Not winter. War requires provisions: you need a lot of stuff for a battle. In particular everybody, horses too, must eat. If you are using a war horse for your battle, it is preferable to get to the place riding a smaller, more comfortable horse you can tire out by the journey, keeping your war horse fresh for the fight. That’s at least two horses to feed, plus you have a þegn with you to deal with your gear and prep , and that person is riding a horse too, maybe leading a pack horse and that one’s hungry as well. Spring to fall, there’s plenty for the animals to graze on and your þegns can forage for your own food too. You won’t have to bring much fodder for the horses. But in winter? What’s the horse going to eat? The big horses want to eat about 20 pounds of plant material per day, who’s going to carry that? Where is this war? Is it far? You can’t go far. Best to stay put and ride out the winter in peace, save warfare for warmer weather because ice has something to say about that. Ice freezes warfare out. Ice is a pacifist .
+The War Horse and Ice stanzas have something to say about seasonal life. Ice is for winter. What time is for war? Not winter. War requires provisions: you need a lot of stuff for a battle. In particular everybody, horses too, must eat. If you are using a war horse for your battle, it is preferable to get to the place riding a smaller, more comfortable horse you can tire out by the journey, keeping your war horse fresh for the fight. That’s at least two horses to feed, plus you have a þegn with you to deal with your gear and prep, and that person is riding a horse too, maybe leading a pack horse and that one’s hungry as well. Spring to fall, there’s plenty for the animals to graze on and your þegns can forage for your own food too. You won’t have to bring much fodder for the horses. But in winter? What’s the horse going to eat? The big horses want to eat about 20 pounds of plant material per day, who’s going to carry that? Where is this war? Is it far? You can’t go far. Best to stay put and ride out the winter in peace, save warfare for warmer weather because ice has something to say about that. Ice freezes warfare out. Ice is a pacifist.
 
-There’s one more connection between the War Horse and Ice stanzas, though it is uncertain because of its late date. In the thirteenth century Snorri Sturluson mentions Odin’s eight legged horse Sleipnir multiple times in his Prose Eddas. This is the earliest mention of Sleipnir by name. Sleipnir means the slider, slipper or the slippery one in Old Norse. Scandinavia is an icy place, perhaps Odin’s horse handled frozen roads quite well? He could slip right across them maybe? Snorri’s Eddas are the source of most of what we know about Norse mythology, and they were compiled into stories from earlier folk traditions. How much earlier? Six Seven hundred years earlier? It would have to be for the slippery nature of ice to evoke Odin’s horse in the Rune Poem. This is a massive stretch of time, but it is possible. There are depictions dating back to the 8th century of Sleipnir on the Tjangvide image stone and on the Ardre image stone, found on Gotland, an island east of Southern Sweden and a place with a connection to the Old English Rune Poem . These are monument stones, one carved in memory of a dead brother which includes the runes in alphabetical order, the other placed as a memorial to a dead father and signed with the name of the rune carver . Got to get that authorial credit. The 8th century is a great deal closer to the time of the Rune Poem than the Prose Eddas, so perhaps we are meant to think of Odin’s horse with this pair of runes? A big war horse called Slider would have to be good on ice. Unstoppable.
+There’s one more connection between the War Horse and Ice stanzas, though it is uncertain because of its late date. In the thirteenth century Snorri Sturluson mentions Odin’s eight legged horse Sleipnir multiple times in his Prose Eddas. This is the earliest mention of Sleipnir by name. Sleipnir means the slider, slipper or the slippery one in Old Norse. Scandinavia is an icy place, perhaps Odin’s horse handled frozen roads quite well? He could slip right across them maybe? Snorri’s Eddas are the source of most of what we know about Norse mythology, and they were compiled into stories from earlier folk traditions. How much earlier? Six Seven hundred years earlier? It would have to be for the slippery nature of ice to evoke Odin’s horse in the Rune Poem. This is a massive stretch of time, but it is possible. There are depictions dating back to the 8th century of Sleipnir on the Tjangvide image stone and on the Ardre image stone, found on Gotland, an island east of Southern Sweden and a place with a connection to the Old English Rune Poem. These are monument stones, one carved in memory of a dead brother which includes the runes in alphabetical order, the other placed as a memorial to a dead father and signed with the name of the rune carver. Got to get that authorial credit. The 8th century is a great deal closer to the time of the Rune Poem than the Prose Eddas, so perhaps we are meant to think of Odin’s horse with this pair of runes? A big war horse called Slider would have to be good on ice. Unstoppable.
 
 ### Hildegicel
 
@@ -5276,7 +5276,7 @@ There’s one more connection between the War Horse and Ice stanzas, though it i
 ![Hildegicel](archive/thumbs/2022_12_125-R-Letters-for-Titles-Vern-Tonkin-231x300.jpg)
 ![Hildegicel](archive/thumbs/2022_12_Hildegicel-letters-fortitles-vern-tonkin-300x300.jpg)
 
-H: At the start of an Old English word, H is almost silent, an H on its way out . Hha. A burst of breath in cold air, watch it freeze.
+H: At the start of an Old English word, H is almost silent, an H on its way out. Hha. A burst of breath in cold air, watch it freeze.
 
 I: Short vowel. Hint and hinge and hinder.
 
@@ -5290,15 +5290,15 @@ G: In front of a short I, palatalized (fronted, front of the mouth). Sounds like
 
 I: Short.
 
-C: Between a short I and a short E, a K sound . Ick. A long I here would make it itch, but what’s going on here is way past itchy. It’s gross.
+C: Between a short I and a short E, a K sound. Ick. A long I here would make it itch, but what’s going on here is way past itchy. It’s gross.
 
-E: Short. The E in Kenning .
+E: Short. The E in Kenning.
 
 L: Hildegicel. Hild means war, gicel means icicle. A warcicle. A word found only in Beowulf.
 
-King Hroðgar, descendent of Scyld Scylding, deceased , has a massive problem. A moody wight called Grendel is killing people in Hroðgar’s hall. Beowulf, great hero, total legend, hears about this and decides to help out. He defeats Grendel by ripping off his arm, which is then displayed as a trophy. I told you this is gross. Picture it, a big nasty monster arm on the wall, dripping blood. What does that smell like? Anyway, this is a culture that understood a good blood feud. If you come for one of mine, I’m coming for one of yours. It’s that simple.
+King Hroðgar, descendent of Scyld Scylding, deceased, has a massive problem. A moody wight called Grendel is killing people in Hroðgar’s hall. Beowulf, great hero, total legend, hears about this and decides to help out. He defeats Grendel by ripping off his arm, which is then displayed as a trophy. I told you this is gross. Picture it, a big nasty monster arm on the wall, dripping blood. What does that smell like? Anyway, this is a culture that understood a good blood feud. If you come for one of mine, I’m coming for one of yours. It’s that simple.
 
-Naturally, as payment for her loss, Grendel’s mother kills one of the best, richest, most valuable warriors Hroðgar’s got. This cannot be overlooked. Now it’s time to get momma. Except, if you thought Grendel was bad, and he was very much that, his mother is exponentially worse. We don’t know exactly what she is or even her name. Literally she’s an ides aglæcwif , virgin misery woman. You can substitute trouble, distress, oppression, or grief for misery as needed. She’s a Brimwylf . A sea wolf. Beowulf is a bee wolf, maybe that’s a kenning for a bear. What is sea wolf a kenning for? What has lathan fingrum (loathsome fingers) with an atolan clommum (horrid grip)? She’s a grundwyrgen with that grip , a ground strangler, a strangler at the bottom of the sea. The word worry comes from wyrgen and you know what worry feels like. You’ve felt that squeeze around your heart and your throat before.
+Naturally, as payment for her loss, Grendel’s mother kills one of the best, richest, most valuable warriors Hroðgar’s got. This cannot be overlooked. Now it’s time to get momma. Except, if you thought Grendel was bad, and he was very much that, his mother is exponentially worse. We don’t know exactly what she is or even her name. Literally she’s an ides aglæcwif, virgin misery woman. You can substitute trouble, distress, oppression, or grief for misery as needed. She’s a Brimwylf. A sea wolf. Beowulf is a bee wolf, maybe that’s a kenning for a bear. What is sea wolf a kenning for? What has lathan fingrum (loathsome fingers) with an atolan clommum (horrid grip)? She’s a grundwyrgen with that grip, a ground strangler, a strangler at the bottom of the sea. The word worry comes from wyrgen and you know what worry feels like. You’ve felt that squeeze around your heart and your throat before.
 
 Beowulf and friends track this water monster to the edge of the sea, where everybody waits on the shore while Beowulf in full chain mail and heavy everything dives in after her. It’s a good thing he’s armored too, as he gets brutally attacked from all sides on the way down. At the bottom is an air filled cavern with a fire in it. She’s in there and snatches him in with her. Fight fight fight, but nobody is landing any meaningful blows thanks to Beowulf’s chain mail and the virgin misery woman’s impenetrable hide, no doubt acquired by having to raise a moody wight like Grendel. You’ve got to be tough for that shit. And Beowulf has a fantastic sword, it’s not the sword’s fault, Beowulf’s kit is spot on. He sees another sword on the wall. It is bejewled and wavy patterned, all the best swords are wavy patterned, and it was made for a giant long ago so it’s going to be good, but also massive and difficult to use. Unless you are Beowulf. This is Beowulf. He can handle a giant’s sword which does the trick and slices off the bottom strangler’s head just like that. One blow.
 
@@ -5320,7 +5320,7 @@ The war sword diminished; that was wondersome,
 
 That it all melted most like ice.
 
-Battle sweat is blood. Grendel’s blood is so hot and or evil, the ancient sword melts like an icicle on contact. Beowulf swims back up to the surface to the relief of the prematurely grieving people on shore. He is still in full heavy chain mail so the man (bear? man bear?) must be a strong swimmer. He’s brought two things with him: Grendel’s head, and the sword hilt. Grendel’s severed head is so heavy it takes four people to stick it onto a spear for best display whilst carrying it home and walking it into the mead hall like a bunch of badasses. The sword hilt is an even bigger prize. It is bejeweled and carved (correctly it is noted) with runes naming who the sword was made for and naming the rune carver . Got to get that authorial credit . The sword blade is a total loss though, it was a warcicle melted by blood like it was ice.
+Battle sweat is blood. Grendel’s blood is so hot and or evil, the ancient sword melts like an icicle on contact. Beowulf swims back up to the surface to the relief of the prematurely grieving people on shore. He is still in full heavy chain mail so the man (bear? man bear?) must be a strong swimmer. He’s brought two things with him: Grendel’s head, and the sword hilt. Grendel’s severed head is so heavy it takes four people to stick it onto a spear for best display whilst carrying it home and walking it into the mead hall like a bunch of badasses. The sword hilt is an even bigger prize. It is bejeweled and carved (correctly it is noted) with runes naming who the sword was made for and naming the rune carver. Got to get that authorial credit. The sword blade is a total loss though, it was a warcicle melted by blood like it was ice.
 
 ### X≠Y≠Z: Y
 
@@ -5328,11 +5328,11 @@ Battle sweat is blood. Grendel’s blood is so hot and or evil, the ancient swor
 
 ![X≠Y≠Z: Y](archive/thumbs/2022_12_X≠Y≠Z-Y-LettersforTitlesVernTonkin-300x300.jpg)
 
-Life is about to change for Y. The herd has been dwindling, with Z already exiled in wretchedness . X is on edge, chin elevated, ears pinned back, and has decided that Y’s days in the family are numbered . Y is about to be banished. Y makes an attempt at self protection by avoiding the subject and by holding up a mirror to others which proves rather a good surface to hide behind, but it is not going to help. X lunges forward, mouth open and ears flattened. X spins around and lands a series of rapid kicks. Y is not wanted. X has iced Y out.
+Life is about to change for Y. The herd has been dwindling, with Z already exiled in wretchedness. X is on edge, chin elevated, ears pinned back, and has decided that Y’s days in the family are numbered. Y is about to be banished. Y makes an attempt at self protection by avoiding the subject and by holding up a mirror to others which proves rather a good surface to hide behind, but it is not going to help. X lunges forward, mouth open and ears flattened. X spins around and lands a series of rapid kicks. Y is not wanted. X has iced Y out.
 
-As a matter of simple instinct, Y would rather run than fight. Y runs a short distance then stops to look back and see if X is a threat worth fleeing from. Watching forlornly from a safe distance, leaderless, Y has no other source of direction and few inner resources. Life for Y in exile is going to be tough .
+As a matter of simple instinct, Y would rather run than fight. Y runs a short distance then stops to look back and see if X is a threat worth fleeing from. Watching forlornly from a safe distance, leaderless, Y has no other source of direction and few inner resources. Life for Y in exile is going to be tough.
 
-Y’s banishment releases all remaining pressure in the herd. X sighs and relaxes, head dropped. With Y now gone X may experience the greatest reward, which is simply to be left in peace .
+Y’s banishment releases all remaining pressure in the herd. X sighs and relaxes, head dropped. With Y now gone X may experience the greatest reward, which is simply to be left in peace.
 
 ### E is for ⁊
 
@@ -5343,17 +5343,17 @@ Y’s banishment releases all remaining pressure in the herd. X sighs and relaxe
 
 ⁊ is shorthand for the word et which means “and” in Latin. It shows up in place of “and” seven times in the only copy we have of the Rune Poem. The placements seem random, for example the Gift stanza contains “and” written out twice and ⁊ twice:
 
-G umena byþ gleng and herenys,
+Gumena byþ gleng and herenys,
 
 wraþu ⁊ wyrþscype, ⁊ wræcna gehwam
 
 ar and ætwist ðe byþ oþra leas.
 
-The copy of the Rune Poem we have was copied from an older version which burned in a fire and which may have itself been a copy. It’s copies all the way down, so we have no idea what sorts of abbreviations were used in early versions or how frequently. We do know the universal truth that scribal hands get tired. Fingers cramp. Ink runs out and it’s a whole thing to make more . Writing takes time, so corner cutting is essential .
+The copy of the Rune Poem we have was copied from an older version which burned in a fire and which may have itself been a copy. It’s copies all the way down, so we have no idea what sorts of abbreviations were used in early versions or how frequently. We do know the universal truth that scribal hands get tired. Fingers cramp. Ink runs out and it’s a whole thing to make more. Writing takes time, so corner cutting is essential.
 
-The ⁊ is called a Tironian et , after Tiro the scribe , corner cutter, valued personal assistant , slave, trusted collaborator, alphabet inventor , who grew up in Cicero’s household, became beloved like family, and made himself particularly indispensable for his ability to take perfect dictation in shorthand while Cicero ate dinner. Multitasking is to be prized. Prior to Tiro there was no system of shorthand in Latin capable of writing whole sentences, and Cicero was a talker. Because of Tiro’s shorthand, Cicero was able to be a prolific writer too. He produced written works in far greater quantities than any other writer in Latin. By far. And he wrote masses of letters .
+The ⁊ is called a Tironian et, after Tiro the scribe, corner cutter, valued personal assistant, slave, trusted collaborator, alphabet inventor, who grew up in Cicero’s household, became beloved like family, and made himself particularly indispensable for his ability to take perfect dictation in shorthand while Cicero ate dinner. Multitasking is to be prized. Prior to Tiro there was no system of shorthand in Latin capable of writing whole sentences, and Cicero was a talker. Because of Tiro’s shorthand, Cicero was able to be a prolific writer too. He produced written works in far greater quantities than any other writer in Latin. By far. And he wrote masses of letters.
 
-Trionian shorthand spread, expanded, contracted, and stuck to the word “and” for centuries. With a word like “and,” the indispensable personal assistant of written language, whatever you use to represent it, lasts. ⁊ took particular hold in Britain where it survived for more than a thousand years as one of those things left behind by the Roman occupation . Ireland loved the ⁊ even more and still use it to this day. The rest of us use a ligature (conflation of symbols) of E and T, which also stands for et : &.
+Trionian shorthand spread, expanded, contracted, and stuck to the word “and” for centuries. With a word like “and,” the indispensable personal assistant of written language, whatever you use to represent it, lasts. ⁊ took particular hold in Britain where it survived for more than a thousand years as one of those things left behind by the Roman occupation. Ireland loved the ⁊ even more and still use it to this day. The rest of us use a ligature (conflation of symbols) of E and T, which also stands for et: &.
 
 Write an E. Now cross it.
 
@@ -5365,11 +5365,11 @@ Write an E. Now cross it.
 
 How to change the world? Invent something, something important. Look at the stirrup: a metal rounded triangle you can attach to a saddle as a place to put your feet. Very simple, basic, but it is one of those culturally transformative technologies like the wheel and the printing press that changed everything about how people live and think and believe.
 
-Why? You can ride a horse without a stirrup, yes, but you must work to maintain your balance or one good jostle and you will fall. You’ll want a bit of leverage to hold yourself on, especially when your intentions are warlike . Have you ever tried to shoot an arrow or drive a spear into somebody from horseback? You’ll need something stabilizing to push against or you will go flying. The right saddle can be everything, and innovations were made in this direction to solve the same problem. But with a stirrup, you and the force of your moving horse can deliver a massive blow to whatever target you want. The stirrup makes it possible for you to brace for a much bigger impact than ever before: you stay put and your enemy takes a massive hit.
+Why? You can ride a horse without a stirrup, yes, but you must work to maintain your balance or one good jostle and you will fall. You’ll want a bit of leverage to hold yourself on, especially when your intentions are warlike. Have you ever tried to shoot an arrow or drive a spear into somebody from horseback? You’ll need something stabilizing to push against or you will go flying. The right saddle can be everything, and innovations were made in this direction to solve the same problem. But with a stirrup, you and the force of your moving horse can deliver a massive blow to whatever target you want. The stirrup makes it possible for you to brace for a much bigger impact than ever before: you stay put and your enemy takes a massive hit.
 
 The stirrup came to the people of the Rune Poem from its beginnings in China where the oldest one ever found was dug up from a grave dating to the early 4th century. The nomadic horse people of central Asia used the stirrup to conquer their way west, their method was arrows shot while standing in the stirrups on fast horses using a very effective hit and run and hit again strategy. Europe got their hands on the stirrup via trade with the Byzantine empire. It went to Scandinavia first, and as we know, Scandinavia went to Britain.
 
-There is a controversial idea that the stirrup created European feudalism. Using a nice stabilizing stirrup meant a person could fight with a heavier weapon in battle. Because the enemy has stirrups too, you will also need heavier armor to protect yourself from more powerful blows. This is a lot of extra weight for your horse. Poor thing won’t be able to handle it. So you’ll need to breed bigger horses for war. Expensive ones too, they cost as much as 12 cows, and cows themselves aren’t cheap. Cows are money . You’ll have to keep your smaller horse, you can’t sell it. While the big horses are brutes in battle, they are deeply uncomfortable to ride for long distances . These are extra horses not replacements, so you’ll need more feed. Much more. The big ones eat about twenty pounds of fodder per day, more than you can grow yourself, not with most of your acreage going to feeding your family and the animals you already have. You’ll need more land. You’ll need more stabling too, and people to take care of the horses. This takes cash. There are some real costs here, plus you’ll need some help. Who wants to help you? The people who can’t afford the big horses and who are getting raided by enemy warriors with their own stirrups and big weapons. That’s who. You need their help and they need yours.
+There is a controversial idea that the stirrup created European feudalism. Using a nice stabilizing stirrup meant a person could fight with a heavier weapon in battle. Because the enemy has stirrups too, you will also need heavier armor to protect yourself from more powerful blows. This is a lot of extra weight for your horse. Poor thing won’t be able to handle it. So you’ll need to breed bigger horses for war. Expensive ones too, they cost as much as 12 cows, and cows themselves aren’t cheap. Cows are money. You’ll have to keep your smaller horse, you can’t sell it. While the big horses are brutes in battle, they are deeply uncomfortable to ride for long distances. These are extra horses not replacements, so you’ll need more feed. Much more. The big ones eat about twenty pounds of fodder per day, more than you can grow yourself, not with most of your acreage going to feeding your family and the animals you already have. You’ll need more land. You’ll need more stabling too, and people to take care of the horses. This takes cash. There are some real costs here, plus you’ll need some help. Who wants to help you? The people who can’t afford the big horses and who are getting raided by enemy warriors with their own stirrups and big weapons. That’s who. You need their help and they need yours.
 
 Maybe the stirrup did get the snowball rolling for a power structure in which the wealthy had to hold greater tracts of land, requiring more of the population to work it for them in exchange for a share of the produce and necessary military protection. Is the stirrup the only reason why Europe developed feudalism? Perhaps feudalism was coming regardless. It seems clear, at least among the Baltic and North Sea coastal peoples, how the reciprocal trade of goods and services already occurring amongst them could adapt quite naturally to include the higher costs of maintaining a shock combat force for protection. If that means the rich get richer, well, that’s what always happens.
 
@@ -5380,23 +5380,23 @@ Maybe the stirrup did get the snowball rolling for a power structure in which th
 ![Translating Eh](archive/thumbs/2022_12_133-N-Letters-forTitles-Vern-Tonkin-300x300.jpg)
 ![Translating Eh](archive/thumbs/2022_12_translating-eh-lettersfortitles-vern-tonkin-300x101.jpg)
 
-There’s lots of words for horse in Old English, hors , for one. But there’s wicg , hengest , friþhengest , onrid , radhors , mearh , sceam , steda , stott , blanca , gelew , all words that mean specific types of horses by the style, sex, physical appearance, color. This was a horse culture. Horses were a very big deal. Why? They made life easier. Having a horse changes everything. They were useful for pulling stuff, not for ploughing though, they would use oxen for that , but they would use horses to bring goods to market and to haul just about anything anywhere, including themselves: in carts and on horseback. During their prime, horses were particularly indispensable for sending messages long distances . Speedy communication has always been desirable. Finally, literally, chop marks in their bones mean that sometimes horses were eaten, particularly after they’d reach five years of age. Even more finally, horses were sometimes sacrificed in funeral rites. Occasionally a whole horse would be included in a funeral pyre, particularly for women, or they would show up in burials, usually for high status males, but mostly in these cases it was just the horse’s head. Makes perfect sense. Otherwise think of the size of the hole you’d have to dig .
+There’s lots of words for horse in Old English, hors, for one. But there’s wicg, hengest, friþhengest, onrid, radhors, mearh, sceam, steda, stott, blanca, gelew, all words that mean specific types of horses by the style, sex, physical appearance, color. This was a horse culture. Horses were a very big deal. Why? They made life easier. Having a horse changes everything. They were useful for pulling stuff, not for ploughing though, they would use oxen for that, but they would use horses to bring goods to market and to haul just about anything anywhere, including themselves: in carts and on horseback. During their prime, horses were particularly indispensable for sending messages long distances. Speedy communication has always been desirable. Finally, literally, chop marks in their bones mean that sometimes horses were eaten, particularly after they’d reach five years of age. Even more finally, horses were sometimes sacrificed in funeral rites. Occasionally a whole horse would be included in a funeral pyre, particularly for women, or they would show up in burials, usually for high status males, but mostly in these cases it was just the horse’s head. Makes perfect sense. Otherwise think of the size of the hole you’d have to dig.
 
-The horse in the Eh stanza does not pull a cart or speed a rider (a lighter weight female rider?) with news from place to place. Look in the Ride stanza for that one. The word for this horse is eh . What type of horse is this stanza talking about? Let’s solve the riddle:
+The horse in the Eh stanza does not pull a cart or speed a rider (a lighter weight female rider?) with news from place to place. Look in the Ride stanza for that one. The word for this horse is eh. What type of horse is this stanza talking about? Let’s solve the riddle:
 
-Clue 1: This horse is a prince’s delight for the eorlum . What delights a prince? You know what. It’s always the expensive stuff, the best of the best. The eorlas are not princes, but they can afford stuff that might delight one. These eorlas show up other times in the rune poem too: they are the nobles with sweet looking bows for making them look good on horses , they are waited on by þegns , they are the community leaders who take hope from what Odin is telling them , and they are everybody going to the grave in the end.
+Clue 1: This horse is a prince’s delight for the eorlum. What delights a prince? You know what. It’s always the expensive stuff, the best of the best. The eorlas are not princes, but they can afford stuff that might delight one. These eorlas show up other times in the rune poem too: they are the nobles with sweet looking bows for making them look good on horses, they are waited on by þegns, they are the community leaders who take hope from what Odin is telling them, and they are everybody going to the grave in the end.
 
-Clue 2: Hofum . Dative plural. To or for hooves. Something about the hooves on this hors makes it feel wlanc . Proud. This one is going to rear up a lot and show us its hooves. Be careful, this hors will kick, those hooves are weapons of war. And look at that, iron shoes. Bold. That’ll hurt. That iron on its feet is nice for the horse too, protects its hooves from splitting and such, makes it possible to move faster and carry a heavy weight.
+Clue 2: Hofum. Dative plural. To or for hooves. Something about the hooves on this hors makes it feel wlanc. Proud. This one is going to rear up a lot and show us its hooves. Be careful, this hors will kick, those hooves are weapons of war. And look at that, iron shoes. Bold. That’ll hurt. That iron on its feet is nice for the horse too, protects its hooves from splitting and such, makes it possible to move faster and carry a heavy weight.
 
-Clue 3: What’s ymbe (around) the horse? The hæleþ . Hæleþ means many things, it means hero when it is used to describe Ing , and it means both health and omens in the Need stanza. This horse is surrounded by heroes, healthy people, strong warriors in heavy armor with big weapons, heading to battle and seeking an omen of their fate beforehand.
+Clue 3: What’s ymbe (around) the horse? The hæleþ. Hæleþ means many things, it means hero when it is used to describe Ing, and it means both health and omens in the Need stanza. This horse is surrounded by heroes, healthy people, strong warriors in heavy armor with big weapons, heading to battle and seeking an omen of their fate beforehand.
 
 Clue 4: The eorlum are welege on wicgum or wealy on widges, obsolete words that lasted in their Old English forms well into the sixteenth century. A widge is a horse, particularly one capable of bearing a heaving burden. People are wealy when they are wealthy, happy, in good health, self indulgent, and enjoy luxuriating in prosperity.
 
-Clue 5: What are these rich heroes doing on their horses? Wrixlaþ means barter, exchange, trade. Spraec e is speech. The are talking, exchanging words. They do like to talk a big game. They might be talking over their war plans. Or maybe the horses are the ones doing the talking.
+Clue 5: What are these rich heroes doing on their horses? Wrixlaþ means barter, exchange, trade. Spraece is speech. The are talking, exchanging words. They do like to talk a big game. They might be talking over their war plans. Or maybe the horses are the ones doing the talking.
 
-Clue 6: Biþ . The start of most of the stanzas. This biþ appearing at the start of the last line says there’s another part to this riddle, like in the Oak stanza . This horse is one thing to the eorlum, and a whole other thing for the unstyllum. There’s more than one type of person in this stanza. Who are the the unstyllum ? What is styll ? Still. Styll also means quiet, calm, and secret. Unstyllum sometimes means something in motion, something not at rest, but most often it describes a feeling: disturbed, not at peace, troubled, disquieted. For the unstyllum this horse is always frofur , a consolation and a comfort. This horse is a comfort for troubled people who are not at peace.
+Clue 6: Biþ. The start of most of the stanzas. This biþ appearing at the start of the last line says there’s another part to this riddle, like in the Oak stanza. This horse is one thing to the eorlum, and a whole other thing for the unstyllum. There’s more than one type of person in this stanza. Who are the the unstyllum? What is styll? Still. Styll also means quiet, calm, and secret. Unstyllum sometimes means something in motion, something not at rest, but most often it describes a feeling: disturbed, not at peace, troubled, disquieted. For the unstyllum this horse is always frofur, a consolation and a comfort. This horse is a comfort for troubled people who are not at peace.
 
-Answer: This is a war horse .
+Answer: This is a war horse.
 
 Some people are not at peace out of restlessness, they want to go someplace, and yes a horse is a fantastic consolation for the traveler in need of a vehicle. But not this horse. A war horse is not for riding long distances: they are massive and uncomfortable and there are more suitable kinds of horses for a journey. If you are taking a war horse to battle, you ride something else to get there and bring your war horse alongside to keep it fresh for the fight. These unstyllum are troubled for a reason having nothing to do with wanderlust. An enemy is coming to raid them. They feel uneasy about that. But they should look at all the wealthy people with the big horses and be comforted. These heroes know how to go to war. And the war horse is perfectly suited for combat. It is big and strong enough to hold a person wearing a lot of heavy armor, it doesn’t freak out in a battle situation, and it can kick and bite and charge at an enemy. Yes it does eat a ton more than other horses, but these rich guys have the extra fields for that. They can afford to turn over whole acres to feeding these brutes, but don’t think they have to farm for a living. They’ve got the unstyllum for that. So the least they can do is protect them.
 
@@ -5407,7 +5407,7 @@ Some people are not at peace out of restlessness, they want to go someplace, and
 ![Translating Is](archive/thumbs/2022_12_135-Y-LettersforTitles-Vern-Tonkin-300x300.jpg)
 ![Translating Is](archive/thumbs/2022_12_translating-is-letterfortitles-vern-tonkin-300x105.jpg)
 
-The Is stanza says there is nothing more cold than ice. it is oferceald . There is nothing more slippery than ice: slidor ungemetum . Met means measurement, it is slippery beyond measure. Winter’s ice can be a dreadful hazard and for multiple reasons: survival is much easier to accomplish in warm weather, so people spent their warm months working to ensure their winter survival. The coming of the frost meant the dying of plants, and the food you had put by, the fodder available for your animals, had better be enough. The people would cull their livestock when the frost came, down to what they could afford to keep, to alleviate the problem of not enough feed for the animals for the entire winter and not enough food for themselves: one of the many annual challenges brought by cold weather. Yet the Rune Poem is rather upbeat about ice. The ice may be cold and slippery yes, but it is wondrously beautiful. It is a fæger (fair, beautiful) ansyne , a noun meaning face, presence, view, aspect, sight, a thing seen, a surface. Ice is fair in aspect, a beautiful sight. A whole lake or a river may be geworuht, wrought by winter’s forge into a beautiful floor, clear as glass, glistening, water made into gems, immeasurably lovely.
+The Is stanza says there is nothing more cold than ice. it is oferceald. There is nothing more slippery than ice: slidor ungemetum. Met means measurement, it is slippery beyond measure. Winter’s ice can be a dreadful hazard and for multiple reasons: survival is much easier to accomplish in warm weather, so people spent their warm months working to ensure their winter survival. The coming of the frost meant the dying of plants, and the food you had put by, the fodder available for your animals, had better be enough. The people would cull their livestock when the frost came, down to what they could afford to keep, to alleviate the problem of not enough feed for the animals for the entire winter and not enough food for themselves: one of the many annual challenges brought by cold weather. Yet the Rune Poem is rather upbeat about ice. The ice may be cold and slippery yes, but it is wondrously beautiful. It is a fæger (fair, beautiful) ansyne, a noun meaning face, presence, view, aspect, sight, a thing seen, a surface. Ice is fair in aspect, a beautiful sight. A whole lake or a river may be geworuht, wrought by winter’s forge into a beautiful floor, clear as glass, glistening, water made into gems, immeasurably lovely.
 
 ### Stanza 11: Ice
 
@@ -5434,7 +5434,7 @@ A floor wrought of frost, a beautiful sight.
 
 ![Stanza 19: War Horse](archive/thumbs/2022_12_stanza-19-war-horse-lettersfortitles-vern-tonkin-287x300.jpg)
 
-ᛖ byþ for e orlum æþelinga wyn.
+ᛖ byþ for eorlum æþelinga wyn.
 
 hors hofum wlanc. ðær him hæleþ ymb.
 
@@ -5465,7 +5465,7 @@ And it is for the uneasy ever a consolation.
 ![ᛄ](archive/thumbs/2022_12_141-H-LettersforTitles-Vern-Tonkin-300x300.jpg)
 ![ᛄ](archive/thumbs/2022_12_ᛄ-LettersforTitles-Vern-Tonkin-300x300.jpg)
 
-Ger is a little small. Look at it so teeny: ᛄ. You might not be able to see. It’s bigger now, it grew over time, but the poor thing was only half sized once. Sometimes Ger is carved to look like the rune for Beaver, Ior , ᛡ , making for redundancy and a real identity crisis for sweet little ᛄ , though ᛄ did stand up a little taller to claim a space in manuscripts at least. ᛄ’s got other problems too. It once made a J sound before shifting into a softer palatal G and then ultimately a Y sound represented by Ge, where it seems to have landed, unfortunately sharing the same initial sound of the ᛡ rune as well as its look sometimes. This does lend to a bit of an identity crisis. ᛄ was here first, I’ll have you know, and it’s hard for a small rune like ᛄ to maintain an individual style when others are such copycats. This is all in addition to ᛄ’s name Ger being a homonym with Yr, ᚣ , the name for the rune for Bow. No wonder ᛄ feels so cowed.
+Ger is a little small. Look at it so teeny: ᛄ. You might not be able to see. It’s bigger now, it grew over time, but the poor thing was only half sized once. Sometimes Ger is carved to look like the rune for Beaver, Ior, ᛡ, making for redundancy and a real identity crisis for sweet little ᛄ, though ᛄ did stand up a little taller to claim a space in manuscripts at least. ᛄ’s got other problems too. It once made a J sound before shifting into a softer palatal G and then ultimately a Y sound represented by Ge, where it seems to have landed, unfortunately sharing the same initial sound of the ᛡ rune as well as its look sometimes. This does lend to a bit of an identity crisis. ᛄ was here first, I’ll have you know, and it’s hard for a small rune like ᛄ to maintain an individual style when others are such copycats. This is all in addition to ᛄ’s name Ger being a homonym with Yr, ᚣ, the name for the rune for Bow. No wonder ᛄ feels so cowed.
 
 Carve a thorn, Þ. Now make it look both ways like double faced Janus, god of beginnings and doorways, Janus the patron deity of the New Year who sees where we’ve been and most interestingly, where we are going.
 
@@ -5508,11 +5508,11 @@ To calculate a new year or any other kind of newness, you must have some idea of
 
 To find the proper beginning of a year, be on the lookout for nothing. At the start of something there is nothing beforehand, or nothing much, and as you are at the moment beset by everything, finding nothing will be a great challenge. If it helps, remember that nothing comes from nothing, nothing ever could, as we are told by the great philosophers Aristotle and Julie Andrews, and though both had the luxury of plenty of time to spend pondering how to solve a problem, you might have very little time available to you to do the same: a new year may start whenever it likes. What if it’s now? Is it now? It might be now.
 
-New years often have much to do with light and its sibling, temperature. O light and temperature , lean closer to us and you are the creator of the plants that provide everything: food, food for food. O plants, you’ll breathe what we won’t, and exhale the good stuff back. It’s nice. But O dearest light and also temperature, when you move away you are the destroyer, freezing us out, dancing shiva on vegetable graves. It’s a good thing everything is temporary .
+New years often have much to do with light and its sibling, temperature. O light and temperature, lean closer to us and you are the creator of the plants that provide everything: food, food for food. O plants, you’ll breathe what we won’t, and exhale the good stuff back. It’s nice. But O dearest light and also temperature, when you move away you are the destroyer, freezing us out, dancing shiva on vegetable graves. It’s a good thing everything is temporary.
 
-Watch the light , the big important one, and stand in the same place every time. Where does it pop up? Or down, the light may be coming or going, what’s important is to be present for this movement every day so you can remember the spot. Put something in your sight line to hold the place for comparison with the next day. Be sure to pick something that will not move . You will see that the light travels one way or the other a little each day. Note when it reaches the end of its road and holds still for a day or two before moving back the other direction. This end which is also a beginning would make an exceptional moment for marking your new year, particularly if you are hoping to choose one you might share with others thinking along the same lines.
+Watch the light, the big important one, and stand in the same place every time. Where does it pop up? Or down, the light may be coming or going, what’s important is to be present for this movement every day so you can remember the spot. Put something in your sight line to hold the place for comparison with the next day. Be sure to pick something that will not move. You will see that the light travels one way or the other a little each day. Note when it reaches the end of its road and holds still for a day or two before moving back the other direction. This end which is also a beginning would make an exceptional moment for marking your new year, particularly if you are hoping to choose one you might share with others thinking along the same lines.
 
-To avoid conflict, however, as wars have been declared over much less , you may wish to choose a start to your year that is more personally relevant and perhaps even private or secret. Which of your closest trees will bud first ? Maybe this moment is your new year? Perhaps it will be the first appearance in spring of a favorite bird , or a happy animal after a long winter, or even a moody one: the creature’s feelings need not be relevant to your task and though you might wish to listen to what they have to say , the final determination is yours. As such, you could choose the anniversary of a personally momentous occasion, possibly a joyful one or one in which you became exiled in wretchedness. This may prove your only option. You may have nothing else .
+To avoid conflict, however, as wars have been declared over much less, you may wish to choose a start to your year that is more personally relevant and perhaps even private or secret. Which of your closest trees will bud first? Maybe this moment is your new year? Perhaps it will be the first appearance in spring of a favorite bird, or a happy animal after a long winter, or even a moody one: the creature’s feelings need not be relevant to your task and though you might wish to listen to what they have to say, the final determination is yours. As such, you could choose the anniversary of a personally momentous occasion, possibly a joyful one or one in which you became exiled in wretchedness. This may prove your only option. You may have nothing else.
 
 ### B is for Beginning
 
@@ -5576,7 +5576,7 @@ Changes into: ䷈ Hexagram 9
 
 Name: Xiao Xu. Little Accumulation, The Taming Power of the Small, The Lesser Nourisher, Small Harvest.
 
-Image: Something small. The act of dividing something into smaller parts . A field with piles of stored grass.
+Image: Something small. The act of dividing something into smaller parts. A field with piles of stored grass.
 
 Structure: Wind over heaven. The wind in the upper atmosphere has enough strength to condense the mist rising up or to blow away a rain cloud.
 
@@ -5591,13 +5591,13 @@ Decision: A small cloud drifts in, looking a little dark, dangerously active, bu
 
 You can’t have a society without a collective understanding of time. You can’t. Show me one. Time is the basis of everything: our idea of shared reality, what we think happens after we die, every question of faith, every approach to proof, everything. There are great similarities from culture to culture about the big mathematical details. For example, some have noticed that the sun moves the distance of its own radius every minute, it’s why we have a minute. It’s in the stuff we can’t prove and quantify where we can really see the personality of a people.
 
-This pairing of runes, Beorc and Ger , Birch and Year , reveals what happens to a culture’s sense of time when their abundance waxes and wanes rather drastically with their living conditions. These were coastal people whose challenging waters range from confronting to inhospitable . Their cold inland weather has its own difficulties and everything depends upon the growing season, which is short. By the time you are deep into winter, counting the weeks into the upper teens, you’ve had to slaughter valuable livestock because it’s been eating too much and you are running out of your own food. You’ve had nothing green and fresh since harvest, you’ve been grinding the inner bark of birch trees to add to whatever other grain you have left, make it stretch, and it’s still icy out there. The ground is still frozen. The sea is still frigid. When all this puts everybody in need , the bearnum and ðearfum , the rich and the poor doesn’t matter who, the start of spring becomes intensely important. The beginning of the new ger , the return to abundance, this is what everybody wants. This is what everybody is hoping for, watching all the signs. How do you know it has arrived? It’s when the beorc starts leafing out. The birch is the first tree to show its new spring growth and let us all know everything’s coming back. It’s time again, thank the gods. All the dead fields, leafless trees without fruit, berries, nuts, it’s all returning. Animals, birds, fish will be more plentiful and easier to hunt, chickens will start laying eggs again, and you will get to eat and get to work: farm, fish, trap, hunt, gather, put stuff by for the future because winter time is lean.
+This pairing of runes, Beorc and Ger, Birch and Year, reveals what happens to a culture’s sense of time when their abundance waxes and wanes rather drastically with their living conditions. These were coastal people whose challenging waters range from confronting to inhospitable. Their cold inland weather has its own difficulties and everything depends upon the growing season, which is short. By the time you are deep into winter, counting the weeks into the upper teens, you’ve had to slaughter valuable livestock because it’s been eating too much and you are running out of your own food. You’ve had nothing green and fresh since harvest, you’ve been grinding the inner bark of birch trees to add to whatever other grain you have left, make it stretch, and it’s still icy out there. The ground is still frozen. The sea is still frigid. When all this puts everybody in need, the bearnum and ðearfum, the rich and the poor doesn’t matter who, the start of spring becomes intensely important. The beginning of the new ger, the return to abundance, this is what everybody wants. This is what everybody is hoping for, watching all the signs. How do you know it has arrived? It’s when the beorc starts leafing out. The birch is the first tree to show its new spring growth and let us all know everything’s coming back. It’s time again, thank the gods. All the dead fields, leafless trees without fruit, berries, nuts, it’s all returning. Animals, birds, fish will be more plentiful and easier to hunt, chickens will start laying eggs again, and you will get to eat and get to work: farm, fish, trap, hunt, gather, put stuff by for the future because winter time is lean.
 
-How is the summer food production going to go? How will you prevent being hungry next winter? You will want this information beforehand. The Birch stanza informs us we can use its branches for divination , to find what the movement of time will bring us next. The Year stanza is about the end of anticipation, the arrival of the hoped for future, the movement of time into the new. These were a people who enjoyed knowing what comes next, a culture steeped in divination as a way of life, and they looked to the plants for their information. If it gives fruit or is the portent of spring you can also eat, like the birch tree, then you can carve potent letters into its pieces and use it to know the future.
+How is the summer food production going to go? How will you prevent being hungry next winter? You will want this information beforehand. The Birch stanza informs us we can use its branches for divination, to find what the movement of time will bring us next. The Year stanza is about the end of anticipation, the arrival of the hoped for future, the movement of time into the new. These were a people who enjoyed knowing what comes next, a culture steeped in divination as a way of life, and they looked to the plants for their information. If it gives fruit or is the portent of spring you can also eat, like the birch tree, then you can carve potent letters into its pieces and use it to know the future.
 
-Yet Old English has no future tense beyond the sense of the endless duration of lasting things. For an Old English speaker to communicate about their portents, the structure of their language puts the future into the present moment. If it is going to be, then it is now. It is, in a way that always was and ever shall be. This is how they thought about time. We do it a bit differently. Our future is out there, down a long road that stretches far both ways, and only both ways, with some haziness in the distances distorting the view. But when you think in Old English, the version of the future you hold hugs you back right up close. The future abides in the arms of the present , which does make sense. What is the future but present hope or fear? When we see something is to come, or even think it, or fear it or hope for it, we feel it now. We live with it now. And we had better plan for it now because summer time is short.
+Yet Old English has no future tense beyond the sense of the endless duration of lasting things. For an Old English speaker to communicate about their portents, the structure of their language puts the future into the present moment. If it is going to be, then it is now. It is, in a way that always was and ever shall be. This is how they thought about time. We do it a bit differently. Our future is out there, down a long road that stretches far both ways, and only both ways, with some haziness in the distances distorting the view. But when you think in Old English, the version of the future you hold hugs you back right up close. The future abides in the arms of the present, which does make sense. What is the future but present hope or fear? When we see something is to come, or even think it, or fear it or hope for it, we feel it now. We live with it now. And we had better plan for it now because summer time is short.
 
-Both Birch and Year use the word bleda , the genitive plural form of bled or blaed : of fruits, of blossoms or flowers, of leaves or shoots or crops. It takes on the sense of offspring in the Birch stanza . Blaed also means prosperity and abundance as it does in the Joy stanza , and it means blowing, breath, and even inspiration as it does in the Home stanza . In the Grave stanza bleda are overripe fruits that fall to the ground dying, and in the Year stanza where all these meanings apply, bleda are the new shoots and blossoms coming to the earth, growing and spreading, seeds breathed by wind, floating to new places to begin the cycle of life to death again.
+Both Birch and Year use the word bleda, the genitive plural form of bled or blaed: of fruits, of blossoms or flowers, of leaves or shoots or crops. It takes on the sense of offspring in the Birch stanza. Blaed also means prosperity and abundance as it does in the Joy stanza, and it means blowing, breath, and even inspiration as it does in the Home stanza. In the Grave stanza bleda are overripe fruits that fall to the ground dying, and in the Year stanza where all these meanings apply, bleda are the new shoots and blossoms coming to the earth, growing and spreading, seeds breathed by wind, floating to new places to begin the cycle of life to death again.
 
 ### X≠Y≠Z: Divination
 
@@ -5606,13 +5606,13 @@ Both Birch and Year use the word bleda , the genitive plural form of bled or bla
 ![X≠Y≠Z: Divination](archive/thumbs/2023_01_159-E-Letters-for-Titles-Vern-Tonkin-300x217.jpg)
 ![X≠Y≠Z: Divination](archive/thumbs/2023_01_X≠Y≠Z-Divination-lettersfortitles-verntonkin-192x300.jpg)
 
-Wretched in exile, three individuals divided by mutual suspicion yet maintaining the syzygy of codependent enemies , seek access to the future. They are addicted to divination by omens and lots.
+Wretched in exile, three individuals divided by mutual suspicion yet maintaining the syzygy of codependent enemies, seek access to the future. They are addicted to divination by omens and lots.
 
-X shuffles and shuffles cards, lays them out, this one is it, this one crosses it, the past the future, There’s a star and a hanged man: a traitor, loss and isolation , yet the traitor is smiling. There is much to be gained from X’s sacrifice. X picks up cards, puts them down, shuffles. The fool, we know who that is delusional bastard, the tower, a crumbling of old ways, a protective fortress in ruin. A chariot with no wheels, bound in place. Shuffling.
+X shuffles and shuffles cards, lays them out, this one is it, this one crosses it, the past the future, There’s a star and a hanged man: a traitor, loss and isolation, yet the traitor is smiling. There is much to be gained from X’s sacrifice. X picks up cards, puts them down, shuffles. The fool, we know who that is delusional bastard, the tower, a crumbling of old ways, a protective fortress in ruin. A chariot with no wheels, bound in place. Shuffling.
 
 Y dangles a rock tied to a string, trying to hold still. Y isn’t sure if the rock is moving in answer or if Y is doing it without meaning to. Show me which way for yes. Show me which way for no. Show me yes again. Uncomfortable with subtleties or sliding spectrums, Y requires only yes or no. Y’s hand is trembling, perhaps it is the wind, but Y feels unsure about the source of the rock’s movements. Y drops the rock. Y will be the rock. Though Y believes nobody can push Y around, in truth Y will sway to the slightest pressure. Show me yes. A forward movement, a rocking back on Y’s heels. Show me no. Y tilts sideways, tilts back. Y’s eyes are closed. Is it yes? Is it no?
 
-Z sits quietly with paper and ink, listening to omens beforehand . Shh . This is already too loud for Z. You are breathing too loud. Z waits, expectant. Shush. No intent, no conscious thought. And start. Z’s pen moves, very fast, line by line, reaching the bottom of the page and back to the top again, ink over ink in layers . Do not stop Z. Do not turn the page for Z. Z will never read these written words.
+Z sits quietly with paper and ink, listening to omens beforehand. Shh. This is already too loud for Z. You are breathing too loud. Z waits, expectant. Shush. No intent, no conscious thought. And start. Z’s pen moves, very fast, line by line, reaching the bottom of the page and back to the top again, ink over ink in layers. Do not stop Z. Do not turn the page for Z. Z will never read these written words.
 
 ### Ge is for Prefix
 
@@ -5621,9 +5621,9 @@ Z sits quietly with paper and ink, listening to omens beforehand . Shh . This is
 ![Ge is for Prefix](archive/thumbs/2023_01_161-S-Letters-for-titles-vern-tonkin-228x300.jpg)
 ![Ge is for Prefix](archive/thumbs/2023_01_ge-is-for-prefix-lettersfortitles-vern-tonkin-copy-300x300.jpg)
 
-Old English is an inflected language , meaning that its words are amended as needed to change meaning and grammatical category such as tense or case. We’ve talked about suffixes before. Ge (sounds like yee) is a prefix, one we no longer use. You can’t escape it in Old English though, it’s everywhere and the reasons for it were already dim by the time the language was first written down. Most of the time it gently sits there doing nothing , getting in the way, a grotesque extravagance gumming up the works when you need to search alphabetically for the meanings of a word. Students of Old English are often told to ignore the ge prefix as superfluous, but it does do a job from time to time. When ge is busy at the start of a noun, It generally flavors the meaning with a sense of something being together with something else, but you can barely taste the difference: treow means truth , getreow means faithfulness, fidelity. You’ve got to get together with something, a person, an idea, to be faithful. It is possible to be truthful only with yourself. Sometimes not even then .
+Old English is an inflected language, meaning that its words are amended as needed to change meaning and grammatical category such as tense or case. We’ve talked about suffixes before. Ge (sounds like yee) is a prefix, one we no longer use. You can’t escape it in Old English though, it’s everywhere and the reasons for it were already dim by the time the language was first written down. Most of the time it gently sits there doing nothing, getting in the way, a grotesque extravagance gumming up the works when you need to search alphabetically for the meanings of a word. Students of Old English are often told to ignore the ge prefix as superfluous, but it does do a job from time to time. When ge is busy at the start of a noun, It generally flavors the meaning with a sense of something being together with something else, but you can barely taste the difference: treow means truth, getreow means faithfulness, fidelity. You’ve got to get together with something, a person, an idea, to be faithful. It is possible to be truthful only with yourself. Sometimes not even then.
 
-In front of most verbs, ge changes nothing: blowan means to blow, flower, flourish, blossom and geblowan means all the same things. For both nouns and verbs, ge sometimes changes the meaning of a word from literal to figurative: byre means the specific time something occurs, gebyre means the most favorable time for something to occur, like spring for planting or like now for anything. Right now. What other moment could possibly be more favorable than now? You have nothing else .
+In front of most verbs, ge changes nothing: blowan means to blow, flower, flourish, blossom and geblowan means all the same things. For both nouns and verbs, ge sometimes changes the meaning of a word from literal to figurative: byre means the specific time something occurs, gebyre means the most favorable time for something to occur, like spring for planting or like now for anything. Right now. What other moment could possibly be more favorable than now? You have nothing else.
 
 ### Y is for Year’s Mind
 
@@ -5632,9 +5632,9 @@ In front of most verbs, ge changes nothing: blowan means to blow, flower, flouri
 ![Y is for Year’s Mind](archive/thumbs/2023_01_163-W-Letters-for-titles-Vern-Tonkin-300x300.jpg)
 ![Y is for Year’s Mind](archive/thumbs/2023_01_Dan-Schaub-Solar-Entity-Mask-Y-isfor-Years-Mind-Letters-for-Titles-Vern-Tonkin-copy-300x300.jpg)
 
-Is it that time? When did they die, has it been a year? If it’s their geárgemynd , their year’s mind, remember them. Put them in your mind. This kenning, geárgemynd, means it’s their day now, like a birthday but at the opposite end of the spectrum. Mynd means mind like it sounds, and also memory, gear means year and ge is a prefix to mynd, but never mind that . Your person who died had wyrþmynd (worth mind, worthy of remembering) and left you behind to commemorate their geargemynde. I know you don’t save up your grief for this day, like they aren’t always and forever walking around with you in your head year’s mind or no. Push them back (invite them back) they won’t go. There they are, laughing at you when you are being stupid, makes you laugh too. Unable (but kind of maybe not?) to hug you when you cry. You think they are hugging you. They can’t, can they? They’re alive, they’re dead, whatever they are it amounts to the same: absolutely nothing . Try to hug that.
+Is it that time? When did they die, has it been a year? If it’s their geárgemynd, their year’s mind, remember them. Put them in your mind. This kenning, geárgemynd, means it’s their day now, like a birthday but at the opposite end of the spectrum. Mynd means mind like it sounds, and also memory, gear means year and ge is a prefix to mynd, but never mind that. Your person who died had wyrþmynd (worth mind, worthy of remembering) and left you behind to commemorate their geargemynde. I know you don’t save up your grief for this day, like they aren’t always and forever walking around with you in your head year’s mind or no. Push them back (invite them back) they won’t go. There they are, laughing at you when you are being stupid, makes you laugh too. Unable (but kind of maybe not?) to hug you when you cry. You think they are hugging you. They can’t, can they? They’re alive, they’re dead, whatever they are it amounts to the same: absolutely nothing. Try to hug that.
 
-Let’s do the math, that’ll help. Put down your dead for a minute and let’s calculate when you can next roll around on the floor and really be disgustingly sad. When did they die? When you found out about it, or when it happened? Were you there? I’m sorry baby love if you were. The seconds between when they are here and that they aren’t are killers. It it now? Is it now? It’s now. Or was it when you got the news? Did you know it beforehand ? Did you get the news straight from the horses mouth ? The arrow one foresees does not always arrive more gently. A shot from that kind of bow takes forever to arrive . That kind of eternity doesn’t end until you wish it would and question yourself for it. Not even then. We are the bottom of a slippery slope my beauty, and we have far to go, so very far. What’s a year? Solar: 365 days, 5 hours, 48 minutes, 46 seconds and changing, the earth is moving. Sidreal: 365 days, 6 hours, 9 minutes, 10 seconds, and changing, the sun is moving too. We can’t pin these things down. Anomalistic: 365 days, 6 hours, 13 minutes, 53 seconds and changing, the earth again, orbiting in something that is also orbiting, which is also orbiting: it’s orbits all the way down. Stop. When did it happen? When will be the next time the year comes around? Is it now? Is it now ? It’s always now.
+Let’s do the math, that’ll help. Put down your dead for a minute and let’s calculate when you can next roll around on the floor and really be disgustingly sad. When did they die? When you found out about it, or when it happened? Were you there? I’m sorry baby love if you were. The seconds between when they are here and that they aren’t are killers. It it now? Is it now? It’s now. Or was it when you got the news? Did you know it beforehand? Did you get the news straight from the horses mouth? The arrow one foresees does not always arrive more gently. A shot from that kind of bow takes forever to arrive. That kind of eternity doesn’t end until you wish it would and question yourself for it. Not even then. We are the bottom of a slippery slope my beauty, and we have far to go, so very far. What’s a year? Solar: 365 days, 5 hours, 48 minutes, 46 seconds and changing, the earth is moving. Sidreal: 365 days, 6 hours, 9 minutes, 10 seconds, and changing, the sun is moving too. We can’t pin these things down. Anomalistic: 365 days, 6 hours, 13 minutes, 53 seconds and changing, the earth again, orbiting in something that is also orbiting, which is also orbiting: it’s orbits all the way down. Stop. When did it happen? When will be the next time the year comes around? Is it now? Is it now? It’s always now.
 
 ### How to Eat a Birch Tree
 
@@ -5645,13 +5645,13 @@ Let’s do the math, that’ll help. Put down your dead for a minute and let’s
 
 You don’t choose to eat a birch tree, this is not food, but it is food adjacent. A birch tree is close enough to being food that at the end of winter when you are out of everything and nothing’s fresh, you’ll see greens for your meal in the birch tree first: a gift from the sun to the earth and thereby you, an early edible tribute you badly need.
 
-The shoots and the sap, go for them first. They happen first. The shoots, the tips of the branches, the new green leaves, they’re all nice in a stew and you can eat them fresh right off the tree. It’s a little bitter, but tender and will clear your bronchial passages which you might enjoy after a winter by smoky firelight .
+The shoots and the sap, go for them first. They happen first. The shoots, the tips of the branches, the new green leaves, they’re all nice in a stew and you can eat them fresh right off the tree. It’s a little bitter, but tender and will clear your bronchial passages which you might enjoy after a winter by smoky firelight.
 
-For the sap, stab the birch with something sharp , just into the inner bark. Pull a little bark outward under the wound and let the tree bleed off of that into something. You can get several gallons. It’s the sweetest of waters, nutritious, fermentable into alcohol given time.
+For the sap, stab the birch with something sharp, just into the inner bark. Pull a little bark outward under the wound and let the tree bleed off of that into something. You can get several gallons. It’s the sweetest of waters, nutritious, fermentable into alcohol given time.
 
-Later when the tree produces catkins you can eat these as well for their protein. You will have other options around you by this time of course, the earth will offer you mercy and sustenance .
+Later when the tree produces catkins you can eat these as well for their protein. You will have other options around you by this time of course, the earth will offer you mercy and sustenance.
 
-The birch holds a further secret just under its bark. You might eat it during the lean winter months , forget waiting for spring, by grinding the inner bark into a powder and mixing it into your flour for bread. There is some nutrition to be found here, you can stretch your stores, especially when you are exiled in wretchedness with nobody to turn to and you have nothing else .
+The birch holds a further secret just under its bark. You might eat it during the lean winter months, forget waiting for spring, by grinding the inner bark into a powder and mixing it into your flour for bread. There is some nutrition to be found here, you can stretch your stores, especially when you are exiled in wretchedness with nobody to turn to and you have nothing else.
 
 ### Translating Ger
 
@@ -5659,21 +5659,21 @@ The birch holds a further secret just under its bark. You might eat it during th
 
 ![Translating Ger](archive/thumbs/2023_01_translating-ger-lettersfortitles-vern-tonkin-300x161.jpg)
 
-This stanza is about time . Some see it as a specific time, like harvest when the bright bleda (fruits) mentioned are ready for eating. Others translate this as springtime, when bleda , which also means blossoms and green shoots, appear on plants. Which bleda do we want? In Old English poetry, multiple meanings apply. What kind of temporality were the people of the Rune Poem working with? We can look closely anywhere in Old English and see it, but we ought to pay attention here in the Ger stanza to find out how they managed their solar time reckoning at least. The moon is another matter.
+This stanza is about time. Some see it as a specific time, like harvest when the bright bleda (fruits) mentioned are ready for eating. Others translate this as springtime, when bleda, which also means blossoms and green shoots, appear on plants. Which bleda do we want? In Old English poetry, multiple meanings apply. What kind of temporality were the people of the Rune Poem working with? We can look closely anywhere in Old English and see it, but we ought to pay attention here in the Ger stanza to find out how they managed their solar time reckoning at least. The moon is another matter.
 
-The name of this rune is ger , year. What is a year? A cycling of the seasons. There is a time when the sun is with us a lot, and then another time after that when it is not, and then when it is again. Time is a circle. Time is a cycle. When the sun is gone you miss it, you sit in the frost , watch your supplies from the growing season dwindle and would desperately like to know when the sun will again increase its time with us each day. Time is endless duration. Time has a start. When does it start? Watch the sun and see . It rises and sets in a slightly different spot on the horizon every day, you can mark its shifting position, farther away or closer to a middle. Time is a line. Time is an arc.
+The name of this rune is ger, year. What is a year? A cycling of the seasons. There is a time when the sun is with us a lot, and then another time after that when it is not, and then when it is again. Time is a circle. Time is a cycle. When the sun is gone you miss it, you sit in the frost, watch your supplies from the growing season dwindle and would desperately like to know when the sun will again increase its time with us each day. Time is endless duration. Time has a start. When does it start? Watch the sun and see. It rises and sets in a slightly different spot on the horizon every day, you can mark its shifting position, farther away or closer to a middle. Time is a line. Time is an arc.
 
-Each end of the sun’s road, when it turns back the other way, is a solstice. When the sun reaches the cold end of one and starts moving back, we can call this a new year, many do as it is when all the life starts back up again. People of a different stripe like to observe the middle, the equinox where as much road stands before the sun as behind. Now look at the Rune Poem. The stanzas line up in thematic pairs from the ends to the middle. By pairing the Ger stanza with Beorc , Birch, the tree of earliest spring which puts out buds before the rest, and closest in timing to the middle of the sun’s road, the Rune Poem gives a clue that it was not the ends but the middle of the Sun’s path of life they thought of as a starting point to the year. The middle does make an excellent beginning . The sun gets to the middle of its path of life twice a year: the spring and the fall equinoxes, and there is no doubt which of these two middle moments the Ger stanza is talking about with its fruits and flowers. Time starts over in the spring.
+Each end of the sun’s road, when it turns back the other way, is a solstice. When the sun reaches the cold end of one and starts moving back, we can call this a new year, many do as it is when all the life starts back up again. People of a different stripe like to observe the middle, the equinox where as much road stands before the sun as behind. Now look at the Rune Poem. The stanzas line up in thematic pairs from the ends to the middle. By pairing the Ger stanza with Beorc, Birch, the tree of earliest spring which puts out buds before the rest, and closest in timing to the middle of the sun’s road, the Rune Poem gives a clue that it was not the ends but the middle of the Sun’s path of life they thought of as a starting point to the year. The middle does make an excellent beginning. The sun gets to the middle of its path of life twice a year: the spring and the fall equinoxes, and there is no doubt which of these two middle moments the Ger stanza is talking about with its fruits and flowers. Time starts over in the spring.
 
-Solar time reckoning wasn’t the main focus here in the Rune Poem, though, they did keep close track of it and of the moon, which rides its own path back and forth to a middle. But don’t forget what really counts on a more personal survival level to this culture’s time reckoning is the plants. The plants are food, and food for food. So when they are gone, we need to know when are they coming back. Because the frost came and killed everything and now we find out how well our harvest went. And how well everything can keep. When does the new year come and we can get the planting started? When you can see green growth on the branches. This is an important moment, it means hiht , hope and exultation, but also trust and expectation. That might be all you have left by the end of February start of March. Hytan means a softening of hardship. New growth says that the lean months are coming to an end and you can look forward to fruits on trees, crops growing, fodder for the livestock you’ve been able to hang onto and feed through the winter. Abundance is coming back to the world, it is a new ger.
+Solar time reckoning wasn’t the main focus here in the Rune Poem, though, they did keep close track of it and of the moon, which rides its own path back and forth to a middle. But don’t forget what really counts on a more personal survival level to this culture’s time reckoning is the plants. The plants are food, and food for food. So when they are gone, we need to know when are they coming back. Because the frost came and killed everything and now we find out how well our harvest went. And how well everything can keep. When does the new year come and we can get the planting started? When you can see green growth on the branches. This is an important moment, it means hiht, hope and exultation, but also trust and expectation. That might be all you have left by the end of February start of March. Hytan means a softening of hardship. New growth says that the lean months are coming to an end and you can look forward to fruits on trees, crops growing, fodder for the livestock you’ve been able to hang onto and feed through the winter. Abundance is coming back to the world, it is a new ger.
 
-How does it happen? God, that’s how. There are plenty of gods in the Rune Poem , the one in this stanza appears to be more Christian than the others by description: halig heofones cyning, the holy king of heaven. This is a usual description of the chief Christian deity. Of the gods known to the people of the Rune Poem, gods are not often kings. Christianity was a minor one of the many religions brought to Britain by the Romans, and it didn’t really take until the 6th and 7th centuries, roughly around the time the Rune Poem was written down. There was overlap, I’m saying, and In the Rune Poem, this Christian sounding holy king of heaven is what somebody of this culture might expect of a god who also holds the job of cyning.
+How does it happen? God, that’s how. There are plenty of gods in the Rune Poem, the one in this stanza appears to be more Christian than the others by description: halig heofones cyning, the holy king of heaven. This is a usual description of the chief Christian deity. Of the gods known to the people of the Rune Poem, gods are not often kings. Christianity was a minor one of the many religions brought to Britain by the Romans, and it didn’t really take until the 6th and 7th centuries, roughly around the time the Rune Poem was written down. There was overlap, I’m saying, and In the Rune Poem, this Christian sounding holy king of heaven is what somebody of this culture might expect of a god who also holds the job of cyning.
 
-Look at what this king of heaven does, look at the word syllan : the king gives . I don’t need to tell you how important giving is to the culture of the Rune Poem, in all the multiple ways it can happen. It is everything. It means everything, your own worth and honor as a person depends upon what you can give. Holding onto something is a dishonor even to whatever it is you are keeping. Who do you give to? Everybody must give to the ðearfum , the needy, and everybody must give to people they receive from, especially the beornum: the wealthy people who are the heads of your family, the chief, the cyning , and the gods, who all give what they have to you. This is not a two way street, it’s a roundabout . Giving is a paying of tribute to others and people trust in it. S yllan, or sellan ( the letter Y is shifty ) is a word that means entrust, and it means giving what you are bound to give, the gods being no exception to the obligation. Everybody gives to them too, and they must give back. The god in the Ger stanza, the king even of the kings will do what kings do and give more than anybody else, it is everybody’s hope and expectation. They have more they give more. þæt wæs god cyning!
+Look at what this king of heaven does, look at the word syllan: the king gives. I don’t need to tell you how important giving is to the culture of the Rune Poem, in all the multiple ways it can happen. It is everything. It means everything, your own worth and honor as a person depends upon what you can give. Holding onto something is a dishonor even to whatever it is you are keeping. Who do you give to? Everybody must give to the ðearfum, the needy, and everybody must give to people they receive from, especially the beornum: the wealthy people who are the heads of your family, the chief, the cyning, and the gods, who all give what they have to you. This is not a two way street, it’s a roundabout. Giving is a paying of tribute to others and people trust in it. Syllan, or sellan (the letter Y is shifty) is a word that means entrust, and it means giving what you are bound to give, the gods being no exception to the obligation. Everybody gives to them too, and they must give back. The god in the Ger stanza, the king even of the kings will do what kings do and give more than anybody else, it is everybody’s hope and expectation. They have more they give more. þæt wæs god cyning!
 
 Who is this king of heaven, this cyning god? It seems this king is a fertility deity caught by the Ger stanza in the act of giving. Look at how it happens: ðon god læteþ, lets, as in allows to happen, but with a flavor of agency because læteþ means to lead, guide, conduct, bring forth, sprout, grow, spread, and marry. These are the actions of the spring. Green buds appear in the brown, they sprout and spread; it is an ushering in of newness, very welcome after the ice. The new life in spring doesn’t just happen, it is a tribute paid by a generous king, somebody who might also serve their own king in another nested level of scale. Perhaps it’s kings all the way down?
 
-Heaven’s king does not pay tribute to us, not directly, the Rune Poem makes this clear. It’s syllan hrusan to whom the god king gives: to the earth, the soil, the material ground. Then it is the earth who pays the tribute on to us, all of us, the rich and the needy , with gifts of beorhte bleda , bright blossoms that turn into fruits, with growing plants we can harvest in their time and eat through the winter and feed to our animals while we wait, with hope and expectation, to be entrusted again with another new year.
+Heaven’s king does not pay tribute to us, not directly, the Rune Poem makes this clear. It’s syllan hrusan to whom the god king gives: to the earth, the soil, the material ground. Then it is the earth who pays the tribute on to us, all of us, the rich and the needy, with gifts of beorhte bleda, bright blossoms that turn into fruits, with growing plants we can harvest in their time and eat through the winter and feed to our animals while we wait, with hope and expectation, to be entrusted again with another new year.
 
 ### Translating Beorc
 
@@ -5682,13 +5682,13 @@ Heaven’s king does not pay tribute to us, not directly, the Rune Poem makes th
 ![Translating Beorc](archive/thumbs/2023_01_169-O-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Beorc](archive/thumbs/2023_01_translating-beorc-lettersfotitles-vern-tonkin-300x103.jpg)
 
-This stanza’s riddle is about a tree. There lives a whole forest of important trees in the Rune Poem; this one is hrysted fægere , beautifully adorned, fair and decorative with leaves lyfte getenge , pressing against the sky.
+This stanza’s riddle is about a tree. There lives a whole forest of important trees in the Rune Poem; this one is hrysted fægere, beautifully adorned, fair and decorative with leaves lyfte getenge, pressing against the sky.
 
-Why is this tree important? You can tell the future with this tree, that’s why. It has tanas , twigs for divination. There are lots of words for a twig including twig, also gerd, croh, hris, læl, spranca, sprota, spæc, sumorloda, telga . This particular word for twig, tanas , tan , is the only one that specifies they are used for divining the future . Tanas are special twigs, prophetic twigs. Which trees produces twigs so special you could carve a rune into them and find out what’s coming ? Who would know that? You know who knows that, Tacitus knows that, that’s who. He visited the people who lived north of Rome, all the way to the the Baltic and North Sea coasts. He met the people who brought the runes to Brittania , where his father in law was governor. Tacitus traveled among the rune carvers, saw what they were carving them on, and reported back. He says:
+Why is this tree important? You can tell the future with this tree, that’s why. It has tanas, twigs for divination. There are lots of words for a twig including twig, also gerd, croh, hris, læl, spranca, sprota, spæc, sumorloda, telga. This particular word for twig, tanas, tan, is the only one that specifies they are used for divining the future. Tanas are special twigs, prophetic twigs. Which trees produces twigs so special you could carve a rune into them and find out what’s coming? Who would know that? You know who knows that, Tacitus knows that, that’s who. He visited the people who lived north of Rome, all the way to the the Baltic and North Sea coasts. He met the people who brought the runes to Brittania, where his father in law was governor. Tacitus traveled among the rune carvers, saw what they were carving them on, and reported back. He says:
 
 No people are more addicted to divination by omens and lots. The latter is performed in the following simple manner. They cut a twig from a fruit tree and divide it into small pieces, which, distinguished by certain marks, are thrown promiscuously upon a white garment. Then, the priest of the canton, if the occasion be public; if private, the master of the family; after an invocation of the gods, with eyes lifted up to heaven, thrice takes out each piece, and, as they come up, interprets their significance according to the marks fixed upon them. If the results prove unfavorable, there is no more consultation on that same affair that day; if propitious, a confirmation by omens is still required.
 
-Tacitus says they use a fruit tree. When a tree can bear fruit it has a promising future built right in. It creates life: a fruit that holds a seed for a future tree, a fruit we can eat to sustain our own lives into the future. Like divination, fruit trees are all about the future. Yet this stanza says twice that this is not a fruit bearing tree. It is bleda leas , it is butan tudder, blossomless, fruitless, without progeny or offspring. Yet it bereþ efne swa , it bears even so. How can you foretell the future with a tree that appears not to have an obvious one? What makes this fruitless tree so fruitful? The answer is that It is not only what this tree produces , this is about how it behaves at the start of every year. This is the birch tree: the first tree to show green shoots, edible ones you can eat, at the end of winter. This is how we know winter is over , by looking at a birch tree. All the springtime promise of fertile life and fruits to come is held in its branches. The birch is the herald of fertility. There are very old traditions of people putting birch saplings into their houses and barns, and tying them over a lover’s door to promote fruitfulness. Young men and women, also cattle , are ritually struck with birch twigs to encourage fertility. Brooms made from birch twigs are beaten around garden plots to sweep out the old year and encourage new life to return. A tree that can do these things, a tree that comes back to life first, is a fantastic choice for rune carving. Maybe a twig that foretells the spring can divine everything else too.
+Tacitus says they use a fruit tree. When a tree can bear fruit it has a promising future built right in. It creates life: a fruit that holds a seed for a future tree, a fruit we can eat to sustain our own lives into the future. Like divination, fruit trees are all about the future. Yet this stanza says twice that this is not a fruit bearing tree. It is bleda leas, it is butan tudder, blossomless, fruitless, without progeny or offspring. Yet it bereþ efne swa, it bears even so. How can you foretell the future with a tree that appears not to have an obvious one? What makes this fruitless tree so fruitful? The answer is that It is not only what this tree produces, this is about how it behaves at the start of every year. This is the birch tree: the first tree to show green shoots, edible ones you can eat, at the end of winter. This is how we know winter is over, by looking at a birch tree. All the springtime promise of fertile life and fruits to come is held in its branches. The birch is the herald of fertility. There are very old traditions of people putting birch saplings into their houses and barns, and tying them over a lover’s door to promote fruitfulness. Young men and women, also cattle, are ritually struck with birch twigs to encourage fertility. Brooms made from birch twigs are beaten around garden plots to sweep out the old year and encourage new life to return. A tree that can do these things, a tree that comes back to life first, is a fantastic choice for rune carving. Maybe a twig that foretells the spring can divine everything else too.
 
 ### Stanza 18: Birch
 
@@ -5785,13 +5785,13 @@ Things have been hard and rough going and could be the death of you if you don�
 
 ![How to Travel by Night](archive/thumbs/2023_01_How-to-Travel-by-Night-LettersforTitles-Vern-Tonkin-300x218.jpg)
 
-The dark obscures everything and restricting one’s travel to only daylight hours can be limiting depending on latitude and season. To travel by night successfully you will need light , which you will not have much of. Endeavor to take your journey during the full moon or bring a torch .
+The dark obscures everything and restricting one’s travel to only daylight hours can be limiting depending on latitude and season. To travel by night successfully you will need light, which you will not have much of. Endeavor to take your journey during the full moon or bring a torch.
 
 Beware of torch blindness. You will see more clearly by it, but you will not be able to see as far. Beyond the light all else will appear far darker than it would have without it. Use a torch if you want to see the ground beneath your feet, do not use one if you want to see what is coming for you.
 
-If you douse your torch and there is no moon to travel by, chin up. All is not lost. You are not lost, you can find your way: the stars will not deceive you. Look for Orion , easy to spot, you can trust it to rise in the east and set in the west. Find it by seeking the brightest stars, two of the ten brightest are in Orion.
+If you douse your torch and there is no moon to travel by, chin up. All is not lost. You are not lost, you can find your way: the stars will not deceive you. Look for Orion, easy to spot, you can trust it to rise in the east and set in the west. Find it by seeking the brightest stars, two of the ten brightest are in Orion.
 
-Equidistant between these two bright stars are two more of the night’s most luminous, shaping two thirds of Orion’s belt. Find them. If you set out during the winter solstice , the three belt stars, two show offs and one modest, will rise precisely in the east at the moment of sunset, no matter where you are in the world. This is important if your journey takes you far afield, wretched in exile , alone in the dark. What have you done I wonder? During other months of the year Orion will rise at other times but still and always exactly east, you can depend on it, even during the summer solstice when he rises with the sun and the light of that great torch blinds us to his presence. He is there, trust me, just out of our vision along with so much else.
+Equidistant between these two bright stars are two more of the night’s most luminous, shaping two thirds of Orion’s belt. Find them. If you set out during the winter solstice, the three belt stars, two show offs and one modest, will rise precisely in the east at the moment of sunset, no matter where you are in the world. This is important if your journey takes you far afield, wretched in exile, alone in the dark. What have you done I wonder? During other months of the year Orion will rise at other times but still and always exactly east, you can depend on it, even during the summer solstice when he rises with the sun and the light of that great torch blinds us to his presence. He is there, trust me, just out of our vision along with so much else.
 
 ### Eo is for Eorl
 
@@ -5800,9 +5800,9 @@ Equidistant between these two bright stars are two more of the night’s most lu
 ![Eo is for Eorl](archive/thumbs/2023_01_185-R-Letters-for-Titles-Vern-Tonkin-224x300.jpg)
 ![Eo is for Eorl](archive/thumbs/2023_01_EO-is-for-Eorl-LettersforTitles-VernTonkin-198x300.jpg)
 
-An eorl is an earl, a noble person, sometimes a relative of the king, who acts as a local governor within a king’s domain. Eorl is the same word as the Old Norse jarl , meaning a hereditary chieftain, then later a noble person holding a rank just under the king. The eorl and the jarl are in charge of vast lands and lots of people. In Britain, before there were earls or kings, the Romans ran the place and for a brief moment ran the entire Roman empire from Britain until they abandoned it around the year 410, leaving behind a population without a stable government and who still saw themselves as Roman. When a government packs up and leaves they don’t just shut off the lights. Within the next century and a half, the people organized themselves into a government that looked much like the old one, establishing kingdoms with laws governed regionally by an eorl acting in the name of the king, just as the old Roman governors ruled in the name of the Emperor.
+An eorl is an earl, a noble person, sometimes a relative of the king, who acts as a local governor within a king’s domain. Eorl is the same word as the Old Norse jarl, meaning a hereditary chieftain, then later a noble person holding a rank just under the king. The eorl and the jarl are in charge of vast lands and lots of people. In Britain, before there were earls or kings, the Romans ran the place and for a brief moment ran the entire Roman empire from Britain until they abandoned it around the year 410, leaving behind a population without a stable government and who still saw themselves as Roman. When a government packs up and leaves they don’t just shut off the lights. Within the next century and a half, the people organized themselves into a government that looked much like the old one, establishing kingdoms with laws governed regionally by an eorl acting in the name of the king, just as the old Roman governors ruled in the name of the Emperor.
 
-The first time we hear about an eorl in Old English happens in a twelfth century manuscript called the Textus Roffensis . This book begins with a copy of a much older collection of laws decreed by King Æðelberht who ruled Kent from 565 until he died in 616. Starting on the last line of the first page we have this earliest mention of an eorl :
+The first time we hear about an eorl in Old English happens in a twelfth century manuscript called the Textus Roffensis. This book begins with a copy of a much older collection of laws decreed by King Æðelberht who ruled Kent from 565 until he died in 616. Starting on the last line of the first page we have this earliest mention of an eorl:
 
 Gif on eorles tune man mannan
 
@@ -5810,15 +5810,15 @@ ofslæhþ XII gebete. Gif wið eorles
 
 birele man geligeþ XII scill gebete.
 
-If in an earl’s town , a person slays a person,
+If in an earl’s town, a person slays a person,
 
 twelve shillings to make amends. If with an earl’s
 
 cup bearer a person lies, twelve shillings to make amends.
 
-These were equal crimes in the eyes of King Æðelberht. About a hundred years later when Æðelberht’s grandson Hloðhere and great grandson Eadric were kings making decrees, killing an eorl would cost you three hundred shillings worth of making amends. Don’t kill the eorl . If you must break the law it’s much cheaper to sleep with the cup bearer.
+These were equal crimes in the eyes of King Æðelberht. About a hundred years later when Æðelberht’s grandson Hloðhere and great grandson Eadric were kings making decrees, killing an eorl would cost you three hundred shillings worth of making amends. Don’t kill the eorl. If you must break the law it’s much cheaper to sleep with the cup bearer.
 
-These laws, these lists of compensations for crimes, for property damage, detailed lists of the values of specific maimed body parts, were decreed by kings who presided over a multicultural patchwork of religious customs and societal norms , as the people had always lived going back to the start of Roman rule . With no Roman government, kingdoms happened by necessity. Somebody had to be in charge of busy market communities, trade, taxation, because there are real costs in defending these places , and as that somebody’s lands increased in size, they needed help they could trust. They needed somebody else with extensive lands and the respect or at least the deference of the community. This was the eorl . The eorl held masses of land, had several thegns working for him , all of whom also held at least enough farmland to support a family and sometimes much more. Below the thegns were the ceorls , a class of free laborers who were at least not slaves, who were plentiful: acquired via purchase or the settlement of debts, or captured during warfare. It’s after the Norman conquest in 1066 we see the insertion of more noble classes into this hierarchy, of course above the existing eorls ; this is when Britain acquired their first dukes and marquises, and the eorl ended up on the same level as the Norman counts. The earliest eorls acted as judges presiding over disputes as well as generals raising armies. Their power would wax and wane under the Normans until their function was replaced mostly by sheriffs, and the earls ended up as they exist today: high status people with very little power.
+These laws, these lists of compensations for crimes, for property damage, detailed lists of the values of specific maimed body parts, were decreed by kings who presided over a multicultural patchwork of religious customs and societal norms, as the people had always lived going back to the start of Roman rule. With no Roman government, kingdoms happened by necessity. Somebody had to be in charge of busy market communities, trade, taxation, because there are real costs in defending these places, and as that somebody’s lands increased in size, they needed help they could trust. They needed somebody else with extensive lands and the respect or at least the deference of the community. This was the eorl. The eorl held masses of land, had several thegns working for him, all of whom also held at least enough farmland to support a family and sometimes much more. Below the thegns were the ceorls, a class of free laborers who were at least not slaves, who were plentiful: acquired via purchase or the settlement of debts, or captured during warfare. It’s after the Norman conquest in 1066 we see the insertion of more noble classes into this hierarchy, of course above the existing eorls; this is when Britain acquired their first dukes and marquises, and the eorl ended up on the same level as the Norman counts. The earliest eorls acted as judges presiding over disputes as well as generals raising armies. Their power would wax and wane under the Normans until their function was replaced mostly by sheriffs, and the earls ended up as they exist today: high status people with very little power.
 
 ### It Never Deceives
 
@@ -5833,7 +5833,7 @@ These laws, these lists of compensations for crimes, for property damage, detail
 ![♂︎](archive/thumbs/2023_01_189-A-Letters-for-Titles-Vern-Tonkin-260x300.jpg)
 ![♂︎](archive/thumbs/2023_01_♂︎-LettersforTitles-Vern-Tonkin-300x300.jpg)
 
-Mars and Tiw share a day . They might also share a symbol: ♂︎ ᛏ . The earliest symbols for Mars the planet were of a pointed spear, or a spear with a shield drawn as a circle with a line running through it. We still use a shield and spear to mean Mars. He is a warrior like Tiw, both recognizable by their weapons, forever on a journey over the obscurity of night.
+Mars and Tiw share a day. They might also share a symbol: ♂︎ ᛏ. The earliest symbols for Mars the planet were of a pointed spear, or a spear with a shield drawn as a circle with a line running through it. We still use a shield and spear to mean Mars. He is a warrior like Tiw, both recognizable by their weapons, forever on a journey over the obscurity of night.
 
 ### Trust
 
@@ -5846,9 +5846,9 @@ The yew is absolutely massive compared to us, so much weight shooting up, length
 
 Maybe in our separate time scales we are nothing to the Yew? The Yew has been quite a lot to us though. We’ve met under it for important reasons for centuries, in the rooms it makes looping its branches into roots underground. The yew has stood witness to life and death decisions and important matters, councils of justice and of war. Why? You can trust it to be there. Where do you want to meet? At the big ancient yew, you can’t miss it. Later, churches were built in these meeting places, and the people would bury their dead in the shade of the its branches making the yew the tree of the churchyard. It seems appropriate. Yews contain death in its branches; nearly all parts of it are poisonous.
 
-We’ve slaughtered the yew, killed them dead by the thousands to make yew bows. The strength under intense compression of their heartwood next to the supreme elasticity of their sapwood makes a yew bow highly resistant to breakage and a deadly powerful weapon for increasingly larger armies. it was the weapon of choice for the elite in particular, who enjoyed they way they looked whilst carrying it on horseback .
+We’ve slaughtered the yew, killed them dead by the thousands to make yew bows. The strength under intense compression of their heartwood next to the supreme elasticity of their sapwood makes a yew bow highly resistant to breakage and a deadly powerful weapon for increasingly larger armies. it was the weapon of choice for the elite in particular, who enjoyed they way they looked whilst carrying it on horseback.
 
-If you were going into battle during the time of the Rune Poem, you might carve the sign of a god into your yew bow. War was about seeking justice , so pick the god of justice to carry with you, strengthen your gear with his mark : the powerful rune for the war god who never deceives. Carve it like the arrow you will send flying toward your enemies , point it up to the sky where you can find Tiw, depend on it, a sky god forever on a journey over night’s obscurity. Carry Tiw’s rune to your battle and your death, or somebody else’s, and trust his judgment and power with your life.
+If you were going into battle during the time of the Rune Poem, you might carve the sign of a god into your yew bow. War was about seeking justice, so pick the god of justice to carry with you, strengthen your gear with his mark: the powerful rune for the war god who never deceives. Carve it like the arrow you will send flying toward your enemies, point it up to the sky where you can find Tiw, depend on it, a sky god forever on a journey over night’s obscurity. Carry Tiw’s rune to your battle and your death, or somebody else’s, and trust his judgment and power with your life.
 
 ### Kings
 
@@ -5857,9 +5857,9 @@ If you were going into battle during the time of the Rune Poem, you might carve 
 ![Kings](archive/thumbs/2023_01_193-O-Lettersfor-Titles-Vern-Tonkin-300x300.jpg)
 ![Kings](archive/thumbs/2023_01_Kings-LettersforTitles-VernTonkin-300x300.jpg)
 
-The Rune poem names two gods: Tiw and Ing . Three if you count Os which means god and describes Odin. If we set aside all the sacred trees , and we shouldn’t, we still have one more god mention: the holy king of heaven in the Year stanza , who must be the Christian god, unnamed. This Christian incursion into a poem full of non Christian deities, two named right out loud in answer to their stanza riddles, sometimes poses a different kind of riddle for Christian readers and translators. Perhaps duty bound to exalt their own, they often determine this is a Christian poem written by a Christian poet who would never allow heaven’s king to share an equal stage with other gods. This was a preference undoubtedly popular amongst Christian poets writing in Old English back in the day, so I can see the impulse. But I am here to encourage the heaven king’s followers that when discussing Tiw, please don’t feel you have to emphasize the astronomical elements and downplay the deity. You can call Ing a god, not just a hero. Odin is very much here. And the trees are gods too. Tiw, Odin, the king of heaven, and a whole grove of trees, were fine with each other. Neighborly. They have no problem sharing a poem and a culture.
+The Rune poem names two gods: Tiw and Ing. Three if you count Os which means god and describes Odin. If we set aside all the sacred trees, and we shouldn’t, we still have one more god mention: the holy king of heaven in the Year stanza, who must be the Christian god, unnamed. This Christian incursion into a poem full of non Christian deities, two named right out loud in answer to their stanza riddles, sometimes poses a different kind of riddle for Christian readers and translators. Perhaps duty bound to exalt their own, they often determine this is a Christian poem written by a Christian poet who would never allow heaven’s king to share an equal stage with other gods. This was a preference undoubtedly popular amongst Christian poets writing in Old English back in the day, so I can see the impulse. But I am here to encourage the heaven king’s followers that when discussing Tiw, please don’t feel you have to emphasize the astronomical elements and downplay the deity. You can call Ing a god, not just a hero. Odin is very much here. And the trees are gods too. Tiw, Odin, the king of heaven, and a whole grove of trees, were fine with each other. Neighborly. They have no problem sharing a poem and a culture.
 
-The Rune Poem gods, and many many others, had been mixing in Britain for a long time: as long as the Romans were around . Being a part of such a massive empire meant that people from all over were circulating , especially the soldiers and merchants who came from everywhere and brought their home deities with them to live side by side with everybody else’s. Christianity was not one of the a big religions when piled up together with all the others, but the king of heaven was not unheard of. He mixed right in with everybody else, and it makes sense he’d be found in the Rune Poem in a neighboring pair with Tiw’s and located right under Odin when arranged into their traditional rows of eight: Odin stood above the heaven king in importance when the Rune Poem was arranged. Perhaps this Christian king god appears in the stanza about spring because of the supreme importance of Easter in his ritual calendar? Tiw was a spring diety too as this was the start of the war season. Nobody wants to go to war in winter.
+The Rune Poem gods, and many many others, had been mixing in Britain for a long time: as long as the Romans were around. Being a part of such a massive empire meant that people from all over were circulating, especially the soldiers and merchants who came from everywhere and brought their home deities with them to live side by side with everybody else’s. Christianity was not one of the a big religions when piled up together with all the others, but the king of heaven was not unheard of. He mixed right in with everybody else, and it makes sense he’d be found in the Rune Poem in a neighboring pair with Tiw’s and located right under Odin when arranged into their traditional rows of eight: Odin stood above the heaven king in importance when the Rune Poem was arranged. Perhaps this Christian king god appears in the stanza about spring because of the supreme importance of Easter in his ritual calendar? Tiw was a spring diety too as this was the start of the war season. Nobody wants to go to war in winter.
 
 After the Romans stopped governing Britain, the people stayed polytheistic. We don’t have much to go on during this time as far as a written record, which goes a bit dark for what seems like ages. We know that the bones and grave goods from this period maintain a cultural mix. We also know that the king of heaven became fashionable at this time amongst the elite in Britain, mostly as an import from the Franks to the south who were Christian and had the best jewels and the good wine. The rich in Britain were getting richer and they wanted to do as the Franks did.
 
@@ -5867,9 +5867,9 @@ Anything Roman had come to symbolize the ease and opulence of the long gone Roma
 
 The next king was Æðelberht’s son Eadbald who “abandoned his baptismal faith and lived by heathen customs, so that he had his father’s widow as his wife,” according to the Anglo Saxon Chronicle’s entry for the year 616. The chronicle entries for these years were written long after the fact and I suspect Eadbald’s people would have put it differently. Eadbald’s mother Bertha had died before her husband King Æðelberht, who must have married a non-Christian woman after that. Marrying your stepmother was not allowed in the Christian Church, and despite later converting to Christianity and dumping his step mother for Ymme, a Frankish Christian woman, King Eadbald likely kept the old ways going in tandem with the new, just as his father King Æðelberht had done. Just as King Rædwald of East Anglia did, who converted to Christianity on a trip to Canterbury to visit King Æthelberht, and as a souvenir set up an altar to the heaven king within his shrine for his other gods. This is the same King Rædwald who might have been buried at Sutton Hoo, which is about as non Christian a burial as it gets for somebody who converted to Christianity. Christian burials were sparse affairs and his is a whole buried ship for Christssakes, crammed with stuff.
 
-After Eadbald died in 640, the chronicles say his son, the new King Eorcenberth “demolished all the idols in his kingdom and was he first of the English kings to establish the Easter fast.” It’s a big deal to convince the people not to eat meat at that lean end of winter when food stores are running out and people are hungriest. The population must have been more receptive of Christianity by that time. Lenten fasting allows fish, and it did help that the priests got creative about what qualified as one .
+After Eadbald died in 640, the chronicles say his son, the new King Eorcenberth “demolished all the idols in his kingdom and was he first of the English kings to establish the Easter fast.” It’s a big deal to convince the people not to eat meat at that lean end of winter when food stores are running out and people are hungriest. The population must have been more receptive of Christianity by that time. Lenten fasting allows fish, and it did help that the priests got creative about what qualified as one.
 
-Christianity waxed and waned generationally amongst the elite, all over Britain. For the rest of the people changes were less abrupt, less pronounced, and just as many people do today, the people in Britain mixed their religions together. A place organized into kingdoms could accept a king in heaven, so the incorporation of a king god into the pantheon was not a difficult concept, and for a long time if you were a worshiper of Tiw, perhaps you are a soldier who carves Tiw’s rune onto your weapon , you might also appreciate a buckle or a brooch with a cross on it. Your grave might be marked by a stone bearing both a cross and your name spelled in runes to provide magical protection to your bones. Although strictly Christian burials meant no grave goods, yours might contain a decorative cross on your breast and a side of beef on your belly. You may have a rune carved knife at your side, and your people might have turned your head eastward toward Jerusalem and in the direction of the rising of Tiw’s constellation on a journey over the obscurity of night.
+Christianity waxed and waned generationally amongst the elite, all over Britain. For the rest of the people changes were less abrupt, less pronounced, and just as many people do today, the people in Britain mixed their religions together. A place organized into kingdoms could accept a king in heaven, so the incorporation of a king god into the pantheon was not a difficult concept, and for a long time if you were a worshiper of Tiw, perhaps you are a soldier who carves Tiw’s rune onto your weapon, you might also appreciate a buckle or a brooch with a cross on it. Your grave might be marked by a stone bearing both a cross and your name spelled in runes to provide magical protection to your bones. Although strictly Christian burials meant no grave goods, yours might contain a decorative cross on your breast and a side of beef on your belly. You may have a rune carved knife at your side, and your people might have turned your head eastward toward Jerusalem and in the direction of the rising of Tiw’s constellation on a journey over the obscurity of night.
 
 ### X≠Y≠Z: A Joy in the Home
 
@@ -5878,11 +5878,11 @@ Christianity waxed and waned generationally amongst the elite, all over Britain.
 ![X≠Y≠Z: A Joy in the Home](archive/thumbs/2023_02_195-H-Letters-forTitles-Vern-Tonkin-300x300.jpg)
 ![X≠Y≠Z: A Joy in the Home](archive/thumbs/2023_02_X≠Y≠Z-A-Joy-in-the-Home-300x196.gif)
 
-Y is in the garage, sharpening. Trying to figure out how to sharpen. Y is in the garage googling how to sharpen a blade, what angle and what to sharpen it on and is confused as to the metal content of the blade in question. Does it make a difference if Y doesn’t know? Y assumes yes. Y has no whetstone and had tried to use the concrete floor of the garage but has become too cold sitting on it. Why are garage floors so cold? Google says to sharpen a blade on the unfinished ceramic bottom of a coffee mug in a pinch. This is a pinch , Y has had it and heads to the kitchen.
+Y is in the garage, sharpening. Trying to figure out how to sharpen. Y is in the garage googling how to sharpen a blade, what angle and what to sharpen it on and is confused as to the metal content of the blade in question. Does it make a difference if Y doesn’t know? Y assumes yes. Y has no whetstone and had tried to use the concrete floor of the garage but has become too cold sitting on it. Why are garage floors so cold? Google says to sharpen a blade on the unfinished ceramic bottom of a coffee mug in a pinch. This is a pinch, Y has had it and heads to the kitchen.
 
-X is in the bathroom. The bathroom has good ventilation and the best light; X can not make a mistake . Next to the sink X has placed a camp stove with a small pot on top containing a greenish brown liquid steaming inside. The mixture is ready but X has forgotten a funnel for pouring it into an empty ink bottle , washed and saved for the final result. Hopefully final, X has skipped a step and weighed nothing, leaving a question mark . Poison is a dish best served once; X hopes to get it right the first time. Letting it cool, waiting, X knows not to pour it this hot into a glass bottle, not without a funnel, and the kitchen is not safe. X climbs into the bathtub to hunker down and wait.
+X is in the bathroom. The bathroom has good ventilation and the best light; X can not make a mistake. Next to the sink X has placed a camp stove with a small pot on top containing a greenish brown liquid steaming inside. The mixture is ready but X has forgotten a funnel for pouring it into an empty ink bottle, washed and saved for the final result. Hopefully final, X has skipped a step and weighed nothing, leaving a question mark. Poison is a dish best served once; X hopes to get it right the first time. Letting it cool, waiting, X knows not to pour it this hot into a glass bottle, not without a funnel, and the kitchen is not safe. X climbs into the bathtub to hunker down and wait.
 
-Z is on all fours trying to sniff out the fumes coming from under the bathroom then heads outside through the kitchen to get a better whiff, startling Y turning the mugs upside down. One crashes to the floor. Be careful not to cut yourself Z smiles. Proud. The plan has been coming along nicely; Z trusts mutuallly assured destruction will keep them all alive . Z depends on it.
+Z is on all fours trying to sniff out the fumes coming from under the bathroom then heads outside through the kitchen to get a better whiff, startling Y turning the mugs upside down. One crashes to the floor. Be careful not to cut yourself Z smiles. Proud. The plan has been coming along nicely; Z trusts mutuallly assured destruction will keep them all alive. Z depends on it.
 
 ### T is for Thincso
 
@@ -5891,21 +5891,21 @@ Z is on all fours trying to sniff out the fumes coming from under the bathroom t
 ![T is for Thincso](archive/thumbs/2023_02_197-R-Letters-forTitles-Vern-Tonkin-300x300.jpg)
 ![T is for Thincso](archive/thumbs/2023_02_T-is-for-Thinsco-LettersforTitles-Vern-Tonkin-210x300.jpg)
 
-During the height of the Roman occupation of Britain, Britannia was as Roman as anywhere else in the empire: filled with flourishing walled market towns distributing goods to and from all the other parts of the Mediterranean world, the culture a mix of Roman and local, all gods welcome. This was the secret sauce in the Roman recipe for empire, everybody got to keep their deities. Delicious. Some gods were adopted by the soldiers and traveling sales teams who moved the most from place to place, others got yoked to a Roman deity, two gods pulling the weight for one : interpretatio Romana Tacitus called this practice whilst naming a pair of gods living in a sacred grove somewhere along the Oder River between Germany and Poland. According to the Roman interpretation these deities were Castor and Pollux but maybe they were some version of Nerþus who was maybe Ing who maybe became Freyr and Freya . It’s gods all the way down, but this game of telephone is played without the phone. We can’t know what wasn’t recorded, not these kinds of details, and most of us will speculate only so far.
+During the height of the Roman occupation of Britain, Britannia was as Roman as anywhere else in the empire: filled with flourishing walled market towns distributing goods to and from all the other parts of the Mediterranean world, the culture a mix of Roman and local, all gods welcome. This was the secret sauce in the Roman recipe for empire, everybody got to keep their deities. Delicious. Some gods were adopted by the soldiers and traveling sales teams who moved the most from place to place, others got yoked to a Roman deity, two gods pulling the weight for one: interpretatio Romana Tacitus called this practice whilst naming a pair of gods living in a sacred grove somewhere along the Oder River between Germany and Poland. According to the Roman interpretation these deities were Castor and Pollux but maybe they were some version of Nerþus who was maybe Ing who maybe became Freyr and Freya. It’s gods all the way down, but this game of telephone is played without the phone. We can’t know what wasn’t recorded, not these kinds of details, and most of us will speculate only so far.
 
-Let’s speculate about Tiw . What we know we get through interpretatio Romana when Tacitus calls him Mars in the Germania . By looking at the Old English names for the days of the week which placed local gods into the days belonging to their Roman counterparts, we can assume Tiw was a war god. After the sun and the moon get their days, Tiw is given Mars’ day: Tiwesdæg , and Tiwesniht as well, Tuesday and the night before; days began at sunset. Woden gets Mercury’s day in addition to the night after Tiwesdæg’s sun sets, Thor gets Jupiter’s day, Freya gets Venus’ day, and they adopt Saturn for Saturday. We have very little else we can say about Tiw contemporary with his Rune Poem stanza besides that he is seen as similar to Mars. It’s all we’ve got for nearly a thousand years until Snorri Sturluson briefly mentions Tyr from time to time (a god of justice, missing a hand) and we can put Tiw and Tiw together.
+Let’s speculate about Tiw. What we know we get through interpretatio Romana when Tacitus calls him Mars in the Germania. By looking at the Old English names for the days of the week which placed local gods into the days belonging to their Roman counterparts, we can assume Tiw was a war god. After the sun and the moon get their days, Tiw is given Mars’ day: Tiwesdæg, and Tiwesniht as well, Tuesday and the night before; days began at sunset. Woden gets Mercury’s day in addition to the night after Tiwesdæg’s sun sets, Thor gets Jupiter’s day, Freya gets Venus’ day, and they adopt Saturn for Saturday. We have very little else we can say about Tiw contemporary with his Rune Poem stanza besides that he is seen as similar to Mars. It’s all we’ve got for nearly a thousand years until Snorri Sturluson briefly mentions Tyr from time to time (a god of justice, missing a hand) and we can put Tiw and Tiw together.
 
 Well, it’s not all we’ve got. We have one more thing. We have an altar to Mars Thincso built at Vercovicium, an outpost at the center point of Hadrian’s Wall now called Housesteads. There were lots of altars to Mars along the wall: he was a favorite deity there and wherever else you might find soldiers within the Roman Empire. These worshipers of Mars were boys and young men mostly recruited from amongst the locals who brought their deities with them and mingled them together. The left side of the doorway to the alter at Vercovicium bears this inscription:
 
-Deo Marti Thincso et duabus Alaisiagis Bede et Fi- mmilene et N(umini) Aug(usti) Ger- m(ani) cives Tu- ihanti v(otum) s(olvit) l(ibens) m(erito) .
+Deo Marti Thincso et duabus Alaisiagis Bede et Fi- mmilene et N(umini) Aug(usti) Ger- m(ani) cives Tu- ihanti v(otum) s(olvit) l(ibens) m(erito).
 
 To the God Mars Thincso and the two Alaisaigae Beda and Fimmilena, and the divinity of Augustus, the German citizens of Tuihanti pay a vow willingly and deservedly.
 
-This is a record of a vow made by the citizens of Tuihanti, who were probably also called the Tubantes from Frisia located in what is now The Netherlands . There is another inscription found at Hadrian’s wall that describes the Tuihanti as “the German tribesmen of Tuihantis of the formation of Frisians of Vercovicium, Severus Alexanders’ own” which dates these Germans and their inscriptions to Emperor Severus Alexander’s reign from 222 to 235 when he was murdered in Britain by soldiers who disagreed with his tactic of bribing and buying off tribes like the Tuihantis. He had to do something to prevent them from raiding. Unfortunately, cash payments made Severus Alexander seem weak as well as disloyal to his own soldiers who would have preferred a more honorable battle and would have liked the money for themselves. They stabbed him to death for it, and his mother Julia Mamaea too for good measure since she made all his decisions for him. Paying off the German tribes was her idea. It was a bad idea.
+This is a record of a vow made by the citizens of Tuihanti, who were probably also called the Tubantes from Frisia located in what is now The Netherlands. There is another inscription found at Hadrian’s wall that describes the Tuihanti as “the German tribesmen of Tuihantis of the formation of Frisians of Vercovicium, Severus Alexanders’ own” which dates these Germans and their inscriptions to Emperor Severus Alexander’s reign from 222 to 235 when he was murdered in Britain by soldiers who disagreed with his tactic of bribing and buying off tribes like the Tuihantis. He had to do something to prevent them from raiding. Unfortunately, cash payments made Severus Alexander seem weak as well as disloyal to his own soldiers who would have preferred a more honorable battle and would have liked the money for themselves. They stabbed him to death for it, and his mother Julia Mamaea too for good measure since she made all his decisions for him. Paying off the German tribes was her idea. It was a bad idea.
 
-It is possible that these Tuihanti, or Tubantes made their vow to Mars Thincso, the Alaisaigae, and Augustus, a title for the Roman emperor, in answer to a battle or a bribe. It’s unclear. What is clear is that a þing was held. A thing. What is this thing? A meeting. A legal meeting to determine a just outcome for whatever problem, presided over by the deities of the thing, such as Mars Thincso who was perhaps the god of justice in battle, which makes him so similar to the little we know about Tiw and Tyr that this Mars Thincso is thought to be the same god. The Alaisiagae were Germanic goddesses and their names Bede and Fimmilena only ever appear in twice, both times in inscriptions that also mention the Frisian Tuihanti. Perhaps these goddesses belonged strictly to them? Nearly a thousand years later, in a West Frisian legal text called the Schulzenrecht we might connect some dots. It’s all we have, just these dots. In this 12th century book we find two legal terms: bodthing , and fimelthing. The bodthing, was a required legal assembly and the fimelthing is described as an additional afterthing, or something called a disobedient thing, which was perhaps a movable court type thing. Maybe it was less formal, or smaller for communicating the results of a larger thing to a more localized population? Maybe it was a contest or a battle? These things happened. A thing can be a battle. In Old English a bod is a command or mandate, an edict. Legal. Fimel means nothing. Finel means fennel the vegetable. So. Dots don’t always connect. Although, the volatile oil of a yew tree, Tiw’s Rune Poem partner , smells exactly like fennel: dots may be found if you really want them to be there .
+It is possible that these Tuihanti, or Tubantes made their vow to Mars Thincso, the Alaisaigae, and Augustus, a title for the Roman emperor, in answer to a battle or a bribe. It’s unclear. What is clear is that a þing was held. A thing. What is this thing? A meeting. A legal meeting to determine a just outcome for whatever problem, presided over by the deities of the thing, such as Mars Thincso who was perhaps the god of justice in battle, which makes him so similar to the little we know about Tiw and Tyr that this Mars Thincso is thought to be the same god. The Alaisiagae were Germanic goddesses and their names Bede and Fimmilena only ever appear in twice, both times in inscriptions that also mention the Frisian Tuihanti. Perhaps these goddesses belonged strictly to them? Nearly a thousand years later, in a West Frisian legal text called the Schulzenrecht we might connect some dots. It’s all we have, just these dots. In this 12th century book we find two legal terms: bodthing, and fimelthing. The bodthing, was a required legal assembly and the fimelthing is described as an additional afterthing, or something called a disobedient thing, which was perhaps a movable court type thing. Maybe it was less formal, or smaller for communicating the results of a larger thing to a more localized population? Maybe it was a contest or a battle? These things happened. A thing can be a battle. In Old English a bod is a command or mandate, an edict. Legal. Fimel means nothing. Finel means fennel the vegetable. So. Dots don’t always connect. Although, the volatile oil of a yew tree, Tiw’s Rune Poem partner, smells exactly like fennel: dots may be found if you really want them to be there.
 
-There is something more substantial to be found in these Hadrian’s Wall inscriptions. A legal meeting was held, perhaps in the form of a battle. Perhaps some Germans were paid off? Or beaten in combat and made to promise never to do whatever they did again lest they displease the legal gods, the warlike gods of the thing. Was one of these gods Tiw? Maybe. He was important enough to get a day, a rune, and a stanza in the rune poem, and his rune carved onto weapons. It would be odd if he didn’t show up amongst the weapon wielding soldiers, the people who trusted him and depended upon him the most. The emperor might betray the military, but Tiw never deceives .
+There is something more substantial to be found in these Hadrian’s Wall inscriptions. A legal meeting was held, perhaps in the form of a battle. Perhaps some Germans were paid off? Or beaten in combat and made to promise never to do whatever they did again lest they displease the legal gods, the warlike gods of the thing. Was one of these gods Tiw? Maybe. He was important enough to get a day, a rune, and a stanza in the rune poem, and his rune carved onto weapons. It would be odd if he didn’t show up amongst the weapon wielding soldiers, the people who trusted him and depended upon him the most. The emperor might betray the military, but Tiw never deceives.
 
 ### How to Make Poison
 
@@ -5914,11 +5914,11 @@ There is something more substantial to be found in these Hadrian’s Wall inscri
 ![How to Make Poison](archive/thumbs/2023_02_199-S-Letters-for-Titles-Vern-Tonkin-300x212.jpg)
 ![How to Make Poison](archive/thumbs/2023_02_HowtoMakePoison-LettersforTitles-VernTonkin-271x300.jpg)
 
-You’ve murdered before . Good. Now you’ll want to refine your technique and go for a killing more subtle, more elegant. Undoubtedly your next move should be poison. It is clean, classic, and with just a few basic ingredients and a bit of alchemy performed in even the most modest of kitchens, you can achieve a fine toxin useful for dropping into a drink or rubbing onto the shaft of an arrow . Wear gloves for that, this one can be absorbed through skin. You will need patience for your efforts as well, unlike a loud splashy war or a more intimate stabbing, a successful poisoning is not enhanced by anger. Let your rage go, for now. Holding onto anger is like poisoning yourself and expecting your enemy to die.
+You’ve murdered before. Good. Now you’ll want to refine your technique and go for a killing more subtle, more elegant. Undoubtedly your next move should be poison. It is clean, classic, and with just a few basic ingredients and a bit of alchemy performed in even the most modest of kitchens, you can achieve a fine toxin useful for dropping into a drink or rubbing onto the shaft of an arrow. Wear gloves for that, this one can be absorbed through skin. You will need patience for your efforts as well, unlike a loud splashy war or a more intimate stabbing, a successful poisoning is not enhanced by anger. Let your rage go, for now. Holding onto anger is like poisoning yourself and expecting your enemy to die.
 
-First, source a yew tree . Yew trees are so delightfully toxic that even inhaling the sawdust or pollen can kill you, though it would have to be a great deal of the pollen. Fortunately, if you suffer from hay fever you will be pleased to learn that you may avoid springtime’s seasonal allergies altogether, as the best time to harvest a yew is in winter when the tree’s poisonous content is at a peak. You will also want to visit your yew in the fall when it fruits because the seeds it produces at that time are especially deadly. Your objective ought to be the especially deadly.
+First, source a yew tree. Yew trees are so delightfully toxic that even inhaling the sawdust or pollen can kill you, though it would have to be a great deal of the pollen. Fortunately, if you suffer from hay fever you will be pleased to learn that you may avoid springtime’s seasonal allergies altogether, as the best time to harvest a yew is in winter when the tree’s poisonous content is at a peak. You will also want to visit your yew in the fall when it fruits because the seeds it produces at that time are especially deadly. Your objective ought to be the especially deadly.
 
-Look in the yards of particularly old churches for your yew tree. They are often to be found whimsically surrounded by graves , which conveniently set the exact right tone for your project. If you do not have an old churchyard handy, look in a beech forest where the yew likes to grow in the darker understory, which can exude a picturesque creepy vibe of its own, depending upon the time of day and your level of comfort in woodlands.
+Look in the yards of particularly old churches for your yew tree. They are often to be found whimsically surrounded by graves, which conveniently set the exact right tone for your project. If you do not have an old churchyard handy, look in a beech forest where the yew likes to grow in the darker understory, which can exude a picturesque creepy vibe of its own, depending upon the time of day and your level of comfort in woodlands.
 
 Because autumn’s decay and death does set a nice grim stage, you may wish to lean into the vibe and enhance the witchy elements of your project. Perhaps for autumn seed gathering choose an auspicious day like Halloween, when the boundaries between life and death dissolve. If you require more flexibility in your calendar, select any day in winter during a waxing moon, and if you choose daytime, select a time after the sun has reached the peak of its trip across the daytime sky, though you may decide the dark of night is preferable to day for nefarious action. If so, wait until after Orion has reached its highest point in the sky and the same goes for the moon. Finally, be careful to harvest the yew when the hour and minute hands are both falling.
 
@@ -5928,9 +5928,9 @@ Pick the freshest of the needles rather than older ones, and gather as many seed
 
 Grind the needles and seeds in a mortar and weigh what you have: each gram contains approximately 5 mg of toxin. For an effective poison you will need between 3 mg and 6 mg per kilogram of your enemy’s body weight to do the job, or as a rule of thumb about one gram of material per kilogram of your target’s weight should do the job nicely. If an average person weights 70 kilograms, you will need 70 grams of plant material or about 2.5 ounces. Depending upon your ultimate plan, it doesn’t take much.
 
-Combine the ground yew mixture with 190 proof alcohol. Heat to a gentle simmer, and reduce by a third. Cool and decant into a glass jar and add equal parts water and vinegar. Soak for a lengthy period of time, the longer the better. Days. Weeks. As long as you can stand to wait. You are cultivating patience as well as death, though some find impatience to be its own virtue in the end, as you will have to get on with the poisoning proper at some point. Certainly if your aim is warfare you must be ready in time for battle season which begins in the springtime. Nobody wants to go to war in the winter . Keep an eye on signs the new year is upon you and craft your poison accordingly.
+Combine the ground yew mixture with 190 proof alcohol. Heat to a gentle simmer, and reduce by a third. Cool and decant into a glass jar and add equal parts water and vinegar. Soak for a lengthy period of time, the longer the better. Days. Weeks. As long as you can stand to wait. You are cultivating patience as well as death, though some find impatience to be its own virtue in the end, as you will have to get on with the poisoning proper at some point. Certainly if your aim is warfare you must be ready in time for battle season which begins in the springtime. Nobody wants to go to war in the winter. Keep an eye on signs the new year is upon you and craft your poison accordingly.
 
-When it is time, again paying attention to the moon, the sun, Orion, and the clock hands, let all be falling and not rising, strain the remaining mixture into a pot and bring to a gentle boil. Condense by half, then store in a dark glass bottle. You hold death in this bottle. Protect it from the light . Never let it leave your sight unless you hide it well. Bury it in a grave, somebody else’s or better than that your own . Hide it from yourself, you are clearly not a person to be trusted. No wonder you are exiled in wretchedness. You have death and nothing else.
+When it is time, again paying attention to the moon, the sun, Orion, and the clock hands, let all be falling and not rising, strain the remaining mixture into a pot and bring to a gentle boil. Condense by half, then store in a dark glass bottle. You hold death in this bottle. Protect it from the light. Never let it leave your sight unless you hide it well. Bury it in a grave, somebody else’s or better than that your own. Hide it from yourself, you are clearly not a person to be trusted. No wonder you are exiled in wretchedness. You have death and nothing else.
 
 ### Translating Tiw
 
@@ -5939,19 +5939,19 @@ When it is time, again paying attention to the moon, the sun, Orion, and the clo
 ![Translating Tiw](archive/thumbs/2023_02_201-O-Letters-For-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Tiw](archive/thumbs/2023_02_Translating-Tiw-LettersforTitles-Vern-Tonkin-300x97.jpg)
 
-The Rune Poem says Tiw is one of the signs, a tacn, a token. This is the first clue in the riddle. A sign is a clue to something as well; signs symbolize in shorthand something else. A letter in an alphabet is a sign that means a sound and sometimes a whole word. The color of a light hanging over a road is a sign standing as evidence of broader meanings, covenants of mutual trust , expectations of behavior. And signs can be signs for signs, like these: 💰 , 🐮 , 🌹🌵 , 😉 , 🛣 , 🔦 , 🎁 , 🤑 , ⛈ , 💔🆘👂 , ❄️ , 🌱 , 🌲🪦 , 🎮 , 🧬 , 🌅 , 🪧⭐⚖ , 🌳🔮 , 🐴 , 🫂🪦 , 🌊 , 🛒👋 , 🏠 , ☀ , 🌳🌰⛵ , 🌳😇👊 , 🏹 , 🦫 , 🪦 . These are signs in nested levels of scale. It’s signs all the way down.
+The Rune Poem says Tiw is one of the signs, a tacn, a token. This is the first clue in the riddle. A sign is a clue to something as well; signs symbolize in shorthand something else. A letter in an alphabet is a sign that means a sound and sometimes a whole word. The color of a light hanging over a road is a sign standing as evidence of broader meanings, covenants of mutual trust, expectations of behavior. And signs can be signs for signs, like these: 💰, 🐮, 🌹🌵, 😉, 🛣, 🔦, 🎁, 🤑, ⛈, 💔🆘👂, ❄️, 🌱, 🌲🪦, 🎮, 🧬, 🌅, 🪧⭐⚖, 🌳🔮, 🐴, 🫂🪦, 🌊, 🛒👋, 🏠, ☀, 🌳🌰⛵, 🌳😇👊, 🏹, 🦫, 🪦. These are signs in nested levels of scale. It’s signs all the way down.
 
-What was a sign to somebody who thought in Old English? Same as it is now: a symbol for something, an astrological collection of stars, evidence of a former reality, proof of a shared understanding or covenant of trust that will take us far into the future, a portent of the future itself imparted by a deity as a marvel, a miracle, if we would listen to omens beforehand . There are lots of kinds of signs. Tiw is one of the signs.
+What was a sign to somebody who thought in Old English? Same as it is now: a symbol for something, an astrological collection of stars, evidence of a former reality, proof of a shared understanding or covenant of trust that will take us far into the future, a portent of the future itself imparted by a deity as a marvel, a miracle, if we would listen to omens beforehand. There are lots of kinds of signs. Tiw is one of the signs.
 
-We have other clues to think about, the stanza says Tiw is a sign located in the night sky, forever, always: a constant. Is Tiw a star? A constellation? A planet? Perhaps Tiw is not a planet, they can come and go. We can rule out the big dipper as that is a cart chasing after Ing. Princes trust it, maybe Tiw is something useful for navigation like the pole star? The pole star stays put though, and the Rune Poem tells us that Tiw is on færylde , on a journey, perhaps an ylde , an old journey, so it might be Orion, a constellation that no matter where you are in the world, rises in the east and sets in the west and always has: The sight of Orion hunting that great aurochs Taurus is an indispensable tool for navigation. You can see it well too, as it contains some of the brightest stars in the night sky, and you can trust it, it holds a trywa , a covenant, an assurance of good faith that your direction of travel at night may be determined with accuracy. Orion will not deceive you. Trust you will not be lost.
+We have other clues to think about, the stanza says Tiw is a sign located in the night sky, forever, always: a constant. Is Tiw a star? A constellation? A planet? Perhaps Tiw is not a planet, they can come and go. We can rule out the big dipper as that is a cart chasing after Ing. Princes trust it, maybe Tiw is something useful for navigation like the pole star? The pole star stays put though, and the Rune Poem tells us that Tiw is on færylde, on a journey, perhaps an ylde, an old journey, so it might be Orion, a constellation that no matter where you are in the world, rises in the east and sets in the west and always has: The sight of Orion hunting that great aurochs Taurus is an indispensable tool for navigation. You can see it well too, as it contains some of the brightest stars in the night sky, and you can trust it, it holds a trywa, a covenant, an assurance of good faith that your direction of travel at night may be determined with accuracy. Orion will not deceive you. Trust you will not be lost.
 
-What else was Tiw to the rune carvers? A constellation is not just a group of stars, it is a sign of something else, with meaning, a story, perhaps a whole mythology. If Tiw was a constellation, what was the picture in the sky people saw when they looked at it? What else do we know about Tiw? Besides one stanza of the Rune Poem, it is not much. We know Tiw has a day: Tuesday. Other days are named after important deities, Tiw must have been an important deity too. Who? Tuesday is also called Martes, Mars’ day. When Tacitus visited Germania in the first century, he says the Germanic people revere Mercury above all others, this is clearly Odin, and sacrifice to Hercules and Mars as well. Who were Hercules and Mars? It’s not clear. People have guessed Hercules is Thor, or possibly Mann . Is Mars Tiw? Mars is the Roman god of war; the rune carvers incised their battle gear with Tiw’s rune, an invocation to the deity who will help them in combat the most, so it makes sense to think of Tiw as a battle god like Mars. What written sources do we have for this? None. This is it for evidence of Tiw, just a stanza in the Rune Poem, a shared day of the week with Mars, and runes carved onto weapons.
+What else was Tiw to the rune carvers? A constellation is not just a group of stars, it is a sign of something else, with meaning, a story, perhaps a whole mythology. If Tiw was a constellation, what was the picture in the sky people saw when they looked at it? What else do we know about Tiw? Besides one stanza of the Rune Poem, it is not much. We know Tiw has a day: Tuesday. Other days are named after important deities, Tiw must have been an important deity too. Who? Tuesday is also called Martes, Mars’ day. When Tacitus visited Germania in the first century, he says the Germanic people revere Mercury above all others, this is clearly Odin, and sacrifice to Hercules and Mars as well. Who were Hercules and Mars? It’s not clear. People have guessed Hercules is Thor, or possibly Mann. Is Mars Tiw? Mars is the Roman god of war; the rune carvers incised their battle gear with Tiw’s rune, an invocation to the deity who will help them in combat the most, so it makes sense to think of Tiw as a battle god like Mars. What written sources do we have for this? None. This is it for evidence of Tiw, just a stanza in the Rune Poem, a shared day of the week with Mars, and runes carved onto weapons.
 
 But hold up, look several hundred years down the road at what Snorri Sturluson is doing with the gods: he is telling their stories. It’s hard to see from here I know, we are talking about deities written down at the turn of the thirteenth century, seven hundred years plus from when the Rune Poem was written, let alone let alone the distance from when they were first thought of. But look at what Snorri has to say. Yes he’s making all the old stories a bit more sexy for his audience, a teenaged king wants flash and excitement. And narrative: he wants a complete story with major characters and a supporting cast and there he is! Tiw, now called Tyr, shows up as a minor character, sometimes a sidekick at best, it’s still not much, but there he is!
 
-Here’s Tyr’s biggest appearance in Snorri’s work, found in Gylfaninning , the first part of the Prose Eddas: The gods are concerned because their downfall is coming. Loki has had three monster children with a giantess called Angrboða, meaning somebody who forebodes grief, so that’s a relationship choice bound for unpleasant consequences. All three of their offspring will have a destructive part to play during Ragnarok, the doom of the gods. Being gods they can see their destruction coming, so they banish two of the monster children: Jormungand, a serpent, is sent to chew at the roots of the world tree , a death goddess named Hel they exile into the underworld , leaving a fen dwelling wolf named Fenrir to deal with. Fenrir they decide to raise from a puppy, which doesn’t always work when managing the behavior of a wild animal. A wolf is still a wolf even if you treat it like a pet dog . Tyr takes charge of feeding Fenrir, and does his job well because the puppy grows very big very quickly. Massive. So massive the gods decide they will have to chain Fenrir up, you can’t let a vicious dog like that loose to wander just anywhere, but how to do that without at least minimal cooperation from Fenrir? Fenrir doesn’t trust them the slightest bit. They’ll have to trick him into chains. they accomplish this by calling it feats of strength, here boy, can you break this chain? How about this one? They chain him, he breaks it, the gods applaud! Good boy! Well done! Have a treat! Like you do when puppy training. Positive reinforcement on repeat. Finally they ask the dwarves to craft an unbreakable chain from the sound of a cat’s footstep, the beard of a woman, the roots of a rock, the sinews of a bear, the breath of a fish, and the spittle of a bird. Put these mostly impossible things together and you can fashion a highly magical item. Fenrir is suspicious. This new chain is light and soft and different. He agrees to be bound by it, but as a sign of good faith, so everybody can trust everybody else, one of the gods will have put a hand in his mouth: if you aren’t planning to trick me, you won’t mind me holding your hand between my teeth, now would you? If I can trust you, I have no reason to bite you, now do I? This is Fenrir’s thinking, but nobody wants to step up, nobody but Tyr. Fenrir can trust Tyr. Tyr never deceives. Never. In goes Tyr’s hand, on goes the chain which Fenrir discovers he cannot break, and off goes the hand that feeds him. Just like that. One bite.
+Here’s Tyr’s biggest appearance in Snorri’s work, found in Gylfaninning, the first part of the Prose Eddas: The gods are concerned because their downfall is coming. Loki has had three monster children with a giantess called Angrboða, meaning somebody who forebodes grief, so that’s a relationship choice bound for unpleasant consequences. All three of their offspring will have a destructive part to play during Ragnarok, the doom of the gods. Being gods they can see their destruction coming, so they banish two of the monster children: Jormungand, a serpent, is sent to chew at the roots of the world tree, a death goddess named Hel they exile into the underworld, leaving a fen dwelling wolf named Fenrir to deal with. Fenrir they decide to raise from a puppy, which doesn’t always work when managing the behavior of a wild animal. A wolf is still a wolf even if you treat it like a pet dog. Tyr takes charge of feeding Fenrir, and does his job well because the puppy grows very big very quickly. Massive. So massive the gods decide they will have to chain Fenrir up, you can’t let a vicious dog like that loose to wander just anywhere, but how to do that without at least minimal cooperation from Fenrir? Fenrir doesn’t trust them the slightest bit. They’ll have to trick him into chains. they accomplish this by calling it feats of strength, here boy, can you break this chain? How about this one? They chain him, he breaks it, the gods applaud! Good boy! Well done! Have a treat! Like you do when puppy training. Positive reinforcement on repeat. Finally they ask the dwarves to craft an unbreakable chain from the sound of a cat’s footstep, the beard of a woman, the roots of a rock, the sinews of a bear, the breath of a fish, and the spittle of a bird. Put these mostly impossible things together and you can fashion a highly magical item. Fenrir is suspicious. This new chain is light and soft and different. He agrees to be bound by it, but as a sign of good faith, so everybody can trust everybody else, one of the gods will have put a hand in his mouth: if you aren’t planning to trick me, you won’t mind me holding your hand between my teeth, now would you? If I can trust you, I have no reason to bite you, now do I? This is Fenrir’s thinking, but nobody wants to step up, nobody but Tyr. Fenrir can trust Tyr. Tyr never deceives. Never. In goes Tyr’s hand, on goes the chain which Fenrir discovers he cannot break, and off goes the hand that feeds him. Just like that. One bite.
 
-And there’s nothing more said about Tyr, not even his reaction to losing his hand. He is still associated with war by the time Snorri Sturluson and the writers of the Poetic Eddas get their hands on him. Loki tells Tyr in Lokasenna , one of the Poetic Eddas, to be quiet in a negotiation because he can never foster friendship between people. In Sigrdrífumál, the hero Sigurd is told to carve winning runes on his sword and call on Tyr twice before battle. There are other war gods, though, Thor and Odin. Thor presides over brute force, the physicality of combat, and Odin over strategy and magic. What is Tyr’s job in war? Justice. Tyr makes sure the outcome is just. War was often fought as a method of determining a legal outcome. Tyr’s influence would ensure that the winner ought to win, that the victory is seen as just, you can trust it, like a duel of honor but on a larger scale. A proper and just outcome in war is how to achieve tir , the Old English word for glory which feels so satisfying when it comes from a well earned battle victory. This is why Tyr loses his hand: his sacrifice ensures that bamboozling Fenrir into chains is in some way a proper and just contract, a trywa , a covenant of trust legitimized by a fair exchange: if you deceive me, I get to bite off your hand. And who better to soothe a vicious wolf into feeling trusting than the god who never deceives. Tyr would rather lose a hand than be untrustworthy. You can trust him still. Nightly he fulfills his covenant with us to rise in the east and set in the west . You can count on him, steer by him. He will not lead you astray. He will never deceive you.
+And there’s nothing more said about Tyr, not even his reaction to losing his hand. He is still associated with war by the time Snorri Sturluson and the writers of the Poetic Eddas get their hands on him. Loki tells Tyr in Lokasenna, one of the Poetic Eddas, to be quiet in a negotiation because he can never foster friendship between people. In Sigrdrífumál, the hero Sigurd is told to carve winning runes on his sword and call on Tyr twice before battle. There are other war gods, though, Thor and Odin. Thor presides over brute force, the physicality of combat, and Odin over strategy and magic. What is Tyr’s job in war? Justice. Tyr makes sure the outcome is just. War was often fought as a method of determining a legal outcome. Tyr’s influence would ensure that the winner ought to win, that the victory is seen as just, you can trust it, like a duel of honor but on a larger scale. A proper and just outcome in war is how to achieve tir, the Old English word for glory which feels so satisfying when it comes from a well earned battle victory. This is why Tyr loses his hand: his sacrifice ensures that bamboozling Fenrir into chains is in some way a proper and just contract, a trywa, a covenant of trust legitimized by a fair exchange: if you deceive me, I get to bite off your hand. And who better to soothe a vicious wolf into feeling trusting than the god who never deceives. Tyr would rather lose a hand than be untrustworthy. You can trust him still. Nightly he fulfills his covenant with us to rise in the east and set in the west. You can count on him, steer by him. He will not lead you astray. He will never deceive you.
 
 ### Translating Eoh
 
@@ -5960,15 +5960,15 @@ And there’s nothing more said about Tyr, not even his reaction to losing his h
 ![Translating Eoh](archive/thumbs/2023_02_203-L-Letters-for-Titles-Vern-Tonkin-279x300.jpg)
 ![Translating Eoh](archive/thumbs/2023_02_translating-eoh-lettersfortitles-vern-tonkin-300x104.jpg)
 
-A tree does not show up in the Rune Poem unless it is important. You think they’ll let just any tree grow in these sacred woods? No. These are the god trees. Useful too. The oak grows here, you can eat the nuts, feed them to the pigs, make a drink from them, make boats from the wood, and the elders used to revere it as the world tree . The actual world tree is here too, the ash , also useful for making spears that won’t shatter on impact. Nice straight grained strong wood, that, holds it all up. The birch is a calendar tree , the first to green up in spring so you know the new year has come. You can eat the new shoots , tap it for the sap which makes a nice drink, and it provides twigs for divination. Everybody wants to know the future . And here we find the Yew : beloved, important, powerful, and deadly.
+A tree does not show up in the Rune Poem unless it is important. You think they’ll let just any tree grow in these sacred woods? No. These are the god trees. Useful too. The oak grows here, you can eat the nuts, feed them to the pigs, make a drink from them, make boats from the wood, and the elders used to revere it as the world tree. The actual world tree is here too, the ash, also useful for making spears that won’t shatter on impact. Nice straight grained strong wood, that, holds it all up. The birch is a calendar tree, the first to green up in spring so you know the new year has come. You can eat the new shoots, tap it for the sap which makes a nice drink, and it provides twigs for divination. Everybody wants to know the future. And here we find the Yew: beloved, important, powerful, and deadly.
 
-The sacred grove in the Rune Poem is very carefully planted. They placed the Yew next to the rune pair containing the Birch, the tree of the new year and new life, for a reason. Some life will last, the birch brings that promise of life’s renewal, but our lives have an end. Each and every one of us must depart from the other , and the ancient yew, the long living tree of death is here to remind us that life and death exist side by side. Deadly bows are made from yew, the inner heartwood handles compression nicely and the outer sapwood takes tension and stretching well: together they make an outstanding weapon. Prized. Makes you look deadly attractive on a horse carrying one of these. But be careful, the yew can kill you dead another way. The needles, the seeds, the bark: you can make a powerful poison with these for rubbing onto arrowheads or slipping into a drink.
+The sacred grove in the Rune Poem is very carefully planted. They placed the Yew next to the rune pair containing the Birch, the tree of the new year and new life, for a reason. Some life will last, the birch brings that promise of life’s renewal, but our lives have an end. Each and every one of us must depart from the other, and the ancient yew, the long living tree of death is here to remind us that life and death exist side by side. Deadly bows are made from yew, the inner heartwood handles compression nicely and the outer sapwood takes tension and stretching well: together they make an outstanding weapon. Prized. Makes you look deadly attractive on a horse carrying one of these. But be careful, the yew can kill you dead another way. The needles, the seeds, the bark: you can make a powerful poison with these for rubbing onto arrowheads or slipping into a drink.
 
 This death tree is also one of life: where its evergreen drooping branches touch the earth, it can root and make new trees just like that. Wyrtrumun means to root, or root stock, and it also means the source of something, an origin or beginning. The yew can begin all over again just by touching the earth. Not every tree can resurrect itself. Not every tree can live for thousands of years either. There are yew trees now, today, that were already ancient when some miserable rune carver, perhaps exiled in wretchedness, stood under them to gather needles and berries, a little bark, and set to grinding them together.
 
 It may be that the rune carvers used the yew as a gathering spot. Being a tree of longevity, you can count on it to still be there, years later. Let’s meet there. The Christians showed up and wanted to meet there too. They have a habit of choosing pre-established important sites for their buildings and wherever Old English was spoken, it was under the local yew tree where the earliest churches were placed and where they buried their dead, making graveyards the yew’s natural habitat.
 
-The Rune Poem says nothing of any of this directly, what we get in the riddle is more of a botanical description. It is not a smooth tree, it’s unsmeþe . It is also heard, hrusen fæst . Hard, earth-fast. Yews have hard wood and gnarled trunks with rough peeling bark, and are very well rooted into the ground, fixed fast to the earth. A massive yew does not fall down. Rumun means room, roomy, like the rooms the trees make with the curving of its branches, perhaps to be used as meeting places? Rumun can also mean a long extension of time, a roomy temporality, but most often it means the root of a plant. I translate it as roots, the yew is reliably supported by roots, but also by its spacious longevity.
+The Rune Poem says nothing of any of this directly, what we get in the riddle is more of a botanical description. It is not a smooth tree, it’s unsmeþe. It is also heard, hrusen fæst. Hard, earth-fast. Yews have hard wood and gnarled trunks with rough peeling bark, and are very well rooted into the ground, fixed fast to the earth. A massive yew does not fall down. Rumun means room, roomy, like the rooms the trees make with the curving of its branches, perhaps to be used as meeting places? Rumun can also mean a long extension of time, a roomy temporality, but most often it means the root of a plant. I translate it as roots, the yew is reliably supported by roots, but also by its spacious longevity.
 
 The rune carvers love this tree, it is wyn on eþel especially, a joy in the home. It burns intensely hot, and very slowly. Put a yew log on your fire last thing before going to bed and it will smolder for hours, keeping the place warm for a long time, and safely too. It seldom sparks. That is, unless you try to burn it when it is still green, as the Norwegian Rune Poem points out. That poem says:
 
@@ -5980,9 +5980,9 @@ It is widely the greenest drawing near winter;
 
 it lacks when it is burning and won’t hurt you.
 
-Now we know yew wood is anything but lacking when it burns, but like other hard woods it does take a long time to season. Vetrgrønstr is a compound made up of words meaning drawing near winter, and greenest. Of all the wood you cut this year, the yew will be the greenest come winter. Don’t burn it yet, wait. Some translate sviða as to crackle or spit, but yew wood does not behave this way when burning, unless it contains too much moisture from being unseasoned. Sviða usually means to singe or to cause pain by burning. Burn it green and the stanza says it won’t get nearly as hot as when it is seasoned, when it can really cause some pain. Careful sitting too close to that hot fire. This is the whole point of the well seasoned yew log: wood that burns extremely hot, safely, and for a long time, all night if you like. One big yew log and you can sleep warm for hours without worrying your fire will launch a crackling cinder and burn your house down . The Rune poem calls the yew the hyrde fyres , the herder of fire. Like a shepherd or gamekeeper, you can trust a yew log to keep your fire rounded up and where it is supposed to be. You’ve got to love that when your house is made of wood.
+Now we know yew wood is anything but lacking when it burns, but like other hard woods it does take a long time to season. Vetrgrønstr is a compound made up of words meaning drawing near winter, and greenest. Of all the wood you cut this year, the yew will be the greenest come winter. Don’t burn it yet, wait. Some translate sviða as to crackle or spit, but yew wood does not behave this way when burning, unless it contains too much moisture from being unseasoned. Sviða usually means to singe or to cause pain by burning. Burn it green and the stanza says it won’t get nearly as hot as when it is seasoned, when it can really cause some pain. Careful sitting too close to that hot fire. This is the whole point of the well seasoned yew log: wood that burns extremely hot, safely, and for a long time, all night if you like. One big yew log and you can sleep warm for hours without worrying your fire will launch a crackling cinder and burn your house down. The Rune poem calls the yew the hyrde fyres, the herder of fire. Like a shepherd or gamekeeper, you can trust a yew log to keep your fire rounded up and where it is supposed to be. You’ve got to love that when your house is made of wood.
 
-The rune carvers loved the yew for carving too, or so we can imagine, carved wood doesn’t last long in a wet climate. But we can think this because the only wooden rune carvings contemporary with the Rune Poem that have survived are carved into yew wood. These carvings were found in Frisia, a North Sea coastal kingdom east of Britain and now part of The Netherlands. There survives a weaving slay with personal names or perhaps a code carved into it, a yew wand that provides the bearer with power over the waves, another yew wand that says always carry this yew into battle, and a sword made of yew wood carved with these runes: ᛖᛞᚫᛒᚩᛞᚪ edæboda . A code? A proper name? Æboda means of a business, or a statute, or a messenger of the law, and ed as a prefix means a return or a repetition. Maybe an old law or agreement is current again? We don’t know the legal business at hand, but keep in mind that a wooden sword, even with nothing carved into it, may be a bad news message of its own.Somebody just sent you all kinds of symbolism in that chunk of wood. Kill the boda , the messenger, and throw that yew sword on the fire, let it burn hot and slow and for godssakes don’t put it in your mouth, the yew tree can kill you. Trust me , this tree wants you dead.
+The rune carvers loved the yew for carving too, or so we can imagine, carved wood doesn’t last long in a wet climate. But we can think this because the only wooden rune carvings contemporary with the Rune Poem that have survived are carved into yew wood. These carvings were found in Frisia, a North Sea coastal kingdom east of Britain and now part of The Netherlands. There survives a weaving slay with personal names or perhaps a code carved into it, a yew wand that provides the bearer with power over the waves, another yew wand that says always carry this yew into battle, and a sword made of yew wood carved with these runes: ᛖᛞᚫᛒᚩᛞᚪ edæboda. A code? A proper name? Æboda means of a business, or a statute, or a messenger of the law, and ed as a prefix means a return or a repetition. Maybe an old law or agreement is current again? We don’t know the legal business at hand, but keep in mind that a wooden sword, even with nothing carved into it, may be a bad news message of its own.Somebody just sent you all kinds of symbolism in that chunk of wood. Kill the boda, the messenger, and throw that yew sword on the fire, let it burn hot and slow and for godssakes don’t put it in your mouth, the yew tree can kill you. Trust me, this tree wants you dead.
 
 ### Stanza 13: Yew
 
@@ -6067,7 +6067,7 @@ It’s clear as day you’ve been feeling all at sea lately, but don’t give up
 ![Rune Casting: Peorþ](archive/thumbs/2023_02_215-T-Letters-for-Titles-Vern-Tonkin-267x300.jpg)
 ![Rune Casting: Peorþ](archive/thumbs/2023_02_Rune-Casting-Peorth-lettersfortitles-vern-tonkin-300x246.jpg)
 
-Something’s missing . It’s missing and what it is exactly is unclear. What is clear is that you will soon have time for fun and recreation so lean into it. Gather together with friends, peacefully united, and play. Play hard, this is a battle.
+Something’s missing. It’s missing and what it is exactly is unclear. What is clear is that you will soon have time for fun and recreation so lean into it. Gather together with friends, peacefully united, and play. Play hard, this is a battle.
 
 ### How to Play the Game
 
@@ -6075,13 +6075,13 @@ Something’s missing . It’s missing and what it is exactly is unclear. What i
 
 ![How to Play the Game](archive/thumbs/2023_02_how-to-play-the-game-letters-for-titles-vern-tonkin-239x300.jpg)
 
-You don’t just play this game. It’s fun, yes, everybody battling peacefully united , but this is more than that and deadly serious. Focus. If you want to win you have to immerse. You live in this game. Make the game is an extension of your body and after you are gone they will find the game board intermingled with your ashes.
+You don’t just play this game. It’s fun, yes, everybody battling peacefully united, but this is more than that and deadly serious. Focus. If you want to win you have to immerse. You live in this game. Make the game is an extension of your body and after you are gone they will find the game board intermingled with your ashes.
 
 Decide which of you is going to be the eorl with the þegns and who wants to be the attacking sæmanum coming from the four corners to take el jefe in the middle, but don’t let that happen. That’s not going to happen. Not on your watch. The boss holds it all together and you will fight with everything you have to defend him. Ok. You’ve chosen. You’ve got the center ground.
 
 There’s more attackers than you, You’ve got somebody important and powerful right in your very center, but they’ve got strength in numbers. You have strength too, remember that, built right in. Let the square you’ve made with your bodies be a walled city, protecting the goods inside. Keep your guard up and be patient. Don’t be too patient or they’ll surround you right there up close, chipping away, starving you out. Be careful. You have to move your eorl, but you don’t have to move fast.
 
-Now play. Be unpredictable. Go on instinct, don’t overthink. If your opponent plays mind games, keep your head out of it or you’ve become an attacker too, but of your own self. Be unfazed. Let your gaze across the board be blissful, benign. Take a sip of your drink. Look peaceful and react to nothing. Give them nothing . Nothing is more unnerving to your opponent than nothing.
+Now play. Be unpredictable. Go on instinct, don’t overthink. If your opponent plays mind games, keep your head out of it or you’ve become an attacker too, but of your own self. Be unfazed. Let your gaze across the board be blissful, benign. Take a sip of your drink. Look peaceful and react to nothing. Give them nothing. Nothing is more unnerving to your opponent than nothing.
 
 ### P is for Poetry
 
@@ -6090,11 +6090,11 @@ Now play. Be unpredictable. Go on instinct, don’t overthink. If your opponent 
 ![P is for Poetry](archive/thumbs/2023_02_219-N-Letters-for-Titles-Vern-Tonkin-220x300.jpg)
 ![P is for Poetry](archive/thumbs/2023_02_P-is-for-Poetry-LettersforTitles-VernTonkin-300x300.jpg)
 
-Old English poetry was performed, probably sung , for purposes beyond mere entertainment. The Germanic tribes Tacitus visited at the end of the first century would prep for battle by barding, which he called “a peculiar kind of verse” sung to stimulate their courage and to divine the outcome of the coming fight through the quality of the sound itself. Tacitus tells us about these peculiar verses almost immediately in his report back to the empire , so you know it was impressive. It would be. Imagine it: he says the people would put their battle shields to their mouths, perhaps in them, and sing. A shield as a musical instrument. Their favorite sounds were “a harsh piercing note and a broken roar,” which “does not seem so much an articulate song, as the wild chorus of valor.” What were the words? Were they the names of the gods? An appeal for their protection? A share in their courage? Hwat? Whatever it was, it was loud, and it was important. They could tell the future from what they could hear, barding before battle, so it better sound like the right future. The gods are listening, and talking, so make it count. Think of what the experience of standing amidst all that resonance would be, words vibrating into your core, amplified by the shields and the adrenaline. Imagine an army coming at you sounding like that. Poetry as augury and weapon. Terrifying.
+Old English poetry was performed, probably sung, for purposes beyond mere entertainment. The Germanic tribes Tacitus visited at the end of the first century would prep for battle by barding, which he called “a peculiar kind of verse” sung to stimulate their courage and to divine the outcome of the coming fight through the quality of the sound itself. Tacitus tells us about these peculiar verses almost immediately in his report back to the empire, so you know it was impressive. It would be. Imagine it: he says the people would put their battle shields to their mouths, perhaps in them, and sing. A shield as a musical instrument. Their favorite sounds were “a harsh piercing note and a broken roar,” which “does not seem so much an articulate song, as the wild chorus of valor.” What were the words? Were they the names of the gods? An appeal for their protection? A share in their courage? Hwat? Whatever it was, it was loud, and it was important. They could tell the future from what they could hear, barding before battle, so it better sound like the right future. The gods are listening, and talking, so make it count. Think of what the experience of standing amidst all that resonance would be, words vibrating into your core, amplified by the shields and the adrenaline. Imagine an army coming at you sounding like that. Poetry as augury and weapon. Terrifying.
 
-The Rune Poem is also poetry as augury, and I expect it was sung in plenty of terrifying circumstance. I expect it was sung because most Old English poems were songs, and because they ordered the Rune Poem into groups of eight like octaves: eight notes arranged by their frequencies, which you can feel very particularly for yourself whilst barding with a shield in your mouth. An octave is eight notes because when a sound’s frequency doubles, it takes eight notes to get there. Middle C vibrates at 261.6hz, tenor C’s vibration doubles that rate: 523.2hz, and double again to Soprano C and again to double high C. You can divide going the other way too, it’s Cs all the way down, and all around the world as well, plenty of cultures knew that music is the voice of mathematics .
+The Rune Poem is also poetry as augury, and I expect it was sung in plenty of terrifying circumstance. I expect it was sung because most Old English poems were songs, and because they ordered the Rune Poem into groups of eight like octaves: eight notes arranged by their frequencies, which you can feel very particularly for yourself whilst barding with a shield in your mouth. An octave is eight notes because when a sound’s frequency doubles, it takes eight notes to get there. Middle C vibrates at 261.6hz, tenor C’s vibration doubles that rate: 523.2hz, and double again to Soprano C and again to double high C. You can divide going the other way too, it’s Cs all the way down, and all around the world as well, plenty of cultures knew that music is the voice of mathematics.
 
-The Rune Poem is arranged into three octaves , as many as a single person’s voice can reach. The octaves are named after the gods Freyr/Freya , Tiw , and Hægl who gets an octave despite never having existed . After the three octaves, five vowels are tacked on. They are the sounds for runes not as old as the originals which were already old when the Rune Poem was written down. We need these extra vowels, they are the slipperiest letters and have a way of shifting into new sounds that need to be represented by new letters all the time. I wonder what their notes were, the new vowels, were they half notes like sharps and flats? What did each rune sound like, and were they sung together as chords? What about the pairs that form when you line them up in a string and dangle both ends from the middle ? What would that sound like? What stories did that poetry sing? What meanings could you make by sounding runes together, like human and need , or the sea and the sun ? Could a person transmit a comprehensible message just by humming notes? Was a person’s name also a melody? The runes for god and for human are the same note two octaves apart, separated by the new year in the middle: linear human temporality as defined by the calendar cycle has always divided us from understanding our gods’ eternality . That’s the oldest song ever, and what does it sound like? Somebody ought to compose it and write it down this time so people will remember, so it is not just gone forever the second the last of its singers close their mouths.
+The Rune Poem is arranged into three octaves, as many as a single person’s voice can reach. The octaves are named after the gods Freyr/Freya, Tiw, and Hægl who gets an octave despite never having existed. After the three octaves, five vowels are tacked on. They are the sounds for runes not as old as the originals which were already old when the Rune Poem was written down. We need these extra vowels, they are the slipperiest letters and have a way of shifting into new sounds that need to be represented by new letters all the time. I wonder what their notes were, the new vowels, were they half notes like sharps and flats? What did each rune sound like, and were they sung together as chords? What about the pairs that form when you line them up in a string and dangle both ends from the middle? What would that sound like? What stories did that poetry sing? What meanings could you make by sounding runes together, like human and need, or the sea and the sun? Could a person transmit a comprehensible message just by humming notes? Was a person’s name also a melody? The runes for god and for human are the same note two octaves apart, separated by the new year in the middle: linear human temporality as defined by the calendar cycle has always divided us from understanding our gods’ eternality. That’s the oldest song ever, and what does it sound like? Somebody ought to compose it and write it down this time so people will remember, so it is not just gone forever the second the last of its singers close their mouths.
 
 ### Always
 
@@ -6180,7 +6180,7 @@ Y: I don’t have to listen to you.
 
 X: When do you ever listen to me? When? This is you all over. You cheat at everything, not just games, this isn’t just games, because you can’t be bothered to actually commit to thinking your way through anything, then you lie about it, you lie about things you don’t even have to lie about, then you rage quit. Everything you do, everything in your life! I could murder you and society would thank me.
 
-Y: I hate game night and I hate you. Actually, I take that back, I don’t hate you. I don’t care enough about you to hate you. You are nothing to me . No, wait, you are the robber! That’s who you are, you’re the robber! You sit on my resources all colorless and grey, all the time, and you block me from getting anything I want. You’re the robber!
+Y: I hate game night and I hate you. Actually, I take that back, I don’t hate you. I don’t care enough about you to hate you. You are nothing to me. No, wait, you are the robber! That’s who you are, you’re the robber! You sit on my resources all colorless and grey, all the time, and you block me from getting anything I want. You’re the robber!
 
 X: You’re an idiot. I’m everything to you! I live in your head! God it’s like psychological warfare and the other side has no ammunition.
 
@@ -6205,9 +6205,9 @@ Z: Two.
 ![Sitting to Battle](archive/thumbs/2023_02_225-H-Letters-for-Titles-Vern-Tonkin-293x300.jpg)
 ![Sitting to Battle](archive/thumbs/2023_02_Sitting-to-Battle-LettersforTitles-Vern-Tonkin-300x207.jpg)
 
-Imagine yourself sitting in a beer hall with the rune carvers, playing a game requiring strategy, skill, luck. You are feeling wlanc , proud, boastful. What are you boasting about? Other times you relied on strategy, skill, and luck. These were a seafaring people , you might be boasting about what you got up to at sea, what you plan to do next when the sun comes back and the weather turns favorable again for sea voyages. This is all you want to do, to get back out there on a boat and really do something to be proud of.
+Imagine yourself sitting in a beer hall with the rune carvers, playing a game requiring strategy, skill, luck. You are feeling wlanc, proud, boastful. What are you boasting about? Other times you relied on strategy, skill, and luck. These were a seafaring people, you might be boasting about what you got up to at sea, what you plan to do next when the sun comes back and the weather turns favorable again for sea voyages. This is all you want to do, to get back out there on a boat and really do something to be proud of.
 
-Imagine yourself sitting in a boat , battling big waves sending you in all directions, the sea horse has lost its bridle , the sun is obscured by storm clouds or gone altogether and you must navigate by the stars . You’ve been in the wars, and you want the sun to come back to dry you out and guide you home. There you can gather with your friends, have a beer together, play a game , have some fun. This is all you want to do.
+Imagine yourself sitting in a boat, battling big waves sending you in all directions, the sea horse has lost its bridle, the sun is obscured by storm clouds or gone altogether and you must navigate by the stars. You’ve been in the wars, and you want the sun to come back to dry you out and guide you home. There you can gather with your friends, have a beer together, play a game, have some fun. This is all you want to do.
 
 ### L-a
 
@@ -6237,11 +6237,11 @@ So d-t l-k at me.
 ![S is for Saxon](archive/thumbs/2023_02_231-E-Letters-for-Titles-Vern-Tonkin-227x300.jpg)
 ![S is for Saxon](archive/thumbs/2023_02_S-is-for-Saxon-letters-for-titles-vern-tonkin-300x126.jpg)
 
-People hear Anglo Saxon and assume it means a genetically white person living in any time period from the end of the Roman occupation of Britain to our own. Some use the term Anglo Saxon as code for exclusive whiteness, very exclusive as in a whites only but only certain whites kind of way, but this was never true of the actual historical people who have been labeled the original Anglo Saxons. There was no such white homogeneity in the medieval world. Nor was there a population who thought of themselves as Anglo Saxon. Dig up the people who lived in Britain during and after the Romans and before the Norman invasion and ask them. They’ll tell you. The bones in the ground speak the truth : there was no population replacement, Romano Celts out and Germanic invaders in. There was no wave of mass immigration from an entirely white culture. This did not happen. What did happen is what happens to this day: go to Britain right now and look around. It’s diverse. People live there who come from all over the place. Go to Britain a millennium and a half ago to the time of the Rune Poem, before, and it is diverse. People living there who come from all over the place . What you dig up in Britain is a shared culture people call Anglo Saxon, that looks a lot less shared the closer you get to it. You will not dig up a shared genetics.
+People hear Anglo Saxon and assume it means a genetically white person living in any time period from the end of the Roman occupation of Britain to our own. Some use the term Anglo Saxon as code for exclusive whiteness, very exclusive as in a whites only but only certain whites kind of way, but this was never true of the actual historical people who have been labeled the original Anglo Saxons. There was no such white homogeneity in the medieval world. Nor was there a population who thought of themselves as Anglo Saxon. Dig up the people who lived in Britain during and after the Romans and before the Norman invasion and ask them. They’ll tell you. The bones in the ground speak the truth: there was no population replacement, Romano Celts out and Germanic invaders in. There was no wave of mass immigration from an entirely white culture. This did not happen. What did happen is what happens to this day: go to Britain right now and look around. It’s diverse. People live there who come from all over the place. Go to Britain a millennium and a half ago to the time of the Rune Poem, before, and it is diverse. People living there who come from all over the place. What you dig up in Britain is a shared culture people call Anglo Saxon, that looks a lot less shared the closer you get to it. You will not dig up a shared genetics.
 
 Where did people come from? Everywhere in Europe, yes plenty came from Germany and the Netherlands, but also from Spain in particular and from France, the Middle East, North Africa, West Africa. Everywhere. And let’s not leave out the indigenous people whose ancestors lived in the place going back to prehistory. They didn’t just leave to be replaced by a bunch of Germans from northern Europe.
 
-Why do we think the population was replaced by people exclusively from Germanic territories? Because of a Germanic artistic style that became popular all over Europe, because the Tudors broke with Rome and enjoyed stories about local hero King Arthur whom they emulated and called Anglo Saxon, and most especially because Queen Victoria, German, and her German husband Albert found it politically expedient to English themselves up a bit with the idea that all the English were German first, except there is no first when talking about people. Not when people have been mixing all this time. Look at me . Dig me up and read the mixture in my bones. Like the rune carvers I come from more than one place, more than one race and I know it. I also know that by writing about a people considered by some to be not just white, but really really exclusively white, I wade into a world of racism, a place where runes and the people who carved them are claimed as fascist symbols for the exclusion of people like me, sitting to battle with my books and my computer, being creative about whatever I like and why shouldn’t I? I am not alone either. I was considered a rarity growing up, but there’s more and more of me every day, immigrants and half immigrants like me with a foot in two worlds, born in one and living in another, and people born in place, mixed and mixing. People just like the Anglo Saxons. My people. I have been waiting for you and here you are where you have always already been. Welcome home. You have always been here.
+Why do we think the population was replaced by people exclusively from Germanic territories? Because of a Germanic artistic style that became popular all over Europe, because the Tudors broke with Rome and enjoyed stories about local hero King Arthur whom they emulated and called Anglo Saxon, and most especially because Queen Victoria, German, and her German husband Albert found it politically expedient to English themselves up a bit with the idea that all the English were German first, except there is no first when talking about people. Not when people have been mixing all this time. Look at me. Dig me up and read the mixture in my bones. Like the rune carvers I come from more than one place, more than one race and I know it. I also know that by writing about a people considered by some to be not just white, but really really exclusively white, I wade into a world of racism, a place where runes and the people who carved them are claimed as fascist symbols for the exclusion of people like me, sitting to battle with my books and my computer, being creative about whatever I like and why shouldn’t I? I am not alone either. I was considered a rarity growing up, but there’s more and more of me every day, immigrants and half immigrants like me with a foot in two worlds, born in one and living in another, and people born in place, mixed and mixing. People just like the Anglo Saxons. My people. I have been waiting for you and here you are where you have always already been. Welcome home. You have always been here.
 
 ### How to Navigate by the Sun
 
@@ -6252,17 +6252,17 @@ Why do we think the population was replaced by people exclusively from Germanic 
 
 I do not advise navigating by the sun. It’s a mathematical mess with all parts in motion, the sun, the sea, you. Pure chaos. If you must get in a boat, stick to the coastline where you can see landmarks, read the marine life, always the same fish in the usual places, watch the birds.
 
-If you have to cross the open sea do it at night, when you can travel by nice comfortable starlight . The stars are dependable, they never deceive , but the sun will burn you the first chance it gets. It’s shifty, you can’t trust it, not unless you know it really well. Look at it right now. Don’t look at the sun. Remember where it was yesterday? It’s shifted its position along the horizon. it does it every day all year long, and not uniformly. Its movements vary depending upon your longitude and the time of year. If you are moving too, with the sun as your guide you will have to know when you are in order to know where. Still. If you insist on traveling by day, the sun might well be your savior .
+If you have to cross the open sea do it at night, when you can travel by nice comfortable starlight. The stars are dependable, they never deceive, but the sun will burn you the first chance it gets. It’s shifty, you can’t trust it, not unless you know it really well. Look at it right now. Don’t look at the sun. Remember where it was yesterday? It’s shifted its position along the horizon. it does it every day all year long, and not uniformly. Its movements vary depending upon your longitude and the time of year. If you are moving too, with the sun as your guide you will have to know when you are in order to know where. Still. If you insist on traveling by day, the sun might well be your savior.
 
 Start with the dawn. Where is the sun rising? What day is it today? If you are watching the sun come up during an equinox, you are looking east. Don’t look at the sun. If you are looking at the rising sun during the summer solstice, the sun is 45 degrees away in the northeast from the spot where it was during the equinox and you are up far too early. Go back to bed. The sun rises in the southeast during the winter solstice and long past the start of morning. What are you doing at sea in the dead of winter? Shouldn’t you be sleeping in? You have poor travel planning skills. Go home.
 
-Pay attention to the sun on equinox days. Stand in the same spot and see where the sun is rising. Put a monument there to help you remember. This is the middle of the sun’s road; middles are important . Now tomorrow, and every day, go back to the same spot and look at the sun. Don’t look at the sun. The sun moves by approximately twice its diameter every day . Approximately. It will move farther along each day the closer to the pole you get. Also, the nearer to an equinox. It won’t shift as far along the horizon if you are closer to the equator or to the time of a solstice.
+Pay attention to the sun on equinox days. Stand in the same spot and see where the sun is rising. Put a monument there to help you remember. This is the middle of the sun’s road; middles are important. Now tomorrow, and every day, go back to the same spot and look at the sun. Don’t look at the sun. The sun moves by approximately twice its diameter every day. Approximately. It will move farther along each day the closer to the pole you get. Also, the nearer to an equinox. It won’t shift as far along the horizon if you are closer to the equator or to the time of a solstice.
 
 With these kinds of variables, to know your position in latitude you must be strictly accurate with your day counting. Keep a good calendar and learn what the sun does in your home port before you travel. Make a portable calendar. Find a straight stick, stand at your monument and hold it at arm’s length in front of your face toward the rising sun. Cut it so each end appears to touch the ends of the sun’s road to the solstices. These the two spots on the horizon where the sun stops, stays in the same place for a couple of sunrises, then turns around and goes back the other way. Carve the sun’s morning horizon position into your stick each day after that until it gets to the other end. Then carve Tiw’s name or Ing’s into it, either would work, they are both on a journey, and bring it with you when you go. If you settle in a new place you can compare where the sun is on the same day to where it would be at home and you can know if you are north or south of your home latitude, and approximately how far.
 
-Approximately. And nothing I’ve told you will work at all at sea. If you’ve changed your latitude, and you have, the length of the sun’s road along horizon will be different, and you won’t have any idea where the ends are to look for daily differences. To determine how far you’ve gone in latitude at sea, forget looking at the sun at dawn, don’t look at the sun, you’ll need to look at the sun at midday. To find midday, point your stick straight up and watch its shadow. Or use the mast of your boat if it has one as it is fixed in place. When the shadow is shortest, the sun is at its highest point in the sky. The shadow it forms at this time will point perfectly north and south no matter where you are in the world. At minimum, you can use this to find direction whatever day it is, though you will need more than the minimum or be lost forever at sea , exiled in wretchedness, no chance for return.
+Approximately. And nothing I’ve told you will work at all at sea. If you’ve changed your latitude, and you have, the length of the sun’s road along horizon will be different, and you won’t have any idea where the ends are to look for daily differences. To determine how far you’ve gone in latitude at sea, forget looking at the sun at dawn, don’t look at the sun, you’ll need to look at the sun at midday. To find midday, point your stick straight up and watch its shadow. Or use the mast of your boat if it has one as it is fixed in place. When the shadow is shortest, the sun is at its highest point in the sky. The shadow it forms at this time will point perfectly north and south no matter where you are in the world. At minimum, you can use this to find direction whatever day it is, though you will need more than the minimum or be lost forever at sea, exiled in wretchedness, no chance for return.
 
-Before you leave, fit your calendar stick with a short crosspiece, nice and straight, you can slide up and down. At midday, hold your stick under your eye outward from your face and line up the cross piece so that one end of it appears to touch the horizon, and the other touches the sun, don’t touch the sun, and mark that spot on your stick. This spot is home. Every midday while you are at sea, do it again, look at the sun, don’t look at the sun, and line up the crosspiece, sun on one end, horizon on the other. The sun will appear closer to the horizon at midday the farther north you go in latitude, higher in the sky if you are going south. But remember the day, you’ve got a calendar on your stick so use it because the sun is shifting, moving enough to mean big differences if you are trying to draw straight lines across the open sea. An angle of 2 degrees can be miles away from your destination, if you draw the line far enough, and you are going far. The sun is shifty and you are shifting too, your position north and south. And if the sky is overcast ? If your boat is tossed by a storm and your sea horse has lost its bridle ? If it is always cloudy at night and you can never see the stars? Then you need the sun, though it has taken your vision from one eye and is working on the other. I told you don’t look at the sun. The sun wants you blind. Still, you should try to see past that. You must overlook the sun’s rage. You must always hope for the sun or you will be lost.
+Before you leave, fit your calendar stick with a short crosspiece, nice and straight, you can slide up and down. At midday, hold your stick under your eye outward from your face and line up the cross piece so that one end of it appears to touch the horizon, and the other touches the sun, don’t touch the sun, and mark that spot on your stick. This spot is home. Every midday while you are at sea, do it again, look at the sun, don’t look at the sun, and line up the crosspiece, sun on one end, horizon on the other. The sun will appear closer to the horizon at midday the farther north you go in latitude, higher in the sky if you are going south. But remember the day, you’ve got a calendar on your stick so use it because the sun is shifting, moving enough to mean big differences if you are trying to draw straight lines across the open sea. An angle of 2 degrees can be miles away from your destination, if you draw the line far enough, and you are going far. The sun is shifty and you are shifting too, your position north and south. And if the sky is overcast? If your boat is tossed by a storm and your sea horse has lost its bridle? If it is always cloudy at night and you can never see the stars? Then you need the sun, though it has taken your vision from one eye and is working on the other. I told you don’t look at the sun. The sun wants you blind. Still, you should try to see past that. You must overlook the sun’s rage. You must always hope for the sun or you will be lost.
 
 ### Translating Peorð
 
@@ -6271,9 +6271,9 @@ Before you leave, fit your calendar stick with a short crosspiece, nice and stra
 ![Translating Peorð](archive/thumbs/2023_03_235-S-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Peorð](archive/thumbs/2023_03_Translating-Peord-LettersforTitles-Vern-Tonkin-300x154.jpg)
 
-Nobody knows what this is for certain. The only time we ever see the word peorð in Old English is in lists of rune names, so we only know what the Rune Poem riddle says, that it is what it is . We don’t even have all the clues we need to identify it. The Peorð stanza has a hole right in its very center. In the first half of the second line a word most likely starting with W, so it can alliterate with wlancum , is missing. What? Why? Was it at the edge of a crumbling page? Did the vellum dry and split through the word? Did a worm eat it? Did a scribe forget to copy it ? The Rune Poem exists in only one copy of a manuscript that tragically burned in a fire , so we don’t know. We know the missing word is not wlancum, the dative plural of proud (to the proud, for the proud). Words don’t repeat side by side in the Rune Poem.
+Nobody knows what this is for certain. The only time we ever see the word peorð in Old English is in lists of rune names, so we only know what the Rune Poem riddle says, that it is what it is. We don’t even have all the clues we need to identify it. The Peorð stanza has a hole right in its very center. In the first half of the second line a word most likely starting with W, so it can alliterate with wlancum, is missing. What? Why? Was it at the edge of a crumbling page? Did the vellum dry and split through the word? Did a worm eat it? Did a scribe forget to copy it? The Rune Poem exists in only one copy of a manuscript that tragically burned in a fire, so we don’t know. We know the missing word is not wlancum, the dative plural of proud (to the proud, for the proud). Words don’t repeat side by side in the Rune Poem.
 
-The stanza gives fantastic clues, so we can know that this is a plega , a game, and a fun one because it causes hlehter , laughter. They played it during festival times, during feasts. People thought of this game as a wigan, a fight, a battle, but it probably wasn’t an active sport as they did it sittaþ , sitting down. They felt bliþe (blithe) playing this game too. It was a peaceful battle on beorsele , in the beerhall. Serious stuff, but very cheerful!
+The stanza gives fantastic clues, so we can know that this is a plega, a game, and a fun one because it causes hlehter, laughter. They played it during festival times, during feasts. People thought of this game as a wigan, a fight, a battle, but it probably wasn’t an active sport as they did it sittaþ, sitting down. They felt bliþe (blithe) playing this game too. It was a peaceful battle on beorsele, in the beerhall. Serious stuff, but very cheerful!
 
 ### Translating Sigel
 
@@ -6281,13 +6281,13 @@ The stanza gives fantastic clues, so we can know that this is a plega , a game, 
 
 ![Translating Sigel](archive/thumbs/2023_03_Translating-Sigel-LettersforTitles-Vern-Tonkin-300x118.jpg)
 
-The answer to this riddle is the sun , though when you read it it could be something else related to seafaring. Semannum, more commonly spelled sæmanum , means mariners, plural, people in boats on the sea. Such people this stanza tells us, are always hoping for the answer to this riddle. They expect it too : hihte means joy as well as hope , but in the sense of an expectation of joy with elements of trust and comfort, which might otherwise be lacking in the cold and perilous waters of the North Sea.
+The answer to this riddle is the sun, though when you read it it could be something else related to seafaring. Semannum, more commonly spelled sæmanum, means mariners, plural, people in boats on the sea. Such people this stanza tells us, are always hoping for the answer to this riddle. They expect it too: hihte means joy as well as hope, but in the sense of an expectation of joy with elements of trust and comfort, which might otherwise be lacking in the cold and perilous waters of the North Sea.
 
-Much of the time sæmanum is used to mean a general sailor, but it is also a word for invaders by sea and by the ninth and tenth centuries became a word for Viking . In the Old English poem “The Battle of Malden,” about a Viking attack that happened in the year 991, the Vikings were called sæman. But these mariners in the much older Rune Poem may be engaged in any oceanic activity: fishing or trading goods, or they might well be sæman heading to battle or returning from one. Feriaþ has the sense of moving away from somewhere, and the stanza ends when the brinhengest bringeþ , brings them back to land. Either way they are traveling over the fishes’ beþ , spelled differently from the gannet’s bæþ in the Oak stanza but meaning the same thing: bath. The variation in spelling and dialects to be found in the Rune Poem means it had been copied by people speaking in different accents before it settled into the only version of it we have left.
+Much of the time sæmanum is used to mean a general sailor, but it is also a word for invaders by sea and by the ninth and tenth centuries became a word for Viking. In the Old English poem “The Battle of Malden,” about a Viking attack that happened in the year 991, the Vikings were called sæman. But these mariners in the much older Rune Poem may be engaged in any oceanic activity: fishing or trading goods, or they might well be sæman heading to battle or returning from one. Feriaþ has the sense of moving away from somewhere, and the stanza ends when the brinhengest bringeþ, brings them back to land. Either way they are traveling over the fishes’ beþ, spelled differently from the gannet’s bæþ in the Oak stanza but meaning the same thing: bath. The variation in spelling and dialects to be found in the Rune Poem means it had been copied by people speaking in different accents before it settled into the only version of it we have left.
 
-We’ve seen the brimnhengest before, in the Sea stanza. Brim is a poetic word for the surface of the sea, the surf, and the seashore. Hengest means a stallion or gelding, or just a generic horse . I call it a sea horse in the Sea stanza and a sea stallion here for the S alliteration as this is the S stanza. A stallion also butches it up a bit if these mariners were traveling to and from a battle .
+We’ve seen the brimnhengest before, in the Sea stanza. Brim is a poetic word for the surface of the sea, the surf, and the seashore. Hengest means a stallion or gelding, or just a generic horse. I call it a sea horse in the Sea stanza and a sea stallion here for the S alliteration as this is the S stanza. A stallion also butches it up a bit if these mariners were traveling to and from a battle.
 
-This is a very oceanic stanza. It might mean good weather for sailing. It could mean a favorable wind. It is not these things though, we know the answer is the sun, not only because the sun is indispensable for navigating at sea , but because of another sun riddle, found in the Exeter Book . Here is that riddle typed out as it looks in its manuscript, all lines except for the first line and the last break at the edge of the page:
+This is a very oceanic stanza. It might mean good weather for sailing. It could mean a favorable wind. It is not these things though, we know the answer is the sun, not only because the sun is indispensable for navigating at sea, but because of another sun riddle, found in the Exeter Book. Here is that riddle typed out as it looks in its manuscript, all lines except for the first line and the last break at the edge of the page:
 
 slege dagum ⁊ nihtum :- :⁊ ᛋ
 
@@ -6303,7 +6303,7 @@ on feorran sƿiþe hi þæs felað þeah sƿylce þæs oþres þonne
 
 ic eft hyra ofer deop gedreag drohtað betan :⁊ ᛋ
 
-Do you see them? Two sigel runes, one immediately at the end, one set apart in the manuscript just above the word crist . The riddle starts with the capital letter M in Mec (the personal pronoun me). You might not see in a screen too small that the preceding riddle ends just above the word sigora (triumph, victory), then the scribe includes two forms of ending punctuation together for some reason (a double punctus with a stroke, the other a double punctus with a positura, looks like an italicized et ), that ends just above the first half of the word ƿaldend (ruler). Then there’s a good amount of space on the page before the sigel rune appears: it is deliberately placed where it is. The scribe stops writing after the word ƿinne (an opponent) and finishes the riddle on the next page, leaving a healthy margin at the bottom. The riddle, this time divided into lines by its metre, says:
+Do you see them? Two sigel runes, one immediately at the end, one set apart in the manuscript just above the word crist. The riddle starts with the capital letter M in Mec (the personal pronoun me). You might not see in a screen too small that the preceding riddle ends just above the word sigora (triumph, victory), then the scribe includes two forms of ending punctuation together for some reason (a double punctus with a stroke, the other a double punctus with a positura, looks like an italicized et), that ends just above the first half of the word ƿaldend (ruler). Then there’s a good amount of space on the page before the sigel rune appears: it is deliberately placed where it is. The scribe stops writing after the word ƿinne (an opponent) and finishes the riddle on the next page, leaving a healthy margin at the bottom. The riddle, this time divided into lines by its metre, says:
 
 The ruler of true triumph placed me.
 
@@ -6325,9 +6325,9 @@ Just as of other times when I again for them,
 
 Above the solemn multitude, improve their condition of life. ᛋ
 
-That second to last line gets awkward. Literally it says something like: such of others then I again of them, which I very much want to translate as: and as it is such so also as such is it unto you. I think it would work but I wouldn’t want to feel I’ve made a huge mistake. This is the sun speaking. The scribe or somebody reading it later included the sun rune at the end in case of confusion as to what can burn us without touching us, but there is enough here to figure it out. The sun is very far but we feel it as an oppression and also as a consolation. It cheers us, and it harms us. The word getenge illustrates the contradictory nature of the sun beautifully. It means pressing upon, oppressing, burdensome, but it also means to be near to somebody and to devote yourself to somebody: sometimes those devoted to us feel like a burden . Getenge can also mean something that has reached a height, like the sun in the sky, like the birch tree lyfte getenge , pressing upon the sky in its stanza. The sun presses against the sky and presses down upon us as well, commanded at times by the heaven king to attack. The line “when my lord heats me to fight,” might be better translated as “when my lord calls me to fight,” hateþ can have either meaning , but as this is the sun, when called to battle I suspect it gets very heated, which in Old English could mean to be angry just as it does today, so I think it works to remind us that the sun’s anger can burn.
+That second to last line gets awkward. Literally it says something like: such of others then I again of them, which I very much want to translate as: and as it is such so also as such is it unto you. I think it would work but I wouldn’t want to feel I’ve made a huge mistake. This is the sun speaking. The scribe or somebody reading it later included the sun rune at the end in case of confusion as to what can burn us without touching us, but there is enough here to figure it out. The sun is very far but we feel it as an oppression and also as a consolation. It cheers us, and it harms us. The word getenge illustrates the contradictory nature of the sun beautifully. It means pressing upon, oppressing, burdensome, but it also means to be near to somebody and to devote yourself to somebody: sometimes those devoted to us feel like a burden. Getenge can also mean something that has reached a height, like the sun in the sky, like the birch tree lyfte getenge, pressing upon the sky in its stanza. The sun presses against the sky and presses down upon us as well, commanded at times by the heaven king to attack. The line “when my lord heats me to fight,” might be better translated as “when my lord calls me to fight,” hateþ can have either meaning, but as this is the sun, when called to battle I suspect it gets very heated, which in Old English could mean to be angry just as it does today, so I think it works to remind us that the sun’s anger can burn.
 
-There’s a pun in the Old English word for burn: bearn means to burn and it means a child, Crist with the Sigel rune above his name is the bearn of the heaven king. If Christ is also the sun, perhaps the burning sun is the child of heaven? The pun has to stop here or we could go on to connect sun and son, but in Old English son would mean soon or sound, not boy child. Sometimes we can take things too far, though here we can still find layers of meaning. This line could read often I burn alive or often I am born alive, like the sun every morning, or as I have it here, I burn the living. There are layers of puns everywhere in Old English, translating it is an act of erasure . There might be another erasure here as well. There is plenty of evidence of pre-Christian sun worship amongst the rune carvers, perhaps when the Christians came and told everybody about heaven’s king, Christ as the light of the world replaced the local sun deity? It wouldn’t be the first time. Just ask Helios, or Mithra.
+There’s a pun in the Old English word for burn: bearn means to burn and it means a child, Crist with the Sigel rune above his name is the bearn of the heaven king. If Christ is also the sun, perhaps the burning sun is the child of heaven? The pun has to stop here or we could go on to connect sun and son, but in Old English son would mean soon or sound, not boy child. Sometimes we can take things too far, though here we can still find layers of meaning. This line could read often I burn alive or often I am born alive, like the sun every morning, or as I have it here, I burn the living. There are layers of puns everywhere in Old English, translating it is an act of erasure. There might be another erasure here as well. There is plenty of evidence of pre-Christian sun worship amongst the rune carvers, perhaps when the Christians came and told everybody about heaven’s king, Christ as the light of the world replaced the local sun deity? It wouldn’t be the first time. Just ask Helios, or Mithra.
 
 ### Stanza 16: Sun
 
@@ -6402,15 +6402,15 @@ You’ll be mired in it. You’ll twist yourself up trying to get out of a quagm
 ![X is for](archive/thumbs/2023_03_247-G-Letters-for-Titles-Vern-Tonkin-230x300.jpg)
 ![X is for](archive/thumbs/2023_03_x-is-for-lettersfortitles-vern-tonkin-1-300x300.jpg)
 
-X doesn’t start much in modern English, limiting our alphabet poets to a poor choice between xylophone and X-ray. This is why English speaking toddlers know so much about internal medicine. To branch out a bit sometimes our abecedarists will pick a short word ending in or containing X, because here we have options like axe and fox, words whose spellings have not changed since the time of the Rune Poem. In Old English, X starts no words, nothing, and it ends only a very few. This posed a conundrum for the Rune Poem poet as the runes came before the poem, and one of them signified the letter X. This is one of the clues we have that the runes might have originated with the Etruscans: the Etruscan X looks identical to the Old English rune for X: ᛉ. X is in the mix, so they had to find a word to represent it. X as a word ending being the only option, they went with eolhx , twisting us all around with its inscrutability unless you remember Britain was occupied by Latin speakers for 400 years, then we can see that eolhx is a perfectly clear choice and the best option. They didn’t have to go this route, though, there are some perfectly fine Old English X word alternatives just lying around for them to find. They could have chosen one of these:
+X doesn’t start much in modern English, limiting our alphabet poets to a poor choice between xylophone and X-ray. This is why English speaking toddlers know so much about internal medicine. To branch out a bit sometimes our abecedarists will pick a short word ending in or containing X, because here we have options like axe and fox, words whose spellings have not changed since the time of the Rune Poem. In Old English, X starts no words, nothing, and it ends only a very few. This posed a conundrum for the Rune Poem poet as the runes came before the poem, and one of them signified the letter X. This is one of the clues we have that the runes might have originated with the Etruscans: the Etruscan X looks identical to the Old English rune for X: ᛉ. X is in the mix, so they had to find a word to represent it. X as a word ending being the only option, they went with eolhx, twisting us all around with its inscrutability unless you remember Britain was occupied by Latin speakers for 400 years, then we can see that eolhx is a perfectly clear choice and the best option. They didn’t have to go this route, though, there are some perfectly fine Old English X word alternatives just lying around for them to find. They could have chosen one of these:
 
-Seax : A knife with a lot of variants like a blodseax , the knife to you use to draw enemy blood, or the metseax , a meat knife for the after battle feast. Or pick a grooming knife like the scearseax (razor) and næglsex , (nail cutting knife), these must have been small. Perhaps the wingeardseax was small too? This is a vinyard knife, useful for pruning but maybe not as exciting for poetry as a blodseax .
+Seax: A knife with a lot of variants like a blodseax, the knife to you use to draw enemy blood, or the metseax, a meat knife for the after battle feast. Or pick a grooming knife like the scearseax (razor) and næglsex, (nail cutting knife), these must have been small. Perhaps the wingeardseax was small too? This is a vinyard knife, useful for pruning but maybe not as exciting for poetry as a blodseax.
 
-Feax : Hair. There’s plenty of variety here too: wanfeax for brown hair, gyldenfeax for golden hair, gamolfeax and blandenfeax for grey hair, if you wear it in braids or twisted into dreads you have wundenfeax , and if you are bald you are andfeax , upfeax if you are only balding in the front.
+Feax: Hair. There’s plenty of variety here too: wanfeax for brown hair, gyldenfeax for golden hair, gamolfeax and blandenfeax for grey hair, if you wear it in braids or twisted into dreads you have wundenfeax, and if you are bald you are andfeax, upfeax if you are only balding in the front.
 
-Weax: Wax, very valuable, you could give somebody weaxgescot , a payment sometimes in the form of a weaxæppel , a wax apple, a ball of wax or half of one, a weaxhlaf . People were often weaxgoern , greedy, about it and no wonder. A weaxcandel is much cleaner burning than one made from tallow and very useful, especially to the weaxberende , the wax candle bearer who needs the light if they have any intention of writing into the night on their weaxbred: a writing tablet with a reusable wax surface.
+Weax: Wax, very valuable, you could give somebody weaxgescot, a payment sometimes in the form of a weaxæppel, a wax apple, a ball of wax or half of one, a weaxhlaf. People were often weaxgoern, greedy, about it and no wonder. A weaxcandel is much cleaner burning than one made from tallow and very useful, especially to the weaxberende, the wax candle bearer who needs the light if they have any intention of writing into the night on their weaxbred: a writing tablet with a reusable wax surface.
 
-You could look to the animals for X words and find some good options like fix , fish, or the more specific hranfix , merefix , scilfix , ælfix , and leax (whale, ocean fish, shellfish, eel, and salmon). If you want a land mammal you could pick the lox or the feldoxa , the lynx or a pastured ox, though this last one can be hard to motivate . You could also choose a bird , perhaps a mythical one like the fenix , or if you want to be even more mysterious pick the pernex , nobody knows what kind of bird that is.
+You could look to the animals for X words and find some good options like fix, fish, or the more specific hranfix, merefix, scilfix, ælfix, and leax (whale, ocean fish, shellfish, eel, and salmon). If you want a land mammal you could pick the lox or the feldoxa, the lynx or a pastured ox, though this last one can be hard to motivate. You could also choose a bird, perhaps a mythical one like the fenix, or if you want to be even more mysterious pick the pernex, nobody knows what kind of bird that is.
 
 Poor X. There’s not much for X to do in English. X is no S or C; it’s barely on the same level as Z. At least it’s not J. Without a few word endings and a whole list of scientific words, it’s hard to know why we keep X around. What is X for?
 
@@ -6429,17 +6429,17 @@ Turn back, don’t you see? Look where you are. Look at that evil plant spiralin
 
 ![Twist](archive/thumbs/2023_03_Twist-Vern-TonkinLetters-forTitles-copy-2-268x300.jpg)
 
-The answer to this stanza riddle is the word eolhx , meaning unclear. We know this is the name of the rune because this word appears in the only copy we have of the Rune Poem, printed in 1705 from the only surviving manuscript copy, which burned to ashes in a fire 26 years later . Was the word eolhx included in the burnt manuscript? We’ll never know.
+The answer to this stanza riddle is the word eolhx, meaning unclear. We know this is the name of the rune because this word appears in the only copy we have of the Rune Poem, printed in 1705 from the only surviving manuscript copy, which burned to ashes in a fire 26 years later. Was the word eolhx included in the burnt manuscript? We’ll never know.
 
-Eolhx appears nowhere else in Old English writing, so whatever it means, we have no clues apart from its Rune Poem stanza riddle. What is this word eolhx ? There are two compound words that begin with the same letters as eolhx , eolh , we can look at them: eolhsand (amber) and eolhstede (a shelter or a temple). S and means sand or gravel and stede is a place, a site for something, or to stand, a stand . Eolh must be something valuable; amber was very valuable all over Europe and a good shelter is to be prized, a temple revered. Perhaps this eolhx plant was important .
+Eolhx appears nowhere else in Old English writing, so whatever it means, we have no clues apart from its Rune Poem stanza riddle. What is this word eolhx? There are two compound words that begin with the same letters as eolhx, eolh, we can look at them: eolhsand (amber) and eolhstede (a shelter or a temple). Sand means sand or gravel and stede is a place, a site for something, or to stand, a stand. Eolh must be something valuable; amber was very valuable all over Europe and a good shelter is to be prized, a temple revered. Perhaps this eolhx plant was important.
 
-We know this is a plant, and the plant is a sedge, the stanza says so . Most translators want to call it an elk sedge because elh , elch , elha , and eola all mean elk. The idea behind this is that eolhx might mean elk in the genitive singular form: of the elk. This might be the elk’s plant, maybe as food or bedding, though the stanza says it is sharp and grows in the fen and why an elk would sleep on a prickly plant in a swamp makes little sense, but who knows why an elk does what it does. That’s the elk’s business. The real problem with this argument is that genitive singular would make the word look more like elhes or eoles , no X. Never an X. But we need this X, this is the rune for the letter X , which ends very few Old English words, begins none of them, and has nothing to do with any word for elk. I am not buying the elk as the best translation, though I can see that the plant eating elk might enjoy a good marsh sedge. Or maybe this sedge has stems that look like antlers resembling an elk? We don’t know.
+We know this is a plant, and the plant is a sedge, the stanza says so. Most translators want to call it an elk sedge because elh, elch, elha, and eola all mean elk. The idea behind this is that eolhx might mean elk in the genitive singular form: of the elk. This might be the elk’s plant, maybe as food or bedding, though the stanza says it is sharp and grows in the fen and why an elk would sleep on a prickly plant in a swamp makes little sense, but who knows why an elk does what it does. That’s the elk’s business. The real problem with this argument is that genitive singular would make the word look more like elhes or eoles, no X. Never an X. But we need this X, this is the rune for the letter X, which ends very few Old English words, begins none of them, and has nothing to do with any word for elk. I am not buying the elk as the best translation, though I can see that the plant eating elk might enjoy a good marsh sedge. Or maybe this sedge has stems that look like antlers resembling an elk? We don’t know.
 
-Did the rune carvers know the elk? Elk were gone from Britain, extinct long before the Rune Poem , though that wouldn’t stop it from being represented in a stanza. Look at the aurochs, also long extinct before the Rune Poem yet standing right here with the rest of the runes. Don’t stand next to an aurochs. The rune carvers prized the aurochs for its horns as the most ancient of treasures, the best kind, and for its general badassery, but there is no such reverence for the elk in the culture, which gets only a few rare mentions. Why should an animal not particularly revered or important to the rune carvers get a stanza in the Rune Poem?
+Did the rune carvers know the elk? Elk were gone from Britain, extinct long before the Rune Poem, though that wouldn’t stop it from being represented in a stanza. Look at the aurochs, also long extinct before the Rune Poem yet standing right here with the rest of the runes. Don’t stand next to an aurochs. The rune carvers prized the aurochs for its horns as the most ancient of treasures, the best kind, and for its general badassery, but there is no such reverence for the elk in the culture, which gets only a few rare mentions. Why should an animal not particularly revered or important to the rune carvers get a stanza in the Rune Poem?
 
-I don’t think this eolhx means elk, but it is not the nature of the elk or its position in society that makes me reject the poor animal as the stanza name. The elk is fine, let it graze on whatever it likes and sleep where it wants. It is the position of the stanza itself and the existence of a better candidate for the solution to this riddle that convinces me. Eolhx stands alone in the middle with all the others pairing up thematically on either side of it, spiraling around each other from the center until both ends meet at the beginning and end. Eolhx is the switchback of the poem, where the path through it turns and winds back the other way. I think eolhx means helix , a Latin plant name like so many others, borrowed into the language from the Romans who were right there. In classical Latin, helix means a kind of willow, a kind of ivy, a whorled shape, and the spiral shaped decorations on Corinthian columns. In lists of rune names found in Old English manuscripts, this rune is called elux , ilcs , iolx , ilx , ilcs , and ilix . None of these words appear anywhere else in Old English manuscripts besides in these alphabet lists, nor do they mean anything in Old English, beyond being the name for this rune. However, as close homophones, they may well be variant spellings of the Latin word helix . I think we might be all turned around on the subject if we think this rune means elk or as some have it, elk sedge as a compound word.
+I don’t think this eolhx means elk, but it is not the nature of the elk or its position in society that makes me reject the poor animal as the stanza name. The elk is fine, let it graze on whatever it likes and sleep where it wants. It is the position of the stanza itself and the existence of a better candidate for the solution to this riddle that convinces me. Eolhx stands alone in the middle with all the others pairing up thematically on either side of it, spiraling around each other from the center until both ends meet at the beginning and end. Eolhx is the switchback of the poem, where the path through it turns and winds back the other way. I think eolhx means helix, a Latin plant name like so many others, borrowed into the language from the Romans who were right there. In classical Latin, helix means a kind of willow, a kind of ivy, a whorled shape, and the spiral shaped decorations on Corinthian columns. In lists of rune names found in Old English manuscripts, this rune is called elux, ilcs, iolx, ilx, ilcs, and ilix. None of these words appear anywhere else in Old English manuscripts besides in these alphabet lists, nor do they mean anything in Old English, beyond being the name for this rune. However, as close homophones, they may well be variant spellings of the Latin word helix. I think we might be all turned around on the subject if we think this rune means elk or as some have it, elk sedge as a compound word.
 
-If you must have compound word like elk sedge as the answer to this riddle, and no other rune name consists of only half of a compound word so I don’t know why you would want that, then go for helix sedge and leave the elk in peace. Look at a sedge up close, watch those sharp edges, and you’ll see the sense in it. Sedge leaves grow in a spiral pattern around the stem. The helix is built right in: it is the perfect symbol for a poem that winds around itself, creating matched pairs starting on either side of this center point, the middle of the spiral. This rune’s stanza is the turning place that twists the Rune Poem into a unicursal labyrinth, coiling back along a self similar path through ideas of fate and prosperity and light and trust and the water cycle , all the way back to the beginning that is also the end which tells us this: though the rune pairs sing of what is most important, everything, all of it, is temporary .
+If you must have compound word like elk sedge as the answer to this riddle, and no other rune name consists of only half of a compound word so I don’t know why you would want that, then go for helix sedge and leave the elk in peace. Look at a sedge up close, watch those sharp edges, and you’ll see the sense in it. Sedge leaves grow in a spiral pattern around the stem. The helix is built right in: it is the perfect symbol for a poem that winds around itself, creating matched pairs starting on either side of this center point, the middle of the spiral. This rune’s stanza is the turning place that twists the Rune Poem into a unicursal labyrinth, coiling back along a self similar path through ideas of fate and prosperity and light and trust and the water cycle, all the way back to the beginning that is also the end which tells us this: though the rune pairs sing of what is most important, everything, all of it, is temporary.
 
 ### Loop
 
@@ -6455,15 +6455,15 @@ If you must have compound word like elk sedge as the answer to this riddle, and 
 ![How to See the Pair in the Middle](archive/thumbs/2023_03_255-P-Letters-for-Titles-Vern-Tonkin-163x300.jpg)
 ![How to See the Pair in the Middle](archive/thumbs/2023_03_how-to-see-the-pair-in-the-middle-letters-for-titles-vern-tonkin-300x300.jpg)
 
-The rune carvers thought in pairs. They had a whole pronoun classification for the two that are also one, so it is no surprise to find pairs in the Rune Poem, matched thematically: the end to the beginning, then the next two, reflecting each other in pairs to the middle . With an odd number of runes the middle one stands alone. This is Eolhx, the fifteenth of twenty nine runes in the poem, the only one without an opposing pair, though there may be a pair built into it, more than one. To see it, you must do two things:
+The rune carvers thought in pairs. They had a whole pronoun classification for the two that are also one, so it is no surprise to find pairs in the Rune Poem, matched thematically: the end to the beginning, then the next two, reflecting each other in pairs to the middle. With an odd number of runes the middle one stands alone. This is Eolhx, the fifteenth of twenty nine runes in the poem, the only one without an opposing pair, though there may be a pair built into it, more than one. To see it, you must do two things:
 
 1. Center yourself in a landscape or on water with a nice view of the horizon, east and west.
 
 2. Count the days and choose the beginning or end of the middle one as your moment. Choose both. The start or end of a day is up for debate in any case, the rune carvers started a new day at sunset though you might have other ideas.
 
-The middle of the month, that’s the middle day you want. The middle of the lunar month specifically, the center moment of the moon’s cycle of twenty nine days, one for each rune. In twenty nine appearances of the moon from new to full and back again, the central day is day fifteen. There you are, at sunrise and moonset, and again at sunset and moonrise in a landscape or perhaps on a boat where you can see both horizons and look! There they are, the great celestial pair, appearing equal in size to your eye, don’t look at the sun , illuminating the edges of the visible world, staring right through you at each other, the sun and the full moon, on opposite horizons. The rising moon chases the setting sun now wait for morning, look, the rising sun chases the setting moon: it’s a switching of positions, a reversal of the order. A twist. You live in the house of two mothers immersed : one births the other and the other births the first.
+The middle of the month, that’s the middle day you want. The middle of the lunar month specifically, the center moment of the moon’s cycle of twenty nine days, one for each rune. In twenty nine appearances of the moon from new to full and back again, the central day is day fifteen. There you are, at sunrise and moonset, and again at sunset and moonrise in a landscape or perhaps on a boat where you can see both horizons and look! There they are, the great celestial pair, appearing equal in size to your eye, don’t look at the sun, illuminating the edges of the visible world, staring right through you at each other, the sun and the full moon, on opposite horizons. The rising moon chases the setting sun now wait for morning, look, the rising sun chases the setting moon: it’s a switching of positions, a reversal of the order. A twist. You live in the house of two mothers immersed: one births the other and the other births the first.
 
-Don’t look at the sun. You don’t need to, to see another pair. Begin at its darkest and watch the moon show up as a sliver and strengthen each night until it reaches the fullness of its power on the fifteenth day of its cycle, then as it recedes back into absence, exiled in wretchedness , it takes the opposite appearance of its approach. Look at the moon on matching days on either side of the middle. Start with night 14 and night 16 if you like, but it doesn’t matter which pair you see, it can be nights 10 and 20, 6 and 24, 3 and 27, or 1 and 29 to match the number of the runes: it’s all matched pairs of moons in the mirror, mirrored again in the rune poem, both alphabet and lunar calendar. The full moon and the new moon birth each other as twins, different and the same, approaching and twisting back from the odd one out standing alone and containing many: the source of all pairs.
+Don’t look at the sun. You don’t need to, to see another pair. Begin at its darkest and watch the moon show up as a sliver and strengthen each night until it reaches the fullness of its power on the fifteenth day of its cycle, then as it recedes back into absence, exiled in wretchedness, it takes the opposite appearance of its approach. Look at the moon on matching days on either side of the middle. Start with night 14 and night 16 if you like, but it doesn’t matter which pair you see, it can be nights 10 and 20, 6 and 24, 3 and 27, or 1 and 29 to match the number of the runes: it’s all matched pairs of moons in the mirror, mirrored again in the rune poem, both alphabet and lunar calendar. The full moon and the new moon birth each other as twins, different and the same, approaching and twisting back from the odd one out standing alone and containing many: the source of all pairs.
 
 ### Translating Eolhx
 
@@ -6472,13 +6472,13 @@ Don’t look at the sun. You don’t need to, to see another pair. Begin at its 
 ![Translating Eolhx](archive/thumbs/2023_03_257-R-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![Translating Eolhx](archive/thumbs/2023_03_Translating-Eolhx-LettersforTitles-Vern-Tonkin-300x233.jpg)
 
-This is a stanza about a plant ; this is clear from the context and from the word secg , which means a sedge or reed. It also means a person, poetically, and a sword. In Beowulf it is a sword: ac wit on niht sculon secge ofersittan, gif he gesecean dear wig ofer wæpen (but we two are obliged to abstain from the sword in the night, if he dare seek battle without a weapon.) I translate secg as sword to enhance the riddling nature of the stanza. Of all the plants, a sharp sedge is the most sword like. It’s got edges like razors and will cut you just like that. This one in particular will give you grim wounds, with burning bloody blisters. Stay away, don’t grab hold of it . Like the thorn, this plant wants you to bleed .
+This is a stanza about a plant; this is clear from the context and from the word secg, which means a sedge or reed. It also means a person, poetically, and a sword. In Beowulf it is a sword: ac wit on niht sculon secge ofersittan, gif he gesecean dear wig ofer wæpen (but we two are obliged to abstain from the sword in the night, if he dare seek battle without a weapon.) I translate secg as sword to enhance the riddling nature of the stanza. Of all the plants, a sharp sedge is the most sword like. It’s got edges like razors and will cut you just like that. This one in particular will give you grim wounds, with burning bloody blisters. Stay away, don’t grab hold of it. Like the thorn, this plant wants you to bleed.
 
-This sedge lives in the fen . The stanza says fenne, a fen is a fen and I could have kept it as a perfectly fine word for a swampy place, but I use the word marsh because it alliterates with the word most. Alliteration is also the reason I translated gehwylcne, a whelk, as pustule. Alliteration is the first thing to go in Old English translation; it’s always important to preserve it when possible.
+This sedge lives in the fen. The stanza says fenne, a fen is a fen and I could have kept it as a perfectly fine word for a swampy place, but I use the word marsh because it alliterates with the word most. Alliteration is also the reason I translated gehwylcne, a whelk, as pustule. Alliteration is the first thing to go in Old English translation; it’s always important to preserve it when possible.
 
-This plant was unpleasant. Why ever would anybody want to gather them? Why was this plant so important it gets the center position in the Rune Poem? For one, it might have been used for roof thatching. They would be pretty durable for that. Waterproof. Another clue might be found in the many Old English manuscripts we have containing word glossaries. In them under the words eloxsecg, eolugsecg, ilugsegg, ilugseg , is the definition papiluus : papyrus. Perhaps this sedge was used for paper making? It would have been brittle paper that crumbles when dry, falls apart when wet, paper easily eaten by mold and bookworms , paper that oxidizes too quickly when touched by iron gall ink , paper that burns , paper that has not lasted the centuries, maybe not even a single century: words, so many of them, speaking what we’ll never know, gone.
+This plant was unpleasant. Why ever would anybody want to gather them? Why was this plant so important it gets the center position in the Rune Poem? For one, it might have been used for roof thatching. They would be pretty durable for that. Waterproof. Another clue might be found in the many Old English manuscripts we have containing word glossaries. In them under the words eloxsecg, eolugsecg, ilugsegg, ilugseg, is the definition papiluus: papyrus. Perhaps this sedge was used for paper making? It would have been brittle paper that crumbles when dry, falls apart when wet, paper easily eaten by mold and bookworms, paper that oxidizes too quickly when touched by iron gall ink, paper that burns, paper that has not lasted the centuries, maybe not even a single century: words, so many of them, speaking what we’ll never know, gone.
 
-All this is if this secg is the correct word . The copy we have of the burned Rune Poem manuscript doesn’t say secg eard , meaning sedge and dwelling place, it says seccard , meaning nothing. Seccard is not a word. Why does the copy say seccard ? This word sits just after the Peorþ stanza , with its missing word, so perhaps the manuscript page had problems here. Or the scribe did a poor job copying both stanzas? Most translators want that second C in seccard to be an E, which looks similar to C with blurred vision or in poor lighting, but gives more options: eard (dwelling place) geard (a yard, hedge fence, staff). These things make sense, especially eard . The stanza could be talking about a home in a fen. The poem has spoken of other home locations in other stanzas like the ones for Beaver and Aurochs , so we are on familiar damp ground here. That leaves sec at the beginning of seccard to mean something. Secan means to seek and secgan means to speak, both are verbs, but by word placement this seccard is probably a noun; verbs often come dead last in an Old English sentence. Secge is a noun meaning speech, like what you might write on a piece of brittle paper, but from the context the likeliest word it might be is probably not secge , it’s secg , sedge, a sword-like sedge, though speech can burn you into blisters if you let it. Perhaps some sort of pun was intended? It wouldn’t be the first time.
+All this is if this secg is the correct word. The copy we have of the burned Rune Poem manuscript doesn’t say secg eard, meaning sedge and dwelling place, it says seccard, meaning nothing. Seccard is not a word. Why does the copy say seccard? This word sits just after the Peorþ stanza, with its missing word, so perhaps the manuscript page had problems here. Or the scribe did a poor job copying both stanzas? Most translators want that second C in seccard to be an E, which looks similar to C with blurred vision or in poor lighting, but gives more options: eard (dwelling place) geard (a yard, hedge fence, staff). These things make sense, especially eard. The stanza could be talking about a home in a fen. The poem has spoken of other home locations in other stanzas like the ones for Beaver and Aurochs, so we are on familiar damp ground here. That leaves sec at the beginning of seccard to mean something. Secan means to seek and secgan means to speak, both are verbs, but by word placement this seccard is probably a noun; verbs often come dead last in an Old English sentence. Secge is a noun meaning speech, like what you might write on a piece of brittle paper, but from the context the likeliest word it might be is probably not secge, it’s secg, sedge, a sword-like sedge, though speech can burn you into blisters if you let it. Perhaps some sort of pun was intended? It wouldn’t be the first time.
 
 ### Stanza 15: Helix
 
@@ -6510,10 +6510,10 @@ For anyone who does grab hold of it.
 ![The Middle](archive/thumbs/2023_03_261-Period-Letters-for-Titles-Vern-Tonkin-300x300.jpg)
 ![The Middle](archive/thumbs/2023_03_Middle-Letters-for-Titles-Vern-Tonkin-1-300x280.jpg)
 
-If you have just found this Alphabet Book, this is not the beginning , this is the middle. You are in the middle. One might say you have no choice in this, none of us do, the middle is all we have between past and future, it is our only contact with reality. If you must have beginnings and endings, and some of us insist on on such things, well, find them in the middle, find them right here in the now, the only now we have , where every forward motion recapitulates a past one, spiral like and self similar. The Old English Rune Poem knows this well. Look at the material: magical letters, powerful, speaking auguries of the future from the lips of the gods, curing and protecting whatever they are carved into, evoking magic wherever they go. You can’t just line this stuff up in any old order. There’s an arrangement to it, a fluidity of motion, meaning hidden in structure. A beginning, an ending, a thematic pairing of first and last, then of their adjacent runes and so on until you run out and come to an end, which is to say the middle: the mother of all endings and beginnings.
+If you have just found this Alphabet Book, this is not the beginning, this is the middle. You are in the middle. One might say you have no choice in this, none of us do, the middle is all we have between past and future, it is our only contact with reality. If you must have beginnings and endings, and some of us insist on on such things, well, find them in the middle, find them right here in the now, the only now we have, where every forward motion recapitulates a past one, spiral like and self similar. The Old English Rune Poem knows this well. Look at the material: magical letters, powerful, speaking auguries of the future from the lips of the gods, curing and protecting whatever they are carved into, evoking magic wherever they go. You can’t just line this stuff up in any old order. There’s an arrangement to it, a fluidity of motion, meaning hidden in structure. A beginning, an ending, a thematic pairing of first and last, then of their adjacent runes and so on until you run out and come to an end, which is to say the middle: the mother of all endings and beginnings.
 
-When I first read the Rune poem in grad school I could see mathematically that something is here, there’s a figure in this carpet , but I didn’t know what, and I didn’t stick around to find out. I studied chronosophy which touches everything, so my work took me into multiple disciplines simultaneously reading two pages apiece of seventeen books every night and I didn’t have time to linger in one puzzle in a small corner of the Middle Ages. I can’t solve every riddle. Still, the Rune Poem would haunt me between projects. This is how it stuck to me, right in my middle. When I hadn’t decided what to do next, I’d work on the Rune Poem. It was small and something I could abandon in the middle. I had before. I first translated it between the end of course work and before my dissertation, which had plenty to do with Dante and Joyce and Borges and nothing to do with runes. I turned to it again, though, I couldn’t help it, and looked for patterns before I pivoted into writing something else involving a blank period of time including a cardrive, a visit to a house of mourning, a leavetaking (wilderness). In the middle of this came an epiphany about the Rune Poem written deeply deep on a green oval leaf: Hray!
+When I first read the Rune poem in grad school I could see mathematically that something is here, there’s a figure in this carpet, but I didn’t know what, and I didn’t stick around to find out. I studied chronosophy which touches everything, so my work took me into multiple disciplines simultaneously reading two pages apiece of seventeen books every night and I didn’t have time to linger in one puzzle in a small corner of the Middle Ages. I can’t solve every riddle. Still, the Rune Poem would haunt me between projects. This is how it stuck to me, right in my middle. When I hadn’t decided what to do next, I’d work on the Rune Poem. It was small and something I could abandon in the middle. I had before. I first translated it between the end of course work and before my dissertation, which had plenty to do with Dante and Joyce and Borges and nothing to do with runes. I turned to it again, though, I couldn’t help it, and looked for patterns before I pivoted into writing something else involving a blank period of time including a cardrive, a visit to a house of mourning, a leavetaking (wilderness). In the middle of this came an epiphany about the Rune Poem written deeply deep on a green oval leaf: Hray!
 
-In the end, where this Rune Poem translation begins, which is to say the middle, I found the secret. Rune means secret and the one the Rune Poem whispers is a pattern so simple yet so nicely hidden (no-one saw: tell no-one) right in my face this whole time hitting me over the head with itself but I didn’t see it for years. The Rune Poem is a calendar, lunar: a rune for each day of the lunar cycle when the moon gets brighter each night to the middle then turns and goes back out the way it came, a mirror image of itself back to darkness. The Rune poem is a labyrinth, unicursal: you go in one direction, get to the middle, turn and come back out the way you came. Turn like a helix turns , its backward path is self similar but not the same. Bring something to write with on your way into the labyrinth, or a sharp knife for carving and mark each rune on one wall in order to the middle rune which tells you to turn and write the second half on the facing wall. Let them mirror each other all the way out until you get to the end and the beginning, the last and also first of a series of matched sets , alpha and omega in another alphabet, feoh and ear in this one. F and EA, look at the pair of them telling me it is time to write the Rune Poem out of the middle I’d held it in for so long and present its pairs bowing to themselves in the mirror, from the ends to the middle and back again. Make it a fea , a joy, write the words in Old English and new and do what it does. Make it an instruction manual and a book of divination , show its sounds and shapes and write it in code and hide stuff in it like they used to do in Old English manuscripts, talk with the gods and make a riddle of a book to fill the great libraries of the world including Alexandria: a simple alphabet book , lowest of the low made from letters of such power they moved an ancient society to act, to war, to justice, to joy, to survival. Put it here where you see it now, in the middle moment of it all, where my end is your begin. Write it in light, more fragile than paper, because everything is temporary.
+In the end, where this Rune Poem translation begins, which is to say the middle, I found the secret. Rune means secret and the one the Rune Poem whispers is a pattern so simple yet so nicely hidden (no-one saw: tell no-one) right in my face this whole time hitting me over the head with itself but I didn’t see it for years. The Rune Poem is a calendar, lunar: a rune for each day of the lunar cycle when the moon gets brighter each night to the middle then turns and goes back out the way it came, a mirror image of itself back to darkness. The Rune poem is a labyrinth, unicursal: you go in one direction, get to the middle, turn and come back out the way you came. Turn like a helix turns, its backward path is self similar but not the same. Bring something to write with on your way into the labyrinth, or a sharp knife for carving and mark each rune on one wall in order to the middle rune which tells you to turn and write the second half on the facing wall. Let them mirror each other all the way out until you get to the end and the beginning, the last and also first of a series of matched sets, alpha and omega in another alphabet, feoh and ear in this one. F and EA, look at the pair of them telling me it is time to write the Rune Poem out of the middle I’d held it in for so long and present its pairs bowing to themselves in the mirror, from the ends to the middle and back again. Make it a fea, a joy, write the words in Old English and new and do what it does. Make it an instruction manual and a book of divination, show its sounds and shapes and write it in code and hide stuff in it like they used to do in Old English manuscripts, talk with the gods and make a riddle of a book to fill the great libraries of the world including Alexandria: a simple alphabet book, lowest of the low made from letters of such power they moved an ancient society to act, to war, to justice, to joy, to survival. Put it here where you see it now, in the middle moment of it all, where my end is your begin. Write it in light, more fragile than paper, because everything is temporary.
 
 ---

@@ -1,7 +1,7 @@
 # Letters for Titles — corpus structure
 
 Findings from a full harvest of <https://lettersfortitles.com> (262 posts,
-87,304 words, 479 images, published 2022-03-25 → 2023-03-20).
+85,942 words, 479 images, published 2022-03-25 → 2023-03-20).
 
 Everything below is regenerated and checked by `tools/structure.py`, which
 exits non-zero if the architecture it asserts no longer holds.

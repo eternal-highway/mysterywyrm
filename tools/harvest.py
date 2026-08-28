@@ -40,9 +40,19 @@ BLOCK_END = re.compile(
     r"</(?:p|div|h[1-6]|li|blockquote|figcaption|tr)>|<br\s*/?>", re.I)
 
 
+# Inline elements do not separate words. The site's editor wraps styled runs
+# mid-word ("Fruits fall, p</span><span style=...>leasures depart"), so a
+# blanket tag strip inserts a space inside the word and corrupts the text.
+# Block-level tags still collapse to a space; only these disappear.
+INLINE = ("a|abbr|b|bdi|bdo|big|cite|code|data|del|dfn|em|font|i|ins|kbd|mark|"
+          "q|s|samp|small|span|strike|strong|sub|sup|time|tt|u|var|wbr")
+INLINE_TAG = re.compile(rf"</?(?:{INLINE})(?:\s[^>]*)?/?>", re.I)
+
+
 def strip_html(fragment):
     """Rendered HTML -> plain text, dropping scripts and collapsing whitespace."""
     s = re.sub(r"<script.*?</script>", "", fragment, flags=re.S)
+    s = INLINE_TAG.sub("", s)
     s = re.sub(r"<[^>]+>", " ", s)
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
