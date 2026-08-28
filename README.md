@@ -54,8 +54,9 @@ text at all, only photographs of a notebook: **branch runes**, a stem with
 twigs counting the ætt on one side and the position within it on the other,
 drawn over and over in different costumes — arrows, a tree, wrapped gifts,
 faces, leaves laid on a table. The key is written on the facing page of one
-of them. The plates have not been read yet; see
-[`research/rune-code.md`](research/rune-code.md).
+of them, and the *Arrows* plate reads **THE ARROW ONE FOR… ARRIVES MORE
+SLOWLY** — the line its own header cites, *Paradiso* XVII.27. Sixteen plates
+are still unread; see [`research/rune-code.md`](research/rune-code.md).
 
 ## Contents
 
@@ -78,8 +79,9 @@ of them. The plates have not been read yet; see
 
 ## Tools
 
-All seven use only the Python standard library and are safe to re-run
-(downloads resume, nothing is re-fetched needlessly).
+The first seven use only the Python standard library and are safe to re-run
+(downloads resume, nothing is re-fetched needlessly). `branch.py` is a reading
+aid rather than a check, and is the one tool that needs Pillow and numpy.
 
 ```sh
 python3 tools/harvest.py        # rebuild data/corpus.json from the site's REST API
@@ -89,6 +91,7 @@ python3 tools/bibliography.py   # reparse the bibliography
 python3 tools/book.py           # regenerate book/ from the corpus
 python3 tools/edition.py        # collate the poem's two witnesses; write book/rune-poem.md
 python3 tools/cipher.py         # recover the filename message; non-zero exit on mismatch
+python3 tools/branch.py PLATE   # count the twigs on a branch-rune plate
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.

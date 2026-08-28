@@ -93,15 +93,50 @@ Thirteen of the fifteen chapters have at least one plate; *Everything is
 Temporary*, *They'll Cut You*, *You Have Nothing Else* and *Sitting to Battle*
 have two.
 
+## The first plate read: *Arrows*
+
+The *Arrows* plate (2022-06-06, chapter *They'll Cut You*) is seven rows of
+fletched arrows, one word per row. Read by the key above it gives:
+
+> **THE ARROW ONE FOR·… ARRIVES MORE SLOWLY**
+
+which is the line its own header cites — *Paradiso* XVII.27, *ché saetta
+previsa vien più lenta*, "for an arrow foreseen comes more slowly."
+
+| row | arrows | reading | how firm |
+|---|---|---|---|
+| 1 | 3 | **THE** | firm — T 3.1, H 2.1, E 3.3, both head detectors agree |
+| 2 | 5 | **ARROW** | A 4.1, R 1.5, R 1.5, O 1.4 measured; the fifth and longest arrow is W 1.8 |
+| 3 | 3 | **ONE** | N 2.2 exact; first rune is certainly in ætt 1 |
+| 4 | 6 | **FOR·…** | F 1.1, O 1.4, R 1.5 measured; the last three runes are unresolved |
+| 5 | 6 + `V` | **ARRIVES** | R 1.5, R 1.5, I 2.3 exact, and the plain V falls in position 5 |
+| 6 | 4 | **MORE** | M 3.4 and O 1.4 measured exactly |
+| 7 | 5 + `Y` | **SLOWLY** | final L 3.5 exact; five runes plus the plain Y |
+
+Two letters are written as plain Latin characters rather than drawn as
+arrows — a `V` in the middle of row 5 and a `Y` at the end of row 7. **V has
+no rune in the futhorc at all**, so it cannot be drawn; the plate simply
+writes it. That is the same move as the drawn question mark at position 32 of
+the filename cipher: where the system has no character available, the missing
+one is supplied in plain sight.
+
 ## What is not yet decoded
 
-The system is identified and the key is confirmed, but **no plate has been read
-yet**. Counting twigs is the whole problem. They are hand-drawn and slanted, so
-they overlap when the image is projected onto its columns, and an automatic
-count cannot separate a twig from its neighbour; and only about a quarter of
-the plates are drawn as arrows at all — a tree, a face and a scatter of leaves
-each need their own reading. This is the next piece of work, and it is a
-manual one, plate by plate.
+One plate of the seventeen is read. The rest are not, and counting twigs is the
+whole problem: they are hand-drawn and uneven, so a short twig is missed when
+the image is sampled far from the stem and merges with its neighbour when it is
+sampled close, and no single sampling distance works for a whole page. Arrows
+are also the easy case — only about a quarter of the plates are arrows at all,
+and a tree, a face and a scatter of leaves each need their own reading.
+
+`tools/branch.py` does the mechanical part: it finds the rows, the stem of each
+row, and the arrowheads — a head is a closed triangle, the only shape on the
+page that encloses white — then counts the twigs on each side of every arrow at
+a range of distances and reports the count at each, marking the arrows whose
+count never varies. It is a reading aid, not a verifier: it does not check
+itself and does not exit non-zero, because the last step is a human deciding
+between two counts. Sampling 8–13 pixels from the stem reads row 1 of *Arrows*
+correctly on its own.
 
 The 300px copies in `archive/thumbs/` are too small to count from. The
 full-resolution plates, which run 1080–2560px on the long edge, come down with:
@@ -113,4 +148,8 @@ python3 tools/archive.py --tag "Rune Code" --variant full \
 
 That is 31 images and 79 MB — the 17 plates plus the numbered characters from
 the same posts. Like the rest of the full-resolution set they are deliberately
-not in git; the manifest carries their checksums.
+not in git; the manifest carries their checksums. Then:
+
+```sh
+python3 tools/branch.py archive/code/2022_06_Arrows-*.jpg --offsets 8:13
+```
