@@ -2138,7 +2138,7 @@ mOomoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoomOo
 
 ### X is not Y and Neither is Z
 
-2022-04-15  ·  [source](https://lettersfortitles.com/x-%e2%89%a0-y-%e2%89%a0-z/)
+2022-04-15  ·  *X≠Y≠Z*  ·  [source](https://lettersfortitles.com/x-%e2%89%a0-y-%e2%89%a0-z/)
 
 ![X is not Y and Neither is Z](archive/thumbs/2022_04_222-A-letters-fortitles-vern-tonkin-293x300.jpg)
 ![X is not Y and Neither is Z](archive/thumbs/2022_04_x≠y≠z-lettersfortitles-vern-tonkin-279x300.jpg)
@@ -6397,7 +6397,7 @@ You’ll be mired in it. You’ll twist yourself up trying to get out of a quagm
 
 ### X is for
 
-2023-03-09  ·  [source](https://lettersfortitles.com/x-is-for/)
+2023-03-09  ·  *alphabet*  ·  [source](https://lettersfortitles.com/x-is-for/)
 
 ![X is for](archive/thumbs/2023_03_247-G-Letters-for-Titles-Vern-Tonkin-230x300.jpg)
 ![X is for](archive/thumbs/2023_03_x-is-for-lettersfortitles-vern-tonkin-1-300x300.jpg)

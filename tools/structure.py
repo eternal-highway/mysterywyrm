@@ -45,6 +45,39 @@ def stanza_index(recs):
     return out
 
 
+# The six per-rune elements of the chapter template. A full (two-rune)
+# chapter carries two of each; the unpaired centre carries exactly one.
+PER_RUNE = ["glyph", "casting", "howto", "isfor", "translating", "stanza"]
+
+
+def check_centre(chaps, by_chap):
+    """The centre is a complete single-rune chapter, not a truncated one.
+
+    Twist covers only stanza 15, so it should carry one of each per-rune
+    element -- not a subset. Reading it as "the template halved" once made
+    the centre look deficient; it is not, and this asserts so.
+    """
+    centre = [c for c, pairs in by_chap.items() if len(pairs) == 1]
+    if len(centre) != 1:
+        print(f"\ncentre: expected exactly one unpaired chapter, found {centre}")
+        return False
+    chap = centre[0]
+    posts = chaps[chap]
+    have = collections.Counter(role_of(p["title"]) for p in posts)
+    missing = [r for r in PER_RUNE if have[r] != 1]
+
+    print(f"\ncentre chapter {chap!r}: {len(posts)} posts, "
+          f"stanza {by_chap[chap][0][0]} ({by_chap[chap][0][1]}) unpaired")
+    print("  per-rune elements (one of each expected): "
+          + ", ".join(f"{r} {have[r]}" for r in PER_RUNE))
+    if missing:
+        print(f"  INCOMPLETE -- wrong count for {missing}")
+        return False
+    print("  complete: one of each element, plus namesake and the turn posts")
+    print("  path: " + " -> ".join(p["title"] for p in posts))
+    return True
+
+
 def main():
     recs = load()
     st = stanza_index(recs)
@@ -84,6 +117,8 @@ def main():
                   f"stanza {n} ({gloss})   << unpaired center >>")
 
     print("\nchiastic pairing holds:", ok)
+
+    ok &= check_centre(chaps, by_chap)
 
     print("\nchapter composition by post role:")
     header = f"  {'chapter':26}" + "".join(f"{r[:6]:>8}" for r in ROLES) + "   tot"
