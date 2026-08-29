@@ -49,14 +49,15 @@ is written from the outside in and read from the inside out. The pivot is
 post 131, titled "Turn". The last post, "The Middle", carries the full stop.
 See [`research/cipher.md`](research/cipher.md).
 
-That is not the only cipher. Seventeen posts tagged `Rune Code` carry no
-text at all, only photographs of a notebook: **branch runes**, a stem with
-twigs counting the ætt on one side and the position within it on the other,
-drawn over and over in different costumes — arrows, a tree, wrapped gifts,
-faces, leaves laid on a table. The key is written on the facing page of one
-of them, and the *Arrows* plate reads **THE ARROW ONE FOR… ARRIVES MORE
-SLOWLY** — the line its own header cites, *Paradiso* XVII.27. Sixteen plates
-are still unread; see [`research/rune-code.md`](research/rune-code.md).
+That is not the only cipher. Seventeen posts tagged `Rune Code` carry no text
+at all, only pictures: **branch runes**, counting the ætt above the line and
+the position below it, remade for every chapter in a different costume —
+arrows, a tree, wrapped gifts, faces, leaves, thorns, snow. The key is written
+on the facing page of one of them. *Arrows* reads **THE ARROW ONE FOR… ARRIVES
+MORE SLOWLY**, the line its own header cites, *Paradiso* XVII.27; and *Friþ* —
+five clusters of photographed snowflakes, in the chapter *War and Peace* —
+spells **PEACE**. Fifteen plates are still unread; see
+[`research/rune-code.md`](research/rune-code.md).
 
 ## Contents
 

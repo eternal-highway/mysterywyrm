@@ -35,8 +35,10 @@ cipher is built on the same 29 runes the whole project is built on.
 
 ## The costumes
 
-The cipher is redrawn from scratch for every plate. The stem-and-twig skeleton
-stays; the picture on top of it changes to suit the chapter:
+The cipher is remade from scratch for every plate. What stays is not the
+stem-and-twig skeleton — that belongs to the plates made with a pen. What stays
+is the count: some things above, some things below. The picture carrying them
+changes to suit the chapter, and it is not always drawn:
 
 | plate | chapter | drawn as |
 |---|---|---|
@@ -46,10 +48,13 @@ stays; the picture on top of it changes to suit the chapter:
 | Present | You Have Nothing Else | wrapped gifts, loops of ribbon on each bow |
 | You Knew it Beforehand | Fate | faces with hair to either side, then skulls |
 | It Never Deceives | Trust | real leaves, laid out on a dark ground |
+| Friþ | War and Peace | photographed snowflakes, in clusters on black |
+| For Anybody Who Rests With Them | They'll Cut You | cut thorn segments on a ruled page |
 
 The *Present* plate belongs to the chapter of Gifu, the gift rune, and is drawn
-as gifts. *Shh* belongs to Axis Mundi and is drawn as the world tree. The
-costume is never arbitrary.
+as gifts. *Shh* belongs to Axis Mundi and is drawn as the world tree. *Friþ*
+spells PEACE in snow, in the chapter of war and peace, tagged to the story that
+ends in snowfall. The costume is never arbitrary.
 
 ## What the plates cite
 
@@ -93,7 +98,7 @@ Thirteen of the fifteen chapters have at least one plate; *Everything is
 Temporary*, *They'll Cut You*, *You Have Nothing Else* and *Sitting to Battle*
 have two.
 
-## The first plate read: *Arrows*
+## The first plate read by machine: *Arrows*
 
 The *Arrows* plate (2022-06-06, chapter *They'll Cut You*) is seven rows of
 fletched arrows, one word per row. Read by the key above it gives:
@@ -119,6 +124,52 @@ no rune in the futhorc at all**, so it cannot be drawn; the plate simply
 writes it. That is the same move as the drawn question mark at position 32 of
 the filename cipher: where the system has no character available, the missing
 one is supplied in plain sight.
+
+## Friþ: PEACE
+
+The *Friþ* plate (2021-09, chapter *War and Peace*) is a photograph of
+snowflakes on black — no notebook, no rule, no pen, and 0.02% green, which is
+why every tool in this repository passed straight over it. It is not a
+decoration. It is five clusters, and each cluster is a rune.
+
+| cluster | above | below | rune | letter |
+|---|---|---|---|---|
+| 1 | 2 | 6 | 2.6 Peorþ | **P** |
+| 2 | 3 | 3 | 3.3 Eh | **E** |
+| 3 | 4 | 1 | 4.1 Ac | **A** |
+| 4 | 1 | 6 | 1.6 Cen | **C** |
+| 5 | 3 | 3 | 3.3 Eh | **E** |
+
+**PEACE.** The plate is titled *Friþ*, which is the Old English word for it,
+and it sits in the chapter called *War and Peace*. Its tags name Joyce and
+*Dubliners*, whose last story ends with the snow "falling faintly through the
+universe and faintly falling, like the descent of their last end, upon all the
+living and the dead."
+
+Counted at full resolution, cluster by cluster, all five clusters are
+unambiguous: there is no adjudication to do, because nothing here is
+hand-drawn. The costume that made the plate invisible to the tools is the
+costume that makes it the easiest of the seventeen to read.
+
+Note what that costs the earlier framing. The key was said to be confirmed
+from the *Arrows* plate's header, `T 3.1, O 1.4, A 4.1`. *Friþ* confirms it
+again, independently, on a plate drawn in a different medium in a different
+year — and this time the confirmation is a whole word in the language the
+chapter is named for.
+
+## For Anybody Who Rests With Them: thorns
+
+The second plate of *They'll Cut You* is not drawn either. It is segments of
+cut thorn stem laid out on a ruled notebook page, each segment carrying one
+spike pointing up or down: **the thorns are the twigs**, and the printed rule
+is the stem. The chapter is the thorn rune's, and the costume is literal.
+
+Read the same way, the first two clusters of row 1 are 2 up / 1 down and
+1 up / 4 down — **H** (2.1) and **O** (1.4). The rest of the page is not read
+here; the clusters run together and want the same patient work *Arrows* did.
+
+The plate also carries a notebook page number in the top corner — **17** —
+which extends the index noted above to 17, 53, 65, 89.
 
 ## What is not yet decoded
 
@@ -226,5 +277,19 @@ So there are two blockers, and they are ordered:
    arrows already, and unavoidable for the tree, the ribbons, the faces and the
    leaves, where nothing triangular is drawn.
 
-One plate of seventeen remains read. The count has not changed; what has
-changed is that the reason is now specific.
+One plate of seventeen remains read by machine. The count has not changed;
+what has changed is that the reason is now specific.
+
+### The reason was the wrong question
+
+Looking at the plates rather than at the mask shows that the ink model was
+never the real obstacle. The obstacle was an assumption underneath it.
+
+`branch.py` looks for a stem and for arrowheads. Neither is part of the
+cipher. They are part of *one costume*. What the system actually requires is
+only this: **a cluster of things, some above and some below, the count above
+giving the aett and the count below the position.** A stem is how a pen draws
+that. It is not how a photograph does.
+
+So the plates that returned rows-but-zero-heads were not failing. They were
+answering a question about triangles that the page had never been asked.
