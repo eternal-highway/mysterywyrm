@@ -65,6 +65,7 @@ are still unread; see [`research/rune-code.md`](research/rune-code.md).
 | `research/structure.md` | The architecture: chiastic pairing, chapter template, cadence |
 | `research/cipher.md` | The sentence hidden across the image filenames, and its index |
 | `research/rune-code.md` | The branch-rune plates: the system, the key, and what is still unread |
+| `research/relevance.md` | A reflection on the completed work and agent-harness design |
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
 | `research/bibliography.md` | The 375-entry bibliography, summarized |
