@@ -42,9 +42,9 @@ def role_of(title):
         return "casting"
     if re.match(r"^How [Tt]o\b", title):
         return "howto"
-    if re.match(r"^X ?≠ ?Y ?≠ ?Z", title):
+    if re.match(r"^X ?≠ ?Y ?≠ ?Z", title) or re.match(r"^X is not Y\b", title):
         return "xyz"
-    if " is for " in title:
+    if re.search(r"\bis for\b", title):
         return "isfor"
     if len(title) <= 3 and not title.isascii():
         return "glyph"

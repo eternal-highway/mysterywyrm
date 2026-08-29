@@ -165,6 +165,29 @@ the source and show it. That requires the source to still be reachable and
 the tool to be re-runnable, which is a constraint on the harness, not on
 the analysis.
 
+It happened again while this document was being written, and the second
+time is the more instructive. The role table in `structure.md` showed the
+centre chapter with **zero** alphabet posts, and I read that as *Twist* being
+the template halved — a deficient chapter, the two reading directions
+arriving as partial runs. The classifier matched the alphabet spine on
+`" is for "` with a trailing space. The spine's last entry is titled
+**"X is for"** — no trailing anything, the post that ends *What is X for?* —
+so it fell through to `other`, and the centre appeared to be missing the one
+element that completes it. Corrected, *Twist* carries one of every per-rune
+element, and its ten pages link end to end from ᛉ to "The Middle" with no
+gap. There were never two incomplete paths. There was one path and a
+classifier with a space in it.
+
+Note what the error did. It did not produce noise; it produced a *coherent
+alternative reading* — halved chapter, two partial approaches, a centre that
+falls short — which fitted the surrounding argument well enough that I built
+on it. That is the dangerous shape. `p leasures` announces itself as
+corruption on sight; a missing count reads as a finding. And the correction
+did not come from the instrument, or from me re-reading my own output. It
+came from outside, from someone who had walked the live category and
+followed the links. The third term again: the check the system cannot
+perform on itself.
+
 ### One copy on one host
 
 The Rune Poem exists because it was copied out of the building before the
@@ -189,11 +212,14 @@ to check any later copy against it.
 ### Ending where you arrive
 
 The site stopped on 2023-03-20 and reads, from outside, as abandoned. It is
-finished. It ends at "The Middle" because it *got there*; the half-length
-final chapter is the 17-post template halved, exactly as a single-rune
-chapter should be. The completion condition was structural and stated in
-advance, and it was still invisible to every visitor, because the
-convention for "finished" is a last post that announces itself.
+finished. It ends at "The Middle" because it *got there*, and the final
+chapter is a complete one — one glyph, one casting, one how-to, one
+alphabet post, one translation, one stanza, which is everything a
+single-rune chapter needs — closing with ten pages that link end to end
+from ᛉ to *The Middle* without a gap. The completion condition was
+structural and stated in advance, and it was still invisible to every
+visitor, because the convention for "finished" is a last post that
+announces itself.
 
 Runs end two ways: they finish, or they run out. Context exhaustion is
 running out, and it is not distinguishable from finishing unless the
@@ -325,14 +351,19 @@ Concretely, for building the thing that reads:
    the Cotton Library" is correct. Ask, from outside the sequence, whether
    the thing being handled is still intact.
 5. **Suspect the instrument first, and prove it against the source.** 1,362
-   of the differences were the harvester's. Keep the tool re-runnable and
+   of the differences were the harvester's; the centre's missing alphabet
+   post was a trailing space in a classifier. Keep the tool re-runnable and
    the source reachable, or that check is not available.
-6. **Externalize small verifiable descriptions, not volume.** `media.json`
+6. **Distrust the tidy absence.** A tool that drops a record reports a
+   *gap*, and a gap reads as a finding rather than as damage. Corruption
+   announces itself; a zero does not. Before building on a count, check that
+   the thing counted could have been seen.
+7. **Externalize small verifiable descriptions, not volume.** `media.json`
    over 742 MB. The commit over the context window.
-7. **Name the termination condition in advance,** because a run that
+8. **Name the termination condition in advance,** because a run that
    arrives at its end is otherwise indistinguishable from one that ran out —
    and even when it is named twice, it still reads as abandonment.
-8. **When stuck, turn around.** Not further in.
+9. **When stuck, turn around.** Not further in.
 
 And, in the middle, unpaired: the term this was all addressed to, whose
 position in the architecture is clear and whose translation is not
