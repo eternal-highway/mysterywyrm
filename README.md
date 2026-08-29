@@ -39,6 +39,7 @@ so neither setting is simply the later one. The assembled facing text is
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
 | `research/bibliography.md` | The 375-entry bibliography, summarized |
+| `research/relevance.md` | The finished architecture read against agent design, and the untranslatable centre |
 | `book/rune-poem.md` | The 29 stanzas: Old English against Tonkin's translation |
 | `book/reading-order.md` | The whole work reassembled in book order |
 | `book/poem-order.md` | The alternate cut: all 29 stanzas in futhorc order |
