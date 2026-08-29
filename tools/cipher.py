@@ -76,7 +76,7 @@ NOTES = {
 
 
 def load(path="data/corpus.json"):
-    with open(path) as f:
+    with open(path, encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -183,7 +183,7 @@ def main():
     print("pivot: post #%d %r (%s)" % (pivot, pivot_title, posts[pivot - 1]["date"]))
 
     ok = not bad and desc and asc and pivot_title == PIVOT_TITLE
-    with open(args.out, "w") as f:
+    with open(args.out, "w", encoding="utf-8") as f:
         f.write(report(posts, found, got, want, even, odd, pivot))
     print("wrote", args.out)
     print("\ncipher holds:", ok)
