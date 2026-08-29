@@ -17,7 +17,8 @@ one WordPress host. This archive is the printed edition.
 |---|---|
 | `archive/pages/` | rendered HTML of all 262 posts, as served |
 | `archive/thumbs/` | 300px reference copy of all 479 images (~17 MB) |
-| `data/media.json` | manifest of the **full-resolution** originals |
+| `data/media.json` | manifest of the **300px** copies above |
+| `data/media-full.json` | manifest of the **full-resolution** originals |
 | `data/corpus.json` | post text, dates, chapters, tags, image and outbound links |
 | `data/bibliography.json` | the 375-entry bibliography, parsed |
 
@@ -27,10 +28,20 @@ The 479 originals total **742 MB** — median 1.0 MB, largest 15.9 MB. Putting
 that in git would make the repository impractical to clone and would store
 image data in a format built for line-oriented diffs.
 
-Instead `data/media.json` records, for every original: its URL, exact byte
-size, pixel dimensions, **SHA-256 checksum**, and which posts use it. That
-is enough to re-fetch the originals and prove they are bit-identical to what
-was retrieved on the date in the manifest.
+Instead `data/media-full.json` records, for every original: its URL, exact
+byte size, pixel dimensions, **SHA-256 checksum**, and which posts use it.
+That is enough to re-fetch the originals and prove they are bit-identical to
+what was retrieved on the date in the manifest.
+
+This manifest was missing until now, and the gap ran the length of the
+archive's own argument. `data/media.json` was described here and in the README
+as the manifest of the originals. It is not: it is written by the default
+thumbnail run, carries `variant: "medium"`, totals 15.9 MB, and **not one of
+its 479 entries has a side longer than 400px**. Every checksum in it is the
+checksum of a 300px copy. Nothing committed could certify the 742 MB, which is
+the one thing this archive exists to make certifiable, and the tooling to
+produce that certificate was being run into a file the repository ignored.
+`data/media-full.json` is now generated, verified 479/479, and committed.
 
 ```sh
 # materialize the 742 MB of originals wherever you want them

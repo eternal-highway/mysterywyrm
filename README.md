@@ -75,7 +75,8 @@ are still unread; see [`research/rune-code.md`](research/rune-code.md).
 | `archive/pages/` | Rendered HTML of all 262 posts |
 | `archive/thumbs/` | 300px reference copies of all 479 images |
 | `data/corpus.json` | Every post: text, dates, chapters, tags, image and outbound links |
-| `data/media.json` | Manifest of the full-resolution originals, with SHA-256 |
+| `data/media.json` | Manifest of the 300px reference copies, with SHA-256 |
+| `data/media-full.json` | Manifest of the 479 full-resolution originals, with SHA-256 |
 | `data/bibliography.json` | The bibliography, parsed and classified |
 
 ## Tools
@@ -96,8 +97,10 @@ python3 tools/branch.py PLATE   # count the twigs on a branch-rune plate
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.
-`data/media.json` carries their checksums so any copy can be verified;
-`tools/archive.py --variant full` materializes them. See
+`data/media-full.json` carries their checksums so any copy can be verified;
+`tools/archive.py --variant full` materializes them. Note that
+`data/media.json` describes the **300px** copies in `archive/thumbs/`, not the
+originals — the two manifests are not interchangeable. See
 [`research/archive.md`](research/archive.md).
 
 ## Rights
