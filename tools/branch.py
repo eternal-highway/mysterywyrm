@@ -12,16 +12,33 @@ closed triangle, the only shape on the page enclosing white; the shaft
 crossing it splits that hole in two, so nearby holes are merged), then counts
 the twigs on each side of every arrow at a range of distances from the stem.
 
+The plates are photographs of a notebook held by hand, so they sit a degree
+or two off square. The rows are found after rotating the page flat, which
+matters: on the Arrows plate (-1.75 deg) the slant carries the right-hand end
+of a row into its neighbour, and correcting it turns row 4's F-O-R from a
+marginal reading into the dominant one.
+
 It is a READING AID, not a verifier. Hand-drawn twigs are uneven: short ones
 are missed at large offsets and merge with their neighbours at small ones, so
 the count per offset is reported and the reader adjudicates. Counts marked
 stable (the same at every offset) can be trusted; the rest need an eye.
+
+KNOWN LIMIT: a head is found as enclosed white, so an arrowhead drawn with an
+open corner is not found at all. That is not a rare case -- it is the biggest
+arrow on the page, drawn last and largest, and it costs exactly one head in
+rows 2, 4 and 5 of Arrows (the W of ARROW is visibly there; no hole exists at
+its x even at minarea=1). Counting ink thickness across the stem instead was
+tried and is worse -- 3 of 7 rows correct against the hole detector's 4 -- so
+the fix is a shape cue for an open chevron, not a threshold. Until then the
+head count is a floor, and a row that reads one letter short is the first
+thing to check by eye.
 
 Unlike the rest of tools/, this needs Pillow and numpy.
 
 Usage:
   python3 tools/branch.py PLATE.jpg          # every row
   python3 tools/branch.py PLATE.jpg --row 1  # one row
+  python3 tools/branch.py PLATE.jpg --no-deskew
 """
 import argparse, collections, sys
 from collections import deque
@@ -45,11 +62,44 @@ def letter(a, p):
     return "[%d.%d]" % (a, p)
 
 
-def inkmask(path):
+def _mask(a):
     """The green pen, separated from paper and the printed rule."""
-    a = np.asarray(Image.open(path).convert("RGB")).astype(int)
     R, G, B = a[..., 0], a[..., 1], a[..., 2]
     return (G - R > 18) & (G - B > 5) & (R < 170)
+
+
+def deskew(im, lo=-4.0, hi=4.0, step=0.25):
+    """Rotate the page flat: the angle that packs ink into the fewest rows.
+
+    Squaring the row profile rewards concentration, so the score peaks when
+    the stems lie along scanlines instead of drifting across them.
+    """
+    best, angle = None, 0.0
+    a = lo
+    while a <= hi + 1e-9:
+        r = im.rotate(a, resample=Image.BILINEAR, fillcolor=(255, 255, 255))
+        prof = _mask(np.asarray(r).astype(int)).sum(axis=1).astype(float)
+        score = (prof ** 2).sum()
+        if best is None or score > best:
+            best, angle = score, a
+        a += step
+    return angle
+
+
+def inkmask(path, straighten=True, limit=4.0):
+    """The ink of a plate, with the page rotated flat unless told not to.
+
+    A plate whose ink is not laid in rows -- the tree, the scattered leaves --
+    gives the angle search nothing to peak on, and it runs to the end of its
+    range. Treat that as no measurement rather than a 4-degree rotation.
+    """
+    im = Image.open(path).convert("RGB")
+    angle = deskew(im, lo=-limit, hi=limit) if straighten else 0.0
+    if abs(angle) >= limit - 1e-9:
+        angle = 0.0
+    if angle:
+        im = im.rotate(angle, resample=Image.BICUBIC, fillcolor=(255, 255, 255))
+    return _mask(np.asarray(im).astype(int)), angle
 
 
 def hruns(mask, minlen):
@@ -212,14 +262,16 @@ def main():
     ap.add_argument("--row", type=int, help="read only this row (1-based)")
     ap.add_argument("--offsets", default="6:15",
                     help="distances from the stem to sample, START:STOP")
+    ap.add_argument("--no-deskew", action="store_true",
+                    help="read the page as photographed, without squaring it")
     args = ap.parse_args()
 
     lo, hi = (int(v) for v in args.offsets.split(":"))
     offs = range(lo, hi)
-    mask = inkmask(args.plate)
+    mask, angle = inkmask(args.plate, straighten=not args.no_deskew)
     shaft = hruns(mask, 12)
     rows = bands(mask)
-    print("%s: %d rows" % (args.plate, len(rows)))
+    print("%s: %d rows, skew %+0.2f deg" % (args.plate, len(rows), angle))
     for i, (y0, y1) in enumerate(rows, 1):
         if args.row and i != args.row:
             continue

@@ -148,8 +148,83 @@ python3 tools/archive.py --tag "Rune Code" --variant full \
 
 That is 31 images and 79 MB — the 17 plates plus the numbered characters from
 the same posts. Like the rest of the full-resolution set they are deliberately
-not in git; the manifest carries their checksums. Then:
+not in git. The subset manifest is a convenience; the committed
+`data/media-full.json` already carries these same 31 checksums among all 479.
+Then:
 
 ```sh
 python3 tools/branch.py archive/code/2022_06_Arrows-*.jpg --offsets 8:13
 ```
+
+## A second pass at the plates
+
+The 31 full-resolution images were fetched (78.6 MB, 0 failures) and the
+*Arrows* plate re-read as a control. What follows is what the second pass
+established and, more usefully, where it stopped.
+
+### The control holds, and the page is crooked
+
+Row 1 reads **THE** on its own, as documented. The rest did not reproduce at a
+single sampling distance — until the page was squared. The plates are
+photographs of a notebook held by hand, and *Arrows* sits **1.75° off level**.
+Over the width of a row that is some 24 pixels of drift, against row bands only
+30–50 pixels tall, so the right-hand end of each row wanders into its
+neighbour. Correcting it moved row 4's `F O R` from a marginal reading to the
+dominant one, and firmed up `R R I` in row 5 and `M O` in row 6 — exactly the
+runes the first pass had marked *measured*. `branch.py` now finds the angle
+itself before looking for rows.
+
+The angle search maximises how tightly ink packs into scanlines. On a plate
+with no rows to find — the tree, the scattered leaves — that score never peaks
+and the search runs to the end of its range, so a result at the limit is now
+discarded rather than applied as a 4° rotation.
+
+### Row 2 read by eye: the reading is right, the tool undercounts
+
+Enlarged, row 2 plainly carries **five** arrows, and they read
+`A 4.1 · R 1.5 · R 1.5 · O 1.4 · W 1.8` — **ARROW**, the documented reading,
+confirmed independently. But `branch.py` finds only four heads in that row.
+
+The cause is exact. A head is found as *enclosed white*, and the fifth arrow —
+the biggest on the page, drawn last and largest — has an **open corner**. It
+encloses nothing, so no hole exists at its x even searching down to a single
+pixel of area. The same undercount costs one head in rows 4 and 5.
+
+Counting ink thickness across the stem instead, on the theory that a head
+straddles the stem where twigs never do, was tried and is **worse**: 3 rows of
+7 correct against the hole detector's 4, with no threshold that separates heads
+from clutter. Recorded so the next attempt does not repeat it. The fix wants a
+shape cue for an open chevron. Until then the head count is a floor, and a row
+that reads one letter short is the first thing to check by eye.
+
+### Why the other sixteen did not fall
+
+The honest answer is that none of them were decoded, and the blocker is not
+twig counting at all. It sits one step earlier, in the ink.
+
+`inkmask` separates *a green pen*. That is a description of *Arrows*, not of
+the series. Measured across all seventeen plates, **eleven carry under 1%
+green**: *Frith*, *Octave*, *Shh*, *Œdipean Riddle*, *Soon After it Becomes
+Water*, *You Knew it Beforehand*, *It Never Deceives*, *Battle*, *Always*,
+*Everything is Temporary*, and — just over the line — *Present* and *For
+Anybody Who Rests With Them*. They are drawn in dark ink or pencil, or they are
+photographs of arranged objects rather than pen drawings at all. On those the
+mask returns almost nothing, and everything downstream is reading noise.
+
+Run across the series, `branch.py` finds a plausible arrow structure on
+*Arrows* alone (7 rows; heads 3, 4, 3, 5, 5, 4, 5). Four plates yield no rows
+whatsoever — *Shh*, *Œdipean Riddle*, *Battle*, *Everything is Temporary*. Six
+more yield rows but **zero heads**, which is what a leaf or a face should do to
+a detector that looks for triangles.
+
+So there are two blockers, and they are ordered:
+
+1. **A per-plate ink model.** Green-pen separation must become a general
+   figure/ground split — the pen against the notebook rule, or the objects
+   against their ground — before any plate but *Arrows* can be attempted.
+2. **A head cue that is not a closed triangle.** Needed for the open-cornered
+   arrows already, and unavoidable for the tree, the ribbons, the faces and the
+   leaves, where nothing triangular is drawn.
+
+One plate of seventeen remains read. The count has not changed; what has
+changed is that the reason is now specific.
