@@ -5,11 +5,12 @@ of the corpus's twenty wordless posts are in this set. They have no text at
 all — only pictures — which is why a text-first reading of the site passes
 straight over them.
 
-Each of these posts carries two images. One is the numbered character that
+Fourteen of these posts carry two images: one is the numbered character that
 belongs to the sentence spelled across the filenames (see
-[`cipher.md`](cipher.md)). The other is named for the post itself, and is a
-photograph: usually a page of a lined notebook, sometimes objects arranged on
-a table. Those are the plates.
+[`cipher.md`](cipher.md)), the other is named for the post itself. The
+remaining three — *Present*, *Friþ* and *It Never Deceives* — carry only the
+second. That image is a photograph: usually a page of a lined notebook,
+sometimes objects arranged on a table. Those are the plates.
 
 **All seventeen are read.** Sixteen carry a message; one — *Loop* — is not a
 message at all but the key itself. Fifteen of the sixteen read whole. The last,
@@ -60,6 +61,23 @@ It is stated four separate ways, and two of them are in plain prose:
 
 4. **The readings themselves.** Sixteen plates resolve into English under one
    key, most of them into their own chapter's title or their own cited line.
+
+The first three have since been checked independently, against the sources
+rather than against each other:
+
+- ***Octave*'s prose fixes the key on its own.** `Feoh, Wealth is 1.1`, the
+  octave `ends with 1.8 Wyn, Joy`, `2.1 is Hægl`, `3.1 Tiw`, and — for the
+  method — `three fingers on one hand and five on the other for the letter L`,
+  which is L 3.5. That last is the rune row 7 of *Arrows* turns on, stated by
+  the author in plain English a month before the plate was posted.
+- ***Loop* agrees cell for cell.** Its grid snakes left-right-left, 1–7 across
+  the top, 29–23 back along the second row, and every cell carries a number, a
+  shape, an English gloss and an ætt.position. All 29 match the table above;
+  16 is 2.8 (Sun) and 17 is 3.1 (Tiw), which is what fixes the second ætt at
+  eight runes rather than seven or nine.
+- **Two readings re-counted from the photographs.** *Battle*'s eight glyphs
+  give 3.1, 1.4, 1.3, 3.3, 3.8, 3.3, 4.1, 1.3 — TO THE DEATH. *Friþ*'s five
+  snowflake groups give 2/6, 3/3, 4/1, 1/6, 3/3 — PEACE.
 
 ### Letters the futhorc does not have
 
