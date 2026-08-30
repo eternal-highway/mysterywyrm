@@ -212,6 +212,12 @@ says LISTEN; the same six glyphs taken top-down instead of bottom-up would say
 SILENT. LISTEN is the reading that makes the tree one path and the title a
 joke, so it is the one given here.
 
+The three left branches re-count cleanly from the photograph (3/5, 2/3, 2/8).
+The two right-hand branches do not: their curls overlap the crown's and each
+other's closely enough that the groups cannot be segmented by eye with any
+confidence, so E and N are carried by the sense of the word rather than by an
+independent count.
+
 ### The Way — 2022-07-19, *By Land and By Sea* (notebook page 53)
 
 A forest of firs. Each tree is a rune: branches to the **left** of the trunk
@@ -264,11 +270,18 @@ flames** the position.
 
 | row | runes | word |
 |---|---|---|
-| 1 (five faces, read **right to left**) | N 2.2, I, G, H, T 3.1 | **NIGHT** |
+| 1 (five faces, read **right to left**) | N 2.2, I 2.3, G 1.7, H 2.1, T 3.1 | **NIGHT** |
 | 2 (three) | A 4.1, N 2.2, D 3.8 | **AND** |
 | 3 (three) | D 3.8, A 4.1, Y 4.3 | **DAY** |
 
 > **NIGHT AND DAY**
+
+Re-counted from the photograph, the outer four of row 1 are firm — T 3.1
+leftmost, then G 1.7 on the big seven-flame face, I 2.3 and N 2.2. The second
+face from the left reads three yellow points over one flame, which is 3.1 (T)
+rather than the 2.1 (H) the word needs; either a point is doing double duty
+with the flame beside it or that one glyph is misread. The word is not in
+doubt, the glyph is.
 
 The post's entire text is the riddle: *"You live in the house of two mothers
 immersed: One births the other and the other births the first."* The plate is
@@ -328,7 +341,7 @@ at all.
 
 1/7 = G, 1/2 = U, 4/1 = A, 1/5 = R — 3/8 = D, 2/3 = I, 4/1 = A, 2/2 = N
 
-> **GUARDIAN** — GUARD on the top row, IAN on the bottom.
+> **GUARDIAN** — GUAR on the top row, DIAN on the bottom.
 
 The chapter *Trust* is stanza 17, Tiw, the guiding star: *"It is one of the
 signs, it holds trust well with princes. Forever it is on a journey over the
