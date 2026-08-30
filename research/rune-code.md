@@ -11,10 +11,10 @@ belongs to the sentence spelled across the filenames (see
 photograph: usually a page of a lined notebook, sometimes objects arranged on
 a table. Those are the plates.
 
-**All seventeen are accounted for below.** Fourteen carry a message that reads,
-three of those only in part; one — *Loop* — is not a message at all but the key
-itself; two — *Axaxaxas mlö* and *Soon After it Becomes Water* — are still
-open.
+**All seventeen are read.** Sixteen carry a message; one — *Loop* — is not a
+message at all but the key itself. Fifteen of the sixteen read whole. The last,
+*Soon After it Becomes Water*, is written in ice cubes that were already melting
+when the shutter opened, and three of its four lines survive.
 
 ## The system
 
@@ -55,9 +55,10 @@ It is stated four separate ways, and two of them are in plain prose:
 3. **Working notes on the facing pages.** *Arrows* shows `T 3.1`, `O 1.4`,
    `A 4.1`; *The Way* shows `D 3.8`, `E 3.3`; *Shh* shows `N 2.2`; *Always*
    shows `2.6` and `3.8`, which are exactly the P and the D of the words on
-   that plate; *Axaxaxas mlö* shows `READ` written over `1.5 3.3 4.1 3.8`.
+   that plate; *Axaxaxas mlö* shows `READ` written over `1.5 3.3 4.1 3.8`,
+   which is Tonkin checking a word that is actually on that plate.
 
-4. **The readings themselves.** Fourteen plates resolve into English under one
+4. **The readings themselves.** Sixteen plates resolve into English under one
    key, most of them into their own chapter's title or their own cited line.
 
 ### Letters the futhorc does not have
@@ -69,6 +70,11 @@ Latin letter* in among the runes: the plain `V` and `Y` on *Arrows*, the `Y`,
 *Everything is Temporary*, the red `Y` on the thorn plate. It is the same move
 as the drawn question mark at position 32 of the filename cipher: where the
 system has no character, the missing one is supplied in plain sight.
+
+**Y is the exception that is not one.** *Axaxaxas mlö* writes English *y* with
+**Ger (J, 2.4)** — YOU as `JOU`, MY as `MJ` — and it is right to: Ger is the
+/j/ rune, so the sound has a rune even though the letter does not. The Latin
+`Y` elsewhere is used where the *vowel* is wanted, not the glide.
 
 The *Present* plate makes a joke of it. Its word is HAVE, and the **V** — the
 letter with no rune — is drawn as a present with no ribbon, no dots and
@@ -94,6 +100,8 @@ groups, always — but each costume assigns them to different features:
 | For Anybody Who Rests With Them | thorns pointing up | thorns pointing down |
 | Battle | pips above the domino's bar | pips below |
 | Octave (tallies) | circles before the slash | circles after |
+| Axaxaxas mlö | upright strokes | arms of the serpentine across them |
+| Soon After it Becomes Water | ice cubes in the upper group | cubes in the lower |
 
 ## The plates, read
 
@@ -101,14 +109,14 @@ groups, always — but each costume assigns them to different features:
 |---|---|---|---|
 | 2022-04-06 | Octave | Everything is Temporary | CODE — WHERE / THE / BE·THE / HELL ? |
 | 2022-04-11 | Everything is Temporary | Everything is Temporary | **EVERYTHING IS TEMPORARY** |
-| 2022-05-05 | Axaxaxas mlö | Moody Joy | *(not yet decoded)* |
+| 2022-05-05 | Axaxaxas mlö | Moody Joy | **YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?** |
 | 2022-06-06 | Arrows | They'll Cut You | **THE ARROW ONE FORESEES ARRIVES MORE SLOWLY** |
 | 2022-06-07 | For Anybody Who Rests With Them | They'll Cut You | **HOW UNCOMFORTABLE** … **BE?** |
 | 2022-06-24 | Shh | Axis Mundi | **LISTEN** |
 | 2022-07-19 | The Way | By Land and By Sea | **THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED** |
 | 2022-09-05 | Present | You Have Nothing Else | **YOU HAVE NOTHING ELSE** |
 | 2022-09-12 | Œ is for Œdipean Riddle | You Have Nothing Else | **NIGHT AND DAY** |
-| 2022-10-27 | Soon After it Becomes Water | The Water Cycle | *(melted; structure only)* |
+| 2022-10-27 | Soon After it Becomes Water | The Water Cycle | … **LET US MELT** *(first line melted)* |
 | 2022-11-22 | You Knew it Beforehand | Fate | **WHAT IS OUR FATE?** … |
 | 2022-12-09 | Friþ | War and Peace | **PEACE** |
 | 2023-01-03 | Bright Fruits | The Future | **FEAR AND HOPE** |
@@ -422,36 +430,110 @@ and the centre the whole work converges on — is glossed **"Helix"**, with thre
 paper helices laid across it: the only three-dimensional objects on the board,
 spilling out of the grid.
 
+### Axaxaxas mlö — 2022-05-05, *Moody Joy* (notebook page 55)
+
+The barest plate of all: no costume, no picture, nothing but tallies in blue
+ballpoint. Each rune is a group of upright strokes with a serpentine coiled
+through them — **the uprights give the ætt, the arms the serpentine makes
+across them give the position**. Five rows, forty-eight runes, a drawn dash in
+the middle of row 2 and a drawn `?` at the end. It is the longest message on
+any plate, and it reads:
+
+> **YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?**
+
+| row | runes | reading |
+|---|---|---|
+| 1 | 3 / 3 / 4 | **JOU** (2.4 1.4 1.2) · **WHO** (1.8 2.1 1.4) · **READ** (1.5 3.3 4.1 3.8) |
+| 2 | 2 / — / 3 / 3 | **ME** (3.4 3.3) · *drawn dash* · **ARE** (4.1 1.5 3.3) · **JOU** (2.4 1.4 1.2) |
+| 3 | 7 / 3 | **CERTAIN** (1.6 3.3 1.5 3.1 4.1 2.3 2.2) · **JOU** (2.4 1.4 1.2) |
+| 4 | 10 / 2 | **UNDERSTAND** (1.2 2.2 3.8 3.3 1.5 2.8 3.1 4.1 2.2 3.8) · **MJ** (3.4 2.4) |
+| 5 | 8 + `?` | **LANGUAGE** (3.5 4.1 2.2 1.7 1.2 4.1 1.7 3.3) · *drawn `?`* |
+
+The line is Borges, and it is the line the post is named for. *Axaxaxas mlö* is
+the specimen phrase in **The Library of Babel** — the book title offered as an
+example of a string nobody can read — and the sentence the plate spells is the
+question the story turns on: *"You who read me — are you certain you understand
+my language?"* Tonkin ciphered a sentence about not being able to read a
+sentence, in the least legible hand on the site, and left it there for three
+years.
+
+**Y is written with Ger.** Where other plates give up and write a Latin letter
+for a sound the futhorc lacks, this one does not have to: **J (Ger, 2.4)** is
+the /j/ rune, and it does the work of English *y* in **JOU** and **MJ** — YOU
+and MY. That is not a substitution, it is the correct rune for the sound.
+
+**The dash is punctuation.** The mark between ME and ARE is a plain horizontal
+stroke, no uprights and no coil, and it stands where an English printing of the
+sentence puts its dash. That, with **CERTAIN** rather than the *sure* other
+English versions use, says Tonkin was ciphering a particular translation and
+not paraphrasing — the wording is Andrew Hurley's, though I have not checked a
+copy against it.
+
+**The facing page is this plate's own working.** It carries `READ` written over
+`1.5 3.3 4.1 3.8`, which had been read here as one more demonstration of the
+key. It is not a demonstration. It is Tonkin checking the fourth word of row 1
+against the table — the word is *on the plate*, in those exact coordinates —
+and it is what fixed the convention for the whole costume: the four runes of
+READ are the calibration that says uprights are the ætt and arms are the
+position, and not the other way round.
+
+**How the arms are counted.** Counting the arms directly does not work; they
+are curved, uneven, and run into one another. But the uprights and the arms
+weave a lattice, and every gap between two consecutive arms encloses a cell of
+white paper, so the arms can be counted through the holes they leave:
+
+> position = (cells enclosed in the coil's **left-hand column**) + 1
+
+`tools/tally.py` does this, and gets all seven runes of WHO and READ right. It
+reads 44 of the 48 runes stably under every threshold tried; the four it wavers
+on are the densest on the page (the C of CERTAIN, the S and second D of
+UNDERSTAND, the O of the second YOU) and were settled by eye on a magnified
+crop, which is where this kind of plate always ends up. Its raw output is
+
+```
+JOU WHO READ / ME - ARE JRU / WERTAIN JOU / UNDERXTANL MJ / LANGUAGE [0.1]
+```
+
+— the shape of the sentence, with the four dense runes and the drawn `?` left
+for the reader, exactly as `branch.py` leaves the ambiguous arrows.
+
 ### Soon After it Becomes Water — 2022-10-27, *The Water Cycle*
 
-Ice cubes laid out on hot paving in full sun, in the usual pairs of an upper
-group over a lower group, and already half melted into their own puddles when
-the photograph was taken. Four bands. The melt has run the groups together and
-I have not resolved it.
+Ice cubes laid out on hot paving in full sun, photographed while they melted.
+Four lines, each an upper group of cubes over a lower group in the usual way —
+**cubes above give the ætt, cubes below the position** — and each rune sitting
+in its own dark patch of meltwater. Seventy-nine separate cubes can still be
+picked out of the photograph.
 
-The title is the last line of the Hægl (hail) stanza — *"it rolls out of a wind
-storm, it turns into water soon after"*. This is the one plate whose medium
-destroys the message while you look at it, which is presumably the point.
+The bottom three lines are still on dry stone, their puddles still separate,
+and they read:
 
-### Axaxaxas mlö — 2022-05-05, *Moody Joy* (notebook page 55) — still open
+| line | runes | reading |
+|---|---|---|
+| 2 | 3 | **LET** — L 3.5, E 3.3, T 3.1 |
+| 3 | 2 | **US** — U 1.2, S 2.8 |
+| 4 | 4 | **MELT** — M 3.4, E 3.3, L 3.5, T 3.1 |
 
-The barest plate of all: no costume, just tallies in blue ballpoint. Each glyph
-is a group of vertical strokes crossed by a serpentine, one count in the
-uprights and one in the serpentine's passes. Five rows; the word groups run
-3 / 3 / 4, then 2 / [dash] / 3 / 2, then 7 / 3, then 10 / 2, then 8 and a drawn
-`?` — another question, and the longest message on any plate.
+> … **LET US MELT**
 
-The facing page carries the key spelled out: **`READ`** written above
-**`1.5 3.3 4.1 3.8`**. The green Tenniel *Alice* is under the notebook here
-too. The title is Borges — the book *Axaxaxas mlö* in *The Library of Babel*.
+Line 1 is gone. It lies at the wet upper end of the slab, in the shade of a
+shrub, where the puddles have run into one continuous sheet and taken the rune
+boundaries with them. Its first group still looks like **S** — two cubes over
+eight, in a puddle that is at least still bounded — but after that the cubes
+cannot be assigned to runes at all: enough of the upper row has melted outright
+that the counts are not recoverable. The post carries only this one photograph
+of the plate, so there is nothing else to read it from.
 
-This is the one plate left. Its glyphs are the cleanest on any page, so it is
-a transcription problem rather than a reading problem, and someone with an
-afternoon and a printout will finish it.
+So the plate is the one place in the Rune Code where the medium ate the
+message while the shutter was open — and it ate it from the top down, in the
+order the sun reached it, leaving the last line perfectly clear. A plate for
+the chapter called *The Water Cycle*, titled with the last line of the hail
+stanza — *it turns into water soon after* — that destroys itself into water as
+you read it, and whose surviving words are **LET US MELT**.
 
 ## Reading them together
 
-Fourteen messages, and they are not decoration. Set against their chapters:
+Sixteen messages, and they are not decoration. Set against their chapters:
 
 - Four of them are the chapter's own title, said again in cipher —
   **YOU HAVE NOTHING ELSE**, **EVERYTHING IS TEMPORARY**, **PEACE** for *War
@@ -465,7 +547,12 @@ Fourteen messages, and they are not decoration. Set against their chapters:
   53, on notebook page 53.
 - And several are simply the plate answering its own title. *Shh* says
   **LISTEN**. *Always*, a page of suns, says **I KEEP U AND KILL U**. *Battle*
-  says **TO THE DEATH** in dominoes. *The Future* says **FEAR AND HOPE**.
+  says **TO THE DEATH** in dominoes. *The Future* says **FEAR AND HOPE**. The
+  ice plate, melting, says **LET US MELT**.
+- And one asks the reader a question about the whole undertaking. *Axaxaxas
+  mlö*, named for the unreadable book in *The Library of Babel*, spells out
+  Borges's own line — **YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY
+  LANGUAGE?** — in the barest and least readable hand on the site.
 
 The costume is always the subject. Gifts for the gift-rune. A tree for the
 world tree. Thorns for the Thorn stanza. Snow for peace, out of the story that
@@ -496,6 +583,14 @@ only about a quarter of the plates are arrows at all.
 The ink mask is now illumination-robust — it compares each pixel to a local
 background rather than to a fixed threshold — which is what was needed to see
 the ends of the long rows on *Arrows*.
+
+`tools/tally.py` reads the one plate that is pure cipher and no costume,
+*Axaxaxas mlö*. It counts the uprights of each rune for the ætt, and gets the
+position by counting the cells of white paper the serpentine encloses against
+them — the same enclosed-white trick `branch.py` uses on arrowheads, and the
+only measurement on that page that does not depend on judging where one curve
+ends and the next begins. It reads 44 of the plate's 48 runes stably; the rest
+it prints with their counts for the reader to settle.
 
 The 300px copies in `archive/thumbs/` are too small to count from. The
 full-resolution plates, which run 1080–2560px on the long edge, come down with:

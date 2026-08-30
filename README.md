@@ -59,8 +59,9 @@ snowflakes, rowan berries, dominoes and dice, suns, birthday candles, ice cubes
 melting on hot paving. Where the futhorc has no letter — V, K, Y — the plate
 simply writes the Latin one in among the runes.
 
-Fourteen of the seventeen now read, three of those only in part; two are still
-open. A fifteenth, *Loop*, turns out not to be a message at all but Tonkin's
+All seventeen now read. Sixteen carry a message, fifteen of them whole; the
+sixteenth is written in ice and only three of its four lines survive. The
+seventeenth, *Loop*, turns out not to be a message at all but Tonkin's
 own worked table of the whole cipher, twenty-nine cells in quilled paper, with
 rune 15 — *eolhx*, the untranslatable centre — glossed **"Helix"** and given
 the only three-dimensional objects on the board. And the *Octave* post states
@@ -74,12 +75,22 @@ and its V, the letter with no rune, is drawn as a present with nothing in it.
 *Battle* reads **TO THE DEATH** in dominoes. *Friþ* reads **PEACE** in
 snowflakes.
 
+The last one read is the barest — no costume at all, just tally strokes with a
+serpentine coiled through them, on notebook page 55. It is the longest message
+on any plate, and it is Borges: **YOU WHO READ ME — ARE YOU CERTAIN YOU
+UNDERSTAND MY LANGUAGE?** The post is titled *Axaxaxas mlö*, the unreadable
+book in *The Library of Babel*, and the sentence is that story's own question,
+ciphered in the least legible hand on the site.
+
 The best of them is a GIF. *Everything is Temporary* is drawn in birthday
 candles and reads **EVERYTHING IS TEMPORARY** — and over thirty-seven frames
 the flames go out, one by one, until the page is nothing but bare candles.
 
-The two still open are *Axaxaxas mlö* and *Soon After it Becomes Water*,
-whose ice had already begun to melt when it was photographed. See
+And one plate destroyed itself as it was made. *Soon After it Becomes Water*
+is laid out in ice cubes on hot paving, and the sun reached it from the top
+down: its first line had melted into one continuous sheet of water before the
+shutter opened and cannot be recovered, while the three lines still on dry
+stone read **LET US MELT**. See
 [`research/rune-code.md`](research/rune-code.md).
 
 ## Contents
@@ -105,8 +116,9 @@ whose ice had already begun to melt when it was photographed. See
 ## Tools
 
 The first seven use only the Python standard library and are safe to re-run
-(downloads resume, nothing is re-fetched needlessly). `branch.py` is a reading
-aid rather than a check, and is the one tool that needs Pillow and numpy.
+(downloads resume, nothing is re-fetched needlessly). `branch.py` and
+`tally.py` are reading aids rather than checks, and are the two tools that
+need Pillow and numpy.
 
 ```sh
 python3 tools/harvest.py        # rebuild data/corpus.json from the site's REST API
@@ -117,6 +129,7 @@ python3 tools/book.py           # regenerate book/ from the corpus
 python3 tools/edition.py        # collate the poem's two witnesses; write book/rune-poem.md
 python3 tools/cipher.py         # recover the filename message; non-zero exit on mismatch
 python3 tools/branch.py PLATE   # count the twigs on a branch-rune plate
+python3 tools/tally.py PLATE    # read the tally-and-serpentine plate (page 55)
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.
