@@ -14,14 +14,25 @@ the twigs on each side of every arrow at a range of distances from the stem.
 
 It is a READING AID, not a verifier. Hand-drawn twigs are uneven: short ones
 are missed at large offsets and merge with their neighbours at small ones, so
-the count per offset is reported and the reader adjudicates. Counts marked
-stable (the same at every offset) can be trusted; the rest need an eye.
+the count per offset is reported and the reader adjudicates.
+
+"Stable" means only that a count did not change across the sampled offsets. It
+is NOT a correctness signal: it cannot see a head the detector missed, and a
+missed head silently folds two runes' twigs into one count. Treat the head
+count as the thing to check first, by eye, on a magnified crop.
+
+Measured against the read of Arrows, this scores 21 of its 34 runes: rows 1-3
+(THE ARROW ONE) come out exactly, row 4 gives FORE- of FORESEES on the right
+eight arrows, row 5 ARRI- of ARRIVES. Rows 6 and 7 it still gets wrong, and it
+over-segments row 6 into five heads for a four-letter word. The old fixed
+threshold scored 12.
 
 Unlike the rest of tools/, this needs Pillow and numpy.
 
 Usage:
-  python3 tools/branch.py PLATE.jpg          # every row
-  python3 tools/branch.py PLATE.jpg --row 1  # one row
+  python3 tools/branch.py PLATE.jpg              # every row
+  python3 tools/branch.py PLATE.jpg --row 1     # one row
+  python3 tools/branch.py PLATE.jpg --deskew    # square the page first
 """
 import argparse, collections, sys
 from collections import deque
@@ -60,22 +71,70 @@ def boxmean(a, r):
     return s / np.outer(y1 - y0, x1 - x0)
 
 
-def inkmask(path, dark=26):
+def _mask(a, dark=26, chroma=3):
     """The green pen, separated from paper and the printed rule.
 
-    The plates are photographs, and the light falls across them: on Arrows the
-    paper goes from blue-white on the left to orange on the right, which drags
-    the ink's absolute colour with it. A fixed threshold loses the far end of
-    every long row -- it is what hid the last three arrows of row 4. So the
-    test for "dark" is made against a LOCAL background instead, and colour is
-    used only to tell green pen from the printed blue rule (G > B) and from
-    warm paper (G >= R).
+    The plates are photographs and the light falls across them: on Arrows the
+    paper goes from blue-white on the left to orange on the right. That drags
+    the ink's absolute colour with it, so every fixed threshold loses the far
+    end of the long rows.
+
+    Both tests are therefore made against a LOCAL background. Brightness is the
+    obvious one. Colour matters just as much: under the warm light the green
+    ink photographs as dark olive -- around the last arrows of row 4 it reads
+    RGB (61, 55, 15), so G - R is NEGATIVE and a fixed "greener than red" guard
+    throws the ink away with the paper. Comparing G-R and G-B against the local
+    paper instead keeps the ink and still rejects the printed blue rule.
     """
-    a = np.asarray(Image.open(path).convert("RGB")).astype(int)
     R, G, B = a[..., 0], a[..., 1], a[..., 2]
     lum = 0.299 * R + 0.587 * G + 0.114 * B
-    bg = boxmean(lum, max(12, min(a.shape[:2]) // 20))
-    return (bg - lum > dark) & (G - B > 5) & (G - R > -2)
+    r = max(12, min(a.shape[:2]) // 20)
+    return ((boxmean(lum, r) - lum > dark)
+            & ((G - R) - boxmean(G - R, r) > chroma)
+            & ((G - B) - boxmean(G - B, r) > chroma))
+
+
+def deskew(im, lo=-4.0, hi=4.0, step=0.25):
+    """Rotate the page flat: the angle that packs ink into the fewest rows.
+
+    Squaring the row profile rewards concentration, so the score peaks when
+    the stems lie along scanlines instead of drifting across them.
+
+    OFF by default. It was written to rescue readings from the old fixed-
+    threshold mask, where squaring the page turned row 4's F-O-R from a
+    marginal reading into the dominant one. Against the local-background mask
+    that gain is gone -- Arrows scores 21 of 34 letters both flat and at its
+    measured -1.75 deg -- so the rotation is no longer worth the resampling.
+    Kept because a plate photographed at a real angle may still need it.
+    """
+    best, angle = None, 0.0
+    a = lo
+    while a <= hi + 1e-9:
+        r = im.rotate(a, resample=Image.BILINEAR, fillcolor=(255, 255, 255))
+        prof = _mask(np.asarray(r).astype(int)).sum(axis=1).astype(float)
+        score = (prof ** 2).sum()
+        if best is None or score > best:
+            best, angle = score, a
+        a += step
+    return angle
+
+
+def inkmask(path, straighten=False, limit=4.0, dark=26, chroma=3):
+    """The ink of a plate, optionally with the page rotated flat.
+
+    A plate whose ink is not laid in rows -- the tree, the scattered leaves --
+    gives the angle search nothing to peak on and it runs to the end of its
+    range. Treat that as no measurement rather than a 4-degree rotation.
+
+    Returns (mask, angle).
+    """
+    im = Image.open(path).convert("RGB")
+    angle = deskew(im, lo=-limit, hi=limit) if straighten else 0.0
+    if abs(angle) >= limit - 1e-9:
+        angle = 0.0
+    if angle:
+        im = im.rotate(angle, resample=Image.BICUBIC, fillcolor=(255, 255, 255))
+    return _mask(np.asarray(im).astype(int), dark, chroma), angle
 
 
 def hruns(mask, minlen):
@@ -238,14 +297,16 @@ def main():
     ap.add_argument("--row", type=int, help="read only this row (1-based)")
     ap.add_argument("--offsets", default="6:15",
                     help="distances from the stem to sample, START:STOP")
+    ap.add_argument("--deskew", action="store_true",
+                    help="square the page first (off by default; see deskew())")
     args = ap.parse_args()
 
     lo, hi = (int(v) for v in args.offsets.split(":"))
     offs = range(lo, hi)
-    mask = inkmask(args.plate)
+    mask, angle = inkmask(args.plate, straighten=args.deskew)
     shaft = hruns(mask, 12)
     rows = bands(mask)
-    print("%s: %d rows" % (args.plate, len(rows)))
+    print("%s: %d rows, skew %+0.2f deg" % (args.plate, len(rows), angle))
     for i, (y0, y1) in enumerate(rows, 1):
         if args.row and i != args.row:
             continue

@@ -151,12 +151,22 @@ which is the line its own header cites — *Paradiso* XVII.27, *ché saetta
 previsa vien più lenta*.
 
 Row 4 corrects an earlier reading in this file, which had it as a six-arrow
-`FOR·…` with three runes unresolved. It has **eight** arrows. The error was
-in the tooling, not the eye: `inkmask` used a fixed colour threshold, and the
-warm light falling across the right of the photograph pushed the green ink
-below it, so the last three arrows of the longest rows were simply not in the
-mask. `tools/branch.py` now estimates the background locally and the whole row
-survives.
+`FOR·…` with three runes unresolved. It has **eight** arrows. The error was in
+the tooling, not the eye: `inkmask` used a fixed colour threshold, and the warm
+light falling across the right of the photograph pushed the green ink below it,
+so the last arrows of the longest rows were simply not in the mask.
+
+Fixing that took two passes. Estimating *brightness* against a local background
+recovered rows 2 and 5 but still left row 4 at six heads of eight: under the
+warm light the ink itself photographs as dark olive — RGB (61, 55, 15) at the
+seventh arrow — so `G - R` goes **negative**, and the fixed "greener than red"
+guard kept throwing the ink out along with the paper. Normalising *colour*
+against the local background too is what finally makes row 4 show all eight.
+
+The tool now reads rows 1–3 exactly — `THE ARROW ONE` — plus `FORE·…` on row
+4's eight arrows and `ARRI·…` on row 5, 21 of the plate's 34 runes against 12
+before. Rows 6 and 7 it still gets wrong, and it over-segments row 6. Those two
+rows, and the last four runes of row 4, remain read by eye.
 
 ### Shh — 2022-06-24, *Axis Mundi* (notebook page 65)
 
@@ -580,9 +590,12 @@ arrows, and the counting is done by eye on a magnified crop. Nothing else here
 would have read a tree, a face, a skull, a domino or a melting ice cube anyway:
 only about a quarter of the plates are arrows at all.
 
-The ink mask is now illumination-robust — it compares each pixel to a local
-background rather than to a fixed threshold — which is what was needed to see
-the ends of the long rows on *Arrows*.
+The ink mask is now illumination-robust: it compares both brightness *and*
+colour to a local background rather than to fixed thresholds, which is what was
+needed to see the ends of the long rows on *Arrows*. `--deskew` will square the
+page first; it is off by default, because it was written to rescue readings
+from the old fixed-threshold mask and against the corrected one it no longer
+earns its cost (*Arrows* scores the same flat as at its measured -1.75°).
 
 `tools/tally.py` reads the one plate that is pure cipher and no costume,
 *Axaxaxas mlö*. It counts the uprights of each rune for the ætt, and gets the
