@@ -45,11 +45,37 @@ def letter(a, p):
     return "[%d.%d]" % (a, p)
 
 
-def inkmask(path):
-    """The green pen, separated from paper and the printed rule."""
+def boxmean(a, r):
+    """Mean of a over a (2r+1) square, via an integral image."""
+    a = a.astype(np.float64)
+    H, W = a.shape
+    ii = np.zeros((H + 1, W + 1))
+    ii[1:, 1:] = a.cumsum(0).cumsum(1)
+    y0 = np.clip(np.arange(H) - r, 0, H)
+    y1 = np.clip(np.arange(H) + r + 1, 0, H)
+    x0 = np.clip(np.arange(W) - r, 0, W)
+    x1 = np.clip(np.arange(W) + r + 1, 0, W)
+    s = (ii[np.ix_(y1, x1)] - ii[np.ix_(y0, x1)]
+         - ii[np.ix_(y1, x0)] + ii[np.ix_(y0, x0)])
+    return s / np.outer(y1 - y0, x1 - x0)
+
+
+def inkmask(path, dark=26):
+    """The green pen, separated from paper and the printed rule.
+
+    The plates are photographs, and the light falls across them: on Arrows the
+    paper goes from blue-white on the left to orange on the right, which drags
+    the ink's absolute colour with it. A fixed threshold loses the far end of
+    every long row -- it is what hid the last three arrows of row 4. So the
+    test for "dark" is made against a LOCAL background instead, and colour is
+    used only to tell green pen from the printed blue rule (G > B) and from
+    warm paper (G >= R).
+    """
     a = np.asarray(Image.open(path).convert("RGB")).astype(int)
     R, G, B = a[..., 0], a[..., 1], a[..., 2]
-    return (G - R > 18) & (G - B > 5) & (R < 170)
+    lum = 0.299 * R + 0.587 * G + 0.114 * B
+    bg = boxmean(lum, max(12, min(a.shape[:2]) // 20))
+    return (bg - lum > dark) & (G - B > 5) & (G - R > -2)
 
 
 def hruns(mask, minlen):

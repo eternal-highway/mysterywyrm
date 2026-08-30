@@ -5,5 +5,12 @@
 archive/full/
 data/media-full.json
 
+# The 17 Rune Code plates at full resolution (~75 MB) - materialize with:
+#   python3 tools/archive.py --tag "Rune Code" --variant full \
+#           --images-dir archive/code --manifest data/media-code.json --skip-pages
+# Their checksums are already in data/media.json; see research/rune-code.md.
+archive/code/
+data/media-code.json
+
 __pycache__/
 *.pyc

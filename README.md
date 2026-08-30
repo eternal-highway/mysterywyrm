@@ -49,14 +49,38 @@ is written from the outside in and read from the inside out. The pivot is
 post 131, titled "Turn". The last post, "The Middle", carries the full stop.
 See [`research/cipher.md`](research/cipher.md).
 
-That is not the only cipher. Seventeen posts tagged `Rune Code` carry no
-text at all, only photographs of a notebook: **branch runes**, a stem with
-twigs counting the ætt on one side and the position within it on the other,
-drawn over and over in different costumes — arrows, a tree, wrapped gifts,
-faces, leaves laid on a table. The key is written on the facing page of one
-of them, and the *Arrows* plate reads **THE ARROW ONE FOR… ARRIVES MORE
-SLOWLY** — the line its own header cites, *Paradiso* XVII.27. Sixteen plates
-are still unread; see [`research/rune-code.md`](research/rune-code.md).
+## The other cipher
+
+Seventeen posts tagged `Rune Code` carry no text at all, only photographs:
+**branch runes**, two counts giving the ætt of the futhorc and the position
+within it, redrawn from scratch in a new costume every time — fletched arrows,
+one tree, a forest of firs, wrapped gifts, faces and skulls, rose thorns,
+snowflakes, rowan berries, dominoes and dice, suns, birthday candles, ice cubes
+melting on hot paving. Where the futhorc has no letter — V, K, Y — the plate
+simply writes the Latin one in among the runes.
+
+Fourteen of the seventeen now read, three of those only in part; two are still
+open. A fifteenth, *Loop*, turns out not to be a message at all but Tonkin's
+own worked table of the whole cipher, twenty-nine cells in quilled paper, with
+rune 15 — *eolhx*, the untranslatable centre — glossed **"Helix"** and given
+the only three-dimensional objects on the board. And the *Octave* post states
+the key outright in prose, in the clear, in 2022.
+
+The messages answer their own plates. *Arrows*, headed `Par 17.27`, reads
+**THE ARROW ONE FORESEES ARRIVES MORE SLOWLY**. *Shh* reads **LISTEN**. *The
+Way* reads **THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED** — Tao
+Te Ching 53, on notebook page 53. *Present* reads **YOU HAVE NOTHING ELSE**,
+and its V, the letter with no rune, is drawn as a present with nothing in it.
+*Battle* reads **TO THE DEATH** in dominoes. *Friþ* reads **PEACE** in
+snowflakes.
+
+The best of them is a GIF. *Everything is Temporary* is drawn in birthday
+candles and reads **EVERYTHING IS TEMPORARY** — and over thirty-seven frames
+the flames go out, one by one, until the page is nothing but bare candles.
+
+The two still open are *Axaxaxas mlö* and *Soon After it Becomes Water*,
+whose ice had already begun to melt when it was photographed. See
+[`research/rune-code.md`](research/rune-code.md).
 
 ## Contents
 
@@ -64,7 +88,7 @@ are still unread; see [`research/rune-code.md`](research/rune-code.md).
 |---|---|
 | `research/structure.md` | The architecture: chiastic pairing, chapter template, cadence |
 | `research/cipher.md` | The sentence hidden across the image filenames, and its index |
-| `research/rune-code.md` | The branch-rune plates: the system, the key, and what is still unread |
+| `research/rune-code.md` | The branch-rune plates: the system, the key, and all seventeen read |
 | `research/relevance.md` | A reflection on the completed work and agent-harness design |
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
