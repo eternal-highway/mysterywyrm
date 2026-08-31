@@ -1,0 +1,30 @@
+stanza_id,archive_position,title,url,rune_index,rune,site_chapter_theme,verification,note
+ST001,1,Stanza 15: Helix,https://lettersfortitles.com/stanza-15-helix/,15,Eolhx,Twist / Middle,Stanzas tag archive inspected 2026-08-22,Archive begins at the middle
+ST002,2,Stanza 14: The Game,https://lettersfortitles.com/the-game/,14,Peorþ,Sitting to Battle,Stanzas tag archive inspected 2026-08-22,
+ST003,3,Stanza 16: Sun,https://lettersfortitles.com/sun/,16,Sigel,Sitting to Battle,Stanzas tag archive inspected 2026-08-22,
+ST004,4,Stanza 17: Tiw,https://lettersfortitles.com/stanza-17-tiw/,17,Tiw,Trust,Stanzas tag archive inspected 2026-08-22,
+ST005,5,Stanza 13: Yew,https://lettersfortitles.com/stanza-13-yew/,13,Eoh,Trust,Stanzas tag archive inspected 2026-08-22,
+ST006,6,Stanza 12: Year,https://lettersfortitles.com/stanza-12-year/,12,Ger,The Future,Stanzas tag archive inspected 2026-08-22,
+ST007,7,Stanza 18: Birch,https://lettersfortitles.com/birch/,18,Beorc,The Future,Stanzas tag archive inspected 2026-08-22,
+ST008,8,Stanza 19: War Horse,https://lettersfortitles.com/stanza-19-war-horse/,19,Eh,War and Peace,Stanzas tag archive inspected 2026-08-22,
+ST009,9,Stanza 11: Ice,https://lettersfortitles.com/stanza-11-ice/,11,Is,War and Peace,Stanzas tag archive inspected 2026-08-22,
+ST010,10,Stanza 10: Need,https://lettersfortitles.com/stanza-10-need/,10,Nyd,Fate,Stanzas tag archive inspected 2026-08-22,
+ST011,11,Stanza 20: Human,https://lettersfortitles.com/human/,20,Mann,Fate,Stanzas tag archive inspected 2026-08-22,
+ST012,12,Stanza 21: The Sea,https://lettersfortitles.com/the-sea/,21,Lagu,The Water Cycle,Stanzas tag archive inspected 2026-08-22,
+ST013,13,Stanza 9: Hail,https://lettersfortitles.com/hail/,9,Hægl,The Water Cycle,Stanzas tag archive inspected 2026-08-22,
+ST014,14,Stanza 8: Joy,https://lettersfortitles.com/stanza-8-joy/,8,Wyn,Prosperity,Stanzas tag archive inspected 2026-08-22,
+ST015,15,Stanza 22: Ing,https://lettersfortitles.com/ing/,22,Ing,Prosperity,Stanzas tag archive inspected 2026-08-22,
+ST016,16,Stanza 23: Home,https://lettersfortitles.com/stanza-23-home/,23,Eþel,You Have Nothing Else,Stanzas tag archive inspected 2026-08-22,
+ST017,17,Stanza 7: Gift,https://lettersfortitles.com/gift/,7,Gifu,You Have Nothing Else,Stanzas tag archive inspected 2026-08-22,
+ST018,18,Stanza 6: Torch,https://lettersfortitles.com/stanza-6-torch/,6,Cen,Light,Stanzas tag archive inspected 2026-08-22,
+ST019,19,Stanza 24: Day,https://lettersfortitles.com/stanza-24-day/,24,Dæg,Light,Stanzas tag archive inspected 2026-08-22,
+ST020,20,Stanza 25: Oak,https://lettersfortitles.com/stanza-25-oak/,25,Ac,By Land and By Sea,Stanzas tag archive inspected 2026-08-22,
+ST021,21,Stanza 5: The Ride,https://lettersfortitles.com/stanza-25-the-ride/,5,Rad,By Land and By Sea,Stanzas tag archive inspected 2026-08-22,Canonical slug retains stanza-25 despite displayed stanza number 5
+ST022,22,Stanza 4: God,https://lettersfortitles.com/god-mouth/,4,Os,Axis Mundi,Stanzas tag archive inspected 2026-08-22,Canonical slug preserves mouth while displayed title is God
+ST023,23,Stanza 26: Ash,https://lettersfortitles.com/ash/,26,Æsc,Axis Mundi,Stanzas tag archive inspected 2026-08-22,
+ST024,24,Stanza 27: Bow,https://lettersfortitles.com/yew-bow/,27,Yr,They'll Cut You,Stanzas tag archive inspected 2026-08-22,Canonical slug is yew-bow
+ST025,25,Stanza 3: Thorn,https://lettersfortitles.com/thorn/,3,Thorn,They'll Cut You,Stanzas tag archive inspected 2026-08-22,
+ST026,26,Stanza 2: Aurochs,https://lettersfortitles.com/aurochs/,2,Ur,Moody Joy,Stanzas tag archive inspected 2026-08-22,
+ST027,27,Stanza 28: Beaver,https://lettersfortitles.com/beaver/,28,Ior,Moody Joy,Stanzas tag archive inspected 2026-08-22,
+ST028,28,Stanza 29: The Grave,https://lettersfortitles.com/the-grave/,29,Ear,Everything is Temporary,Stanzas tag archive inspected 2026-08-22,
+ST029,29,Stanza 1: Wealth,https://lettersfortitles.com/stanza-1-wealth/,1,Feoh,Everything is Temporary,Stanzas tag archive inspected 2026-08-22,Archive closes with the beginning

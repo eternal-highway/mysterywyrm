@@ -1,0 +1,4 @@
+claim_id,claim_summary,evidence_class,assessment,next_check
+TP-C01,The stanza has a missing word at its exact center,site-authored textual claim,recorded,compare witness and editions
+TP-C02,The missing word likely began with W for alliteration,site-authored philological inference,recorded as uncertain,check editorial reconstructions
+TP-C03,The riddle describes a seated game associated with laughter and feast,site-authored interpretation,recorded,compare lexical evidence and game scholarship

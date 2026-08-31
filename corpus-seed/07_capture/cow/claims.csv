@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"EIT-15-C01","The page presents a long COW-language code object beside bovine commands, a labyrinth, and Minotaur imagery.","site-authored page composition","recorded; not independently adjudicated","compare bibliography and cited sources where material"
+"EIT-15-C02","The displayed previous and next links place this page at Everything is Temporary position 15 of 23.","direct navigation observation","verified by contiguous walk","retain separately from archive order"
+"EIT-15-C03","The displayed COW program halts deterministically and emits three questions about solitude selection/exclusion and repetition/dead ends in a labyrinth.","bounded page-local emulation","verified; 6086 tokens 83144 steps and balanced loops","retain exact output and do not generalize it into a key for other code pages"

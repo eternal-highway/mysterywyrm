@@ -1,0 +1,2 @@
+asset_id,filename,source_role,mime_type,width,height,frames,loop,sha256,evidence_boundary
+AS001,mysterywyrm.gif,user-supplied resized derivative of live site slot-32 GIF,image/gif,360,360,6,infinite,20fd510698180bc1e36a3bae2ebcf769341e45cd15e7d21f093c9b89ef400910,local bytes user-supplied; source relation mechanically established in 0.19.0

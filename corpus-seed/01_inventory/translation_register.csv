@@ -1,0 +1,36 @@
+translation_id,archive_position,title,url,primary_rune_or_span,site_chapter_theme,translation_role,verification,note
+TR001,1,Translating Eolhx,https://lettersfortitles.com/translating-helix/,Eolhx,Twist / Middle,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,Canonical slug says helix
+TR002,2,Translating Sigel,https://lettersfortitles.com/translating-sigel/,Sigel,Sitting to Battle,direct rune commentary,Translation tag archive resolved 2026-08-22,
+TR003,3,Translating Peorð,https://lettersfortitles.com/translating-peord/,Peorþ,Sitting to Battle,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,Title and rune matrix preserve eth and thorn variants separately
+TR004,4,Translating Eoh,https://lettersfortitles.com/translating-yew/,Eoh,Trust,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,Canonical slug translates the rune name to yew
+TR005,5,Translating Tiw,https://lettersfortitles.com/translating-tiw/,Tiw,Trust,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR006,6,Translating Beorc,https://lettersfortitles.com/translating-beorc/,Beorc,The Future,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR007,7,Translating Ger,https://lettersfortitles.com/translating-ger/,Ger,The Future,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR008,8,Translating Is,https://lettersfortitles.com/translating-is/,Is,War and Peace,direct rune commentary,Translation tag archive resolved 2026-08-22,
+TR009,9,Translating Eh,https://lettersfortitles.com/translating-eh/,Eh,War and Peace,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR010,10,Hildegicel,https://lettersfortitles.com/hildegicel/,Is + Eh / war-icicle,War and Peace,auxiliary lexical translation,Translation tag archive and page retrieved 2026-08-22,Placed between the reflected War and Peace translations
+TR011,11,Translating Mann,https://lettersfortitles.com/translating-mann/,Mann,Fate,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR012,12,Translating Nyd,https://lettersfortitles.com/translating-nyd/,Nyd,Fate,direct rune commentary,Translation tag archive and page retrieved 2026-08-22,
+TR035,13,ꝥ,https://lettersfortitles.com/%EA%9D%A5/,Nyd + manuscript abbreviation,Fate,auxiliary scribal translation crossing,Translation tag archive inspected 2026-08-29,Newly present relative to the 2026-08-22 archive snapshot
+TR013,14,Life and Death,https://lettersfortitles.com/life-and-death/,Feoh + Mann,Everything is Temporary + Fate,cross-rune lexical comparison,Translation tag archive inspected 2026-08-29,Links Wealth and Human despite their different reflected partners
+TR014,15,Translating Hægl,https://lettersfortitles.com/deus-absconditus/,Hægl,The Water Cycle,direct rune commentary,Translation tag archive inspected 2026-08-29,Canonical slug is deus-absconditus
+TR015,16,Translating Lagu,https://lettersfortitles.com/translating-lagu/,Lagu,The Water Cycle,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR016,17,A Horrible Wonder,https://lettersfortitles.com/a-horrible-wonder/,Hægl + Lagu,The Water Cycle,auxiliary/cross-rune translation,Translation tag archive inspected 2026-08-29,Placed between Water Cycle and Prosperity translations
+TR017,18,Translating Ing,https://lettersfortitles.com/translating-ing/,Ing,Prosperity,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR018,19,Translating Wyn,https://lettersfortitles.com/translating-wyn/,Wyn,Prosperity,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR019,20,Ing is for Scylding,https://lettersfortitles.com/ing-is-for-scylding/,Ing,Prosperity,alphabet/translation crossing,Translation tag archive inspected 2026-08-29,Tagged Translation while titled as an alphabet composition
+TR020,21,Translating Gifu,https://lettersfortitles.com/translating-gifu/,Gifu,You Have Nothing Else,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR021,22,Translating Eþel,https://lettersfortitles.com/translating-ethel/,Eþel,You Have Nothing Else,direct rune commentary,Translation tag archive inspected 2026-08-29,Canonical slug uses ethel
+TR022,23,I Sing This Wretched Song,https://lettersfortitles.com/i-sing-this-wretched-song/,Mann + Lagu + Ing + Eþel,Fate + The Water Cycle + Prosperity + You Have Nothing Else,cross-rune tempo sequence,Translation tag archive inspected 2026-08-29,Preserves a four-stanza relation that crosses the reflected pair matrix
+TR023,24,Translating Dæg,https://lettersfortitles.com/translating-day/,Dæg,Light,direct rune commentary,Translation tag archive inspected 2026-08-29,Canonical slug translates the rune name to day
+TR024,25,Translating Cen,https://lettersfortitles.com/translating-cen/,Cen,Light,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR025,26,Translating Rad,https://lettersfortitles.com/translating-rad/,Rad,By Land and By Sea,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR026,27,Translating Ac,https://lettersfortitles.com/translating-ac/,Ac,By Land and By Sea,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR027,28,Translating Æsc,https://lettersfortitles.com/translating-ash/,Æsc,Axis Mundi,direct rune commentary,Translation tag archive inspected 2026-08-29,Canonical slug translates the rune name to ash
+TR028,29,Translating Os,https://lettersfortitles.com/translating-os/,Os,Axis Mundi,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR029,30,Translating Thorn,https://lettersfortitles.com/translating-thorn/,Thorn,They'll Cut You,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR030,31,Translating Yr,https://lettersfortitles.com/translating-yr/,Yr,They'll Cut You,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR031,32,Translating Ior,https://lettersfortitles.com/translating-ior/,Ior,Moody Joy,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR032,33,Translating Ur,https://lettersfortitles.com/translating-ur/,Ur,Moody Joy,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR033,34,Translating Feoh,https://lettersfortitles.com/translating-feoh/,Feoh,Everything is Temporary,direct rune commentary,Translation tag archive inspected 2026-08-29,
+TR034,not listed in current archive,Translating Ear,https://lettersfortitles.com/translating-ear/,Ear,Everything is Temporary,direct rune commentary,Everything is Temporary archive and page retrieved 2026-08-22; page tag reconfirmed 2026-08-29,Page carries the Translation tag but remains absent from the live Translation archive

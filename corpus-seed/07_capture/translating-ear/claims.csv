@@ -1,0 +1,5 @@
+claim_id,claim_summary,evidence_class,assessment,next_check
+TE-C01,The final stanza has an unusually marked sound pattern including rare rhyme,site-authored philological claim,recorded,compare poem witness and editions
+TE-C02,Ear is interpreted as the grave or an earth wave,site-authored interpretation,recorded,compare lexical and editorial sources
+TE-C03,Translation loses musical and contextual material,site-authored methodological claim,operative for corpus capture,preserve lineation stress and loss notes
+TE-C04,The page carries Translation while remaining absent from the live Translation archive,corpus observation,verified 2026-08-29,recheck only when the public archive changes

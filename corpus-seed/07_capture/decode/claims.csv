@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"DEC-C01","Decode links directly from Bibliography to the Ear glyph.","direct site navigation","verified","preserve as a nonchapter threshold seam"
+"DEC-C02","The served secondary filename begins 254-M and matches slot 254 of the folded filename message.","served source filename and local cipher comparison","verified","include in the local verifier"
+"DEC-C03","Decode carries Code but not Rune Code in the served tag list.","direct page tag observation","verified","retain the distinction between the two archives"

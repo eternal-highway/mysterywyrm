@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"AM-10-C01","Old English treow binds tree truth trust belief fidelity and a wider compound field.","site-authored philological claim","recorded; not independently adjudicated","retain diplomatic forms and check each against dictionaries and manuscripts"
+"AM-10-C02","The served HTML contains ᚨ U+16A8 while glossing ash.","direct source-code observation","verified","treat as a site-level glyph-gloss inconsistency; do not normalize silently"

@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"BGR-C01","The page separates textual references from image-source references.","direct page structure","verified","preserve the two evidentiary functions"
+"BGR-C02","Bibliography links directly to Decode and receives the direct link from Vern Tonkin.","direct site navigation","verified","retain as the source-apparatus threshold"
+"BGR-C03","A cited source verifies every historical claim made elsewhere on the site.","corpus inference","rejected","adjudicate claims individually when external source checking is undertaken"

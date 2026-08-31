@@ -1,0 +1,6 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"FATE-11-C01","You Knew it Beforehand is an explicitly tagged code page centered on universal mortality.","site metadata and visible-page observation","recorded","inspect source media before any technical code analysis"
+"FATE-11-C02","The upper face-stave field reads WHAT DO YOU KNOW? under the Octave key","full-resolution coordinate transcription","verified upper field","preserve the twelve coordinate-valued units plus direct K and question mark"
+"FATE-11-C03","The lower field reads THERE IS NO LIFE AFTER DEATH","earlier thematic completion","rejected by fifteen-unit carrier count","do not restore the absent THERE IS units"
+"FATE-11-C04","The lower field's displayed bands read AFTER / NO / LIFE / DEATH","full-resolution coordinate transcription","verified as four bands","preserve displayed order"
+"FATE-11-C05","The rebus resolves semantically as NO LIFE AFTER DEATH","grammatical reordering confirmed by the mortality caption","high-confidence interpretation; not mechanical transcription","reopen only if a carrier-supplied path appears"

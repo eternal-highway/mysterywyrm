@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"MJ-06-C01","The page juxtaposes Ovid's Io with a visible binary-encoded sentence and an alphabet image titled E is for Else.","site-authored page composition","recorded; not independently adjudicated","compare bibliography and cited sources where material"
+"MJ-06-C02","The displayed previous and next links place this page at Moody Joy position 6 of 19.","direct navigation observation","verified by contiguous walk","retain separately from archive order"
+"MJ-06-C03","The displayed binary decodes as 79 bytes of 8-bit ASCII: If Zeus had turned Io into a beaver instead of a cow she could have swum home. followed by one trailing space.","mechanical page-local decode","verified; normalized-source hash and method recorded","preserve exact bytes; do not use as a universal decoder"

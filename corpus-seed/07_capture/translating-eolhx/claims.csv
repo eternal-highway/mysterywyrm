@@ -1,0 +1,5 @@
+claim_id,claim_summary,evidence_class,assessment,next_check
+TX-C01,Secg can mean sedge person or sword,site-authored philological claim,recorded,compare dictionaries and cited Beowulf passage
+TX-C02,Forms glossed as papilus or papyrus may bear on Eolhx,site-authored lexical claim,recorded with uncertainty,identify glossary witnesses and spellings
+TX-C03,Seccard in the surviving printed copy is not an Old English word,site-authored textual claim,recorded,compare Hickes witness and modern editions
+TX-C04,The middle stanza may preserve manuscript or scribal damage near Peorþ's omission,site-authored inference,unresolved,inspect witness layout and editorial history

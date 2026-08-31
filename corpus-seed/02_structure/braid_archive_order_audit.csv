@@ -1,0 +1,57 @@
+chapter,stream,braid_first,braid_second,first_archive_position,second_archive_position,relation,result,check_class,independence_note
+Sitting to Battle,glyph,Sigel,Peorþ,3,2,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Sitting to Battle,casting,Sigel,Peorþ,3,2,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Sitting to Battle,translation,Peorþ,Sigel,3,2,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Sitting to Battle,stanza,Sigel,Peorþ,3,2,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Trust,glyph,Eoh,Tiw,5,4,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Trust,casting,Tiw,Eoh,5,4,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Trust,translation,Tiw,Eoh,5,4,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Trust,stanza,Eoh,Tiw,5,4,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Future,glyph,Ger,Beorc,7,6,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Future,casting,Ger,Beorc,7,6,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Future,translation,Ger,Beorc,7,6,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Future,stanza,Beorc,Ger,7,6,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+War and Peace,glyph,Eh,Is,9,8,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+War and Peace,casting,Eh,Is,9,8,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+War and Peace,translation,Eh,Is,9,8,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+War and Peace,stanza,Is,Eh,9,8,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Fate,glyph,Mann,Nyd,11,10,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Fate,casting,Mann,Nyd,11,10,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Fate,translation,Nyd,Mann,12,11,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Fate,stanza,Mann,Nyd,11,10,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Water Cycle,glyph,Lagu,Hægl,13,12,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Water Cycle,casting,Hægl,Lagu,13,12,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Water Cycle,translation,Lagu,Hægl,15,14,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+The Water Cycle,stanza,Hægl,Lagu,13,12,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Prosperity,glyph,Ing,Wyn,15,14,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Prosperity,casting,Ing,Wyn,15,14,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Prosperity,translation,Wyn,Ing,18,17,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Prosperity,stanza,Ing,Wyn,15,14,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+You Have Nothing Else,glyph,Gifu,Eþel,17,16,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+You Have Nothing Else,casting,Gifu,Eþel,17,16,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+You Have Nothing Else,translation,Eþel,Gifu,21,20,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+You Have Nothing Else,stanza,Gifu,Eþel,17,16,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Light,glyph,Dæg,Cen,19,18,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Light,casting,Cen,Dæg,19,18,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Light,translation,Cen,Dæg,24,23,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+Light,stanza,Dæg,Cen,19,18,descending,pass,independent_retrocheck,path reconstructed before reversal rule
+By Land and By Sea,glyph,Ac,Rad,21,20,descending,pass,derived_same_source,read from category listing used to produce braid
+By Land and By Sea,casting,Rad,Ac,21,20,descending,pass,derived_same_source,read from category listing used to produce braid
+By Land and By Sea,translation,Ac,Rad,26,25,descending,pass,derived_same_source,read from category listing used to produce braid
+By Land and By Sea,stanza,Rad,Ac,21,20,descending,pass,derived_same_source,read from category listing used to produce braid
+Axis Mundi,glyph,Os,Æsc,23,22,descending,pass,prospective_direct_walk,stream order preregistered and path then acquired by direct links before category cross-check
+Axis Mundi,casting,Os,Æsc,23,22,descending,pass,prospective_direct_walk,stream order preregistered and path then acquired by direct links before category cross-check
+Axis Mundi,translation,Os,Æsc,28,27,descending,pass,prospective_direct_walk,stream order preregistered and path then acquired by direct links before category cross-check
+Axis Mundi,stanza,Æsc,Os,23,22,descending,pass,prospective_direct_walk,stream order preregistered and path then acquired by direct links before category cross-check
+They'll Cut You,glyph,Thorn,Yr,25,24,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+They'll Cut You,casting,Yr,Thorn,25,24,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+They'll Cut You,translation,Yr,Thorn,30,29,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+They'll Cut You,stanza,Thorn,Yr,25,24,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Moody Joy,glyph,Ur,Ior,27,26,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Moody Joy,casting,Ur,Ior,27,26,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Moody Joy,translation,Ur,Ior,32,31,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Moody Joy,stanza,Ior,Ur,27,26,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Everything is Temporary,glyph,Ear,Feoh,29,28,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check
+Everything is Temporary,casting,Ear,Feoh,31,30,descending,pass,direct_walk_before_archive,direct casting pair preserved separately from two tag-archive crossings
+Everything is Temporary,translation,Ear,Feoh,not listed,34,unresolved,qualified,direct_walk_before_archive,Translating Ear carries the tag but remains absent from the live Translation archive inspected 2026-08-29
+Everything is Temporary,stanza,Feoh,Ear,29,28,descending,pass,direct_walk_before_archive,path acquired by direct links before category cross-check

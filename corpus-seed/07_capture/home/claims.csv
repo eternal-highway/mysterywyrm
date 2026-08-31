@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"HME-C01","The root URL currently presents The Middle as its lead archive entry.","direct homepage observation","verified 2026-08-29","recheck only if the live homepage changes"
+"HME-C02","The root URL and canonical The Middle URL are distinct evidence surfaces.","URL and page-role comparison","verified","do not merge archive state into the stable page record"

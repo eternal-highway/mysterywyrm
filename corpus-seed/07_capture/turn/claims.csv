@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"TRN-C01","Turn links Stanza 7 Gift to Stanza 23 Home.","direct site navigation","verified","retain as a cross-pair publication/link seam"
+"TRN-C02","The served secondary filename begins 1-L and supplies slot 1 of the folded filename run.","served source filename and local cipher comparison","verified","retain in the local verifier"
+"TRN-C03","Turn is a chronological beginning that the work places inside a larger middle-oriented structure.","corpus interpretation from page role","strongly supported","keep chronological and structural entry distinct"

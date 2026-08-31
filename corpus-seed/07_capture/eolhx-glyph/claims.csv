@@ -1,0 +1,4 @@
+claim_id,claim_summary,evidence_class,assessment,next_check
+EG-C01,X carries multiple phonetic values conditioned by position,site-authored language claim,recorded,compare historical and modern phonology sources
+EG-C02,X is treated as an unknown,site-authored alphabet operation,recorded,trace X pages and code stream
+EG-C03,The glyph is made by upward growth bilateral twining and antlering,site-authored carving instruction,recorded,compare every glyph instruction

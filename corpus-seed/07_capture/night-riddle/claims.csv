@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"L-NIGHT_RIDDLE-C01","The page presents its material primarily through image and code rather than explanatory prose.","site-authored page claim","recorded","compare full page imagery cited sources and independent scholarship"
+"L-NIGHT_RIDDLE-C02","The five encoded lines read CAN YOU READ / WHAT WAS / WRITTEN / IN THE / DARK? under Lewis Carroll's Nyctographic Square Alphabet.","mechanical page-local transcription","verified symbol by symbol against the historical alphabet","preserve lineation and do not apply this key to unrelated code objects"

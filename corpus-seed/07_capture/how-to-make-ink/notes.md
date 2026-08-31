@@ -1,0 +1,5 @@
+# Notes
+
+Preserve page-specific wording, genre, warrant, and navigation. Do not convert category position into a solution or site-authored historical, philological, theological, scientific, divinatory, or literary claims into independently verified fact.
+
+Do not present the encoded recipe as verified safe chemical practice.

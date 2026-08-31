@@ -3,6 +3,15 @@
 Research on **Letters for Titles** — <https://www.lettersfortitles.com> — an
 alphabet book by Vern Tonkin built on the 29-stanza Old English Rune Poem.
 
+## Repository lineages
+
+This repository preserves two complementary records without collapsing them:
+
+- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. Its imported state is **v0.26.1**.
+- [`archive/`](archive/), [`data/`](data/), [`book/`](book/), [`research/`](research/), and [`tools/`](tools/) are the complete-site harvest, derived edition, analysis, and reproducible tooling.
+
+Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules.
+
 ## The finding
 
 The site looks abandoned: 262 posts, then nothing after March 2023. It is

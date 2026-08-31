@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"AM-11-C01","Speech Bearer contains exactly one article image and no alphabet-book second asset.","direct served-source observation","verified","retain as the position-11 failure of AM-W04"
+"AM-11-C02","The verse is original to Vern Tonkin.","authorship inference","unresolved","do not assign authorship without an explicit source"

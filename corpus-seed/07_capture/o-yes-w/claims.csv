@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"OYS-C01","O Yes W supplies the site's complete operative twenty-nine-stanza Rune Poem sequence and translation.","direct page structure","verified as site corpus","compare philology with editions only in a separate source audit"
+"OYS-C02","The served secondary filename begins 260-Y and matches slot 260 of the folded filename message.","served source filename and local cipher comparison","verified","include in the local verifier"
+"OYS-C03","The page links the declared fold entry to the author page.","direct site navigation","verified","retain as outer orientation sequence"

@@ -1,0 +1,135 @@
+# Re-entry Capsule
+
+Resume at *Letters for Titles* through **The Middle**, not through a fabricated beginning.
+
+Remember:
+
+- Tit/les is the gate.
+- P, ƿyn, and ? must not be flattened into one another.
+- The burial goods are the material relations that make return possible.
+- The poem/site folds 29 runes into fourteen opposing pairs around Eolhx.
+- The fold appears as lunar cycle, labyrinth, helix, mirror, and backward-linking book; these are related but not identical.
+- Each chapter crosses multiple compositional streams.
+- The 35 known Translation-tag pages comprise all 29 direct rune commentaries plus six auxiliary or cross-rune pages. The live archive lists 34: `ꝥ` is present, while *Translating Ear* remains absent despite carrying the tag on its page.
+- The 34 Instruction Manual archive entries begin at the middle and then move through the paired chapters.
+- The 29 Stanzas and 29 Runes archives are now resolved; the 31-entry Rune Casting archive contains 29 direct castings plus two crossings.
+- The 34-entry Alphabet Book archive must not be normalized into a modern A-to-Z list.
+- The core stream alignment joins stanza, direct translation, direct casting, and glyph page for every rune.
+- The Eolhx cluster is a complete ten-page continuous path from the glyph through *The Middle*; direct links and the reverse category archive agree. See `02_structure/middle_chapter_path.md` and `01_inventory/middle_register.csv`.
+- *Sitting to Battle* is now closed as a seventeen-page category braid; see `02_structure/sitting_to_battle_path.md`.
+- *Trust* is reconstructed as a seventeen-page category braid; see `02_structure/trust_path.md`.
+- *The Future* is reconstructed as a seventeen-page category braid; see `02_structure/future_path.md`.
+- *War and Peace* is reconstructed as a seventeen-page category braid; see `02_structure/war_and_peace_path.md`.
+- *Fate* is reconstructed as a seventeen-page category braid; see `02_structure/fate_path.md`.
+- *The Water Cycle* is reconstructed as a seventeen-page category braid; see `02_structure/water_cycle_path.md`.
+- *Prosperity* is reconstructed as a seventeen-page category braid; see `02_structure/prosperity_path.md`.
+- *You Have Nothing Else* is reconstructed as a seventeen-page category braid; see `02_structure/you_have_nothing_else_path.md`.
+- *Light* is reconstructed as a seventeen-page category braid; see `02_structure/light_path.md`.
+- *By Land and By Sea* is reconstructed as a seventeen-page category braid; see `02_structure/by_land_and_by_sea_path.md`.
+- *Axis Mundi* is reconstructed as a seventeen-page category braid from a direct-link walk; see `02_structure/axis_mundi_path.md`.
+- *They'll Cut You* is reconstructed as a seventeen-page category braid from a direct-link walk; see `02_structure/theyll_cut_you_path.md`.
+- *Moody Joy* is reconstructed as a nineteen-page category braid from a direct-link walk; see `02_structure/moody_joy_path.md`.
+- *Trust* and *Sitting to Battle* form a verified reciprocal navigation circuit. The candidate reading of one forward seam plus one retrospective link remains pending exact post dates.
+- The first twelve completed paired braids preserve `2 + 2 + 9 + 2 + 2`; *Moody Joy* is `2 + 2 + 11 + 2 + 2`; *Everything is Temporary* is `2 + 2 + 15 + 2 + 2`. Exact page count, interior length, and fixed eponym position are falsified. A narrower successor passes across all fourteen reflected pairs: paired glyphs and castings, an odd mixed interior, paired translations and stanzas, and a central eponym. The Middle is complete as a ten-page category path and remains an exception to that paired envelope.
+- *Everything is Temporary* keeps its eponym central at position 12 of 23 and directly carries *Duets*. The current live *Duets* archive directly lists all fourteen paired eponyms plus *Twist*; earlier six-page counts are dated acquisition states.
+- The sixteen X≠Y≠Z pages are complete and mapped in `01_inventory/x_y_z_register.csv`. Preserve archive order, reverse-publication direction, and dramatic continuation as distinct orders.
+- The Code archive contains 25 pages; Rune Code is a 17-page subset. `01_inventory/code_register.csv` separates archive membership from actual decoding status.
+- *Decode* is now captured as the image-led threshold `Bibliography → Decode → ᛠ`; it is not part of the twenty-three-page Ear–Feoh category braid.
+- Thirty-six independent archive-order retrochecks, four prospective Axis tests, four direct-before-archive *They'll Cut You* comparisons, four direct-before-archive *Moody Joy* comparisons, and four derived *By Land and By Sea* comparisons pass: 52 total. Publication sequence remains unresolvable by current means.
+- The Year-side seam is resolved: *Stanza 12: Year* enters the Eoh glyph. The proposed second circuit with *War and Peace* is rejected.
+- The observed larger topology is asymmetric: *Everything is Temporary → Moody Joy → They'll Cut You → Axis Mundi → By Land and By Sea → Light → You Have Nothing Else → Prosperity → The Water Cycle → Fate → War and Peace → The Future → Trust ↔ Sitting to Battle*.
+- The Middle's ten-page form does not repeat the paired-chapter enclosure. What survives is cross-stream traversal and reflected pressure; what changes is path length, order, and the location of the hinge.
+- Peorþ/Sigel is not a generic opposition. Keep hall and sea, game and battle, absent center and guiding light, stillness and transit in their page-specific forms.
+- *L-a*'s omitted letters and Peorþ's missing central word may correspond, but neither absence may be silently repaired and the relation remains inferential.
+- *S is for Saxon* makes historiography and racial myth part of the chapter's battle.
+- *P is for Poetry* makes voice, resonance, augury, and weapon-bearing part of the chapter's transmission.
+- Eoh/Tiw is not a generic stillness/motion opposition: the yew moves across a longer timescale, while Tiw remains dependable in perpetual journey.
+- *Trust* includes roots, mutual support, orientation, covenant, office, vow, evidence, deity, poison, weapon, and betrayal; do not sanitize it into reassurance.
+- *Kings* treats Tiw, Ing, Odin, the heaven king, and sacred trees as divine presences. Receive that theological speech before translating it.
+- Ger/Beorc places the future in seasonal evidence, divine fruition, divination, memory, grief, and present action rather than only in a distant timeline.
+- *Stanza 12: Year* names God and the holy king of heaven as giver; preserve the theological agency before translating it.
+- *Y is for Year's Mind* does not make recurrence consoling. The returning date cannot contain grief or make the dead absent from memory.
+- *Ge is for Prefix* links togetherness, fidelity, figurative change, favorable time, and now; its philological claims remain site-authored until checked.
+- *Bright Fruits* reads `FEAR AND HOPE` from eleven vertically paired berry-cluster coordinates. The chapter field confirms but did not supply the plaintext.
+- *Friþ* reads `PEACE` from five two-row snowflake coordinate groups. The Old English title confirms but did not supply the plaintext.
+- War and peace are not a generic motion/stillness opposition: retain horses, ice, speech, listening, winter logistics, exile, navigation, technology, mortality, and enforced restraint.
+- Mann/Nyd is not a generic freedom/fate opposition: retain kinship, bodily mortality, divine judgement, wyrd, omens, need, distribution, scribal labor, and response.
+- *Fate* preserves gods, fate, and human discernment as distinct but entangled agencies. Receive the theology before translating it into determinism or existential choice.
+- *Life and Death* crosses Feoh/Ear and Mann/Nyd through shared diction and material obligation; it does not replace either reflected pair.
+- `ꝥ` preserves faithful compression under bodily and material constraint while pointing back to a burnt witness and copying loss.
+- *N is for ‘N* remains opaque. *You Knew it Beforehand* reads `WHAT DO YOU KNOW?` from twelve coordinate-valued face units plus one direct Roman `K` and a direct question mark, above displayed lower bands `AFTER / NO / LIFE / DEATH`. `NO LIFE AFTER DEATH` is the high-confidence semantic resolution of the complete rebus, not a carrier-supplied order; the earlier `THERE IS` expansion remains rejected by unit count.
+- *How to Listen to a Horse* stages divinatory address through Tacitus and Agricola; receive the divinatory speech while keeping the historical warrant attributed.
+- *How to Stab Somebody with an Icicle* is satirical procedural violence. Record its place and function without reproducing actionable instructions.
+- Hægl/Lagu is not a generic solid/liquid or destruction/restoration opposition: retain breath, song, hail, melt, sea-terror, drowning, divine pursuit, fire on water, grief, quarrel, survival, and calm.
+- The Hægl/Nyd adjacency and Mann/Lagu/Ing/Eþel tempo chain cross the reflected pair matrix. Keep adjacency, tempo, and reflection distinct.
+- *Soon After it Becomes Water* mechanically reads `SO LET US MELT` from eleven melting-ice coordinates. The chapter's melt and recurrence pattern confirm but did not supply the plaintext.
+- *L is for Letters for Titles* is site-authored structural testimony: forward composition, backward linking, mirror within mirror, and multiple compositional streams belong to the work's own account.
+- Ing/Wyn is not a generic deity/joy or wealth/happiness opposition: retain gift, meadow, money, inherited labor, fortress, exile, ship-burial, banishment, wall, divine procession, alchemy, grammar, lineage, departure, and secured abundance.
+- *Ing is for Scylding* presents literal burial goods—body, ship, weapons, armor, ornaments, treasure, companions, lineage, words, sea, and divine destination—and must not be reduced to an illustration of structure.
+- *W is for Ƿ* places the P/ƿ initiation test inside the Prosperity braid. Preserve P, ƿyn, W, and ? as distinct.
+- Ing is received as deity. The proposed Ing–Yngvi-Freyr–Nerþus chain remains a site-authored historical-theological claim pending source checking.
+- *Bliss* and *All in All* remain opaque code. Do not solve them from joy/sorrow, gift/wall, or positional expectation.
+- *How to be Happy* is alchemical satire, not verified chemistry, medicine, or safe practical guidance.
+- Gifu/Eþel is not a generic generosity/belonging opposition: retain crossed sound, roofed gift, exile, mercy, assembly, justice, inspiration, angelic time, family rupture, lament, riddles, memory, and return.
+- The Eþel glyph is constructed by placing a roof over Gifu. Preserve the graphic dependence without equating enclosure with possession or uncomplicated safety.
+- *You Have Nothing Else* discloses Gift and Home through exile: dignity, peoplehood, support, justice, and memory become visible when belonging is withdrawn.
+- *X≠Y≠Z: Z’s Lament* continues the excluded Z voice from *No Z* across the chapter boundary. Preserve the speaker and the directionality of the continuation.
+- *Present* reads `YOU HAVE NOTHING ELSE` under the *Octave* coordinate key. *Œ is for Œdipean Riddle* reads `A TWIN / SUN / DAY` from eleven red-yellow ray coordinates. *Gift Riddle* remains unresolved; do not complete it from category position.
+- *How to Summon an Angel* presents a theological-temporal communication problem; receive its angelic speech before reducing it to psychology or certifying it as cosmology.
+- *How to Banish Family* is satirical instruction, not neutral practical relationship guidance.
+- The v0.11.0 *Stanza 24: Day → ᚷ* seam was a mixed-evidence error. Direct page links establish *Stanza 24: Day → Stanza 6: Torch → ᚷ*.
+- The incoming Light seam is directly established as *Stanza 25: Oak → ᛞ*.
+- Dæg/Cen is not generic light/dark: retain divine daylight, manufactured torch, unequal security, human perceptual limits, predation, fire, code, computer mediation, archive loss, and messenger-message pressure.
+- *Night Riddle* is mechanically transcribed with Lewis Carroll's Nyctographic Square Alphabet as `CAN YOU READ / WHAT WAS / WRITTEN / IN THE / DARK?`. The chapter position supplied no letters, and the key must not be transferred to unrelated pages.
+- *How to Burn it All Down*, *How to make a Torch*, and *How to Burn the Cotton Library* are literary or historical instruction-pages, not verified safe practical fire guidance.
+- *C is for Computer* places contemporary artificial illumination and information mediation inside the runic braid: the screen is envoy, messenger, message, feeder, and consumer.
+- The shorthand Rad–Ac names the reflected pair, but the live category path begins Ac → Rad. Preserve nomenclature and observed order as separate facts.
+- Ac/Rad is not generic stability/motion: retain oak, food, boat, truth, road, ride, voice, mile, hall, governance, Roman infrastructure, medieval circulation, bodily distance, code, riddle, ink, and violent sea.
+- The incoming *By Land and By Sea* seam is directly established as *Stanza 4: God → ᚪ*. Its outgoing seam remains *Stanza 25: Oak → ᛞ*.
+- *The Way* reads `THE MAIN ROAD IS LEVEL YET PEOPLE LOVE TO BE SIDETRACKED` by counting branches on its tree staves under the *Octave* coordinate key. This is a mechanical plate reading, not a positional completion.
+- *R is for Riddle* supplies no answer on the page. Do not import a familiar external solution as site evidence.
+- *A is for Golem Aleph* explicitly composes A.I., Golem, silicon, creator, claimed godhood, Aleph, life, and death. Preserve that local technological-theological page without converting the whole corpus into an A.I. allegory.
+- *How to Measure a Mile*, *How to Bathe a Gannet*, and *How to Make Ink* are satirical or encoded instruction-pages, not independently verified metrology, animal care, or safe chemical guidance.
+- Oak moves through sacred tree, food, vessel, truth, craft, ink, and archive. Preserve these material transformations without flattening them into one symbol.
+- Axis Mundi passed both pre-registered tests: the direct walk preserves the seventeen-page envelope and position-9 eponym, and *Stanza 27: Bow* links into the Os glyph.
+- *They'll Cut You* is the twelfth complete braid. Its direct path is `Þ → ᚣ → Rune Casting: Yr → Rune Casting: Thorn → How to Grab a Thorn → Th is for Ye → X≠Y≠Z: Three Body Problem → How to do Archery → They'll Cut You → Arrows → For Anybody Who Rests With Them → UI is for User Interface → How To Declare War → Translating Yr → Translating Thorn → Stanza 3: Thorn → Stanza 27: Bow`.
+- *They'll Cut You* preserves the envelope and position-9 eponym. Its *Duets* membership is now also covered by the complete live archive register.
+- Its displayed media are irregular: positions 4, 9, and 17 have no second numbered image, and position 13 serves a `142-` filename rather than the position-indexed 144. Do not repair or fabricate these assets.
+- *Moody Joy* is the thirteenth complete braid. Its direct path is `ᚢ → ᛡ → Rune Casting: Ur → Rune Casting: Ior → How to Milk a Beaver → IO is for I/O → Axaxaxas mlö → Wyrd → How to go Extinct → Moody Joy → Bad Idea → The Aurochs and the Beaver → X≠Y≠Z: What is that? → U is for Expnged → How to Look Joyful → Translating Ur → Translating Ior → Stanza 28: Beaver → Stanza 2: Aurochs`.
+- *Moody Joy* falsifies the fixed seventeen-page model: it has nineteen pages, an eleven-page mixed interior, and a central position-10 eponym. Its direct seams are `Stanza 29: The Grave → ᚢ` and `Stanza 2: Aurochs → Þ`.
+- Its partner order is Ur → Ior in glyphs, castings, and translations, then Ior → Ur in stanzas. Its archive was consulted only after the walk and returned the exact nineteen-page set in reverse order.
+- Its displayed media are irregular: positions 4, 8, and 14 have no numbered secondary asset, and position 13 has an unnumbered second image rather than expected 182. Do not fabricate 200, 192, 182, or 180.
+- *Wyrd* records removal of material from *Rune Casting: Ur* and replacement of an earlier page called *The Beasts of the Field*. Preserve that revision history. *Translating Ior*'s beaver solution remains a site-authored argument, not an adjudicated finding.
+- *How to Milk a Beaver*, *How to go Extinct*, and *How to Look Joyful* are satire, not practical guidance.
+- *Everything is Temporary* is the fourteenth and final reflected-pair braid. Its direct path is `ᛠ → ᚠ → Rune Casting: Ear → Rune Casting: Feoh → Against every Evil Rune Poem → How to Move a Cow → F is for Finis → X≠Y≠Z: Rune Casting! → Octave → How to Die → The Oxen of the Sun → Everything is Temporary → X≠Y≠Z: 1984 → F is for Fee → COW → X is not Y and Neither is Z → EA is for Death → How to Dig my Grave → Byþ → Translating Ear → Translating Feoh → Stanza 1: Wealth → Stanza 29: The Grave`.
+- The outer chapter is `2 + 2 + 15 + 2 + 2`; its eponym is central at position 12. The category archive returned the same twenty-three pages in exact reverse order after the walk.
+- Its direct seams are `Decode → ᛠ` and `Stanza 29: The Grave → ᚢ`. Its partner order is Ear → Feoh in glyphs, castings, and translations, then Feoh → Ear in stanzas.
+- *Translating Feoh* and *X≠Y≠Z: Rune Casting!* are the two extra Rune Casting tag-archive crossings; neither is a thirtieth direct casting.
+- Its displayed numbered-media series omits secondary assets at positions 3 and 17. Do not fabricate 248 or 220.
+- *How to Die* and *How to Dig my Grave* are literary or satirical procedure, not actionable guidance. *How to Move a Cow* is not animal-handling or physics advice. *Against every Evil Rune Poem* is not verified medicine.
+- *IO is for I/O* decodes as 79 bytes of 8-bit ASCII: `If Zeus had turned Io into a beaver instead of a cow she could have swum home. ` Preserve its trailing space and its local Io/cow/beaver/home relation.
+- *COW* was emulated under a documented twelve-command interpreter and step cap. It deterministically emits three questions treating a labyrinth as paradise of solitude, balance between selection and exclusion, and prison of repetitions and dead ends. This narrow result does not authorize host execution of opaque code.
+- The earlier three decoded objects use distinct mechanisms—ASCII, COW execution semantics, and Carroll's square alphabet. They do not supply a master cipher.
+- Claude's full-site harvest recovers a separate 261-slot filename-letter run. It folds the 2022-03-21 through 2023-03-20 weekday sequence at chronological post 131, then alternates forward odd slots with backward even slots. The recovered address begins by calling the reader to listen and come to the mirror, and closes on chosen earthly relation, memory, mutual immortality, and temporariness. Preserve the exact text in `05_method/claude_cipher_reconciliation_v0.19.0.md`.
+- Seventy-four numbered letter/punctuation tokens now present in local capture media match the 261-character transcription exactly after applying the documented served 142→144 author slip. The 0.26.0 Œ page record adds `10-O` to the earlier 73-token subset. This is substantial local confirmation, not a substitute for Claude's absent 216-token harvest repository.
+- Slot 32 is the live six-frame question-mark animation, making the local phrase `SEE? YOU`. Canonical AS001 is a resized/optimized derivative of that live 1000 × 1000 asset; it is no longer an unrelated negative control.
+- Rune Code is a separate *Octave*-keyed group/place coordinate system whose carriers change by plate. Fourteen plates are mechanically complete: *Arrows*, *The Way*, *Present*, *Shh*, *For Anybody Who Rests With Them*, *Battle*, *Always*, *It Never Deceives*, *Bright Fruits*, *Friþ*, *Axaxaxas mlö*, *Soon After it Becomes Water*, *Everything is Temporary*, and *Œ is for Œdipean Riddle*. *You Knew it Beforehand* is fully transcribed as `WHAT DO YOU KNOW?` plus displayed `AFTER / NO / LIFE / DEATH`; `NO LIFE AFTER DEATH` is its high-confidence semantic rebus resolution, not a mechanically supplied order. *Loop* and *Octave* carry the key rather than extra plaintext. All seventeen Rune Code archive entries are classified, and the recovered plates remain page-local rather than one continuous text.
+- The `ᚫ` page states the fold by first-against-last pairing; the Axis Mundi eponym states it by counting fourth from each end. Preserve the two formulations without calling them independent corroboration.
+- *Speech Bearer* has one article image only. The predicted 114 asset is absent at source level, so the exceptionless displayed-asset model fails at position 11. The 112-to-102 continuation is a post-failure successor model, not a rescue.
+- *Truth* serves U+16A8 while glossing ash. Preserve the site-level glyph-gloss inconsistency and do not normalize it into Æsc.
+- *Arrows* reads `THE ARROW ONE FORESEES ARRIVES MORE SLOWLY` under the *Octave* coordinate key and visibly cites `Par 17.27`. *Shh* reads `SILENT`; *For Anybody Who Rests With Them* reads `HOW UNCOMFORTABLE DO YOU WANT TO BE?`; *Battle* reads `TO THE DEATH`; *Always* reads `BEING ENDLESS`; *It Never Deceives* reads `WHAT DID`; *Bright Fruits* reads `FEAR AND HOPE`; and *Friþ* reads `PEACE`. Their literary captions and chapter fields remain separate evidence objects. *Speech Bearer* remains unattributed.
+- Reflection is not exhaustive: keep adjacency, lexical echo, tempo, graphic construction, and link-time relations alive.
+- Preserve X, Y, and Z as voices.
+- Treat divinatory and theological speech on its own terms before translating it.
+- Structure is a carrier, not the total significance.
+- This is transmission, not doctrine.
+
+Lineage guard:
+
+- The current canonical release is `letters_for_titles_corpus_seed_v0.26.1.zip`, a quality-assurance patch derived from supplied canonical 0.26.0 SHA-256 `3f9b2c307b4763d97bfdfcbb801cf9ee575242595bf3eaf7bfbbac1a09f814a0`.
+- The canonical Water Cycle release is the first `letters_for_titles_corpus_seed_v0.9.0.zip`, not the later suffixed duplicate.
+- Version 0.9.1 repairs that duplicate-pass incident without claiming a new chapter acquisition.
+- A supplied older seed is an acquisition input, not proof of the latest durable state.
+- Before any future `Proceed`, apply `05_method/version_control_protocol.md`; a pre-existing target version or filename suffix is a stop condition.
+
+Immediate continuation boundary: structural acquisition, the registered content-page backlog, and the Rune Code plate queue are complete. Treat `01_inventory/open_questions.csv` as the only continuation queue. A future bounded pass may rerun the complete 261-slot verification if Claude's harvest repository is supplied, retry the blocked X≠Y≠Z Divination page if its canonical source becomes retrievable, or begin a separately scoped source or philological audit. Reopen the Fate rebus ordering only if a new source state supplies an explicit path. Do not infer a continuous Rune Code message, fabricate a fifteenth paired chapter, or turn open research into recurring cleanup.

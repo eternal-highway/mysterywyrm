@@ -1,0 +1,4 @@
+claim_id,claim_summary,evidence_class,assessment,next_check
+SH-C01,The displayed source stanza is the fifteenth member and uses the Eolhx glyph,site page observation,verified in archive and page,compare with source witness
+SH-C02,Sword is the chosen English rendering for the opening riddle term,site-authored translation choice,recorded,retain alternatives from Translating Eolhx
+SH-C03,The stanza page links backward to translation and forward to The Middle,site navigation observation,verified 2026-08-22,compare neighboring chapter paths

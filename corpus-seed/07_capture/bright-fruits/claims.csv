@@ -1,0 +1,4 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"BRF-C01","The future plunges to the past through the held present.","site-authored caption relation","recorded","verify Joyce source and full image context"
+"BRF-C02","The code can be solved from chapter placement alone.","corpus inference","rejected","page-specific carrier evidence is now preserved separately in BRF-C03"
+"BRF-C03","The berry-cluster plate reads FEAR AND HOPE under the Octave key","full-resolution coordinate transcription","verified from eleven coordinates","retain the Joyce caption as separate evidence"

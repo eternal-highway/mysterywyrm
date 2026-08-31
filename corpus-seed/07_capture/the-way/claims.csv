@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"BLS-07-C01","The page places an opaque code composition in relation to the Tao Te Ching.","site-authored tagging and image-caption composition","recorded; not independently adjudicated","compare cited sources, manuscript evidence, and page media"
+"BLS-07-C02","The tree-stave coordinates read THE MAIN ROAD IS LEVEL YET PEOPLE LOVE TO BE SIDETRACKED.","mechanical full-resolution transcription","verified under the Octave group.place key","preserve as page-local plaintext and keep the Tao translation source attributed"

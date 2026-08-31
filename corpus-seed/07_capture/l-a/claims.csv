@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"LA-C01","The visible text deliberately presents four lines with omitted letters","page observation","recorded","check image and any accessibility text"
+"LA-C02","A single normalized expansion of the lines is site-authored","no evidence","not established","do not silently complete the words"
