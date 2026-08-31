@@ -1,0 +1,66 @@
+name: lineage integrity
+
+# Guards both lineages described in LINEAGES.md:
+#
+#   corpus-seed/  is a release payload and must reproduce its own
+#                 MANIFEST.sha256 exactly. Corrections belong outside that
+#                 tree, or in a new corpus release with a regenerated
+#                 manifest -- never as an in-place edit.
+#
+#   harvest layer is derived and reproducible: its generators must still
+#                 produce the files committed alongside them.
+#
+# Everything enforced here lives outside corpus-seed/, so the guard itself
+# never has to appear in the manifest it checks.
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  corpus-seed:
+    name: corpus-seed reproduces its release payload
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Verify manifest, path set, and both state verifiers
+        run: tools/verify-corpus-seed.sh
+
+      - name: Fail if the seed tree was modified in place
+        run: |
+          # A commit that edits corpus-seed/ without shipping a regenerated
+          # manifest is exactly the failure mode this workflow exists to catch.
+          # The guard above already detects it; this step reports it plainly.
+          if ! git diff --quiet -- corpus-seed/; then
+            echo "::error::corpus-seed/ has uncommitted modifications"
+            exit 1
+          fi
+
+  harvest-layer:
+    name: harvest layer regenerates its committed files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Re-derive the site architecture
+        run: python3 tools/structure.py
+
+      - name: Recover the filename message and confirm research/cipher.md is current
+        run: |
+          python3 tools/cipher.py
+          if ! git diff --quiet -- research/cipher.md; then
+            echo "::error::research/cipher.md differs from what tools/cipher.py produces"
+            git --no-pager diff -- research/cipher.md
+            exit 1
+          fi

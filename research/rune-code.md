@@ -12,10 +12,21 @@ remaining three — *Present*, *Friþ* and *It Never Deceives* — carry only th
 second. That image is a photograph: usually a page of a lined notebook,
 sometimes objects arranged on a table. Those are the plates.
 
-**All seventeen are read.** Sixteen carry a message; one — *Loop* — is not a
-message at all but the key itself. Fifteen of the sixteen read whole. The last,
-*Soon After it Becomes Water*, is written in ice cubes that were already melting
-when the shutter opened, and three of its four lines survive.
+**All seventeen are read — in this lineage.** Sixteen carry a message; one —
+*Loop* — is not a message at all but the key itself. Fifteen of the sixteen read
+whole. The last, *Soon After it Becomes Water*, is written in ice cubes that were
+already melting when the shutter opened, and three of its four lines survive.
+
+> **This is the harvest layer's reading, not the repository's finding.**
+> `corpus-seed/` reads eight of these plates differently, including *Shh*
+> (`SILENT` against `LISTEN`) and *Axaxaxas mlö* (a different sentence
+> entirely). Fourteen of the sixteen carriers resolve to the same source URL at
+> the same pixel dimensions in both records, so most of these are disputes about
+> counting identical bytes rather than about evidence. The seed also counts
+> fifteen message plates to this file's sixteen, and reads *Soon After it
+> Becomes Water* as complete where this file reads its first line as lost.
+> Both records stand until adjudicated; neither overrides the other. Every
+> conflict is tabulated in [`../CROSS-LINEAGE-FINDINGS.md`](../CROSS-LINEAGE-FINDINGS.md).
 
 ## The system
 
@@ -122,6 +133,15 @@ groups, always — but each costume assigns them to different features:
 | Soon After it Becomes Water | ice cubes in the upper group | cubes in the lower |
 
 ## The plates, read
+
+Readings in this table are the harvest layer's. Eight of them are contested by
+`corpus-seed/` — *Shh*, *Axaxaxas mlö*, *It Never Deceives*, *Always*, *Œ is for
+Œdipean Riddle*, *You Knew it Beforehand*, *The Way* and *Soon After it Becomes
+Water* — and *Octave* is read here as an inscription that the seed does not
+register as an image carrier at all. *For Anybody Who Rests With Them* is
+largely convergent but keeps one coordinate conflict at row 4. See
+[`../CROSS-LINEAGE-FINDINGS.md`](../CROSS-LINEAGE-FINDINGS.md) § 3a before
+citing any of them as settled.
 
 | date | post | chapter | reads |
 |---|---|---|---|

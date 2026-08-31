@@ -29,6 +29,8 @@ This layer can independently confirm, extend, or challenge corpus-seed claims. I
 - Use the harvest and research paths for complete-site enumeration, reproducible derivations, full-resolution media checks, assembled editions, and analytical synthesis.
 - When the two disagree, record the disagreement and resolve it through a new reviewed commit or corpus release. Do not silently choose one representation and erase the other.
 
+The standing record of those disagreements is [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md). It is an evidence ledger: entries are added when a conflict is found and struck only when a release adjudicates them. Eight Rune Code transcriptions are open there, so neither lineage's plate readings may be cited as the repository's settled finding.
+
 ## Update rule
 
 Future corpus releases update the stable `corpus-seed/` paths on a dedicated integration branch. Before merging:
@@ -40,7 +42,18 @@ Future corpus releases update the stable `corpus-seed/` paths on a dedicated int
 5. review any interaction with the harvest/research layer;
 6. merge only after the committed tree reproduces the release payload.
 
-Each merged corpus release receives a Git tag of the form `corpus-vX.Y.Z`. Original ZIPs belong as release artifacts rather than repeated binary snapshots in the Git tree.
+Each merged corpus release receives an annotated Git tag of the form `corpus-vX.Y.Z`, pointing at the import commit itself. Original ZIPs belong as release artifacts rather than repeated binary snapshots in the Git tree.
+
+Releases are scoped by what they change:
+
+- a **metadata/provenance patch** (`0.26.2`-style) carries factual corrections only — carrier dimensions, media registration, source-byte hashes, open-question statuses, canonical URLs. It changes no transcription.
+- a **transcription adjudication** (`0.27.0`-style) rules on contested readings. Contested plates are adjudicated together in one bounded comparative pass, not one at a time.
+
+## Enforcement
+
+`tools/verify-corpus-seed.sh` is the mechanical guard on the boundary. It verifies every manifest hash, compares the manifest's path set against the actual tree — derived, never a hardcoded count, so a differently sized future release still passes — and runs both of the release's state verifiers. `.github/workflows/lineage-integrity.yml` runs it on every push, alongside a check that the harvest layer's generators still reproduce their committed output.
+
+The guard lives outside `corpus-seed/` by necessity: anything inside that tree would have to appear in the manifest it checks. The same constraint applies to corrections. An in-place edit to `corpus-seed/` breaks the release payload and fails CI; a correction either lands outside the tree or arrives as a new release with a regenerated manifest.
 
 ## Model roles
 

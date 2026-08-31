@@ -9,6 +9,10 @@ This document **records** disagreements. It does not resolve them. Under
 every item below marked *contradiction* needs explicit adjudication by the
 owner of the corpus lineage before either record changes.
 
+It is an **evidence ledger**: entries are added when a conflict is found and
+struck only when a release adjudicates them. § 5 records the dispositions
+ruled so far and what remains open.
+
 Nothing in `corpus-seed/` was modified. Any edit inside that tree invalidates
 its 1,415-file `MANIFEST.sha256`, so corrections belong either outside the
 tree (as here) or in a new Codex release with a regenerated manifest.
@@ -122,7 +126,7 @@ Seven carriers agree exactly, coordinate for coordinate: *Arrows*, *Present*,
 | **You Knew it Beforehand** | upper `WHAT DO YOU KNOW?`; lower `AFTER / NO / LIFE / DEATH` | upper `WHAT IS OUR FATE?`; lower unresolved | **contradiction** |
 | **The Way** | `…IS **LEVEL** YET…` | `…IS **SMOOTH** YET…` | **contradiction (one word)** |
 | **Soon After it Becomes Water** | `SO LET US MELT`, 11 units, complete | `… LET US MELT`, line 1 melted and unrecoverable | **contradiction (evidence state)** |
-| **For Anybody Who Rests With Them** | complete: `HOW UNCOMFORTABLE DO YOU WANT TO BE?` | `HOW UNCOMFORTABLE … BE?`, middle unresolved | **seed advances root** |
+| **For Anybody Who Rests With Them** | complete: `HOW UNCOMFORTABLE DO YOU WANT TO BE?` | `HOW UNCOMFORTABLE … BE?`, middle unresolved | **mostly convergent, one conflict** |
 | **Octave** | prose key carrier; **no image carrier registered** | reads a plate: `CODE` + `WHERE / THE / BE·THE / HELL ?` | **registration gap** |
 
 Detail on the sharpest cases:
@@ -156,12 +160,16 @@ own anomaly note is evidence *against* its own `NIGHT`. Weigh this together
 with § 2: the seed decoded this plate at 1080 × 1080 when a 2560 × 2560
 original exists.
 
-**For Anybody — convergence, not conflict.** Rows 1, 2, 3 and 7 are
-coordinate-identical. The seed supplies firm values exactly where the harvest
-prints uncertainty ranges, and the two are compatible at row 4 glyph 2
-(seed 3.8; harvest "3 up / 7–8 down"). One hard conflict remains: row 4 glyph
-3, seed `1.4` (O) against harvest `1.3` (TH). The seed's completion is the
-stronger record here and the harvest layer should adopt it, with attribution.
+**For Anybody — largely convergent, but not adoptable yet.** Rows 1, 2, 3 and
+7 are coordinate-identical. The seed supplies firm values exactly where the
+harvest prints uncertainty ranges, and the two are compatible at row 4 glyph 2
+(seed 3.8; harvest "3 up / 7–8 down"). But **one genuine coordinate conflict
+remains**: row 4 glyph 3, seed `1.4` (O) against harvest `1.3` (TH). The seed
+is the more complete record and its sentence is grammatical, which is
+suggestive but is not adjudication — a completion that reads well is exactly
+the kind of evidence this review is meant to hold at arm's length. This plate
+therefore stays on the contested list and is settled with the other eight, not
+adopted ahead of them.
 
 **Systematic convention difference.** The harvest writes English *y* with Ger
 (2.4) — `JOU`, `MJ` — arguing it is the /j/ rune. The seed uses Yr (4.3) for
@@ -217,46 +225,78 @@ call, not this review's.
 
 ---
 
-## 5. Recommended bounded corrective patch
+## 5. Disposition
 
-Scoped so that nothing inside `corpus-seed/` is touched and no reading is
-adjudicated by this review.
+Ruled 2026-08-31 by the repository owner. The findings above are preserved as
+an evidence ledger; the resolutions proposed in the first draft of this
+document are **not** adopted wholesale.
 
-**Tier 1 — mechanical, no adjudication needed, outside the seed tree**
+### Adopted and applied
 
-1. Tag `aad614d` as `corpus-v0.26.1`, per `LINEAGES.md` § Update rule.
-2. Add `tools/verify-corpus-seed.sh`: run `sha256sum -c MANIFEST.sha256` from
-   `corpus-seed/`, assert 1,415 payload files with only the manifest
-   uncovered, then run both seed verifiers. Non-zero exit on any failure.
-   This closes the "nothing detects an edit to the seed" gap.
-3. Link this document from `README.md` and from `LINEAGES.md`
-   § Authority rule, so the repository's own record of disagreement is
-   reachable from both lineages.
-4. Add one sentence to `research/rune-code.md` at the head of "The plates,
-   read" noting that `corpus-seed/` reads eight of these plates differently
-   and pointing here. The harvest layer keeps its readings; it stops
-   presenting them as the repository's only record.
+| # | Ruling | State |
+|---|---|---|
+| 1 | Findings document becomes an evidence ledger on `main` | pending merge |
+| 2 | Annotated `corpus-v0.26.1` tag pointing at `aad614d` | **done** |
+| 3 | Manifest guard + CI enforcement, outside `corpus-seed/` | **done** — `tools/verify-corpus-seed.sh`, `.github/workflows/lineage-integrity.yml` |
+| 4 | Cross-links from `README.md`, `LINEAGES.md`, `research/rune-code.md` | **done** |
 
-**Tier 2 — needs Codex, lands in a v0.26.2 patch release with a regenerated manifest**
+The guard derives the expected path set from `MANIFEST.sha256` and the tree at
+run time. No payload count is hardcoded, so a future release of a different
+size still passes. It verifies every hash, asserts that the manifest's path set
+equals the tree's except for the manifest itself, and then runs both state
+verifiers. Confirmed to fail on a stray added file, a single changed byte, and
+a deleted payload file.
 
-5. Correct the two `natural_dimensions` rows in
-   `01_inventory/rune_code_carrier_fingerprints.csv` (*Œdipean* 2560 × 2560,
-   *Loop* 2062 × 1528) and soften the "full available source resolution"
-   claim in `rune_code_plate_reconciliation_v0.26.0.md`.
-6. Register the *Octave* image carrier for P261.
-7. Import the 31 exact source-byte SHA-256 values from
-   `data/media-code.json`, resolving OQ007.
-8. Re-status OQ001 and OQ003 given the harvest is now co-located.
-9. Adjudicate the *Translating Is* canonical URL.
+### Release scope
 
-**Tier 3 — adjudication, no patch until decided**
+Two releases, deliberately separated so that provenance repair does not travel
+under cover of transcription change:
 
-10. The eight contested plates in § 3a, taking them in this order, cheapest
-    decisive test first: *Axaxaxas mlö* row 4 unit count → the Y-rune
-    convention (Ger vs Yr) → *Œdipean* re-read at 2560 × 2560 → *It Never
-    Deceives* lower-row group count → *Shh* traversal order → *Always* →
-    *You Knew it Beforehand* upper field → *The Way* word 5 → *Soon After*
-    line 1 evidence state.
+**v0.26.2 — factual metadata and provenance only. Changes no reading.**
 
-Until each is decided, both readings stand on the record and neither file is
-rewritten.
+1. Correct the two `natural_dimensions` rows in
+   `01_inventory/rune_code_carrier_fingerprints.csv` — *Œ is for Œdipean
+   Riddle* 2560 × 2560, *Loop* 2062 × 1528 — and soften the "full available
+   source resolution" claim in `rune_code_plate_reconciliation_v0.26.0.md`.
+2. Register the *Octave* image carrier for P261
+   (`Octave-Lettersfortitles-VernTonkin.jpg`, 1083 × 981). Registration only;
+   whether it bears an inscription is a v0.27.0 question.
+3. Import the 31 exact source-byte SHA-256 values from `data/media-code.json`,
+   resolving **OQ007**.
+4. Re-status **OQ001** and **OQ003**: the harvest repository and per-post
+   publication dates are now co-located in this repository.
+5. Adjudicate the canonical URL of *Translating Is* — seed `/translating-is/`
+   against the harvest's `/translating-ice/`, the latter taken from the
+   WordPress REST API.
+
+**v0.27.0 — transcription adjudication.** One bounded comparative pass over all
+nine contested carriers together, not an iterative exchange. Suggested order,
+cheapest decisive test first:
+
+1. *Axaxaxas mlö* row 4 unit count — the single row that produces the whole
+   47-vs-48 divergence.
+2. The Y-rune convention, Ger (2.4) against Yr (4.3). Settled once, it
+   propagates through several plates.
+3. *Œ is for Œdipean Riddle*, re-read at 2560 × 2560 rather than 1080 × 1080.
+4. *It Never Deceives* — does the lower row carry three groups or four?
+5. *Shh* — traversal order only; the six coordinates already agree.
+6. *For Anybody Who Rests With Them* — row 4 glyph 3, `1.4` against `1.3`.
+7. *Always*.
+8. *You Knew it Beforehand*, upper field.
+9. *The Way*, word 5 — `LEVEL` against `SMOOTH`.
+10. *Soon After it Becomes Water* — an evidence-state question (is line 1
+    recoverable?) rather than a counting one.
+
+Do this once, comparatively, on the largest available source bytes. The failure
+mode being avoided is a resumed one-plate-at-a-time Claude↔Codex loop.
+
+### Standing constraint
+
+`All seventeen are read` remains a **lineage-specific** claim. It is no longer
+stated as a repository-level finding anywhere in the tree: `README.md` and
+`research/rune-code.md` now attribute it to the harvest layer and point here.
+Eight readings conflict outright and a ninth (*For Anybody*) retains one
+coordinate conflict; several of these disputes concern counting **identical
+source bytes**, which makes them a reproducibility problem rather than an
+evidence-availability one. That is the substantive result of importing both
+lineages: apparent closure was concealing it.
