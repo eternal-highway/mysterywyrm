@@ -10,7 +10,9 @@ This repository preserves two complementary records without collapsing them:
 - [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. Its imported state is **v0.26.1**.
 - [`archive/`](archive/), [`data/`](data/), [`book/`](book/), [`research/`](research/), and [`tools/`](tools/) are the complete-site harvest, derived edition, analysis, and reproducible tooling.
 
-Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules.
+Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules, and [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md) for the standing ledger of where the two records disagree.
+
+`tools/verify-corpus-seed.sh` checks that the imported seed still reproduces its release manifest; CI runs it on every push.
 
 ## The finding
 
@@ -68,8 +70,12 @@ snowflakes, rowan berries, dominoes and dice, suns, birthday candles, ice cubes
 melting on hot paving. Where the futhorc has no letter — V, K, Y — the plate
 simply writes the Latin one in among the runes.
 
-All seventeen now read. Sixteen carry a message, fifteen of them whole; the
-sixteenth is written in ice and only three of its four lines survive. The
+All seventeen now read *in the harvest layer's transcription*. Sixteen carry a
+message, fifteen of them whole; the sixteenth is written in ice and only three
+of its four lines survive. `corpus-seed/` reads eight of these plates
+differently and counts fifteen message plates rather than sixteen, so the
+readings below are one lineage's, not a settled repository finding — see
+[`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md). The
 seventeenth, *Loop*, turns out not to be a message at all but Tonkin's
 own worked table of the whole cipher, twenty-nine cells in quilled paper, with
 rune 15 — *eolhx*, the untranslatable centre — glossed **"Helix"** and given
@@ -109,6 +115,7 @@ stone read **LET US MELT**. See
 | `research/structure.md` | The architecture: chiastic pairing, chapter template, cadence |
 | `research/cipher.md` | The sentence hidden across the image filenames, and its index |
 | `research/rune-code.md` | The branch-rune plates: the system, the key, and all seventeen read |
+| `CROSS-LINEAGE-FINDINGS.md` | Where `corpus-seed/` and the harvest layer disagree, and what is still unadjudicated |
 | `research/relevance.md` | A reflection on the completed work and agent-harness design |
 | `research/edition.md` | The poem collated across its two witnesses; a corpus correction |
 | `research/archive.md` | What is preserved, what is not, and why |
@@ -141,6 +148,13 @@ python3 tools/edition.py        # collate the poem's two witnesses; write book/r
 python3 tools/cipher.py         # recover the filename message; non-zero exit on mismatch
 python3 tools/branch.py PLATE   # count the twigs on a branch-rune plate
 python3 tools/tally.py PLATE    # read the tally-and-serpentine plate (page 55)
+```
+
+The integrity guard for the imported corpus seed is not one of those tools and
+needs nothing beyond `sha256sum` and `python3`:
+
+```sh
+tools/verify-corpus-seed.sh     # seed reproduces its manifest; both seed verifiers pass
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.
