@@ -236,9 +236,25 @@ document are **not** adopted wholesale.
 | # | Ruling | State |
 |---|---|---|
 | 1 | Findings document becomes an evidence ledger on `main` | pending merge |
-| 2 | Annotated `corpus-v0.26.1` tag pointing at `aad614d` | **done** |
+| 2 | Annotated `corpus-v0.26.1` tag pointing at `aad614d` | **created locally; push blocked** — see below |
 | 3 | Manifest guard + CI enforcement, outside `corpus-seed/` | **done** — `tools/verify-corpus-seed.sh`, `.github/workflows/lineage-integrity.yml` |
 | 4 | Cross-links from `README.md`, `LINEAGES.md`, `research/rune-code.md` | **done** |
+
+The annotated tag exists as a proper tag object on `aad614d` with the release
+ZIP and parent hashes and the verification results in its message, but this
+session's git credentials are scoped to its working branch and refuse tag refs
+(HTTP 403 on push; `--dry-run` passes, which only computes the ref locally).
+The GitHub toolset available here exposes no tag-creation call either. The tag
+must therefore be pushed by a credential that can write tag refs:
+
+```sh
+git fetch origin
+git tag -a corpus-v0.26.1 aad614d -m "Canonical corpus seed v0.26.1"
+git push origin corpus-v0.26.1
+```
+
+Until that runs, `LINEAGES.md`'s release-tag rule remains unsatisfied on the
+remote.
 
 The guard derives the expected path set from `MANIFEST.sha256` and the tree at
 run time. No payload count is hardcoded, so a future release of a different
