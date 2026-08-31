@@ -204,7 +204,7 @@ branches, over the crown, and down the right:
 > **LISTEN**
 
 The plate titled *Shh* says LISTEN — which is also the first word of the
-sentence hidden in the filenames. The five branches are firm. The crown is the
+sentence hidden in the filenames. The crown is the
 one glyph I would not swear to: it carries one twig to the left of the trunk
 and three to the right, and *The Way* reads a vertical stem left-as-ætt, which
 would make it Þ rather than T. Read the other way round it is T and the tree
