@@ -4,6 +4,8 @@ Reviewer: Claude (bounded review role, `LINEAGES.md` § Model roles)
 Date: 2026-08-31
 State reviewed: `main` at `aad614d`, fast-forward only, working tree clean
 
+> Sections 1–4 below preserve the bounded review snapshot examined on 2026-08-31 at `aad614d`; § 5 records subsequent disposition and current repository state.
+
 This document **records** disagreements. It does not resolve them. Under
 `LINEAGES.md` § Authority rule, neither lineage may be silently overwritten;
 every item below marked *contradiction* needs explicit adjudication by the
@@ -235,26 +237,20 @@ document are **not** adopted wholesale.
 
 | # | Ruling | State |
 |---|---|---|
-| 1 | Findings document becomes an evidence ledger on `main` | pending merge |
-| 2 | Annotated `corpus-v0.26.1` tag pointing at `aad614d` | **created locally; push blocked** — see below |
+| 1 | Findings document becomes an evidence ledger on `main` | **merged** — PR #4, merge commit `586e06d` |
+| 2 | Annotated `corpus-v0.26.1` tag pointing at `aad614d` | **published** — annotated tag and GitHub Release |
 | 3 | Manifest guard + CI enforcement, outside `corpus-seed/` | **done** — `tools/verify-corpus-seed.sh`, `.github/workflows/lineage-integrity.yml` |
 | 4 | Cross-links from `README.md`, `LINEAGES.md`, `research/rune-code.md` | **done** |
 
-The annotated tag exists as a proper tag object on `aad614d` with the release
-ZIP and parent hashes and the verification results in its message, but this
-session's git credentials are scoped to its working branch and refuse tag refs
-(HTTP 403 on push; `--dry-run` passes, which only computes the ref locally).
-The GitHub toolset available here exposes no tag-creation call either. The tag
-must therefore be pushed by a credential that can write tag refs:
-
-```sh
-git fetch origin
-git tag -a corpus-v0.26.1 aad614d -m "Canonical corpus seed v0.26.1"
-git push origin corpus-v0.26.1
-```
-
-Until that runs, `LINEAGES.md`'s release-tag rule remains unsatisfied on the
-remote.
+The annotated `corpus-v0.26.1` tag is published as a proper tag object and
+peels to the import commit
+`aad614d8a873e3da3f91c16d935814f7e05d1d6d`. Its annotation records the
+canonical ZIP and parent hashes and the verification results. The
+[Canonical corpus seed v0.26.1 GitHub Release](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.26.1)
+publishes the original `letters_for_titles_corpus_seed_v0.26.1.zip` asset. A
+fresh download of the published 1,320,822-byte asset verified as SHA-256
+`ae30b2eead39ee43667d8098281d03a17577d19a044bab277d02ea965a837327`.
+`LINEAGES.md`'s release-tag and original-artifact rule is now satisfied.
 
 The guard derives the expected path set from `MANIFEST.sha256` and the tree at
 run time. No payload count is hardcoded, so a future release of a different
