@@ -110,8 +110,9 @@ stone read **LET US MELT**. See
 | `archive/pages/` | Rendered HTML of all 262 posts |
 | `archive/thumbs/` | 300px reference copies of all 479 images |
 | `data/corpus.json` | Every post: text, dates, chapters, tags, image and outbound links |
-| `data/media.json` | Manifest of the 300px archive copies, with SHA-256 |
-| `data/media-code.json` | Manifest of the 17 Rune Code plates at full resolution, with SHA-256 |
+| `data/media.json` | Manifest of the 479 300px archive copies, with SHA-256 |
+| `data/media-full.json` | Manifest of the 479 full-resolution originals, with SHA-256 |
+| `data/media-code.json` | Subset manifest for 31 full-resolution images from the 17 Rune Code posts |
 | `data/bibliography.json` | The bibliography, parsed and classified |
 
 ## Tools
@@ -134,14 +135,15 @@ python3 tools/tally.py PLATE    # read the tally-and-serpentine plate (page 55)
 ```
 
 The 479 full-resolution images total 742 MB and are deliberately not in git.
+`data/media-full.json` carries their checksums, and
 `tools/archive.py --variant full` materializes them. See
 [`research/archive.md`](research/archive.md).
 
 Note that `data/media.json` is the manifest of what `archive/thumbs/` actually
 holds — the 300px copies — so its checksums verify those, not the originals.
-The one full-resolution set with checksums in git is the 17 Rune Code plates,
-in `data/media-code.json`; regenerating a full-resolution manifest for the rest
-writes `data/media-full.json`, which is not committed.
+`data/media-code.json` remains the smaller full-resolution subset for the 31
+images attached to the 17 Rune Code posts; all 31 entries agree exactly with
+the full manifest.
 
 ## Rights
 

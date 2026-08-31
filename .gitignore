@@ -1,10 +1,9 @@
 # Full-resolution image archive (~742 MB) - materialize with:
 #   python3 tools/archive.py --variant full --images-dir archive/full \
 #           --skip-pages --manifest data/media-full.json
-# data/media.json describes the 300px copies, NOT these; a full-resolution
-# manifest is written to data/media-full.json. See research/archive.md.
+# The images stay out; data/media-full.json is committed, because it is the
+# only thing that can certify a copy of the originals. See research/archive.md.
 archive/full/
-data/media-full.json
 
 # The 17 Rune Code plates at full resolution (~75 MB) - materialize with:
 #   python3 tools/archive.py --tag "Rune Code" --variant full \
