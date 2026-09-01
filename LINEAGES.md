@@ -29,7 +29,7 @@ This layer can independently confirm, extend, or challenge corpus-seed claims. I
 - Use the harvest and research paths for complete-site enumeration, reproducible derivations, full-resolution media checks, assembled editions, and analytical synthesis.
 - When the two disagree, record the disagreement and resolve it through a new reviewed commit or corpus release. Do not silently choose one representation and erase the other.
 
-The standing record of those disagreements is [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md). It is an evidence ledger: entries are added when a conflict is found and struck only when a release adjudicates them. Eight Rune Code transcriptions are open there, so neither lineage's plate readings may be cited as the repository's settled finding.
+The standing record of those disagreements is [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md). It is an evidence ledger: entries are added when a conflict is found and struck only when a release adjudicates them. Nine Rune Code transcriptions are open there, so neither lineage's plate readings may be cited as the repository's settled finding.
 
 ## Update rule
 
