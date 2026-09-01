@@ -207,7 +207,7 @@ an inscription.
 |---|---|---|---|
 | Canonical URL of *Translating Is* | `/translating-is/` | `/translating-ice/` | Harvest slug comes from the WordPress REST API and is authoritative for the site's own permalink. Likely a title-derived value in the seed. |
 | Numbered images in the filename run | "216" (attributed to Claude's packet) | 213 positions carry a numbered image; 211 characters recovered | Attributed figure appears to predate the harvester's text-fidelity fix. Plaintext is unaffected. |
-| Capture folder naming | ASCII-normalized (`ac-glyph`, `x-y-z-1984`) | live percent-encoded slugs (`%e1%9a%aa`, `x-%e2%89%a0-y-%e2%89%a0-z-1984`) | Not a defect, but slug-level joins between the lineages are impossible; join on canonical URL. |
+| Capture folder naming | ASCII-normalized (`ac-glyph`, `x-y-z-1984`) | live percent-encoded slugs (`%e1%9a%aa`, `x-%e2%89%a0-y-%e2%89%a0-z-1984`) | Not a defect, but slug-level joins between the lineages are impossible. Join on canonical media URL after normalizing only terminal WordPress derivative suffixes (`-<width>x<height>` and `-scaled`) immediately before the extension; do not normalize page URLs or other basename text. |
 
 ---
 
