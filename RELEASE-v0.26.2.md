@@ -1,10 +1,13 @@
-# v0.26.2 release candidate
+# v0.26.2 release record
 
 Prepared and validated: 2026-09-12
 Branch: `corpus-v0.26.2-integration`
-Status: local candidate; not merged, tagged or published. Published v0.26.1 remains unchanged.
+Status: merged through [PR #7](https://github.com/eternal-highway/mysterywyrm/pull/7) and [published](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.26.2) on 2026-09-12 at 15:04:41 UTC.
+Import commit: `a493e074b115760fb488d71698830773d1811c17`
+Merge commit: `c12cc65ded218ceca32499e1a2d0097161082f39`
+Annotated tag: `corpus-v0.26.2`, pointing to the import commit.
 
-Candidate: `dist/letters_for_titles_corpus_seed_v0.26.2.zip`
+Release ZIP (local copy): `dist/letters_for_titles_corpus_seed_v0.26.2.zip`
 SHA-256: `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`
 Parent SHA-256: `ae30b2eead39ee43667d8098281d03a17577d19a044bab277d02ea965a837327`
 
@@ -24,7 +27,7 @@ The pre-existing one-frame local GIF is preserved under ignored `local-recovery/
 - 31 imported hash identities agree with the full harvest manifest; full-resolution media not present locally or re-fetched.
 - Canonical URL supported by archived canonical tag and harvest. Live retrieval failed; no new live capture claimed.
 
-## Candidate delta (23 files)
+## Release delta (23 files)
 
 - `corpus-seed/01_inventory/harvest_publication_dates.csv`
 - `corpus-seed/01_inventory/open_questions.csv`
@@ -50,6 +53,10 @@ The pre-existing one-frame local GIF is preserved under ignored `local-recovery/
 - `corpus-seed/MANIFEST.sha256`
 - `corpus-seed/README.md`
 
-## Remaining release steps
+## Publication verification and next boundary
 
-Review and merge the dedicated integration branch, then attach the ZIP and checksum to a release tagged at the import commit. v0.27 remains deferred until v0.26.2 lands. Gate 0 and the nine disputed readings have not been adjudicated.
+Both lineage-integrity jobs passed on the integration branch and pull request before merge. GitHub's uploaded ZIP digest equals the SHA-256 above; the checksum sidecar is also published. The release is neither draft nor prerelease. All 1,420 files in the import commit match the packaged ZIP byte-for-byte.
+
+Preparation-time candidate wording inside the immutable seed ZIP is historical and is superseded for publication status by this record. The original package and manifest have not been rewritten after approval.
+
+v0.26.2's prerequisite work is complete. The next research step is v0.27 Gate 0: authenticate the Loop source bytes and independently reconstruct its 29 key cells before the bounded comparative adjudication. Gate 0, the nine disputed readings, and the separate Octave classification question remain untouched.

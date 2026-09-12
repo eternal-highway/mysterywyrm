@@ -6,7 +6,7 @@ State reviewed: `main` at `aad614d`, fast-forward only, working tree clean
 
 > Sections 1–4 below preserve the bounded review snapshot examined on 2026-08-31 at `aad614d`; § 5 records subsequent disposition and current repository state.
 
-> 2026-09-12 integration update: the v0.26.2 candidate implements the five metadata/provenance items in § 5; see `RELEASE-v0.26.2.md`. Hashes are imported harvest attestations, dates have day precision, and the canonical URL correction is archive-backed. It is not yet merged or published. Historical findings below remain preserved; all nine transcription disputes and the Octave classification question remain open.
+> 2026-09-12 disposition: v0.26.2 is merged through PR #7 and published. It completes the five metadata/provenance items in § 5; see `RELEASE-v0.26.2.md`. Hashes are imported harvest attestations, dates have day precision, and the canonical URL correction is archive-backed. The corresponding pre-patch metadata findings below are retained as history and resolved by this release. All nine transcription disputes and the Octave classification question remain open.
 
 This document **records** disagreements. It does not resolve them. Under
 `LINEAGES.md` § Authority rule, neither lineage may be silently overwritten;
