@@ -5,7 +5,7 @@ Scope: final Rune Code archive classification, one eleven-coordinate transcripti
 
 ## Method
 
-The three remaining targets in `OQ002` were inspected at their live full available source resolution. The site-provided *Octave* table remained the only substitution key. A result was promoted as plaintext only when the carrier supplied both coordinate values and a displayed path. Titles, captions, chapter positions, and grammatical completions were applied afterward and remain separately classified.
+The three remaining targets in `OQ002` were inspected at the live served resolutions recorded below. Correction in v0.26.2: these were not the largest available originals for Loop or Œ; the 1080-pixel derivatives remain the evidence actually read in this historical report. The site-provided *Octave* table remained the only substitution key. A result was promoted as plaintext only when the carrier supplied both coordinate values and a displayed path. Titles, captions, chapter positions, and grammatical completions were applied afterward and remain separately classified.
 
 ## Loop — key carrier, not plaintext plate
 

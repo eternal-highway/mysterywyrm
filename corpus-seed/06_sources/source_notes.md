@@ -532,3 +532,7 @@ The chapter mechanically extends the variable interior to fifteen pages while re
 - the page's published twelve-command COW semantics and the bounded program output recovered in 0.18.0 without title-, tag-, asset-, or position-driven guessing.
 
 These remain site-authored claims pending source-by-source adjudication. The instruction-shaped death, grave, cow, and leechcraft pages remain literary compositions, not certified practical guidance.
+
+## v0.26.2 canonical URL correction
+
+Historical references to `https://lettersfortitles.com/translating-is/` above are retained as acquisition history. Current canonical URL: `https://lettersfortitles.com/translating-ice/`, supported by the archived canonical tag and harvest record; see `05_method/metadata_provenance_v0.26.2.md`.

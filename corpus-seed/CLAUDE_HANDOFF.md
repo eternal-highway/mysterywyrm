@@ -1,9 +1,15 @@
-# Claude Standby Handoff — Letters for Titles Corpus 0.26.1
+# Claude Standby Handoff — Letters for Titles Corpus 0.26.2
 
-Date: 2026-08-30  
+Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+
+## Cross-lineage boundary — v0.26.2
+
+The plate readings below remain the seed lineage’s readings, not adjudicated repository-wide findings. Nine carriers disagree with the harvest lineage; Octave has a separate classification question. See the repository `CROSS-LINEAGE-FINDINGS.md` and `V0.27-ADJUDICATION-PACKET.md`. Metadata completion does not pass Gate 0 or authorize a reading change.
+
+Date: 2026-09-12  
 Status: supplied cipher branch preserved / Rune Code archive closed / no parallel mutation
 
-Your full-site cipher handoff remains preserved verbatim and reconciled in `05_method/claude_cipher_reconciliation_v0.19.0.md`. The completed Œ page media record adds `10-O`, so 74/74 locally retained tokens now pass; your absent complete harvest repository still prevents an independent rerun of all 216 numbered slots.
+Your full-site cipher handoff remains preserved verbatim and reconciled in `05_method/claude_cipher_reconciliation_v0.19.0.md`. The completed Œ page media record adds `10-O`, so 74/74 locally retained tokens now pass; the complete harvest is now co-located and its filename verifier is runnable from the repository root.
 
 The *Octave* group/place key yields fourteen mechanically complete page-local inscriptions. Version 0.26.1 changes no plaintext. It corrects the upper *You Knew it Beforehand* count to twelve coordinate-valued face units plus one direct Roman `K` and a direct question mark.
 

@@ -6,14 +6,14 @@ This repository contains two complementary representations of **Letters for Titl
 
 Path: `corpus-seed/`
 
-Imported release: `letters_for_titles_corpus_seed_v0.26.1.zip`  
+Published parent release: `letters_for_titles_corpus_seed_v0.26.1.zip`  
 ZIP SHA-256: `ae30b2eead39ee43667d8098281d03a17577d19a044bab277d02ea965a837327`  
 Parent: `letters_for_titles_corpus_seed_v0.26.0.zip`  
 Parent SHA-256: `3f9b2c307b4763d97bfdfcbb801cf9ee575242595bf3eaf7bfbbac1a09f814a0`
 
 The seed is the canonical evidence and provenance record. It contains page-level capture folders, inventories, claims and correspondence registers, structural reconstructions, source packets, validation scripts, release reports, and its cumulative lineage log.
 
-The imported `corpus-seed/` tree is byte-for-byte the extracted v0.26.1 payload. Its internal `MANIFEST.sha256` covers 1,415 payload files and excludes only itself. Repository documentation belongs outside that tree so the release manifest remains valid.
+On this integration branch, `corpus-seed/` is the v0.26.2 metadata/provenance candidate derived from that parent. Its regenerated internal `MANIFEST.sha256` covers every payload file and excludes only itself. See `RELEASE-v0.26.2.md` for the candidate ZIP checksum and verification record. v0.26.1 remains the published release until integration and publication are complete. Repository documentation belongs outside the seed tree so the release manifest remains valid.
 
 ## Full-site harvest and derived research
 

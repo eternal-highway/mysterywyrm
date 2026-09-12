@@ -1,6 +1,6 @@
 # Translating Is
 
-- Canonical URL: https://lettersfortitles.com/translating-is/
+- Canonical URL: https://lettersfortitles.com/translating-ice/
 - Captured: 2026-08-24
 - Stream: Translation
 - Rune: Is
@@ -19,3 +19,7 @@ The page reads the Is stanza against winter survival: frost kills plants, narrow
 ## Working inference
 
 Is suspends ordinary activity while producing a beautiful surface. The danger and splendor are concurrent, not successive meanings to be chosen between.
+
+## v0.26.2 URL provenance correction — 2026-09-12
+
+The earlier register URL was `https://lettersfortitles.com/translating-is/`. The archived page canonical tag and WordPress-derived harvest link agree on `/translating-ice/`. The capture folder and original capture date remain unchanged. Live retrieval in this pass failed; this correction is archive-backed, not a new page capture.

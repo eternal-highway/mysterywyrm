@@ -1,0 +1,3 @@
+# The corpus is a checksummed release payload. Preserve its exact bytes on
+# every platform, including Windows checkouts with core.autocrlf enabled.
+corpus-seed/** -text

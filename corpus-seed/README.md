@@ -1,6 +1,6 @@
 # Letters for Titles — Corpus Seed
 
-Version: 0.26.1  
+Version: 0.26.2  
 Established: 2026-08-22  
 Primary site: https://lettersfortitles.com/
 
@@ -32,6 +32,12 @@ It begins where the work says to begin: in **The Middle**. It does not assume th
 ## Present state
 
 This seed contains a verified entry map, a verified set of principal pages and archive pages, the full 29-rune opposing-pair matrix, 34 Instruction Manual records, 35 known Translation-tag pages, all 29 stanza pages, all 29 glyph pages, all 29 direct rune-casting pages plus two Rune Casting archive crossings, and all 34 Alphabet Book archive entries. The core alignment joins stanza, direct translation, direct casting, and glyph page for every rune.
+
+Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+
+## Cross-lineage boundary — v0.26.2
+
+The plate readings below remain the seed lineage’s readings, not adjudicated repository-wide findings. Nine carriers disagree with the harvest lineage; Octave has a separate classification question. See the repository `CROSS-LINEAGE-FINDINGS.md` and `V0.27-ADJUDICATION-PACKET.md`. Metadata completion does not pass Gate 0 or authorize a reading change.
 
 Version 0.26.1 is a Rune Code quality-assurance patch. It corrects the upper *You Knew it Beforehand* accounting to twelve coordinate-valued face units plus one direct Roman `K` and a direct question mark, synchronizes current-state capture and inventory language with the completed decodes, adds a seventeen-entry carrier-fingerprint register, and adds an automated Rune Code state verifier. No plaintext, archive membership, page path, capture count, or continuous-text assessment changes.
 
@@ -87,4 +93,4 @@ Version 0.9.1 remains the lineage repair that established the canonical line. Ve
 
 Version 0.26.0 proceeds from supplied canonical 0.25.0 SHA-256 `3e3c45808010770e25696bf1dda3a14dec31ea4808b12388351c9fa4c2e13f29`. Version 0.26.1 proceeds from supplied canonical 0.26.0 SHA-256 `3f9b2c307b4763d97bfdfcbb801cf9ee575242595bf3eaf7bfbbac1a09f814a0`.
 
-Structural acquisition is complete for all registered content pages and principal series/category paths. The corpus is not a bulk media mirror, Claude's full harvest repository is not included, some non-Rune-Code objects remain unresolved, and historical claims remain attributed pending external adjudication. Those are open research questions, not corpus defects; their boundaries are explicit in `01_inventory/open_questions.csv`. Future releases should batch completed acquisitions or substantive evidence changes under `05_method/maintenance_policy.md`, not turn isolated wording fixes into version churn.
+Structural acquisition is complete for all registered content pages and principal series/category paths. The corpus is not a bulk media mirror. The full harvest is co-located in the enclosing repository, while the standalone seed includes its Rune Code media manifest and day-level publication-date export. Some non-Rune-Code objects remain unresolved, and historical claims remain attributed pending external adjudication. Those are open research questions, not corpus defects; their boundaries are explicit in `01_inventory/open_questions.csv`. Future releases should batch completed acquisitions or substantive evidence changes under `05_method/maintenance_policy.md`, not turn isolated wording fixes into version churn.
