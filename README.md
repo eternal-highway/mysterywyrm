@@ -7,7 +7,7 @@ alphabet book by Vern Tonkin built on the 29-stanza Old English Rune Poem.
 
 This repository preserves two complementary records without collapsing them:
 
-- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. Its imported state is **v0.26.1**.
+- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. This integration branch contains the **v0.26.2 metadata/provenance candidate**, based on published v0.26.1. See [`RELEASE-v0.26.2.md`](RELEASE-v0.26.2.md) for validation and publication status.
 - [`archive/`](archive/), [`data/`](data/), [`book/`](book/), [`research/`](research/), and [`tools/`](tools/) are the complete-site harvest, derived edition, analysis, and reproducible tooling.
 
 Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules, and [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md) for the standing ledger of where the two records disagree.

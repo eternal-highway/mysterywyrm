@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import csv
+import json
+import re
 from pathlib import Path
 
 
@@ -86,9 +88,27 @@ if len(fingerprint_rows) != 17:
     fail(f"expected 17 carrier fingerprint rows, found {len(fingerprint_rows)}")
 if {row["page_id"] for row in fingerprint_rows} != {row["page_id"] for row in rune_rows}:
     fail("carrier fingerprint page IDs do not match Rune Code archive membership")
-if sum(bool(row["source_sha256"]) for row in fingerprint_rows) != 3:
-    fail("expected exactly three retained source-byte SHA-256 values")
+media = json.loads((ROOT / "01_inventory/rune_code_source_media.json").read_text(encoding="utf-8"))
+images = media["images"]
+if len(images) != 31 or len({row["url"] for row in images}) != 31:
+    fail("expected 31 uniquely identified source-media records")
+by_url = {row["url"]: row for row in images}
+for row in images:
+    if not re.fullmatch(r"[0-9a-f]{64}", row["sha256"]):
+        fail(f"invalid source hash for {row['url']}")
+    if min(row["bytes"], row["width"], row["height"]) <= 0:
+        fail(f"invalid source-media dimensions/size for {row['url']}")
+for row in fingerprint_rows:
+    source = by_url.get(row["source_url"])
+    if source is None or row["source_sha256"] != source["sha256"]:
+        fail(f"carrier does not match imported source manifest: {row['page_id']}")
+    if row["natural_dimensions"] != f"{source['width']}x{source['height']}":
+        fail(f"carrier dimensions disagree with source manifest: {row['page_id']}")
+    if row["visual_fingerprint_sha256"] and not row["visual_source_url"]:
+        fail(f"historical visual fingerprint has no source identity: {row['page_id']}")
+    if not row["source_hash_provenance"] or row["source_retrieved_on"] != media["retrieved"]:
+        fail(f"missing or inconsistent imported hash provenance: {row['page_id']}")
 
 print("Rune Code state: 17/17 classified (14 ordered + 1 rebus + 2 key carriers)")
 print("Stale current-state phrases: 0")
-print("Carrier fingerprints: 17/17 rows; exact source-byte hashes: 3")
+print("Carrier fingerprints: 17/17 rows; imported source-byte hashes: 17/17 named carriers, 31/31 media records")

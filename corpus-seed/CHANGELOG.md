@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.26.2 — 2026-09-12
+
+Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+
+Source hashes are imported from the 2026-08-30 harvest manifest and agree with the full manifest; full-resolution bytes were not re-fetched. Historical rendered fingerprints and actual read resolutions are preserved. Canonical AS001 bytes match v0.26.1.
+
 ## 0.26.1 — 2026-08-30
 
 - Corrected the upper *You Knew it Beforehand* carrier count: thirteen face units comprise twelve coordinate-valued units plus one direct Roman `K`, followed by a direct question mark.

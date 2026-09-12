@@ -510,3 +510,10 @@
 - Added a seventeen-entry carrier-fingerprint register. Three retained stills carry exact source-byte SHA-256 values; other visual rows use explicitly non-equivalent browser-rendered fingerprints, and the animated row covers one rendered state only.
 - Added `verify_rune_code_state.py` to enforce the 14 + 1 + 2 classification, prevent stale Rune Code status language, and validate fingerprint membership.
 - Changed no plaintext, structure, page count, archive count, capture count, retained media payload, source chronology, filename-run result, or continuous-Rune-Code assessment.
+
+## 2026-09-12 — v0.26.2 metadata/provenance patch
+
+- Canonical parent: `letters_for_titles_corpus_seed_v0.26.1.zip`; SHA-256 `ae30b2eead39ee43667d8098281d03a17577d19a044bab277d02ea965a837327`.
+- Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+- Existing historical reports and readings remain historical; the v0.26.0 resolution overclaim receives an explicit correction.
+- AS001 restored to parent bytes after preserving a pre-existing local one-frame replacement outside the release.
