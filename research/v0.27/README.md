@@ -13,6 +13,12 @@ Way; the seed on For Anybody; neither complete reading on Soon After it Becomes
 Water; and retain four unresolved carriers. Octave separately has an inscription
 present classification, without a new transcription.
 
+Subsequent user-requested review: read [current findings after review](review-integration.md)
+and the [sub-agent's evidence report](unresolved-review.md). The skull sequence
+now has a supported DEATH extraction; the leaf plate favors literal GUARDIAT;
+the ice first line retains both SAE and SHH segmentations. The initial report
+above remains the historical first pass, committed as `de9790c`.
+
 Second-pass update: a frozen candidate now matches all 29 coordinate-to-rune
 assignments in the harvest table. This does not confirm the reconstructed
 entries. See [candidate method](loop-candidate-method.md),
