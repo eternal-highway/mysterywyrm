@@ -1,5 +1,29 @@
 # v0.27 work record
 
+## Local candidate prepared 2026-09-13
+
+The complete reviewed comparison is now packaged as an isolated v0.27.0
+candidate. See [release candidate and validation](../../RELEASE-v0.27.0.md) and
+[current structured decisions](reviewed-decisions.json). The published v0.26.2
+and canonical `corpus-seed/` remain unchanged. Nothing has been merged or published.
+
+The candidate contains 1,521 files with 1,520 payload hashes, 17 authenticated
+original carrier images and five archived authored support pages. Its active
+registers follow the review addendum; all 46 changed inherited files retain
+byte-exact historical copies. Clean-extraction state and filename checks pass.
+
+`tools/build_v027_candidate.py` reproduces the construction procedure from the
+verified parent and recorded repository inputs. It refuses to overwrite an
+existing numbered package. The ZIP's bundled input map pins the precise source
+versions used, including this work record before this candidate-status update.
+Use the extracted package's `05_method/verify_rune_code_state.py` for standalone
+verification; the repository tool copies retain their original layout assumptions.
+
+The remaining release boundary is review, canonical import and publication.
+The work log below is historical through the pre-candidate checkpoint.
+
+## Historical work log
+
 Started 2026-09-12 on `corpus-v0.27-adjudication`, from
 `6f8abee9e7718a4ae431dcc6d9323c6103bf8cbd`.
 

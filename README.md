@@ -14,6 +14,11 @@ Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) f
 
 `tools/verify-corpus-seed.sh` checks that the imported seed still reproduces its release manifest; CI runs it on every push.
 
+An isolated **v0.27.0 candidate** now packages the bounded comparison and requested
+review, including unresolved findings and conditional-key provenance. See
+[`RELEASE-v0.27.0.md`](RELEASE-v0.27.0.md) for its checksum, evidence bundle and
+validation. It has not been imported or published; v0.26.2 remains canonical.
+
 ## The finding
 
 The site looks abandoned: 262 posts, then nothing after March 2023. It is

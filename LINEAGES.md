@@ -17,6 +17,11 @@ The seed is the canonical evidence and provenance record. It contains page-level
 
 ## Full-site harvest and derived research
 
+Candidate update, 2026-09-13: [v0.27.0](RELEASE-v0.27.0.md) is staged outside
+`corpus-seed/` and validated against the published v0.26.2 parent. Its complete
+reviewed dispositions, exact parent-file history and original source evidence
+are bundled in the candidate. It is not an imported or published successor.
+
 Paths: `archive/`, `data/`, `book/`, `research/`, and `tools/`
 
 These paths contain the 262-post site harvest, rendered pages and image references, full-resolution checksum manifests, the assembled Rune Poem, derived structural and cipher analysis, and reproducible harvesting and decoding tools.

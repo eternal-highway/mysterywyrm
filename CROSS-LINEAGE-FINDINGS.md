@@ -1,6 +1,13 @@
 # Cross-lineage findings — corpus-seed v0.26.1 against the harvest/research layer
 
 Reviewer: Claude (bounded review role, `LINEAGES.md` § Model roles)
+
+> 2026-09-13 candidate update: the bounded comparison and subsequent requested
+> review are incorporated in the isolated [v0.27.0 candidate](RELEASE-v0.27.0.md).
+> Read [current reviewed findings](research/v0.27/review-integration.md) for the
+> recommendations and remaining limits. No ledger item is struck as a released
+> adjudication yet; the historical comparisons below remain intact.
+
 Date: 2026-08-31
 State reviewed: `main` at `aad614d`, fast-forward only, working tree clean
 
