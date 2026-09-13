@@ -1,0 +1,76 @@
+{
+  "status": "frozen before detailed lineage-coordinate comparison",
+  "date": "2026-09-12",
+  "scope": "nine contested carriers and Octave classification",
+  "exposure": "Packet candidate wordings, harvest overview and reading-aid descriptions were already known; this is independent coordinate extraction, not semantic blindness. No detailed lineage-coordinate records supplied these rows.",
+  "key": "loop-candidate-key.csv; conditional continuation authorized",
+  "notation": "Each row is a spatial sequence. Alternatives use |; ? means not extracted. Roman letters and punctuation are literal. Key uncertainty is propagated separately by the renderer.",
+  "carriers": [
+    {
+      "page": "P241", "post": "axaxaxas-mlo", "title": "Axaxaxas mlö",
+      "rows": [
+        ["2.4","1.4","1.2","1.8","2.1","1.4","1.5","3.3","4.1","3.8"],
+        ["3.4","3.3","—","4.1","1.5","3.3","2.4","1.4","1.2"],
+        ["1.6","3.3","1.5","3.1","4.1","2.3","2.2","2.4","1.4","1.2"],
+        ["1.2","2.2","3.8","3.3","1.5","2.8","3.1","4.1","2.2","3.8","3.4","2.4"],
+        ["3.5","4.1","2.2","1.7","1.2","4.1","1.7","3.3","?"]
+      ],
+      "confidence": "High for 48 unit groups and two-upright Ger glyphs; medium for dense internal coils (especially row 4 units 3, 6, 10).",
+      "observation": "Rows 10/8/10/12/8 excluding dash and question mark. Row 4 has ten units then a gap then two. Uprights give first count; coil arms give second. Facing-page READ note is visible but not used to replace counts."
+    },
+    {
+      "page": "P161", "post": "oe-is-for-oedipean-riddle", "title": "Œ is for Œdipean Riddle",
+      "rows": [["3.1","2.1|3.0","1.7","2.3","2.2"],["3.8","2.2","4.1"],["2.4","4.1","3.8"]],
+      "confidence": "High for 5/3/3 faces; medium for ray counts; low for top-row second face and unique traversal.",
+      "observation": "Rows recorded left-to-right by face centre. First count is pale/short-ray class; second is red/long-ray class. Top-row second face has two yellow tips and one orange-red tip of similar exposed length, with no separately exposed long left ray: colour classification suggests 2.1, length classification permits 3.0. Do not silently add a hidden ray. Reversing each spatial row is an interpretive traversal proposal, not a marked direction."
+    },
+    {
+      "page": "P055", "post": "it-never-deceives", "title": "It Never Deceives",
+      "rows": [["1.7","1.2","4.1","1.5"],["3.8","2.3","4.1","2.2|3.1"]],
+      "confidence": "High for eight groups in 4+4 arrangement; medium for orientation convention; final group remains ambiguous.",
+      "observation": "Count physical leaves, not internal stripes or shadows. Final group has two diagonals and two vertical leaves (2.2 by shape grouping), but a horizontal spatial split can yield three above and one below (3.1). Both counts are retained until a carrier-local grouping rule resolves them. A seventh-stave reading omits a visibly separate group."
+    },
+    {
+      "page": "P209", "post": "shh", "title": "Shh",
+      "rows": [["3.5","2.3","2.8","3.1","3.3","2.2"]],
+      "confidence": "High for bough counts; low for uniquely intended traversal.",
+      "observation": "Stored sequence is lower-left, middle-left, upper-left, crown, upper-right, lower-right. An alternative side-first order uses indices 3,2,1,5,6,4 (one-based). Neither start nor direction is explicitly marked."
+    },
+    {
+      "page": "P229", "post": "for-anybody-who-rests-with-them", "title": "For Anybody Who Rests With Them",
+      "rows": [["2.1","1.4","1.8","1.2","2.2"],["1.6","1.4","3.4","1.1","1.4"],["1.5","3.1","4.1","3.2","3.5"],["3.3","3.8","1.4","Y"],["1.4","1.2","1.8","4.1"],["2.2","3.1","3.1","1.4"],["3.2","3.3","?"]],
+      "confidence": "High for the disputed row 4 unit 3; medium-high for full sequence.",
+      "observation": "Each thorn points up or down independently of bark orientation. Row 4 unit 3 visibly has one upper thorn and four lower thorns. Row 4 unit 2 has three above/eight below. The red Y is literal."
+    },
+    {
+      "page": "P046", "post": "always", "title": "Always",
+      "rows": [["2.3"],["K","3.3","3.3","2.6"],["1.2"],["4.1","2.2","3.8"],["K","2.3","3.5","3.5"],["1.2"]],
+      "confidence": "High for six spatial rows, 12 counted centres and two K letters; medium-high for squiggle counts.",
+      "observation": "Count red squiggles above/below each red centre; exclude yellow rays. Row 4 right centre has three above and eight below, including the lateral end strokes. Row-major ordering is supported by distinct horizontal rows, but is kept explicit rather than imported from Shh."
+    },
+    {
+      "page": "P109", "post": "you-knew-it-beforehand", "title": "You Knew it Beforehand",
+      "rows": [["1.8","2.1","4.1","3.1"],["2.3","2.8","1.4","1.2","1.5"],["1.1","4.1","3.1","3.3","?"],["1.6","2.1","3.3","3.3","1.5"],["1.2","2.6"],["2.3","3.1","2.3","2.8"],["?","?","?","?"]],
+      "confidence": "Medium-high for upper faces; medium for lower smiling faces; unresolved for the four skulls.",
+      "observation": "Eyes' lashes give first count; distinct hair strands, not turns within each strand, give second. The lower red row has six/one/three/three/five strands. The next two blue faces have two/six hair ends after excluding head outlines. The four skulls introduce bones, teeth and hair with no securely established count-feature correspondence in this pass. Their coordinates are not invented. No 4.3 is independently observed in the upper field. Question marks in the last row mean unknown units; the question mark after row 3 is literal punctuation."
+    },
+    {
+      "page": "P189", "post": "the-way", "title": "The Way",
+      "rows": [["1.3","3.3","3.4","4.1","2.3","2.2"],["1.5","1.4","4.1","3.8","2.3","2.8"],["2.8","3.4","1.4","1.4","1.3","Y","3.3","3.1"],["2.6","3.3","1.4","2.6","3.5","3.3","3.5","1.4","V","3.3"],["3.1","1.4","3.2","3.3"],["2.8","2.3","3.8","3.3","3.1","1.5","4.1","1.6","K","3.3","3.8"]],
+      "confidence": "High for disputed word's five trees and absence of a Roman V; medium-high for their twig counts.",
+      "observation": "Left/right twigs are first/second counts. Disputed word (row 3 first five trees) is 2.8 3.4 1.4 1.4 1.3. The two O trees each have one left and four right twigs; final tree has one left and three right. Roman Y/V/K elsewhere are visibly distinct. Key assignments 2.8 and 2.6 remain provisional."
+    },
+    {
+      "page": "P125", "post": "soon-after-it-becomes-water", "title": "Soon After it Becomes Water",
+      "rows": [["2.8","4.2"],["3.5","3.3","3.1"],["1.2","2.8"],["3.4","3.3","3.5","3.1"]],
+      "confidence": "High that first-line pieces remain countable; medium for grouping into first-line coordinates; medium-high for lower lines.",
+      "observation": "First line left field has two upper/eight lower pieces; right field has four upper/two lower pieces. Water connects outlines but discrete ice pieces remain visible. Source-original crops confirm them. Do not infer additional vanished pieces, an earlier complete layout, or the time of melting from this one exposure. The initial tool image had a grey lower area; lossless PNG views show that was a display failure, not lost source evidence."
+    },
+    {
+      "page": "P261", "post": "octave", "title": "Octave",
+      "rows": [],
+      "confidence": "High for Rune Code inscription present.",
+      "observation": "Classification only: four vertical staffs carry unequal lateral counts, followed by separated groups of circles on either side of slashes and a question mark. This is visibly an inscription using paired counts. Coordinates and plaintext intentionally not extracted because packet section 7 reserves transcription for a later bounded pass."
+    }
+  ]
+}

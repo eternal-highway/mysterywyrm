@@ -1,0 +1,30 @@
+cell,coordinate,rune,transliteration,coordinate_basis,identity_basis,confidence
+1,1.1,Feoh,f,visible,visible rune and Wealth gloss,high
+2,1.2,Ur,u,visible,visible rune and U and Aurochs,high
+3,1.3,Thorn,th,visible,visible Thorn gloss,high
+4,1.4,Os,o,visible,visible rune and God gloss,high
+5,1.5,Rad,r,visible,visible R-like rune and R,high
+6,1.6,Cen,c,visible,visible rune and C and Torch,high
+7,1.7,Gifu,g,visible,visible Gift gloss,high
+8,1.8,Wyn,w,visible,visible rune and W,high
+9,2.1,Haegl,h,visible,visible rune and H,high
+10,2.2,Nyd,n,visible,visible crossed stave and N,high
+11,2.3,Is,i,visible,visible vertical rune and I,high
+12,2.4,Ger,y,visible,visible rune and ge and Y and partial Year,high
+13,2.5,Eoh,eo,visible,visible eo and 3-like transliteration,medium
+14,2.6,Peorth,p,sequence reconstruction,partial am gloss consistent with Game plus conventional rune identification; rune obscured,low
+15,2.7,Eolhx,x,sequence reconstruction,visible forked rune and X-like mark and Helix gloss,medium
+16,2.8,Sigel,s,partial inscription plus sequence,visible zigzag rune and S and partial Sun,medium
+17,3.1,Tiw,t,visible in lower-band crop,visible arrow-like rune and T and partial Tiw,high
+18,3.2,Beorc,b,visible,visible B-like rune and B and partial Birch,high
+19,3.3,Eh,e,visible,visible rune and E and Horse,high
+20,3.4,Mann,m,visible,visible M and Human,high
+21,3.5,Lagu,l,visible,visible rune and L and Sea,high
+22,3.6,Ing,ng,visible,partial Ing gloss; rune obscured,medium
+23,3.7,Ethel,oe,visible,partial H gloss consistent with Home; rune obscured,low
+24,3.8,Daeg,d,visible,visible rune and D and partial Day,high
+25,4.1,Ac,a,visible,visible rune and partial Oak,high
+26,4.2,Aesc,ae,visible,visible rune and partial Ash and ae-like letters,high
+27,4.3,Yr,y,visible,visible rune and partial Bow,medium
+28,4.4,Ior,io,visible,partial io and Beaver gloss; rune obscured,medium
+29,4.5,Ear,ea,visible,partial ea and Grave gloss; rune obscured,medium
