@@ -1,3 +1,3 @@
-"claim_id","claim_summary","evidence_class","assessment","next_check"
-"WATER-10-C01","Soon After it Becomes Water is a Rune Code page placed at the chapter's transformation hinge.","site-authored page composition","recorded","retain placement separately from decipherment"
-"WATER-10-C02","The melting-ice plate reads SO LET US MELT under the Octave key.","full-resolution coordinate transcription","verified from eleven two-count ice clusters","title and chapter position supplied no letter"
+claim_id,claim_summary,evidence_class,assessment,next_check,v027_authority
+WATER-10-C01,Soon After it Becomes Water is a Rune Code page placed at the chapter's transformation hinge.,site-authored page composition,recorded,retain placement separately from decipherment,Historical claim/assessment; current transcription: 01_inventory/rune_code_adjudication_v0.27.0.json entry P125
+WATER-10-C02,The melting-ice plate reads SO LET US MELT under the Octave key.,full-resolution coordinate transcription,verified from eleven two-count ice clusters,title and chapter position supplied no letter,Historical claim/assessment; current transcription: 01_inventory/rune_code_adjudication_v0.27.0.json entry P125

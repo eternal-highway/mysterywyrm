@@ -1,3 +1,11 @@
+# v0.27 current authority — The Way
+
+v0.27 harvest: THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED. Disputed word is 2.8/3.4/1.4/1.4/1.3; no Roman V in that word; S and P use separate authored key support.
+
+See [current adjudication](../../01_inventory/rune_code_adjudication_v0.27.0.json). The inherited text below is a historical source and analysis record. Its transcription conclusions are superseded by the qualified entry above; source quotations remain source quotations.
+
+## Inherited v0.26.2 record
+
 # The Way
 
 - Canonical URL: https://lettersfortitles.com/the-way/

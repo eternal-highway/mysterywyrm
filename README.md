@@ -7,17 +7,18 @@ alphabet book by Vern Tonkin built on the 29-stanza Old English Rune Poem.
 
 This repository preserves two complementary records without collapsing them:
 
-- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. Its current release is **v0.26.2**, a metadata/provenance patch based on v0.26.1. See [`RELEASE-v0.26.2.md`](RELEASE-v0.26.2.md) for validation and publication details.
+- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. This branch imports **v0.27.0**, the reviewed, qualified Rune Code adjudication based on published v0.26.2. See [`RELEASE-v0.27.0.md`](RELEASE-v0.27.0.md) for validation and release status.
 - [`archive/`](archive/), [`data/`](data/), [`book/`](book/), [`research/`](research/), and [`tools/`](tools/) are the complete-site harvest, derived edition, analysis, and reproducible tooling.
 
 Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules, and [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md) for the standing ledger of where the two records disagree.
 
 `tools/verify-corpus-seed.sh` checks that the imported seed still reproduces its release manifest; CI runs it on every push.
 
-An isolated **v0.27.0 candidate** now packages the bounded comparison and requested
-review, including unresolved findings and conditional-key provenance. See
-[`RELEASE-v0.27.0.md`](RELEASE-v0.27.0.md) for its checksum, evidence bundle and
-validation. It has not been imported or published; v0.26.2 remains canonical.
+The owner approved the **v0.27.0** import and publication on 2026-09-14. The
+import preserves the reviewed dispositions, unresolved findings and conditional
+key provenance. Publication is pending CI and merge. The harvest readings below
+remain historical: consult the [current adjudication](corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
+for the qualified results and [release record](RELEASE-v0.27.0.md) for status.
 
 ## The finding
 

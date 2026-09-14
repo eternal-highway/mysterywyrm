@@ -1,0 +1,589 @@
+{
+  "version": "0.27.0",
+  "release_status": "local candidate; not published",
+  "parent_zip_sha256": "cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75",
+  "key_basis": "conditional user authorization; separate authored grouping and stanza evidence; no Gate 0 Outcome B",
+  "conditional_coordinates": [
+    "2.6",
+    "2.7",
+    "2.8",
+    "3.7"
+  ],
+  "authority": "review-integration.md supersedes relevant first-pass recommendations; all initial observations remain frozen",
+  "records": {
+    "P241": {
+      "disposition": "harvest",
+      "reading": "YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?",
+      "qualification": "48 coordinate groups, 10/8/10/12/8; medium confidence in dense coils; conditional key; not detector-certified.",
+      "title": "Axaxaxas mlö",
+      "post": "axaxaxas-mlo",
+      "source_sha256": "6953e91183de5f2365ea68cafc325aa27bd2b1dea3211a01c577d83d3029c14b",
+      "inherited_seed_status": "decoded CAN YOU READ ME — ARE YOU READING THE BEGINNING OF SOMETHING?",
+      "initial_recommendation": {
+        "disposition": "harvest",
+        "scope": "48 groups and extracted coordinate sequence; conditional-key decoding",
+        "reason": "The independent 10/8/10/12/8 count and complete coordinate sequence match the harvest, not the seed's 47 units. Ger is observed in the disputed y slots. Dense coil counts remain medium-confidence, not detector-certified.",
+        "semantic_interpretation": "Word spacing gives YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE? Literary attribution is outside this pass.",
+        "unresolved_reason": null
+      },
+      "rows": [
+        [
+          "2.4",
+          "1.4",
+          "1.2",
+          "1.8",
+          "2.1",
+          "1.4",
+          "1.5",
+          "3.3",
+          "4.1",
+          "3.8"
+        ],
+        [
+          "3.4",
+          "3.3",
+          "—",
+          "4.1",
+          "1.5",
+          "3.3",
+          "2.4",
+          "1.4",
+          "1.2"
+        ],
+        [
+          "1.6",
+          "3.3",
+          "1.5",
+          "3.1",
+          "4.1",
+          "2.3",
+          "2.2",
+          "2.4",
+          "1.4",
+          "1.2"
+        ],
+        [
+          "1.2",
+          "2.2",
+          "3.8",
+          "3.3",
+          "1.5",
+          "2.8",
+          "3.1",
+          "4.1",
+          "2.2",
+          "3.8",
+          "3.4",
+          "2.4"
+        ],
+        [
+          "3.5",
+          "4.1",
+          "2.2",
+          "1.7",
+          "1.2",
+          "4.1",
+          "1.7",
+          "3.3",
+          "?"
+        ]
+      ],
+      "current_status": "v0.27 harvest: YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?. 48 coordinate groups, 10/8/10/12/8; medium confidence in dense coils; conditional key; not detector-certified."
+    },
+    "P161": {
+      "disposition": "unresolved",
+      "reading": "NIGHT / AND / DAY is a candidate under reversed spatial rows",
+      "qualification": "Bottom-left 2.4 replaces both inherited 4.3 assignments. Color control favors top-row second 2.1; direction is unmarked. No unique traversal is established.",
+      "reviewed_rows": [
+        [
+          "3.1",
+          "2.1",
+          "1.7",
+          "2.3",
+          "2.2"
+        ],
+        [
+          "3.8",
+          "2.2",
+          "4.1"
+        ],
+        [
+          "2.4",
+          "4.1",
+          "3.8"
+        ]
+      ],
+      "title": "Œ is for Œdipean Riddle",
+      "post": "oe-is-for-oedipean-riddle",
+      "source_sha256": "7c380aa9e141292222dca1252991a54b12ec24820d4b7768cb5dbf92438ad8d3",
+      "inherited_seed_status": "decoded A TWIN / SUN / DAY from eleven red-yellow ray coordinates",
+      "initial_recommendation": {
+        "disposition": "unresolved",
+        "scope": "ray classification, traversal, and disagreement on bottom-left coordinate",
+        "reason": "Top-row second face does not yield a unique count-class pair. The independent bottom-left count is two pale points/four red flames (2.4), whereas both recorded lineages assign 4.3 there. A post-comparison original-pixel crop confirms two pale points and four red flames. This is a new plate-coordinate disagreement, not a changed key.",
+        "semantic_interpretation": "Reversing each spatial row yields a NIGHT/AND/DAY candidate only after selecting the ambiguous 2.1 alternative. It is not a unique mechanical result. The seed's A TWIN / SUN / DAY is not supported as a complete independent sequence either.",
+        "unresolved_reason": "Ambiguous classification of the short orange tip on top-row face 2, unmarked direction, and a newly observed 2.4 versus inherited 4.3 coordinate difference. No hidden ray may be supplied from the desired word."
+      },
+      "rows": [
+        [
+          "3.1",
+          "2.1",
+          "1.7",
+          "2.3",
+          "2.2"
+        ],
+        [
+          "3.8",
+          "2.2",
+          "4.1"
+        ],
+        [
+          "2.4",
+          "4.1",
+          "3.8"
+        ]
+      ],
+      "current_status": "v0.27 unresolved: NIGHT / AND / DAY is a candidate under reversed spatial rows. Bottom-left 2.4 replaces both inherited 4.3 assignments. Color control favors top-row second 2.1; direction is unmarked. No unique traversal is established."
+    },
+    "P055": {
+      "disposition": "neither",
+      "reading": "GUARDIAT",
+      "qualification": "Eight groups, 4+4. Repeated upper-fan/lower-object rule favors final 3.1; weaker shape-class alternative 2.2 gives GUARDIAN. Grammar does not select the count; intended meaning remains unknown.",
+      "reviewed_rows": [
+        [
+          "1.7",
+          "1.2",
+          "4.1",
+          "1.5"
+        ],
+        [
+          "3.8",
+          "2.3",
+          "4.1",
+          "3.1"
+        ]
+      ],
+      "title": "It Never Deceives",
+      "post": "it-never-deceives",
+      "source_sha256": "b776f375a6c862030831d6d357679c1018a37e024c2954121a1959194e67632d",
+      "inherited_seed_status": "decoded WHAT DID",
+      "initial_recommendation": {
+        "disposition": "unresolved",
+        "scope": "eight-group structure supports harvest; last count-feature split unresolved",
+        "reason": "Eight independent physical groups exclude the seed's seven-stave WHAT DID analysis. Seven coordinate readings match the harvest. The final group can be split as two diagonals/two verticals (2.2) or three upper/one lower (3.1).",
+        "semantic_interpretation": "GUARDIAN follows the 2.2 grouping; GUARDIAT follows 3.1. Grammar is not allowed to select the grouping.",
+        "unresolved_reason": "The carrier-local feature rule for the last arrow-shaped group is not independently decisive in this pass. Structural agreement with harvest does not establish the final N."
+      },
+      "rows": [
+        [
+          "1.7",
+          "1.2",
+          "4.1",
+          "1.5"
+        ],
+        [
+          "3.8",
+          "2.3",
+          "4.1",
+          "3.1"
+        ]
+      ],
+      "current_status": "v0.27 neither: GUARDIAT. Eight groups, 4+4. Repeated upper-fan/lower-object rule favors final 3.1; weaker shape-class alternative 2.2 gives GUARDIAN. Grammar does not select the count; intended meaning remains unknown."
+    },
+    "P209": {
+      "disposition": "unresolved",
+      "reading": "LISTEN or SILENT under different traversals",
+      "qualification": "Six local bough counts are supported; no unique start or direction. These are two candidate traversals, not an exhaustive permutation set.",
+      "title": "Shh",
+      "post": "shh",
+      "source_sha256": "87a257f7fed20e2b4fea4aa6c404a77fa166160f89f7c5fec859ed0ad263a4e1",
+      "inherited_seed_status": "decoded SILENT from six tree-bough coordinates",
+      "initial_recommendation": {
+        "disposition": "unresolved",
+        "scope": "six bough counts; traversal undecided",
+        "reason": "Both lineages' six local counts match the independent bough readings. The connected tree does not provide a unique start or traversal. The harvest's prose also admits semantic reliance for some counts; this pass's local counts are kept separate from that argument.",
+        "semantic_interpretation": "Perimeter sweep gives LISTEN; side-first order gives SILENT. Both are candidates, not a resolved instruction.",
+        "unresolved_reason": "No explicit start/direction marker selects between the competing traversals."
+      },
+      "rows": [
+        [
+          "3.5",
+          "2.3",
+          "2.8",
+          "3.1",
+          "3.3",
+          "2.2"
+        ]
+      ],
+      "current_status": "v0.27 unresolved: LISTEN or SILENT under different traversals. Six local bough counts are supported; no unique start or direction. These are two candidate traversals, not an exhaustive permutation set."
+    },
+    "P229": {
+      "disposition": "seed",
+      "reading": "HOW UNCOMFORTABLE DO YOU WANT TO BE?",
+      "qualification": "Row 4 unit 3 is 1.4 O, not harvest 1.3 TH; complete sequence supports seed under conditional key.",
+      "title": "For Anybody Who Rests With Them",
+      "post": "for-anybody-who-rests-with-them",
+      "source_sha256": "62722e9820b5d66513334bc3fcb32af0fefa43712c3371a25d05a30d28b43b6e",
+      "inherited_seed_status": "decoded HOW UNCOMFORTABLE DO YOU WANT TO BE?",
+      "initial_recommendation": {
+        "disposition": "seed",
+        "scope": "full sequence, including row 4 unit 3",
+        "reason": "The disputed unit has one up/four down (1.4), agreeing with seed O and excluding harvest TH (1.3). Row 4 unit 2 has 3.8. The remaining independently read rows give the seed's complete sequence.",
+        "semantic_interpretation": "Adding word boundaries to the uninterrupted sequence gives HOW UNCOMFORTABLE DO YOU WANT TO BE? No letter is supplied by this spacing.",
+        "unresolved_reason": null
+      },
+      "rows": [
+        [
+          "2.1",
+          "1.4",
+          "1.8",
+          "1.2",
+          "2.2"
+        ],
+        [
+          "1.6",
+          "1.4",
+          "3.4",
+          "1.1",
+          "1.4"
+        ],
+        [
+          "1.5",
+          "3.1",
+          "4.1",
+          "3.2",
+          "3.5"
+        ],
+        [
+          "3.3",
+          "3.8",
+          "1.4",
+          "Y"
+        ],
+        [
+          "1.4",
+          "1.2",
+          "1.8",
+          "4.1"
+        ],
+        [
+          "2.2",
+          "3.1",
+          "3.1",
+          "1.4"
+        ],
+        [
+          "3.2",
+          "3.3",
+          "?"
+        ]
+      ],
+      "current_status": "v0.27 seed: HOW UNCOMFORTABLE DO YOU WANT TO BE?. Row 4 unit 3 is 1.4 O, not harvest 1.3 TH; complete sequence supports seed under conditional key."
+    },
+    "P046": {
+      "disposition": "harvest",
+      "reading": "I KEEP U AND KILL U",
+      "qualification": "Six rows, twelve coordinates and two literal Roman Ks; U is not silently expanded to YOU; P uses separate authored key support.",
+      "title": "Always",
+      "post": "always",
+      "source_sha256": "eed94a5f8a401a197d07701adc2f1008c148e79198218ee0e1cbb6395391ead8",
+      "inherited_seed_status": "decoded BEING ENDLESS",
+      "initial_recommendation": {
+        "disposition": "harvest",
+        "scope": "six-row structure, twelve coordinates and two Roman Ks",
+        "reason": "The independent six-row sequence matches harvest. The two K marks are explicit symbols, which the seed's BEING ENDLESS reading does not preserve. The provisional P assignment is separately supported by the authored grouping rule and Stanza 14.",
+        "semantic_interpretation": "I KEEP U AND KILL U. Expanding U to YOU would be semantic editing and is not done in the mechanical result.",
+        "unresolved_reason": null
+      },
+      "rows": [
+        [
+          "2.3"
+        ],
+        [
+          "K",
+          "3.3",
+          "3.3",
+          "2.6"
+        ],
+        [
+          "1.2"
+        ],
+        [
+          "4.1",
+          "2.2",
+          "3.8"
+        ],
+        [
+          "K",
+          "2.3",
+          "3.5",
+          "3.5"
+        ],
+        [
+          "1.2"
+        ]
+      ],
+      "current_status": "v0.27 harvest: I KEEP U AND KILL U. Six rows, twelve coordinates and two literal Roman Ks; U is not silently expanded to YOU; P uses separate authored key support."
+    },
+    "P109": {
+      "disposition": "neither",
+      "reading": "WHAT IS OUR FATE? / CHEER UP IT IS DEATH",
+      "qualification": "Medium confidence. Skull rule counts whole bones/hair strands, replacing the smiling-face lash rule; 3.8/3.3/4.1/1.3 gives DEATH. This inferred feature rule is explicit; no claim of unique authorial intention. P and S retain conditional key provenance.",
+      "reviewed_rows": [
+        [
+          "1.8",
+          "2.1",
+          "4.1",
+          "3.1"
+        ],
+        [
+          "2.3",
+          "2.8",
+          "1.4",
+          "1.2",
+          "1.5"
+        ],
+        [
+          "1.1",
+          "4.1",
+          "3.1",
+          "3.3",
+          "?"
+        ],
+        [
+          "1.6",
+          "2.1",
+          "3.3",
+          "3.3",
+          "1.5"
+        ],
+        [
+          "1.2",
+          "2.6"
+        ],
+        [
+          "2.3",
+          "3.1",
+          "2.3",
+          "2.8"
+        ],
+        [
+          "3.8",
+          "3.3",
+          "4.1",
+          "1.3"
+        ]
+      ],
+      "title": "You Knew it Beforehand",
+      "post": "you-knew-it-beforehand",
+      "source_sha256": "8034839d38dd83f39a2d09c5af1a3be19c121f168ef12270511c73c3c39db884",
+      "inherited_seed_status": "complete carrier: WHAT DO YOU KNOW? plus displayed AFTER / NO / LIFE / DEATH; NO LIFE AFTER DEATH retained as semantic rebus resolution not mechanical order",
+      "initial_recommendation": {
+        "disposition": "unresolved",
+        "scope": "upper field supports harvest; lower field partially extended",
+        "reason": "Independent upper coordinates give WHAT IS OUR FATE?, matching harvest. Lower smiling faces suggest CHEER UP / IT / IS under a strand-count rule, but the four skulls are not decoded. This challenges the seed's AFTER / NO / LIFE / DEATH segmentation without replacing it with a completed answer.",
+        "semantic_interpretation": "WHAT IS OUR FATE? / CHEER UP IT IS [four unknown skull units]. The lower phrase is a medium-confidence partial reading, not a complete sentence or evidence of a thematic conclusion.",
+        "unresolved_reason": "The four skulls introduce bones and teeth; no secure correspondence between those features and the two counts was independently established. Lower smiling-face counts also remain medium-confidence."
+      },
+      "rows": [
+        [
+          "1.8",
+          "2.1",
+          "4.1",
+          "3.1"
+        ],
+        [
+          "2.3",
+          "2.8",
+          "1.4",
+          "1.2",
+          "1.5"
+        ],
+        [
+          "1.1",
+          "4.1",
+          "3.1",
+          "3.3",
+          "?"
+        ],
+        [
+          "1.6",
+          "2.1",
+          "3.3",
+          "3.3",
+          "1.5"
+        ],
+        [
+          "1.2",
+          "2.6"
+        ],
+        [
+          "2.3",
+          "3.1",
+          "2.3",
+          "2.8"
+        ],
+        [
+          "3.8",
+          "3.3",
+          "4.1",
+          "1.3"
+        ]
+      ],
+      "current_status": "v0.27 neither: WHAT IS OUR FATE? / CHEER UP IT IS DEATH. Medium confidence. Skull rule counts whole bones/hair strands, replacing the smiling-face lash rule; 3.8/3.3/4.1/1.3 gives DEATH. This inferred feature rule is explicit; no claim of unique authorial intention. P and S retain conditional key provenance."
+    },
+    "P189": {
+      "disposition": "harvest",
+      "reading": "THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED",
+      "qualification": "Disputed word is 2.8/3.4/1.4/1.4/1.3; no Roman V in that word; S and P use separate authored key support.",
+      "title": "The Way",
+      "post": "the-way",
+      "source_sha256": "a10c4012955caad9088226a6ede0dc3446ea0e26573223d9f2e3258cb6b137a6",
+      "inherited_seed_status": "decoded Taoic six-line Rune Code inscription",
+      "initial_recommendation": {
+        "disposition": "harvest",
+        "scope": "disputed word's five coordinates and full recorded sequence",
+        "reason": "Word 5 is 2.8 3.4 1.4 1.4 1.3. Its two O trees and final TH are countable; no Roman V occurs in that word. This matches harvest SMOOTH and excludes seed LEVEL. S/P key assignments are separately corroborated by authored source derivation.",
+        "semantic_interpretation": "THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED. External literary attribution is not used to select the reading.",
+        "unresolved_reason": null
+      },
+      "rows": [
+        [
+          "1.3",
+          "3.3",
+          "3.4",
+          "4.1",
+          "2.3",
+          "2.2"
+        ],
+        [
+          "1.5",
+          "1.4",
+          "4.1",
+          "3.8",
+          "2.3",
+          "2.8"
+        ],
+        [
+          "2.8",
+          "3.4",
+          "1.4",
+          "1.4",
+          "1.3",
+          "Y",
+          "3.3",
+          "3.1"
+        ],
+        [
+          "2.6",
+          "3.3",
+          "1.4",
+          "2.6",
+          "3.5",
+          "3.3",
+          "3.5",
+          "1.4",
+          "V",
+          "3.3"
+        ],
+        [
+          "3.1",
+          "1.4",
+          "3.2",
+          "3.3"
+        ],
+        [
+          "2.8",
+          "2.3",
+          "3.8",
+          "3.3",
+          "3.1",
+          "1.5",
+          "4.1",
+          "1.6",
+          "K",
+          "3.3",
+          "3.8"
+        ]
+      ],
+      "current_status": "v0.27 harvest: THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED. Disputed word is 2.8/3.4/1.4/1.4/1.3; no Roman V in that word; S and P use separate authored key support."
+    },
+    "P125": {
+      "disposition": "neither",
+      "reading": "SAE or SHH / LET / US / MELT",
+      "qualification": "First-line segmentation unresolved: 2.8 4.2 or 2.8 2.1 2.1. Same countable pieces; no marked right-field boundary. Neither validates seed SO or harvest total unrecoverability; no vanished cubes are inferred.",
+      "first_line_alternatives": [
+        [
+          "2.8",
+          "4.2"
+        ],
+        [
+          "2.8",
+          "2.1",
+          "2.1"
+        ]
+      ],
+      "title": "Soon After it Becomes Water",
+      "post": "soon-after-it-becomes-water",
+      "source_sha256": "a8ef7ca6f95bffcd787934eafde759e4baa89e624b6270d4c1b5d0c4d4b0c423",
+      "inherited_seed_status": "decoded SO LET US MELT",
+      "initial_recommendation": {
+        "disposition": "neither",
+        "scope": "first-line evidence state and tentative two-group reconstruction",
+        "reason": "The original pixels retain countable first-line pieces: 2/8 and 4/2 by the recorded spatial grouping. That contradicts the harvest's blanket unrecoverability claim. It also fails to independently reproduce the seed's SO (which would need O at 1.4), yielding conditional S-AESC instead. The lower LET / US / MELT sequence agrees.",
+        "semantic_interpretation": "The raw first-line transliteration is SAE (S plus Aesc), not an automatically corrected SO or SEA. It might invite an interpretation, but no such completion is adopted.",
+        "unresolved_reason": "First-line grouping is medium-confidence; the current pieces do not establish the original pre-melt arrangement or prove no cube vanished. The semantic reading remains unresolved even though the present line is not wholly uncountable."
+      },
+      "rows": [
+        [
+          "2.8",
+          "4.2"
+        ],
+        [
+          "3.5",
+          "3.3",
+          "3.1"
+        ],
+        [
+          "1.2",
+          "2.8"
+        ],
+        [
+          "3.4",
+          "3.3",
+          "3.5",
+          "3.1"
+        ]
+      ],
+      "current_status": "v0.27 neither: SAE or SHH / LET / US / MELT. First-line segmentation unresolved: 2.8 4.2 or 2.8 2.1 2.1. Same countable pieces; no marked right-field boundary. Neither validates seed SO or harvest total unrecoverability; no vanished cubes are inferred."
+    },
+    "P261": {
+      "disposition": "harvest",
+      "reading": null,
+      "qualification": "Classification only: Rune Code inscription present; untranscribed. Page also explains the key. Transcription requires a later bounded pass.",
+      "title": "Octave",
+      "post": "octave",
+      "source_sha256": "89fa0ab057b1546554bccc02ced14139e61ab8580b30a6ce2e5f092732849109",
+      "inherited_seed_status": "site-provided group-place key",
+      "initial_recommendation": {
+        "disposition": "harvest",
+        "scope": "classification only: Rune Code inscription present",
+        "reason": "The authenticated carrier visibly contains count-bearing staffs and repeated circle/slash pairs. It is not solely prose about the key. This supports inscription-present classification; the page may also explain the key.",
+        "semantic_interpretation": "Not transcribed in this pass. No message or plaintext count is inferred from classification alone.",
+        "unresolved_reason": null
+      },
+      "rows": [],
+      "current_status": "v0.27 harvest: inscription present; untranscribed. Classification only: Rune Code inscription present; untranscribed. Page also explains the key. Transcription requires a later bounded pass."
+    },
+    "P005": {
+      "title": "Loop",
+      "post": "loop",
+      "disposition": "conditional-key",
+      "reading": null,
+      "source_sha256": "33b777ed8f09bd0c3421d4b17c2f87bef8e878e77c8d75939e4dd2d58158874c",
+      "inherited_seed_status": "complete visual Octave group-place key; no separate plaintext sequence",
+      "qualification": "29-cell candidate agrees with inherited table; direct independent reconstruction remains incomplete. Conditional continuation authorized; four assignments separately supported by authored grouping/stanza evidence. Gate 0 Outcome B is not asserted.",
+      "current_status": "v0.27 conditional-key: conditional key. 29-cell candidate agrees with inherited table; direct independent reconstruction remains incomplete. Conditional continuation authorized; four assignments separately supported by authored grouping/stanza evidence. Gate 0 Outcome B is not asserted."
+    }
+  }
+}

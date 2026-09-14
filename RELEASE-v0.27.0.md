@@ -1,7 +1,8 @@
-# v0.27.0 local release candidate
+# v0.27.0 release record
 
-Prepared and validated: 2026-09-13. Not imported, merged, tagged or published.
-Published v0.26.2 and `corpus-seed/` remain unchanged.
+Prepared and validated: 2026-09-13. Owner approved import and publication on
+2026-09-14. The exact candidate is now imported on the integration branch;
+merge, tag and publication await passing CI.
 
 Candidate: [ZIP](dist/letters_for_titles_corpus_seed_v0.27.0.zip) · [checksum](dist/letters_for_titles_corpus_seed_v0.27.0.zip.sha256)
 Extracted candidate: `dist/v027-candidate/letters_for_titles_corpus_seed/`.
@@ -25,7 +26,7 @@ See [reviewed decisions](research/v0.27/reviewed-decisions.json) and
 - ZIP CRC, safe single root, exact clean-extraction bytes and manifest path set: pass.
 - Candidate state and 74/74 filename verifier: pass in construction and clean extraction.
 - 46 modified parent files, all retained byte-exact under `05_method/v0.26.2-history/`.
-- Every retained parent image and all canonical seed bytes unchanged.
+- Every retained parent image unchanged; canonical import equals the approved ZIP exactly.
 - 17 original images bundled and authenticated; 5 source HTML texts bundled and LF-hash verified.
 - Repository input paths and exact/normalized identities are mapped inside the package.
 - Historical reports are preserved; active code/page/claim registers identify the new authority.
@@ -35,7 +36,14 @@ Open research limits are recorded and do not imply a fully solved corpus.
 
 ## Next release boundary
 
-Review this complete candidate, then authorize its canonical import and publication.
+Independent pre-import review, 2026-09-14: pass. The existing ZIP, fresh
+extraction, 1,520 hashes, both verifiers and exact parent delta were rechecked.
+See [release handoff](research/v0.27/release-handoff.md) and
+[machine-readable preflight](research/v0.27/release-preflight.json) for the
+verified identity, remote checkpoint and prepared PR/release text.
+
+Owner authorization received 2026-09-14. Next: verify committed-tree equality,
+pass CI, merge, tag the import commit and publish the approved immutable assets.
 The versioned ZIP is immutable; do not overwrite it. If a defect is found, resolve
 candidate lineage under the version protocol before preparing a replacement.
 

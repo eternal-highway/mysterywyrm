@@ -1,41 +1,56 @@
-# Codex Handoff — Letters for Titles Corpus 0.26.2
+# Letters for Titles — v0.27.0 candidate
 
-Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+Prepared: 2026-09-13. Status: local candidate, not merged, tagged or published.
+Published parent remains v0.26.2 (ZIP SHA-256 `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`).
 
-## Cross-lineage boundary — v0.26.2
+This candidate integrates all nine carrier disputes together and the separate
+Octave classification, using the authorized conditional key. Direct independent
+Loop reconstruction remains incomplete; Gate 0 Outcome B is not asserted.
 
-The plate readings below remain the seed lineage’s readings, not adjudicated repository-wide findings. Nine carriers disagree with the harvest lineage; Octave has a separate classification question. See the repository `CROSS-LINEAGE-FINDINGS.md` and `V0.27-ADJUDICATION-PACKET.md`. Metadata completion does not pass Gate 0 or authorize a reading change.
+## Current authority
 
-Date: 2026-09-12  
-Parent: `letters_for_titles_corpus_seed_v0.26.1.zip`  
-Parent SHA-256: `ae30b2eead39ee43667d8098281d03a17577d19a044bab277d02ea965a837327`
+Read `01_inventory/rune_code_adjudication_v0.27.0.json`, then `05_method/v0.27-evidence/review-integration.md` and
+`unresolved-review.md`. The initial `comparative-pass.md` and frozen observations
+remain inspectable history. Updated code and verified-page registers follow the
+reviewed decisions. Untouched carriers retain inherited assessments; they were
+authenticated but not independently re-transcribed in this pass.
 
-## Read first
+- Harvest supported: Axaxaxas, Always, The Way.
+- Seed supported: For Anybody Who Rests With Them.
+- Neither historical full reading: It Never Deceives (literal GUARDIAT),
+  You Knew it Beforehand (WHAT IS OUR FATE? / CHEER UP IT IS DEATH),
+  Soon After it Becomes Water (SAE or SHH / LET / US / MELT).
+- Traversal unresolved: Œdipean Riddle and Shh.
+- Octave: inscription present, untranscribed; classification only.
 
-1. `05_method/reentry_capsule.md`
-2. `05_method/maintenance_policy.md`
-3. `05_method/release_validation_v0.26.2.md`
-4. `05_method/metadata_provenance_v0.26.2.md`
-5. `01_inventory/code_register.csv`
-6. `01_inventory/open_questions.csv`
+GUARDIAT retains its stated grouping rule and weaker alternative. The skull
+reading retains medium confidence and its inferred bone/hair rule. Ice retains
+both segmentations. Conditional coordinates 2.6, 2.7, 2.8 and 3.7 are separately
+supported by authored stanza/grouping evidence, not direct reading of hidden ink.
 
-## Rune Code closure
+## Evidence and history
 
-- *Œ is for Œdipean Riddle* — `A TWIN / SUN / DAY` from eleven ray coordinates.
-- *Loop* — complete twenty-nine-rune *Octave* crib; key carrier, not another plaintext plate.
-- *You Knew it Beforehand* — complete carrier: `WHAT DO YOU KNOW?` plus displayed `AFTER / NO / LIFE / DEATH`; `NO LIFE AFTER DEATH` is the semantic rebus resolution, not a mechanical reordering.
+Seventeen authenticated original images and five archived author pages are
+bundled under `06_sources/v0.27/`; its bundle map resolves repository references.
+Every changed inherited file has a byte-exact snapshot under
+`05_method/v0.26.2-history/`. Existing versioned method reports are historical.
+Capture banners and claim pointers distinguish inherited analysis from current
+adjudication; original claim wording is preserved. The old README in that history
+retains the broader project orientation and directory map.
 
-The upper question contains twelve coordinate-valued face units plus one direct Roman `K` and a direct question mark. The earlier “thirteen coordinates plus K” wording was a counting error; no plaintext changes.
+Keep source, observation, attribution, interpretation and uncertainty distinct.
+Do not infer authorial intent from grammatical fluency. All retained parent
+media bytes, the 31-record imported source manifest and archive membership remain
+unchanged. New source files are separately identified additions.
 
-All seventeen Rune Code archive entries are classified: fourteen ordered inscriptions, one complete question-and-rebus, and two key carriers. No untranscribed Rune Code carrier units remain.
+## Checks and next boundary
 
-## Stable corpus boundary
+Run `python -X utf8 -B 05_method/verify_rune_code_state.py` and
+`python -X utf8 -B 05_method/verify_cipher_letter_run.py` from the extracted package.
+Manifest/path checks and exact parent delta are recorded in the validation report
+and `05_method/v0.27-parent-delta.json`. Open research limits are in
+`01_inventory/open_questions.csv`. Verification checks evidence identity and
+record consistency; it does not automate visual judgment.
 
-- Structural acquisition is complete: all 263 registered content URLs have capture folders; only fifteen intentional archive/index surfaces do not.
-- The Middle is one complete ten-page exceptional path; all fourteen reflected-pair braids are directly reconstructed.
-- The locally reproducible filename-message subset is 74/74 after the completed Œ page media record adds `10-O`. The full harvest is now co-located in the repository; tools/cipher.py reproduces the complete filename-run derivation, with recovered characters distinguished from context-filled positions.
-- No 0.26.1 result changes page paths, archive counts, retained media, or the assessment that the plates are page-local inscriptions rather than one demonstrated continuous text.
-- `01_inventory/rune_code_carrier_fingerprints.csv` distinguishes exact source-byte hashes from browser-rendered visual fingerprints. Do not treat those fingerprint classes as equivalent.
-- Run `python3 05_method/verify_rune_code_state.py` before the filename verifier and release packaging.
-
-Continue only from `01_inventory/open_questions.csv`. The plate queue is closed; do not reopen it without changed source evidence.
+Review this complete candidate before canonical import and release publication.
+Do not repeat the completed comparison or fill Octave's transcription by inference.

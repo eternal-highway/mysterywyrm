@@ -1,0 +1,26 @@
+archive_position,page_id,title,url,chapter,code_archive,rune_code_archive,local_capture,decoding_status
+1,P005,Loop,https://lettersfortitles.com/loop/,Twist,yes,yes,yes,complete visual Octave group-place key; no separate plaintext sequence
+2,P037,Battle,https://lettersfortitles.com/battle/,Sitting to Battle,yes,yes,yes,decoded TO THE DEATH
+3,P046,Always,https://lettersfortitles.com/always/,Sitting to Battle,yes,yes,yes,decoded BEING ENDLESS
+4,P055,It Never Deceives,https://lettersfortitles.com/it-never-deceives/,Trust,yes,yes,yes,decoded WHAT DID
+5,P072,Bright Fruits,https://lettersfortitles.com/bright-fruits/,The Future,yes,yes,yes,decoded FEAR AND HOPE
+6,P088,Friþ,https://lettersfortitles.com/frith/,War and Peace,yes,yes,yes,decoded PEACE
+7,P109,You Knew it Beforehand,https://lettersfortitles.com/you-knew-it-beforehand/,Fate,yes,yes,yes,complete carrier: WHAT DO YOU KNOW? plus displayed AFTER / NO / LIFE / DEATH; NO LIFE AFTER DEATH retained as semantic rebus resolution not mechanical order
+8,P104,N is for ‘N,https://lettersfortitles.com/n-is-for-n/,Fate,yes,no,yes,unresolved non-Rune-Code object
+9,P125,Soon After it Becomes Water,https://lettersfortitles.com/soon-after-it-becomes-water/,The Water Cycle,yes,yes,yes,decoded SO LET US MELT
+10,P143,All in All,https://lettersfortitles.com/all-in-all/,Prosperity,yes,no,yes,unresolved non-Rune-Code object
+11,P142,Bliss,https://lettersfortitles.com/bliss/,Prosperity,yes,no,yes,unresolved non-Rune-Code object
+12,P161,Œ is for Œdipean Riddle,https://lettersfortitles.com/oe-is-for-oedipean-riddle/,You Have Nothing Else,yes,yes,yes,decoded A TWIN / SUN / DAY from eleven red-yellow ray coordinates
+13,P156,Present,https://lettersfortitles.com/present/,You Have Nothing Else,yes,yes,yes,decoded YOU HAVE NOTHING ELSE
+14,P173,Night Riddle,https://lettersfortitles.com/night-riddle/,Light,yes,no,yes,decoded as a five-line Nyctographic riddle
+15,P189,The Way,https://lettersfortitles.com/the-way/,By Land and By Sea,yes,yes,yes,decoded Taoic six-line Rune Code inscription
+16,P209,Shh,https://lettersfortitles.com/shh/,Axis Mundi,yes,yes,yes,decoded SILENT from six tree-bough coordinates
+17,P229,For Anybody Who Rests With Them,https://lettersfortitles.com/for-anybody-who-rests-with-them/,They'll Cut You,yes,yes,yes,decoded HOW UNCOMFORTABLE DO YOU WANT TO BE?
+18,P228,Arrows,https://lettersfortitles.com/arrows/,They'll Cut You,yes,yes,yes,decoded Dante seven-line Rune Code inscription
+19,P247,X≠Y≠Z: What is that?,https://lettersfortitles.com/x%E2%89%A0y%E2%89%A0z-what-is-that/,Moody Joy,yes,no,yes,dialogic code relation; no independent cipher promoted
+20,P241,Axaxaxas mlö,https://lettersfortitles.com/axaxaxas-mlo/,Moody Joy,yes,yes,yes,decoded CAN YOU READ ME — ARE YOU READING THE BEGINNING OF SOMETHING?
+21,P240,IO is for I/O,https://lettersfortitles.com/io-is-for-i-o/,Moody Joy,yes,no,yes,decoded 79-byte ASCII stream
+22,P267,COW,https://lettersfortitles.com/cow/,Everything is Temporary,yes,no,yes,decoded with bounded COW interpreter
+23,P264,Everything is Temporary,https://lettersfortitles.com/everything-temporary/,Everything is Temporary,yes,yes,yes,decoded EVERYTHING IS TEMPORARY
+24,P261,Octave,https://lettersfortitles.com/octave/,Everything is Temporary,yes,yes,yes,site-provided group-place key
+25,P274,Decode,https://lettersfortitles.com/decode/,Uncategorized / threshold,yes,no,yes,image-led threshold; 254-M filename verified

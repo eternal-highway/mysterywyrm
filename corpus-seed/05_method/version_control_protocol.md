@@ -1,3 +1,7 @@
+# v0.27 staging status
+
+Published parent: v0.26.2. This package is an isolated v0.27.0 candidate, not a published successor. The protocol below remains mandatory; its closing version line is historical v0.26.2 text.
+
 # Version-Control and Re-entry Protocol
 
 Established: 2026-08-24  

@@ -1,5 +1,26 @@
 # v0.27 work record
 
+## Approved import 2026-09-14
+
+The owner approved canonical import and publication. The exact v0.27.0 payload
+is imported on the integration branch; committed-tree validation, CI, merge
+and publication follow. See [release record](../../RELEASE-v0.27.0.md).
+The dated pre-import and candidate records below remain historical.
+
+## Release review completed 2026-09-14
+
+The immutable candidate passed an independent pre-import check: all 1,520
+payload hashes, both bundled verifiers, clean extraction, preserved parent
+history and 829 CSVs. The exact import delta is 101 additions, 46 modified
+parent files plus the manifest, and no removals. GitHub still shows published
+v0.26.2, passing main CI and no v0.27 branch, tag or open PR.
+
+The [release handoff](release-handoff.md) contains the pinned identities,
+review conclusion, remaining limits, execution sequence and prepared PR/release
+text. [Preflight JSON](release-preflight.json) records the mechanical evidence.
+Canonical import and publication await owner approval; the candidate and seed
+remain byte-exact. This review introduces no new visual adjudication.
+
 ## Local candidate prepared 2026-09-13
 
 The complete reviewed comparison is now packaged as an isolated v0.27.0
