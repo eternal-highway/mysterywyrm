@@ -1,6 +1,19 @@
 # Cross-lineage findings — corpus-seed v0.26.1 against the harvest/research layer
 
+> 2026-09-14 approved import: the owner authorized v0.27.0 canonical import and
+> publication. This branch now contains the exact reviewed payload; publication
+> awaits CI and merge. The material below preserves historical readings and
+> prerequisites. Consult [current adjudication](corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
+> for qualified dispositions, unresolved findings and conditional-key provenance.
+
 Reviewer: Claude (bounded review role, `LINEAGES.md` § Model roles)
+
+> 2026-09-13 candidate update: the bounded comparison and subsequent requested
+> review are incorporated in the isolated [v0.27.0 candidate](RELEASE-v0.27.0.md).
+> Read [current reviewed findings](research/v0.27/review-integration.md) for the
+> recommendations and remaining limits. No ledger item is struck as a released
+> adjudication yet; the historical comparisons below remain intact.
+
 Date: 2026-08-31
 State reviewed: `main` at `aad614d`, fast-forward only, working tree clean
 

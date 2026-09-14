@@ -1,3 +1,11 @@
+# v0.27 current authority — For Anybody Who Rests With Them
+
+v0.27 seed: HOW UNCOMFORTABLE DO YOU WANT TO BE?. Row 4 unit 3 is 1.4 O, not harvest 1.3 TH; complete sequence supports seed under conditional key.
+
+See [current adjudication](../../01_inventory/rune_code_adjudication_v0.27.0.json). The inherited text below is a historical source and analysis record. Its transcription conclusions are superseded by the qualified entry above; source quotations remain source quotations.
+
+## Inherited v0.26.2 record
+
 # For Anybody Who Rests With Them
 
 - Canonical URL: https://lettersfortitles.com/for-anybody-who-rests-with-them/

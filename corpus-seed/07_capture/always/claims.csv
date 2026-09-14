@@ -1,4 +1,4 @@
-"claim_id","claim_summary","evidence_class","assessment","next_check"
-"AL-C01","The page frames perfect recurrence as horror","site-authored literary composition","recorded","identify exact Cortázar source"
-"AL-C02","Solar return is presented as monstrous rather than simply benevolent","site-authored valuation","recorded","compare Sigel casting and navigation pages"
-"AL-C03","The solar-disc plate reads BEING ENDLESS under the Octave key","full-resolution coordinate transcription","verified from twelve coordinates","exclude the two margin key examples from plaintext"
+claim_id,claim_summary,evidence_class,assessment,next_check,v027_authority
+AL-C01,The page frames perfect recurrence as horror,site-authored literary composition,recorded,identify exact Cortázar source,Historical claim/assessment; current transcription: 01_inventory/rune_code_adjudication_v0.27.0.json entry P046
+AL-C02,Solar return is presented as monstrous rather than simply benevolent,site-authored valuation,recorded,compare Sigel casting and navigation pages,Historical claim/assessment; current transcription: 01_inventory/rune_code_adjudication_v0.27.0.json entry P046
+AL-C03,The solar-disc plate reads BEING ENDLESS under the Octave key,full-resolution coordinate transcription,verified from twelve coordinates,exclude the two margin key examples from plaintext,Historical claim/assessment; current transcription: 01_inventory/rune_code_adjudication_v0.27.0.json entry P046

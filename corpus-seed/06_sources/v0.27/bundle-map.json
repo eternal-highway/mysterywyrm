@@ -1,0 +1,302 @@
+{
+  "research/v0.27/comparative-pass.md": {
+    "path": "05_method/v0.27-evidence/comparative-pass.md",
+    "sha256": "dddf042eb1136ba3b96f72ef6cd3c3811fa062d7701ae47849ad6f9499477b84",
+    "input_sha256": "36e9956c7cc3cfd553374d8beed2571d0069620d9006e1693088798c3a92df46",
+    "normalization": "LF"
+  },
+  "research/v0.27/comparison-decisions.json": {
+    "path": "05_method/v0.27-evidence/comparison-decisions.json",
+    "sha256": "9efe94404e63d42d6bce2756aca858a10bffd82267ce3864ad8e5399ad2ad671",
+    "input_sha256": "9efe94404e63d42d6bce2756aca858a10bffd82267ce3864ad8e5399ad2ad671",
+    "normalization": "LF"
+  },
+  "research/v0.27/cross-cutting-tests.md": {
+    "path": "05_method/v0.27-evidence/cross-cutting-tests.md",
+    "sha256": "499c2c36b49bc9e9b7abc44c68e55202a9cdd004a301eacdf448c7c1b236988d",
+    "input_sha256": "499c2c36b49bc9e9b7abc44c68e55202a9cdd004a301eacdf448c7c1b236988d",
+    "normalization": "LF"
+  },
+  "research/v0.27/gate-0-conditional-proposal.md": {
+    "path": "05_method/v0.27-evidence/gate-0-conditional-proposal.md",
+    "sha256": "cca151c038937a065e1ed9a1a2566a8fccf52f1448c820e38fc3fc60fea088be",
+    "input_sha256": "cca151c038937a065e1ed9a1a2566a8fccf52f1448c820e38fc3fc60fea088be",
+    "normalization": "LF"
+  },
+  "research/v0.27/independent-observations.json": {
+    "path": "05_method/v0.27-evidence/independent-observations.json",
+    "sha256": "41cc3a03b6cb2c899e431fedd69897f7a8fbf084c1204dc204091eca19cedce9",
+    "input_sha256": "41cc3a03b6cb2c899e431fedd69897f7a8fbf084c1204dc204091eca19cedce9",
+    "normalization": "LF"
+  },
+  "research/v0.27/key-corroboration-sources.json": {
+    "path": "05_method/v0.27-evidence/key-corroboration-sources.json",
+    "sha256": "0572cfaf67057ed077b5cb5e2e44e57e1cafdd2c293b7e69c2a959400b805f44",
+    "input_sha256": "5ea2ff88a91f8fec32ebb97c0721d0c2c93921d2a7c9c59d6f5f8446bc2d9337",
+    "normalization": "LF"
+  },
+  "research/v0.27/key-corroboration.md": {
+    "path": "05_method/v0.27-evidence/key-corroboration.md",
+    "sha256": "2e63c5bf81d661683ba0f63a94db0e9cca7b378fc10e593cc69f4db8a2f3df6d",
+    "input_sha256": "2e63c5bf81d661683ba0f63a94db0e9cca7b378fc10e593cc69f4db8a2f3df6d",
+    "normalization": "LF"
+  },
+  "research/v0.27/loop-candidate-key.csv": {
+    "path": "05_method/v0.27-evidence/loop-candidate-key.csv",
+    "sha256": "721dccd4d07b4691f8820aeca8c2d4b9817a48bc2bb806f549007f5ac5a9ebde",
+    "input_sha256": "721dccd4d07b4691f8820aeca8c2d4b9817a48bc2bb806f549007f5ac5a9ebde",
+    "normalization": "LF"
+  },
+  "research/v0.27/loop-candidate-method.md": {
+    "path": "05_method/v0.27-evidence/loop-candidate-method.md",
+    "sha256": "2361e2f105e0fe27b79380f8cafd9c32ded4f3da5624739e0fda83b8e9703dc4",
+    "input_sha256": "2361e2f105e0fe27b79380f8cafd9c32ded4f3da5624739e0fda83b8e9703dc4",
+    "normalization": "LF"
+  },
+  "research/v0.27/loop-independent-observation.md": {
+    "path": "05_method/v0.27-evidence/loop-independent-observation.md",
+    "sha256": "facbf1695fe72562be27d24dd99374fcf143fe96c4649795e139adad174332cb",
+    "input_sha256": "facbf1695fe72562be27d24dd99374fcf143fe96c4649795e139adad174332cb",
+    "normalization": "LF"
+  },
+  "research/v0.27/loop-key-comparison.json": {
+    "path": "05_method/v0.27-evidence/loop-key-comparison.json",
+    "sha256": "18959c8a35bfc80fd64d2588541e6b547a8e7153f6284469efcb70c6cd7d8cdb",
+    "input_sha256": "675abc66068c272b211720a1a730ff464c5f4a975059f74971d86cdbb8e7cb6f",
+    "normalization": "LF"
+  },
+  "research/v0.27/reading-aid-check.md": {
+    "path": "05_method/v0.27-evidence/reading-aid-check.md",
+    "sha256": "80c72a8a29a65b95046f9e30c6f8302cb8fab67bcf668d60e318d55e49c2654a",
+    "input_sha256": "80c72a8a29a65b95046f9e30c6f8302cb8fab67bcf668d60e318d55e49c2654a",
+    "normalization": "LF"
+  },
+  "research/v0.27/README.md": {
+    "path": "05_method/v0.27-evidence/README.md",
+    "sha256": "5009f4c969187960cd7ea06170ef6a1783bf65b95630aeda54a0c191b1600efd",
+    "input_sha256": "5009f4c969187960cd7ea06170ef6a1783bf65b95630aeda54a0c191b1600efd",
+    "normalization": "LF"
+  },
+  "research/v0.27/review-integration.md": {
+    "path": "05_method/v0.27-evidence/review-integration.md",
+    "sha256": "842999d48812d970c182d838c435d68aa62c64c8539ca9780edfbd503053bf36",
+    "input_sha256": "842999d48812d970c182d838c435d68aa62c64c8539ca9780edfbd503053bf36",
+    "normalization": "LF"
+  },
+  "research/v0.27/reviewed-decisions.json": {
+    "path": "05_method/v0.27-evidence/reviewed-decisions.json",
+    "sha256": "efc0dfa2358e1018fe32e976365ffca7a4c28cd42ca4600f405323147c0721f2",
+    "input_sha256": "efc0dfa2358e1018fe32e976365ffca7a4c28cd42ca4600f405323147c0721f2",
+    "normalization": "LF"
+  },
+  "research/v0.27/source-authentication.json": {
+    "path": "05_method/v0.27-evidence/source-authentication.json",
+    "sha256": "1c039e2b962c006f8913a6448e01461996289c29d898beb5cf98d1f94a385707",
+    "input_sha256": "4ab67106a6adfccd37fe1989b92bdadd9bc5166e8799446b8907b7f8e4814e25",
+    "normalization": "LF"
+  },
+  "research/v0.27/unresolved-review.md": {
+    "path": "05_method/v0.27-evidence/unresolved-review.md",
+    "sha256": "eb29675bf56cc2d536771e2e8e854b6bb6d6a62badc7d2c8c8e9b3030db417be",
+    "input_sha256": "eb29675bf56cc2d536771e2e8e854b6bb6d6a62badc7d2c8c8e9b3030db417be",
+    "normalization": "LF"
+  },
+  "CROSS-LINEAGE-FINDINGS.md": {
+    "path": "05_method/v0.27-evidence/lineage-inputs/CROSS-LINEAGE-FINDINGS.md",
+    "sha256": "24f4084c7374e4882ab5919a979a9232bd5ae7b5ff9fdfde028e6e0a933b0e56",
+    "input_sha256": "623ac6cff51373db8458ab14a24793a08eb6c4096d3c27350ea127492acc6afb",
+    "normalization": "LF"
+  },
+  "V0.27-ADJUDICATION-PACKET.md": {
+    "path": "05_method/v0.27-evidence/lineage-inputs/V0.27-ADJUDICATION-PACKET.md",
+    "sha256": "b0a0a507b8ed13b0bb87368246fb4faf341438aa072003d63feeaacd110f3a1c",
+    "input_sha256": "57219a5de817e4089849b51e3102b0c0fe4fc4fa18c0d191ee1a5d258a22c472",
+    "normalization": "LF"
+  },
+  "research/rune-code.md": {
+    "path": "05_method/v0.27-evidence/lineage-inputs/rune-code.md",
+    "sha256": "1b715bac7757c100fecdce192a9300359fa3923eea384694b3093b2489bf5968",
+    "input_sha256": "80bc246bec61042cf0ab658c2dfb09291ad9ad0e86cc2effeb1a72f14268fdc0",
+    "normalization": "LF"
+  },
+  "tools/build_v027_candidate.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/build_v027_candidate.py",
+    "sha256": "318d53227ef9021294455f63f77696e47ab5aa84e3851f93be0cbd302b0d316a",
+    "input_sha256": "318d53227ef9021294455f63f77696e47ab5aa84e3851f93be0cbd302b0d316a",
+    "normalization": "LF"
+  },
+  "tools/verify_v027_candidate_state.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/verify_v027_candidate_state.py",
+    "sha256": "93a8e5d2a63196005f1783c88cdba137773cd588f1a21926cfac090a526cbe99",
+    "input_sha256": "93a8e5d2a63196005f1783c88cdba137773cd588f1a21926cfac090a526cbe99",
+    "normalization": "LF"
+  },
+  "tools/archive.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/archive.py",
+    "sha256": "eb853c00c92720d5f3e098c7575cbe7d6902fb65600143767657a81fd3f69f4b",
+    "input_sha256": "090b68bc2284850748061720ab58afa54aad89bb254d02b4e09ba775792085d0",
+    "normalization": "LF"
+  },
+  "tools/render_v027_pass.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/render_v027_pass.py",
+    "sha256": "6a9f8c0294c1642f86c8a8dfddc9c89dac2d54c7ffc6ea09eb781215923aa837",
+    "input_sha256": "6a9f8c0294c1642f86c8a8dfddc9c89dac2d54c7ffc6ea09eb781215923aa837",
+    "normalization": "LF"
+  },
+  "tools/render_v027_unresolved_review.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/render_v027_unresolved_review.py",
+    "sha256": "53d39fa99b341cf7b51fda9a3b543d0a3262df5a7fef13f7506e9ed4c5219018",
+    "input_sha256": "53d39fa99b341cf7b51fda9a3b543d0a3262df5a7fef13f7506e9ed4c5219018",
+    "normalization": "LF"
+  },
+  "tools/verify_v027_loop.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/verify_v027_loop.py",
+    "sha256": "4d708f8e9e6fcbc7077b32db6420f2efb798cc66419aac4331b4dc41434d7402",
+    "input_sha256": "4d708f8e9e6fcbc7077b32db6420f2efb798cc66419aac4331b4dc41434d7402",
+    "normalization": "LF"
+  },
+  "tools/compare_v027_loop.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/compare_v027_loop.py",
+    "sha256": "f5942bbc75da6120d2d8f9d2c2eca6d0f9669d1e024e012c5184ff63d35d5c3f",
+    "input_sha256": "f5942bbc75da6120d2d8f9d2c2eca6d0f9669d1e024e012c5184ff63d35d5c3f",
+    "normalization": "LF"
+  },
+  "tools/materialize_v027_evidence.py": {
+    "path": "05_method/v0.27-evidence/repository-tools/materialize_v027_evidence.py",
+    "sha256": "4d5f85d12d3ab4e6381670a4c51b7a491bd72d02fa499cf5ce0d682ab10e3ea1",
+    "input_sha256": "4d5f85d12d3ab4e6381670a4c51b7a491bd72d02fa499cf5ce0d682ab10e3ea1",
+    "normalization": "LF"
+  },
+  "archive/code/2021_09_Bright-fruits-lettersfortitles-vern-tonkin-scaled.jpg": {
+    "path": "06_sources/v0.27/originals/2021_09_Bright-fruits-lettersfortitles-vern-tonkin-scaled.jpg",
+    "sha256": "cb7a6711ef30cf05ef6e6b1a9a4131583b5ee8db5aaac654edbf4dceeed50349",
+    "input_sha256": "cb7a6711ef30cf05ef6e6b1a9a4131583b5ee8db5aaac654edbf4dceeed50349",
+    "normalization": "none"
+  },
+  "archive/code/2021_09_Frith-verntonkin-lettersfortitles-1-1-scaled.jpg": {
+    "path": "06_sources/v0.27/originals/2021_09_Frith-verntonkin-lettersfortitles-1-1-scaled.jpg",
+    "sha256": "759f919f276d22362b3257bc5a9ca730e5277f901ab4ac2ace7dcd9b72232206",
+    "input_sha256": "759f919f276d22362b3257bc5a9ca730e5277f901ab4ac2ace7dcd9b72232206",
+    "normalization": "none"
+  },
+  "archive/code/2021_11_Loop.lettersfortitles-verntonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2021_11_Loop.lettersfortitles-verntonkin.jpg",
+    "sha256": "33b777ed8f09bd0c3421d4b17c2f87bef8e878e77c8d75939e4dd2d58158874c",
+    "input_sha256": "33b777ed8f09bd0c3421d4b17c2f87bef8e878e77c8d75939e4dd2d58158874c",
+    "normalization": "none"
+  },
+  "archive/code/2022_04_Octave-Lettersfortitles-VernTonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_04_Octave-Lettersfortitles-VernTonkin.jpg",
+    "sha256": "89fa0ab057b1546554bccc02ced14139e61ab8580b30a6ce2e5f092732849109",
+    "input_sha256": "89fa0ab057b1546554bccc02ced14139e61ab8580b30a6ce2e5f092732849109",
+    "normalization": "none"
+  },
+  "archive/code/2022_04_everything-is-temporary-6fps-letters-for-titles-vern-tonkin.gif": {
+    "path": "06_sources/v0.27/originals/2022_04_everything-is-temporary-6fps-letters-for-titles-vern-tonkin.gif",
+    "sha256": "30ceb60dbf5f063371804bf4ccd633eb06e279babdc7160f7576a935ea4ea727",
+    "input_sha256": "30ceb60dbf5f063371804bf4ccd633eb06e279babdc7160f7576a935ea4ea727",
+    "normalization": "none"
+  },
+  "archive/code/2022_05_axaxaxas-mlo-letters-for-titles-vern-tonkin-large-scaled.jpg": {
+    "path": "06_sources/v0.27/originals/2022_05_axaxaxas-mlo-letters-for-titles-vern-tonkin-large-scaled.jpg",
+    "sha256": "6953e91183de5f2365ea68cafc325aa27bd2b1dea3211a01c577d83d3029c14b",
+    "input_sha256": "6953e91183de5f2365ea68cafc325aa27bd2b1dea3211a01c577d83d3029c14b",
+    "normalization": "none"
+  },
+  "archive/code/2022_06_Arrows-Letters-for-titles-verntonkin-1.jpg": {
+    "path": "06_sources/v0.27/originals/2022_06_Arrows-Letters-for-titles-verntonkin-1.jpg",
+    "sha256": "c6c740008d00d5778cb482c6acb8072ce109fb24589fc4deca52a1c23c2f48f0",
+    "input_sha256": "c6c740008d00d5778cb482c6acb8072ce109fb24589fc4deca52a1c23c2f48f0",
+    "normalization": "none"
+  },
+  "archive/code/2022_06_foranybodywhorestswiththem-letters-for-titles-vern-tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_06_foranybodywhorestswiththem-letters-for-titles-vern-tonkin.jpg",
+    "sha256": "62722e9820b5d66513334bc3fcb32af0fefa43712c3371a25d05a30d28b43b6e",
+    "input_sha256": "62722e9820b5d66513334bc3fcb32af0fefa43712c3371a25d05a30d28b43b6e",
+    "normalization": "none"
+  },
+  "archive/code/2022_06_shh-letters-for-titles-verntonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_06_shh-letters-for-titles-verntonkin.jpg",
+    "sha256": "87a257f7fed20e2b4fea4aa6c404a77fa166160f89f7c5fec859ed0ad263a4e1",
+    "input_sha256": "87a257f7fed20e2b4fea4aa6c404a77fa166160f89f7c5fec859ed0ad263a4e1",
+    "normalization": "none"
+  },
+  "archive/code/2022_07_the-way-lettersfortitles-vern-tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_07_the-way-lettersfortitles-vern-tonkin.jpg",
+    "sha256": "a10c4012955caad9088226a6ede0dc3446ea0e26573223d9f2e3258cb6b137a6",
+    "input_sha256": "a10c4012955caad9088226a6ede0dc3446ea0e26573223d9f2e3258cb6b137a6",
+    "normalization": "none"
+  },
+  "archive/code/2022_09_OE-is-for-OEdipean-Riddle-VernTonkin-Letters-for-Titles-scaled.jpg": {
+    "path": "06_sources/v0.27/originals/2022_09_OE-is-for-OEdipean-Riddle-VernTonkin-Letters-for-Titles-scaled.jpg",
+    "sha256": "7c380aa9e141292222dca1252991a54b12ec24820d4b7768cb5dbf92438ad8d3",
+    "input_sha256": "7c380aa9e141292222dca1252991a54b12ec24820d4b7768cb5dbf92438ad8d3",
+    "normalization": "none"
+  },
+  "archive/code/2022_09_present-letters-for-titles-verntonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_09_present-letters-for-titles-verntonkin.jpg",
+    "sha256": "c2e1c1abd6af4d4fe61dcd54456a07bb3b2325dc0cec710710df721e67f63f56",
+    "input_sha256": "c2e1c1abd6af4d4fe61dcd54456a07bb3b2325dc0cec710710df721e67f63f56",
+    "normalization": "none"
+  },
+  "archive/code/2022_10_soon-after-it-becomes-water-letters-for-titles-vern-tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_10_soon-after-it-becomes-water-letters-for-titles-vern-tonkin.jpg",
+    "sha256": "a8ef7ca6f95bffcd787934eafde759e4baa89e624b6270d4c1b5d0c4d4b0c423",
+    "input_sha256": "a8ef7ca6f95bffcd787934eafde759e4baa89e624b6270d4c1b5d0c4d4b0c423",
+    "normalization": "none"
+  },
+  "archive/code/2022_11_You-knew-it-beforehand-lettersfortitles-vern-tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2022_11_You-knew-it-beforehand-lettersfortitles-vern-tonkin.jpg",
+    "sha256": "8034839d38dd83f39a2d09c5af1a3be19c121f168ef12270511c73c3c39db884",
+    "input_sha256": "8034839d38dd83f39a2d09c5af1a3be19c121f168ef12270511c73c3c39db884",
+    "normalization": "none"
+  },
+  "archive/code/2023_01_It-never-deceives-lettersfortitles-vern-tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2023_01_It-never-deceives-lettersfortitles-vern-tonkin.jpg",
+    "sha256": "b776f375a6c862030831d6d357679c1018a37e024c2954121a1959194e67632d",
+    "input_sha256": "b776f375a6c862030831d6d357679c1018a37e024c2954121a1959194e67632d",
+    "normalization": "none"
+  },
+  "archive/code/2023_02_Battle-LettersforTitles-Vern-Tonkin.jpg": {
+    "path": "06_sources/v0.27/originals/2023_02_Battle-LettersforTitles-Vern-Tonkin.jpg",
+    "sha256": "2b1691023f32d23bf622571f8edcfee4e8bd86c381981ed3d268827ffec99dba",
+    "input_sha256": "2b1691023f32d23bf622571f8edcfee4e8bd86c381981ed3d268827ffec99dba",
+    "normalization": "none"
+  },
+  "archive/code/2023_02_always.lettersfortitles.verntonkin-scaled.jpg": {
+    "path": "06_sources/v0.27/originals/2023_02_always.lettersfortitles.verntonkin-scaled.jpg",
+    "sha256": "eed94a5f8a401a197d07701adc2f1008c148e79198218ee0e1cbb6395391ead8",
+    "input_sha256": "eed94a5f8a401a197d07701adc2f1008c148e79198218ee0e1cbb6395391ead8",
+    "normalization": "none"
+  },
+  "archive/pages/octave.html": {
+    "path": "06_sources/v0.27/primary-html/octave.html",
+    "sha256": "174b43659bef7728b83b2639cd8616cf020e2f10aae8bf7e53906f25ac775223",
+    "input_sha256": "54dbc5ce7ee8e3be7faaf00c2d31060ac7b6388bb5052ff612fbf7eb1a5881b1",
+    "normalization": "LF"
+  },
+  "archive/pages/stanza-23-home.html": {
+    "path": "06_sources/v0.27/primary-html/stanza-23-home.html",
+    "sha256": "38387ed7c915571d2dd4fe83fa3a90a0992e80c6a2a76a2f79972be6940f8410",
+    "input_sha256": "b91266da1f1a88f112e82b67cc305d06eb24fc61aa2295a0d58a3e0498c89c45",
+    "normalization": "LF"
+  },
+  "archive/pages/sun.html": {
+    "path": "06_sources/v0.27/primary-html/sun.html",
+    "sha256": "22ca519283eba112883b83b689eb892d29634032906bcf7b61dabafb5a4f31eb",
+    "input_sha256": "41ca970115dba3d87ccb14cecb85c4555d522ce55889f129f904c96e10a5ebc0",
+    "normalization": "LF"
+  },
+  "archive/pages/the-game.html": {
+    "path": "06_sources/v0.27/primary-html/the-game.html",
+    "sha256": "0c26cc5d327844084eb30f8b65add994ad0c56978da8776dc86fbd50fdf57216",
+    "input_sha256": "a32a8fffa2768802f8463a090bef8a2ca99643ff7981568b707de3d30875f82f",
+    "normalization": "LF"
+  },
+  "archive/pages/stanza-15-helix.html": {
+    "path": "06_sources/v0.27/primary-html/stanza-15-helix.html",
+    "sha256": "a8800c1ff37132f759a02839808d6d8434c53e3c8eccee998b3b6464b83f5d5a",
+    "input_sha256": "2118129ebce8ce88ec57a9759820700cd575494cb2bc634540f43f5fd3242a84",
+    "normalization": "LF"
+  }
+}

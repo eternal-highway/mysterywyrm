@@ -1,18 +1,56 @@
-# Claude Standby Handoff — Letters for Titles Corpus 0.26.2
+# Letters for Titles — v0.27.0 candidate
 
-Version 0.26.2 is a metadata/provenance patch derived from v0.26.1. It corrects Loop and Œ original-media identities/dimensions, registers the Octave image, imports 31 source-byte hash attestations and 262 day-level publication records, updates OQ001/OQ003/OQ007, and corrects the Translating Is canonical URL. It changes no transcription or retained media payload. Nine cross-lineage carrier disputes and the Octave classification question remain for v0.27.
+Prepared: 2026-09-13. Status: local candidate, not merged, tagged or published.
+Published parent remains v0.26.2 (ZIP SHA-256 `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`).
 
-## Cross-lineage boundary — v0.26.2
+This candidate integrates all nine carrier disputes together and the separate
+Octave classification, using the authorized conditional key. Direct independent
+Loop reconstruction remains incomplete; Gate 0 Outcome B is not asserted.
 
-The plate readings below remain the seed lineage’s readings, not adjudicated repository-wide findings. Nine carriers disagree with the harvest lineage; Octave has a separate classification question. See the repository `CROSS-LINEAGE-FINDINGS.md` and `V0.27-ADJUDICATION-PACKET.md`. Metadata completion does not pass Gate 0 or authorize a reading change.
+## Current authority
 
-Date: 2026-09-12  
-Status: supplied cipher branch preserved / Rune Code archive closed / no parallel mutation
+Read `01_inventory/rune_code_adjudication_v0.27.0.json`, then `05_method/v0.27-evidence/review-integration.md` and
+`unresolved-review.md`. The initial `comparative-pass.md` and frozen observations
+remain inspectable history. Updated code and verified-page registers follow the
+reviewed decisions. Untouched carriers retain inherited assessments; they were
+authenticated but not independently re-transcribed in this pass.
 
-Your full-site cipher handoff remains preserved verbatim and reconciled in `05_method/claude_cipher_reconciliation_v0.19.0.md`. The completed Œ page media record adds `10-O`, so 74/74 locally retained tokens now pass; the complete harvest is now co-located and its filename verifier is runnable from the repository root.
+- Harvest supported: Axaxaxas, Always, The Way.
+- Seed supported: For Anybody Who Rests With Them.
+- Neither historical full reading: It Never Deceives (literal GUARDIAT),
+  You Knew it Beforehand (WHAT IS OUR FATE? / CHEER UP IT IS DEATH),
+  Soon After it Becomes Water (SAE or SHH / LET / US / MELT).
+- Traversal unresolved: Œdipean Riddle and Shh.
+- Octave: inscription present, untranscribed; classification only.
 
-The *Octave* group/place key yields fourteen mechanically complete page-local inscriptions. Version 0.26.1 changes no plaintext. It corrects the upper *You Knew it Beforehand* count to twelve coordinate-valued face units plus one direct Roman `K` and a direct question mark.
+GUARDIAT retains its stated grouping rule and weaker alternative. The skull
+reading retains medium confidence and its inferred bone/hair rule. Ice retains
+both segmentations. Conditional coordinates 2.6, 2.7, 2.8 and 3.7 are separately
+supported by authored stanza/grouping evidence, not direct reading of hidden ink.
 
-*Loop* is no longer an open plate target. Its lead image is the complete twenty-nine-rune coordinate crib, making it a key carrier rather than a second plaintext sequence. *You Knew it Beforehand* is carrier-complete: `WHAT DO YOU KNOW?` plus displayed `AFTER / NO / LIFE / DEATH`. `NO LIFE AFTER DEATH` is retained as the high-confidence semantic rebus resolution, but not promoted as a mechanical band order; `THERE IS` remains rejected by unit count.
+## Evidence and history
 
-No plate sequence has been promoted to one continuous Rune Code text. Structural acquisition, page coverage, archive counts, the locally retained filename-token check, and the fourteen paired braids remain unchanged. All seventeen Rune Code archive entries are classified; the plate queue is closed. The new carrier-fingerprint register clearly separates exact source-byte hashes from browser-rendered visual fingerprints.
+Seventeen authenticated original images and five archived author pages are
+bundled under `06_sources/v0.27/`; its bundle map resolves repository references.
+Every changed inherited file has a byte-exact snapshot under
+`05_method/v0.26.2-history/`. Existing versioned method reports are historical.
+Capture banners and claim pointers distinguish inherited analysis from current
+adjudication; original claim wording is preserved. The old README in that history
+retains the broader project orientation and directory map.
+
+Keep source, observation, attribution, interpretation and uncertainty distinct.
+Do not infer authorial intent from grammatical fluency. All retained parent
+media bytes, the 31-record imported source manifest and archive membership remain
+unchanged. New source files are separately identified additions.
+
+## Checks and next boundary
+
+Run `python -X utf8 -B 05_method/verify_rune_code_state.py` and
+`python -X utf8 -B 05_method/verify_cipher_letter_run.py` from the extracted package.
+Manifest/path checks and exact parent delta are recorded in the validation report
+and `05_method/v0.27-parent-delta.json`. Open research limits are in
+`01_inventory/open_questions.csv`. Verification checks evidence identity and
+record consistency; it does not automate visual judgment.
+
+Review this complete candidate before canonical import and release publication.
+Do not repeat the completed comparison or fill Octave's transcription by inference.

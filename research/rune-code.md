@@ -1,5 +1,11 @@
 # The Rune Code plates
 
+> 2026-09-14 approved import: the owner authorized v0.27.0 canonical import and
+> publication. This branch now contains the exact reviewed payload; publication
+> awaits CI and merge. The material below preserves historical readings and
+> prerequisites. Consult [current adjudication](../corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
+> for qualified dispositions, unresolved findings and conditional-key provenance.
+
 Seventeen posts carry the tag `Rune Code`; twenty-five carry `Code`. Nineteen
 of the corpus's twenty wordless posts are in this set. They have no text at
 all — only pictures — which is why a text-first reading of the site passes

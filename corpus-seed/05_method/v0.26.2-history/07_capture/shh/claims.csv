@@ -1,0 +1,3 @@
+"claim_id","claim_summary","evidence_class","assessment","next_check"
+"AM-07-C01","Shh is a body-textless Code page whose lead image carries six tree-bough coordinates.","direct page observation","verified","preserve the absence of a prose solution"
+"AM-07-C02","The six bough coordinates read S-I-L down the left, E-N down the right, and T in the crown: SILENT.","mechanical full-resolution transcription","verified under the Octave group.place key","retain as page-local plaintext; do not infer a continuous Rune Code text"

@@ -1,0 +1,25 @@
+{
+  "candidate_text_sha256": "721dccd4d07b4691f8820aeca8c2d4b9817a48bc2bb806f549007f5ac5a9ebde",
+  "inherited_file_sha256": "80bc246bec61042cf0ab658c2dfb09291ad9ad0e86cc2effeb1a72f14268fdc0",
+  "normalization": "case, diacritics, ae/oe/th expansions only",
+  "coordinate_rune_matches": 29,
+  "coordinate_rune_mismatches": [],
+  "transliteration_differences": [
+    {
+      "cell": 12,
+      "coordinate": "2.4",
+      "candidate": "y",
+      "inherited": "J"
+    }
+  ],
+  "reconstructed_or_partial_coordinates": [
+    14,
+    15,
+    16
+  ],
+  "low_confidence_identities": [
+    14,
+    23
+  ],
+  "gate_0": "pending; table agreement does not validate reconstruction"
+}

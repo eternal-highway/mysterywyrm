@@ -1,0 +1,72 @@
+{
+  "P241": {
+    "disposition": "harvest",
+    "scope": "48 groups and extracted coordinate sequence; conditional-key decoding",
+    "reason": "The independent 10/8/10/12/8 count and complete coordinate sequence match the harvest, not the seed's 47 units. Ger is observed in the disputed y slots. Dense coil counts remain medium-confidence, not detector-certified.",
+    "semantic_interpretation": "Word spacing gives YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE? Literary attribution is outside this pass.",
+    "unresolved_reason": null
+  },
+  "P161": {
+    "disposition": "unresolved",
+    "scope": "ray classification, traversal, and disagreement on bottom-left coordinate",
+    "reason": "Top-row second face does not yield a unique count-class pair. The independent bottom-left count is two pale points/four red flames (2.4), whereas both recorded lineages assign 4.3 there. A post-comparison original-pixel crop confirms two pale points and four red flames. This is a new plate-coordinate disagreement, not a changed key.",
+    "semantic_interpretation": "Reversing each spatial row yields a NIGHT/AND/DAY candidate only after selecting the ambiguous 2.1 alternative. It is not a unique mechanical result. The seed's A TWIN / SUN / DAY is not supported as a complete independent sequence either.",
+    "unresolved_reason": "Ambiguous classification of the short orange tip on top-row face 2, unmarked direction, and a newly observed 2.4 versus inherited 4.3 coordinate difference. No hidden ray may be supplied from the desired word."
+  },
+  "P055": {
+    "disposition": "unresolved",
+    "scope": "eight-group structure supports harvest; last count-feature split unresolved",
+    "reason": "Eight independent physical groups exclude the seed's seven-stave WHAT DID analysis. Seven coordinate readings match the harvest. The final group can be split as two diagonals/two verticals (2.2) or three upper/one lower (3.1).",
+    "semantic_interpretation": "GUARDIAN follows the 2.2 grouping; GUARDIAT follows 3.1. Grammar is not allowed to select the grouping.",
+    "unresolved_reason": "The carrier-local feature rule for the last arrow-shaped group is not independently decisive in this pass. Structural agreement with harvest does not establish the final N."
+  },
+  "P209": {
+    "disposition": "unresolved",
+    "scope": "six bough counts; traversal undecided",
+    "reason": "Both lineages' six local counts match the independent bough readings. The connected tree does not provide a unique start or traversal. The harvest's prose also admits semantic reliance for some counts; this pass's local counts are kept separate from that argument.",
+    "semantic_interpretation": "Perimeter sweep gives LISTEN; side-first order gives SILENT. Both are candidates, not a resolved instruction.",
+    "unresolved_reason": "No explicit start/direction marker selects between the competing traversals."
+  },
+  "P229": {
+    "disposition": "seed",
+    "scope": "full sequence, including row 4 unit 3",
+    "reason": "The disputed unit has one up/four down (1.4), agreeing with seed O and excluding harvest TH (1.3). Row 4 unit 2 has 3.8. The remaining independently read rows give the seed's complete sequence.",
+    "semantic_interpretation": "Adding word boundaries to the uninterrupted sequence gives HOW UNCOMFORTABLE DO YOU WANT TO BE? No letter is supplied by this spacing.",
+    "unresolved_reason": null
+  },
+  "P046": {
+    "disposition": "harvest",
+    "scope": "six-row structure, twelve coordinates and two Roman Ks",
+    "reason": "The independent six-row sequence matches harvest. The two K marks are explicit symbols, which the seed's BEING ENDLESS reading does not preserve. The provisional P assignment is separately supported by the authored grouping rule and Stanza 14.",
+    "semantic_interpretation": "I KEEP U AND KILL U. Expanding U to YOU would be semantic editing and is not done in the mechanical result.",
+    "unresolved_reason": null
+  },
+  "P109": {
+    "disposition": "unresolved",
+    "scope": "upper field supports harvest; lower field partially extended",
+    "reason": "Independent upper coordinates give WHAT IS OUR FATE?, matching harvest. Lower smiling faces suggest CHEER UP / IT / IS under a strand-count rule, but the four skulls are not decoded. This challenges the seed's AFTER / NO / LIFE / DEATH segmentation without replacing it with a completed answer.",
+    "semantic_interpretation": "WHAT IS OUR FATE? / CHEER UP IT IS [four unknown skull units]. The lower phrase is a medium-confidence partial reading, not a complete sentence or evidence of a thematic conclusion.",
+    "unresolved_reason": "The four skulls introduce bones and teeth; no secure correspondence between those features and the two counts was independently established. Lower smiling-face counts also remain medium-confidence."
+  },
+  "P189": {
+    "disposition": "harvest",
+    "scope": "disputed word's five coordinates and full recorded sequence",
+    "reason": "Word 5 is 2.8 3.4 1.4 1.4 1.3. Its two O trees and final TH are countable; no Roman V occurs in that word. This matches harvest SMOOTH and excludes seed LEVEL. S/P key assignments are separately corroborated by authored source derivation.",
+    "semantic_interpretation": "THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED. External literary attribution is not used to select the reading.",
+    "unresolved_reason": null
+  },
+  "P125": {
+    "disposition": "neither",
+    "scope": "first-line evidence state and tentative two-group reconstruction",
+    "reason": "The original pixels retain countable first-line pieces: 2/8 and 4/2 by the recorded spatial grouping. That contradicts the harvest's blanket unrecoverability claim. It also fails to independently reproduce the seed's SO (which would need O at 1.4), yielding conditional S-AESC instead. The lower LET / US / MELT sequence agrees.",
+    "semantic_interpretation": "The raw first-line transliteration is SAE (S plus Aesc), not an automatically corrected SO or SEA. It might invite an interpretation, but no such completion is adopted.",
+    "unresolved_reason": "First-line grouping is medium-confidence; the current pieces do not establish the original pre-melt arrangement or prove no cube vanished. The semantic reading remains unresolved even though the present line is not wholly uncountable."
+  },
+  "P261": {
+    "disposition": "harvest",
+    "scope": "classification only: Rune Code inscription present",
+    "reason": "The authenticated carrier visibly contains count-bearing staffs and repeated circle/slash pairs. It is not solely prose about the key. This supports inscription-present classification; the page may also explain the key.",
+    "semantic_interpretation": "Not transcribed in this pass. No message or plaintext count is inferred from classification alone.",
+    "unresolved_reason": null
+  }
+}

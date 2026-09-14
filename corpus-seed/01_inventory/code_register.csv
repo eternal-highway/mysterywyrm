@@ -1,26 +1,26 @@
 archive_position,page_id,title,url,chapter,code_archive,rune_code_archive,local_capture,decoding_status
-1,P005,Loop,https://lettersfortitles.com/loop/,Twist,yes,yes,yes,complete visual Octave group-place key; no separate plaintext sequence
+1,P005,Loop,https://lettersfortitles.com/loop/,Twist,yes,yes,yes,v0.27 conditional-key: conditional key. 29-cell candidate agrees with inherited table; direct independent reconstruction remains incomplete. Conditional continuation authorized; four assignments separately supported by authored grouping/stanza evidence. Gate 0 Outcome B is not asserted.
 2,P037,Battle,https://lettersfortitles.com/battle/,Sitting to Battle,yes,yes,yes,decoded TO THE DEATH
-3,P046,Always,https://lettersfortitles.com/always/,Sitting to Battle,yes,yes,yes,decoded BEING ENDLESS
-4,P055,It Never Deceives,https://lettersfortitles.com/it-never-deceives/,Trust,yes,yes,yes,decoded WHAT DID
+3,P046,Always,https://lettersfortitles.com/always/,Sitting to Battle,yes,yes,yes,"v0.27 harvest: I KEEP U AND KILL U. Six rows, twelve coordinates and two literal Roman Ks; U is not silently expanded to YOU; P uses separate authored key support."
+4,P055,It Never Deceives,https://lettersfortitles.com/it-never-deceives/,Trust,yes,yes,yes,"v0.27 neither: GUARDIAT. Eight groups, 4+4. Repeated upper-fan/lower-object rule favors final 3.1; weaker shape-class alternative 2.2 gives GUARDIAN. Grammar does not select the count; intended meaning remains unknown."
 5,P072,Bright Fruits,https://lettersfortitles.com/bright-fruits/,The Future,yes,yes,yes,decoded FEAR AND HOPE
 6,P088,Friþ,https://lettersfortitles.com/frith/,War and Peace,yes,yes,yes,decoded PEACE
-7,P109,You Knew it Beforehand,https://lettersfortitles.com/you-knew-it-beforehand/,Fate,yes,yes,yes,complete carrier: WHAT DO YOU KNOW? plus displayed AFTER / NO / LIFE / DEATH; NO LIFE AFTER DEATH retained as semantic rebus resolution not mechanical order
+7,P109,You Knew it Beforehand,https://lettersfortitles.com/you-knew-it-beforehand/,Fate,yes,yes,yes,"v0.27 neither: WHAT IS OUR FATE? / CHEER UP IT IS DEATH. Medium confidence. Skull rule counts whole bones/hair strands, replacing the smiling-face lash rule; 3.8/3.3/4.1/1.3 gives DEATH. This inferred feature rule is explicit; no claim of unique authorial intention. P and S retain conditional key provenance."
 8,P104,N is for ‘N,https://lettersfortitles.com/n-is-for-n/,Fate,yes,no,yes,unresolved non-Rune-Code object
-9,P125,Soon After it Becomes Water,https://lettersfortitles.com/soon-after-it-becomes-water/,The Water Cycle,yes,yes,yes,decoded SO LET US MELT
+9,P125,Soon After it Becomes Water,https://lettersfortitles.com/soon-after-it-becomes-water/,The Water Cycle,yes,yes,yes,v0.27 neither: SAE or SHH / LET / US / MELT. First-line segmentation unresolved: 2.8 4.2 or 2.8 2.1 2.1. Same countable pieces; no marked right-field boundary. Neither validates seed SO or harvest total unrecoverability; no vanished cubes are inferred.
 10,P143,All in All,https://lettersfortitles.com/all-in-all/,Prosperity,yes,no,yes,unresolved non-Rune-Code object
 11,P142,Bliss,https://lettersfortitles.com/bliss/,Prosperity,yes,no,yes,unresolved non-Rune-Code object
-12,P161,Œ is for Œdipean Riddle,https://lettersfortitles.com/oe-is-for-oedipean-riddle/,You Have Nothing Else,yes,yes,yes,decoded A TWIN / SUN / DAY from eleven red-yellow ray coordinates
+12,P161,Œ is for Œdipean Riddle,https://lettersfortitles.com/oe-is-for-oedipean-riddle/,You Have Nothing Else,yes,yes,yes,v0.27 unresolved: NIGHT / AND / DAY is a candidate under reversed spatial rows. Bottom-left 2.4 replaces both inherited 4.3 assignments. Color control favors top-row second 2.1; direction is unmarked. No unique traversal is established.
 13,P156,Present,https://lettersfortitles.com/present/,You Have Nothing Else,yes,yes,yes,decoded YOU HAVE NOTHING ELSE
 14,P173,Night Riddle,https://lettersfortitles.com/night-riddle/,Light,yes,no,yes,decoded as a five-line Nyctographic riddle
-15,P189,The Way,https://lettersfortitles.com/the-way/,By Land and By Sea,yes,yes,yes,decoded Taoic six-line Rune Code inscription
-16,P209,Shh,https://lettersfortitles.com/shh/,Axis Mundi,yes,yes,yes,decoded SILENT from six tree-bough coordinates
-17,P229,For Anybody Who Rests With Them,https://lettersfortitles.com/for-anybody-who-rests-with-them/,They'll Cut You,yes,yes,yes,decoded HOW UNCOMFORTABLE DO YOU WANT TO BE?
+15,P189,The Way,https://lettersfortitles.com/the-way/,By Land and By Sea,yes,yes,yes,v0.27 harvest: THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED. Disputed word is 2.8/3.4/1.4/1.4/1.3; no Roman V in that word; S and P use separate authored key support.
+16,P209,Shh,https://lettersfortitles.com/shh/,Axis Mundi,yes,yes,yes,"v0.27 unresolved: LISTEN or SILENT under different traversals. Six local bough counts are supported; no unique start or direction. These are two candidate traversals, not an exhaustive permutation set."
+17,P229,For Anybody Who Rests With Them,https://lettersfortitles.com/for-anybody-who-rests-with-them/,They'll Cut You,yes,yes,yes,"v0.27 seed: HOW UNCOMFORTABLE DO YOU WANT TO BE?. Row 4 unit 3 is 1.4 O, not harvest 1.3 TH; complete sequence supports seed under conditional key."
 18,P228,Arrows,https://lettersfortitles.com/arrows/,They'll Cut You,yes,yes,yes,decoded Dante seven-line Rune Code inscription
 19,P247,X≠Y≠Z: What is that?,https://lettersfortitles.com/x%E2%89%A0y%E2%89%A0z-what-is-that/,Moody Joy,yes,no,yes,dialogic code relation; no independent cipher promoted
-20,P241,Axaxaxas mlö,https://lettersfortitles.com/axaxaxas-mlo/,Moody Joy,yes,yes,yes,decoded CAN YOU READ ME — ARE YOU READING THE BEGINNING OF SOMETHING?
+20,P241,Axaxaxas mlö,https://lettersfortitles.com/axaxaxas-mlo/,Moody Joy,yes,yes,yes,"v0.27 harvest: YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?. 48 coordinate groups, 10/8/10/12/8; medium confidence in dense coils; conditional key; not detector-certified."
 21,P240,IO is for I/O,https://lettersfortitles.com/io-is-for-i-o/,Moody Joy,yes,no,yes,decoded 79-byte ASCII stream
 22,P267,COW,https://lettersfortitles.com/cow/,Everything is Temporary,yes,no,yes,decoded with bounded COW interpreter
 23,P264,Everything is Temporary,https://lettersfortitles.com/everything-temporary/,Everything is Temporary,yes,yes,yes,decoded EVERYTHING IS TEMPORARY
-24,P261,Octave,https://lettersfortitles.com/octave/,Everything is Temporary,yes,yes,yes,site-provided group-place key
+24,P261,Octave,https://lettersfortitles.com/octave/,Everything is Temporary,yes,yes,yes,v0.27 harvest: inscription present; untranscribed. Classification only: Rune Code inscription present; untranscribed. Page also explains the key. Transcription requires a later bounded pass.
 25,P274,Decode,https://lettersfortitles.com/decode/,Uncategorized / threshold,yes,no,yes,image-led threshold; 254-M filename verified

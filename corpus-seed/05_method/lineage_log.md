@@ -1,3 +1,9 @@
+# v0.27.0 candidate lineage
+
+Prepared 2026-09-13 from published v0.26.2; local candidate only.
+
+Parent SHA-256: `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`. See README.md and `01_inventory/rune_code_adjudication_v0.27.0.json` for current scope, qualifications and evidence. All earlier entries below retain their historical date and authority.
+
 # Lineage Log
 
 ## 2026-08-22 — Commission

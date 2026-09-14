@@ -1,0 +1,132 @@
+[
+  {
+    "page": "archive/pages/octave.html",
+    "canonical_url": "https://lettersfortitles.com/octave/",
+    "sha256": "54dbc5ce7ee8e3be7faaf00c2d31060ac7b6388bb5052ff612fbf7eb1a5881b1",
+    "bytes": 259567,
+    "title": "Octave",
+    "tags": [
+      "Code",
+      "Frank Zappa",
+      "James Joyce",
+      "Letters for Titles",
+      "Mathematical Esoterica",
+      "Music",
+      "Octave",
+      "Old English",
+      "Rune Code",
+      "Rune Poem",
+      "Ulysses",
+      "Vern Tonkin"
+    ],
+    "checks": {
+      "title": true,
+      "body_anchor": true,
+      "canonical_url": true
+    },
+    "lf_sha256": "174b43659bef7728b83b2639cd8616cf020e2f10aae8bf7e53906f25ac775223",
+    "hash_scope": "sha256 and bytes describe the Windows working copy read; lf_sha256 checks portable textual content"
+  },
+  {
+    "page": "archive/pages/stanza-23-home.html",
+    "canonical_url": "https://lettersfortitles.com/stanza-23-home/",
+    "sha256": "b91266da1f1a88f112e82b67cc305d06eb24fc61aa2295a0d58a3e0498c89c45",
+    "bytes": 256701,
+    "title": "Stanza 23: Home",
+    "tags": [
+      "A Comic Alphabet",
+      "Eþel",
+      "George Cruikshank",
+      "Home",
+      "Letters for Titles",
+      "Œ",
+      "Old English",
+      "Rune Poem",
+      "Stanzas",
+      "Vern Tonkin"
+    ],
+    "checks": {
+      "title": true,
+      "body_anchor": true,
+      "canonical_url": true
+    },
+    "lf_sha256": "38387ed7c915571d2dd4fe83fa3a90a0992e80c6a2a76a2f79972be6940f8410",
+    "hash_scope": "sha256 and bytes describe the Windows working copy read; lf_sha256 checks portable textual content"
+  },
+  {
+    "page": "archive/pages/sun.html",
+    "canonical_url": "https://lettersfortitles.com/sun/",
+    "sha256": "41ca970115dba3d87ccb14cecb85c4555d522ce55889f129f904c96e10a5ebc0",
+    "bytes": 256351,
+    "title": "Stanza 16: Sun",
+    "tags": [
+      "A Naval Alphabet",
+      "John Hassall",
+      "Letters for Titles",
+      "Old English",
+      "Rune Poem",
+      "S",
+      "Sigel",
+      "Stanzas",
+      "Vern Tonkin"
+    ],
+    "checks": {
+      "title": true,
+      "body_anchor": true,
+      "canonical_url": true
+    },
+    "lf_sha256": "22ca519283eba112883b83b689eb892d29634032906bcf7b61dabafb5a4f31eb",
+    "hash_scope": "sha256 and bytes describe the Windows working copy read; lf_sha256 checks portable textual content"
+  },
+  {
+    "page": "archive/pages/the-game.html",
+    "canonical_url": "https://lettersfortitles.com/the-game/",
+    "sha256": "a32a8fffa2768802f8463a090bef8a2ca99643ff7981568b707de3d30875f82f",
+    "bytes": 257398,
+    "title": "Stanza 14: The Game",
+    "tags": [
+      "Old English",
+      "P",
+      "Peorð",
+      "Roman de Renart",
+      "Rune Poem",
+      "Stanzas",
+      "The Defense",
+      "The Luzhin Defense",
+      "Vern Tonkin",
+      "Vladimir Nabokov"
+    ],
+    "checks": {
+      "title": true,
+      "body_anchor": true,
+      "canonical_url": true
+    },
+    "lf_sha256": "0c26cc5d327844084eb30f8b65add994ad0c56978da8776dc86fbd50fdf57216",
+    "hash_scope": "sha256 and bytes describe the Windows working copy read; lf_sha256 checks portable textual content"
+  },
+  {
+    "page": "archive/pages/stanza-15-helix.html",
+    "canonical_url": "https://lettersfortitles.com/stanza-15-helix/",
+    "sha256": "2118129ebce8ce88ec57a9759820700cd575494cb2bc634540f43f5fd3242a84",
+    "bytes": 257049,
+    "title": "Stanza 15: Helix",
+    "tags": [
+      "Aldhelm of Sherborne",
+      "De Virginitate",
+      "Eolhx",
+      "Letters for Titles",
+      "Old English",
+      "Rune Poem",
+      "Stanzas",
+      "Vern Tonkin",
+      "X"
+    ],
+    "checks": {
+      "title": true,
+      "body_anchor": true,
+      "canonical_url": true
+    },
+    "lf_sha256": "a8800c1ff37132f759a02839808d6d8434c53e3c8eccee998b3b6464b83f5d5a",
+    "hash_scope": "sha256 and bytes describe the Windows working copy read; lf_sha256 checks portable textual content"
+  }
+]

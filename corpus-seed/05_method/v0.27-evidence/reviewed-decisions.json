@@ -1,0 +1,63 @@
+{
+  "version": "0.27.0",
+  "status": "local candidate; not published",
+  "authority": "review-integration.md supersedes relevant first-pass recommendations; all initial observations remain frozen",
+  "key_basis": "conditional user authorization; separate authored grouping and stanza evidence; no Gate 0 Outcome B",
+  "conditional_coordinates": ["2.6", "2.7", "2.8", "3.7"],
+  "decisions": {
+    "P241": {
+      "disposition": "harvest",
+      "reading": "YOU WHO READ ME — ARE YOU CERTAIN YOU UNDERSTAND MY LANGUAGE?",
+      "qualification": "48 coordinate groups, 10/8/10/12/8; medium confidence in dense coils; conditional key; not detector-certified."
+    },
+    "P161": {
+      "disposition": "unresolved",
+      "reading": "NIGHT / AND / DAY is a candidate under reversed spatial rows",
+      "qualification": "Bottom-left 2.4 replaces both inherited 4.3 assignments. Color control favors top-row second 2.1; direction is unmarked. No unique traversal is established.",
+      "reviewed_rows": [["3.1", "2.1", "1.7", "2.3", "2.2"], ["3.8", "2.2", "4.1"], ["2.4", "4.1", "3.8"]]
+    },
+    "P055": {
+      "disposition": "neither",
+      "reading": "GUARDIAT",
+      "qualification": "Eight groups, 4+4. Repeated upper-fan/lower-object rule favors final 3.1; weaker shape-class alternative 2.2 gives GUARDIAN. Grammar does not select the count; intended meaning remains unknown.",
+      "reviewed_rows": [["1.7", "1.2", "4.1", "1.5"], ["3.8", "2.3", "4.1", "3.1"]]
+    },
+    "P209": {
+      "disposition": "unresolved",
+      "reading": "LISTEN or SILENT under different traversals",
+      "qualification": "Six local bough counts are supported; no unique start or direction. These are two candidate traversals, not an exhaustive permutation set."
+    },
+    "P229": {
+      "disposition": "seed",
+      "reading": "HOW UNCOMFORTABLE DO YOU WANT TO BE?",
+      "qualification": "Row 4 unit 3 is 1.4 O, not harvest 1.3 TH; complete sequence supports seed under conditional key."
+    },
+    "P046": {
+      "disposition": "harvest",
+      "reading": "I KEEP U AND KILL U",
+      "qualification": "Six rows, twelve coordinates and two literal Roman Ks; U is not silently expanded to YOU; P uses separate authored key support."
+    },
+    "P109": {
+      "disposition": "neither",
+      "reading": "WHAT IS OUR FATE? / CHEER UP IT IS DEATH",
+      "qualification": "Medium confidence. Skull rule counts whole bones/hair strands, replacing the smiling-face lash rule; 3.8/3.3/4.1/1.3 gives DEATH. This inferred feature rule is explicit; no claim of unique authorial intention. P and S retain conditional key provenance.",
+      "reviewed_rows": [["1.8", "2.1", "4.1", "3.1"], ["2.3", "2.8", "1.4", "1.2", "1.5"], ["1.1", "4.1", "3.1", "3.3", "?"], ["1.6", "2.1", "3.3", "3.3", "1.5"], ["1.2", "2.6"], ["2.3", "3.1", "2.3", "2.8"], ["3.8", "3.3", "4.1", "1.3"]]
+    },
+    "P189": {
+      "disposition": "harvest",
+      "reading": "THE MAIN ROAD IS SMOOTH YET PEOPLE LOVE TO BE SIDETRACKED",
+      "qualification": "Disputed word is 2.8/3.4/1.4/1.4/1.3; no Roman V in that word; S and P use separate authored key support."
+    },
+    "P125": {
+      "disposition": "neither",
+      "reading": "SAE or SHH / LET / US / MELT",
+      "qualification": "First-line segmentation unresolved: 2.8 4.2 or 2.8 2.1 2.1. Same countable pieces; no marked right-field boundary. Neither validates seed SO or harvest total unrecoverability; no vanished cubes are inferred.",
+      "first_line_alternatives": [["2.8", "4.2"], ["2.8", "2.1", "2.1"]]
+    },
+    "P261": {
+      "disposition": "harvest",
+      "reading": null,
+      "qualification": "Classification only: Rune Code inscription present; untranscribed. Page also explains the key. Transcription requires a later bounded pass."
+    }
+  }
+}
