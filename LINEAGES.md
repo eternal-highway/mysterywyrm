@@ -6,7 +6,7 @@ This repository contains two complementary representations of **Letters for Titl
 
 Path: `corpus-seed/`
 
-- Imported payload (publication pending): `letters_for_titles_corpus_seed_v0.27.0.zip`
+- Published release: `letters_for_titles_corpus_seed_v0.27.0.zip`
 - ZIP SHA-256: `72c85305702f1074598c6f8f0285c41ad19f19d71011a1880c9eb0cc78753b1a`
 - Parent: `letters_for_titles_corpus_seed_v0.26.2.zip`
 - Parent SHA-256: `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`
@@ -15,8 +15,11 @@ The seed is the canonical evidence and provenance record. It contains page-level
 
 `corpus-seed/` reproduces the approved v0.27.0 payload: 1,521 files and 1,520
 manifest hashes. All 46 modified parent files retain byte-exact historical copies.
-The owner authorized import and publication on 2026-09-14; CI, merge and publication
-are pending. See [release record](RELEASE-v0.27.0.md). Preparation-time candidate
+[PR #8](https://github.com/eternal-highway/mysterywyrm/pull/8) merged import commit
+`27f1fcbf3a237ac0f8c563fb36ab0961c741e3d8`; annotated `corpus-v0.27.0` points
+to that import commit. [v0.27.0](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0)
+was published 2026-09-14 and independently verified after download. PR and main
+CI passed. See [release record](RELEASE-v0.27.0.md). Preparation-time candidate
 wording inside the immutable package is historical; subsequent release status
 belongs outside the seed so its manifest remains valid.
 

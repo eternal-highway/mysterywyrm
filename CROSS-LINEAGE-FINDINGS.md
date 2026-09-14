@@ -1,10 +1,35 @@
 # Cross-lineage findings — corpus-seed v0.26.1 against the harvest/research layer
 
-> 2026-09-14 approved import: the owner authorized v0.27.0 canonical import and
-> publication. This branch now contains the exact reviewed payload; publication
-> awaits CI and merge. The material below preserves historical readings and
+> 2026-09-14 publication: [v0.27.0](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0)
+> is merged, published and independently verified. The canonical seed reproduces
+> the release ZIP exactly. The material below preserves historical readings and
 > prerequisites. Consult [current adjudication](corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
 > for qualified dispositions, unresolved findings and conditional-key provenance.
+
+## Published v0.27.0 dispositions
+
+The owner-approved release records all nine disputed carriers together. These
+qualified rulings supersede the historical full-carrier comparisons below;
+retained alternatives and open questions are not erased.
+
+| Carrier | Released disposition | Remaining qualification |
+|---|---|---|
+| Axaxaxas | Harvest supported | Dense coils; conditional key |
+| Always | Harvest supported | Literal U and Roman K retained |
+| The Way | Harvest supported | Conditional S/P support retained |
+| For Anybody | Seed supported | Disputed coordinate supports O |
+| It Never Deceives | Neither historical full reading; literal GUARDIAT | Weaker GUARDIAN alternative under a different feature rule |
+| You Knew it Beforehand | Neither historical full reading; WHAT IS OUR FATE? / CHEER UP IT IS DEATH | Medium confidence; inferred skull feature rule |
+| Soon After it Becomes Water | Neither historical full reading; SAE or SHH / LET / US / MELT | First-line segmentation unresolved |
+| Oedipean Riddle | Traversal unresolved | NIGHT / AND / DAY remains a candidate |
+| Shh | Traversal unresolved | LISTEN/SILENT are candidate traversals |
+
+Octave separately has an inscription-present classification and remains
+untranscribed. Loop remains conditional; Gate 0 Outcome B is not asserted.
+See the current adjudication register linked above for complete coordinates,
+evidence identities, historical readings and qualifications.
+
+## Historical comparison
 
 Reviewer: Claude (bounded review role, `LINEAGES.md` § Model roles)
 

@@ -7,7 +7,7 @@ alphabet book by Vern Tonkin built on the 29-stanza Old English Rune Poem.
 
 This repository preserves two complementary records without collapsing them:
 
-- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. This branch imports **v0.27.0**, the reviewed, qualified Rune Code adjudication based on published v0.26.2. See [`RELEASE-v0.27.0.md`](RELEASE-v0.27.0.md) for validation and release status.
+- [`corpus-seed/`](corpus-seed/) is the canonical evidentiary corpus: page-level captures, registers, provenance, methods, release validation, and the cumulative release lineage. Its current published release is **v0.27.0**, the reviewed, qualified Rune Code adjudication based on v0.26.2. See [`RELEASE-v0.27.0.md`](RELEASE-v0.27.0.md) for validation and release status.
 - [`archive/`](archive/), [`data/`](data/), [`book/`](book/), [`research/`](research/), and [`tools/`](tools/) are the complete-site harvest, derived edition, analysis, and reproducible tooling.
 
 Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) for authority and update rules, and [`CROSS-LINEAGE-FINDINGS.md`](CROSS-LINEAGE-FINDINGS.md) for the standing ledger of where the two records disagree.
@@ -16,7 +16,7 @@ Neither lineage silently overrides the other. See [`LINEAGES.md`](LINEAGES.md) f
 
 The owner approved the **v0.27.0** import and publication on 2026-09-14. The
 import preserves the reviewed dispositions, unresolved findings and conditional
-key provenance. Publication is pending CI and merge. The harvest readings below
+key provenance. [v0.27.0](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0) is published and independently verified. The harvest readings below
 remain historical: consult the [current adjudication](corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
 for the qualified results and [release record](RELEASE-v0.27.0.md) for status.
 

@@ -1,10 +1,10 @@
 # v0.27.0 release record
 
 Prepared and validated: 2026-09-13. Owner approved import and publication on
-2026-09-14. The exact candidate is now imported on the integration branch;
-merge, tag and publication await passing CI.
+2026-09-14. Published **2026-09-14 16:41:42 UTC**, then independently downloaded
+and verified. [GitHub release](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0).
 
-Candidate: [ZIP](dist/letters_for_titles_corpus_seed_v0.27.0.zip) · [checksum](dist/letters_for_titles_corpus_seed_v0.27.0.zip.sha256)
+Release assets: [ZIP](https://github.com/eternal-highway/mysterywyrm/releases/download/corpus-v0.27.0/letters_for_titles_corpus_seed_v0.27.0.zip) · [checksum](https://github.com/eternal-highway/mysterywyrm/releases/download/corpus-v0.27.0/letters_for_titles_corpus_seed_v0.27.0.zip.sha256)
 Extracted candidate: `dist/v027-candidate/letters_for_titles_corpus_seed/`.
 SHA-256: `72c85305702f1074598c6f8f0285c41ad19f19d71011a1880c9eb0cc78753b1a`
 Parent SHA-256: `cdb93397daffd236261686609eb0da027ee2081f42bbb333032d0405b2247b75`
@@ -34,7 +34,7 @@ See [reviewed decisions](research/v0.27/reviewed-decisions.json) and
 Validation checks bytes and consistency, not visual interpretation correctness.
 Open research limits are recorded and do not imply a fully solved corpus.
 
-## Next release boundary
+## Publication and independent verification
 
 Independent pre-import review, 2026-09-14: pass. The existing ZIP, fresh
 extraction, 1,520 hashes, both verifiers and exact parent delta were rechecked.
@@ -42,8 +42,28 @@ See [release handoff](research/v0.27/release-handoff.md) and
 [machine-readable preflight](research/v0.27/release-preflight.json) for the
 verified identity, remote checkpoint and prepared PR/release text.
 
-Owner authorization received 2026-09-14. Next: verify committed-tree equality,
-pass CI, merge, tag the import commit and publish the approved immutable assets.
+- [PR #8](https://github.com/eternal-highway/mysterywyrm/pull/8) merged at 2026-09-14 16:38:16 UTC.
+- Import commit: `27f1fcbf3a237ac0f8c563fb36ab0961c741e3d8`.
+- Merge commit: `a13b5b103a58333b6d27b39415758651b53143eb`.
+- Annotated tag object: `adf24e9129a6369f73ba8c923207dac97b4ee7ea`; its peeled target is the import commit.
+- All four PR checks passed; [merged main CI](https://github.com/eternal-highway/mysterywyrm/actions/runs/34869854399) passed.
+- Release is latest, neither draft nor prerelease. ZIP is 57,508,502 bytes.
+- Assets downloaded to `dist/published-v0.27.0/` passed sidecar, pinned ZIP hash,
+  CRC and all 1,520 manifest hashes. All 1,521 tagged Git blobs and the canonical
+  working tree equal that downloaded payload exactly; both seed verifiers pass.
+
+Repeat the post-publication check with:
+
+```sh
+python -X utf8 -B tools/verify_v027_import.py --zip dist/published-v0.27.0/letters_for_titles_corpus_seed_v0.27.0.zip --ref corpus-v0.27.0
+```
+
+Preparation-time candidate wording inside the package remains historical.
+This external record establishes publication without changing the approved ZIP.
+The pre-import tool intentionally expects v0.26.2 in `corpus-seed/`; use the
+post-import verifier above for the released tree. See the
+[publication evidence record](research/v0.27/publication.json).
+
 The versioned ZIP is immutable; do not overwrite it. If a defect is found, resolve
 candidate lineage under the version protocol before preparing a replacement.
 

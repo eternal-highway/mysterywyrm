@@ -2,8 +2,9 @@
 
 Rechecked 2026-09-14 from candidate checkpoint `4ba89e8` on
 `corpus-v0.27-adjudication`. Owner approved import and publication on 2026-09-14.
-The approved import is in progress; see [release record](../../RELEASE-v0.27.0.md)
-for subsequent execution status. The pre-import observations below are historical.
+Import, PR #8, merge, annotated tag, publication and independent downloaded-asset
+verification are complete. See [release record](../../RELEASE-v0.27.0.md) and
+[publication evidence](publication.json). The pre-import observations below are historical.
 
 ## Verified release identity
 

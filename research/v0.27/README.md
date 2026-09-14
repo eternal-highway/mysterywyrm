@@ -1,11 +1,18 @@
 # v0.27 work record
 
-## Approved import 2026-09-14
+## Published and verified 2026-09-14
 
-The owner approved canonical import and publication. The exact v0.27.0 payload
-is imported on the integration branch; committed-tree validation, CI, merge
-and publication follow. See [release record](../../RELEASE-v0.27.0.md).
+[v0.27.0](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0)
+is canonical, merged through PR #8, tagged at import commit `27f1fcb`, and
+published. PR and main CI passed. Downloaded assets passed sidecar, CRC, all
+1,520 hashes and exact tagged-tree equality; both seed verifiers pass.
+See [release record](../../RELEASE-v0.27.0.md) and [publication evidence](publication.json).
 The dated pre-import and candidate records below remain historical.
+
+Release work is complete. Remaining research limits are traversal (P161/P209),
+ice segmentation (P125), stated leaf/skull feature rules, conditional Loop
+confirmation, and a future bounded Octave transcription. They remain explicit
+in the released open-question and adjudication registers.
 
 ## Release review completed 2026-09-14
 

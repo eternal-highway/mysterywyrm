@@ -1,8 +1,8 @@
 # The Rune Code plates
 
-> 2026-09-14 approved import: the owner authorized v0.27.0 canonical import and
-> publication. This branch now contains the exact reviewed payload; publication
-> awaits CI and merge. The material below preserves historical readings and
+> 2026-09-14 publication: [v0.27.0](https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0)
+> is merged, published and independently verified. The canonical seed reproduces
+> the release ZIP exactly. The material below preserves historical readings and
 > prerequisites. Consult [current adjudication](../corpus-seed/01_inventory/rune_code_adjudication_v0.27.0.json)
 > for qualified dispositions, unresolved findings and conditional-key provenance.
 

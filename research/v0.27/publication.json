@@ -1,0 +1,30 @@
+{
+  "version": "0.27.0",
+  "status": "published-and-independently-verified",
+  "published_at": "2026-09-14T16:41:42Z",
+  "release_url": "https://github.com/eternal-highway/mysterywyrm/releases/tag/corpus-v0.27.0",
+  "is_draft": false,
+  "is_prerelease": false,
+  "latest_observed": true,
+  "pr_url": "https://github.com/eternal-highway/mysterywyrm/pull/8",
+  "import_commit": "27f1fcbf3a237ac0f8c563fb36ab0961c741e3d8",
+  "merge_commit": "a13b5b103a58333b6d27b39415758651b53143eb",
+  "tag": "corpus-v0.27.0",
+  "annotated_tag_object": "adf24e9129a6369f73ba8c923207dac97b4ee7ea",
+  "zip_sha256": "72c85305702f1074598c6f8f0285c41ad19f19d71011a1880c9eb0cc78753b1a",
+  "zip_bytes": 57508502,
+  "payload_files": 1521,
+  "manifest_hashes": 1520,
+  "verification": {
+    "downloaded_asset_sidecar": "pass",
+    "zip_crc": "pass",
+    "manifest_hashes_and_path_set": "pass",
+    "exact_tagged_git_blob_equality": "pass",
+    "exact_canonical_working_tree_equality": "pass",
+    "rune_code_state": "pass",
+    "captured_filename_tokens": "74/74",
+    "pr_checks": "4/4 pass",
+    "merged_main_ci": "https://github.com/eternal-highway/mysterywyrm/actions/runs/34869854399"
+  },
+  "limits": "Byte and record integrity verified; no new visual corroboration and no Gate 0 Outcome B. Released research qualifications remain binding."
+}
